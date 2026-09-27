@@ -1,0 +1,2651 @@
+[
+  {
+    "id": "e10-introduction",
+    "type": "presenter-opinion",
+    "title": "A flattering clip and a wider theological objection",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=0s",
+    "locator": "Normalized Arabic episode captions, 0–119 seconds; original source not inspected",
+    "claim": "Presenter says admiration for the Mansa Musa clip can obscure what he regards as mockery of God.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 0,
+        "end_seconds": 119,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم قبل سنتين من الان انتشرت على مواقع التواصل المقاطع من مسلسل اجنبي يبدو فيه الملك المسلم ملك ماري منوسا وهو في كامل الابهه باعتباره كان من اغنى رجال",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "notes": "Attribution of media criticism; no audience-effect study supplied."
+  },
+  {
+    "id": "e10-release",
+    "type": "television",
+    "title": "Time Bandits: Apple release announcement",
+    "creators": [
+      "Apple TV Press"
+    ],
+    "url": "https://www.apple.com/uk/tv-pr/news/2024/07/apple-tv-unveils-trailer-for-first-ever-television-adaptation-of-cult-classic-time-bandits-starring-lisa-kudrow/",
+    "locator": "9 July 2024 press release, opening and production paragraphs",
+    "claim": "Ten-episode television adaptation released from 24 July to 21 August 2024.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 39,
+        "end_seconds": 62,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "البشر بما فيها المسلمين مسلسل تايم باندتس يعني قطاع الطرق عبر الزمن والذي انتجته منصه ابل قبل سنتين هو مسلسل مغامرات تاريخي كوميدي مكون من 10 حلقات",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "notes": "Publisher metadata read, not the episodes themselves. Two new episodes weekly."
+  },
+  {
+    "id": "e10-budget",
+    "type": "production-claim",
+    "title": "Claimed $150 million budget",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 47–62 seconds; original source not inspected",
+    "claim": "Presenter quotes an approximate production cost of $150 million.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 47,
+        "end_seconds": 62,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مغامرات تاريخي كوميدي مكون من 10 حلقات ولانه كلف تقريبا 150 مليون دولار فهو مليء بالمؤثرات البصريه فقرروا ان ينتجوا الموسم الثاني ولكن هذا لا يعني انه لم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "notes": "No budget document found or inspected. Early caption seems to say a second season was decided, while 1249–1258 explicitly says it was not produced; audiovisual check needed."
+  },
+  {
+    "id": "e10-cancellation",
+    "type": "reporting",
+    "title": "Time Bandits Cancelled At Apple TV+ After One Season",
+    "creators": [
+      "Dave Nemetz",
+      "TVLine"
+    ],
+    "url": "https://www.tvline.com/news/time-bandits-cancelled-apple-tv-plus-season-2-lisa-kudrow-1235331500/",
+    "locator": "Dave Nemetz, 16 September 2024, opening and closing report",
+    "claim": "The series was cancelled after one season.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1249,
+        "end_seconds": 1260,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تتابعوا الجزء الثاني والذي لن ينتج والحمد لله كما ذكرت لانه لم يحقق المسلسل من الارباح ما كان متوقعا حتى يغطي تكاليفه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          432,
+          433,
+          434,
+          435
+        ]
+      }
+    ],
+    "notes": "Original newsroom report inspected; no internal financial evidence or proof of the presenter’s exact explanation. Do not infer cancellation from missing catalog seasons alone."
+  },
+  {
+    "id": "e10-film-1981",
+    "type": "film",
+    "title": "Time Bandits (1981)",
+    "creators": [
+      "The Criterion Collection"
+    ],
+    "url": "https://www.criterion.com/films/232-time-bandits",
+    "locator": "Film information and Cast & Credits",
+    "claim": "The television series adapts a 1981 film directed/produced by Terry Gilliam and co-written with Michael Palin.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 90,
+        "end_seconds": 114,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "البدايه انه هذا المسلسل هو اعاده لفيلم انتج في عام 1981 بنفس القصه سنكتشف في نهايه الحلقه ان منتجي العمل الاول والثاني الذين كتبوا وانتجوا واخرجوا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      }
+    ],
+    "notes": "Distributor credits inspected. Original film not viewed; do not assume identical story or ending."
+  },
+  {
+    "id": "e10-christian-comparison",
+    "type": "presenter-opinion",
+    "title": "Comparison with Christian incarnation imagery",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=62s",
+    "locator": "Normalized Arabic episode captions, 62–83 seconds; original source not inspected",
+    "claim": "Presenter compares the show’s embodied deity to Christian ideas about Jesus.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 62,
+        "end_seconds": 83,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في هذه الحلقه هذا المسلسل الخطير ونضطر للاسف لنعرض بعض اللقطات او الصور الثابته التي جسدوا فيها الذات الالهيه بالمفهوم الشيطاني والذي لا يختلف ايضا كثيرا عن",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      }
+    ],
+    "notes": "His theological comparison, not a checked account of every Christian tradition; omitted from condensed article."
+  },
+  {
+    "id": "e10-credits",
+    "type": "television",
+    "title": "Time Bandits television creators",
+    "creators": [
+      "Apple TV Press"
+    ],
+    "url": "https://www.apple.com/uk/tv-pr/news/2024/07/apple-tv-unveils-trailer-for-first-ever-television-adaptation-of-cult-classic-time-bandits-starring-lisa-kudrow/",
+    "locator": "Production paragraph: select episodes; Clement and Morris co-showrunners",
+    "claim": "Waititi is a writer/director/producer; Clement and Iain Morris also created the show.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 119,
+        "end_seconds": 132,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المسلسل ساهم في كتابته واشرف عليه واخرجه المخرج والممثل النيوزيلندي تايكا وايتي وهو ايضا كعادته لابد ان ياخذ دورا يمثل فيه وسنتحدث عنه في اخر الحلقه قصه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          40,
+          41,
+          42,
+          43
+        ]
+      }
+    ],
+    "notes": "Corrects impression that Waititi alone wrote or directed the entire series."
+  },
+  {
+    "id": "e10-cast",
+    "type": "television",
+    "title": "Time Bandits cast and characters",
+    "creators": [
+      "Apple TV"
+    ],
+    "url": "https://tv.apple.com/us/show/time-bandits/umc.cmc.1oenx8mbap78we9b35c52s07s",
+    "locator": "Cast & Crew section",
+    "claim": "Waititi plays Supreme Being, Clement Pure Evil, Kudrow Penelope and Kal-El Tuck Kevin.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1546,
+        "end_seconds": 1626,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نتعرف الان على فريق عمل هذا المسلسل المخرج النيوزيلندي تايكا وايتيتي هو الذي اخرج العمل وهو الذي كان من الكتاب الاساسيين له قبل كل شيء بالمناسبه اخراجه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          537,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565
+        ]
+      }
+    ],
+    "notes": "Publisher character labels inspected; names do not establish the actors’ religious commitments."
+  },
+  {
+    "id": "e10-wardrobe",
+    "type": "plot-retelling",
+    "title": "Kevin meets the time travellers",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=132s",
+    "locator": "Normalized Arabic episode captions, 132–230 seconds; original source not inspected",
+    "claim": "Presenter describes Kevin’s wardrobe portal, the thieves and the stolen map.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 132,
+        "end_seconds": 230,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المسلسل طفل عمره 11 سنه يعيش في بريطانيا عاشق للتاريخ وهو بالنوع النيرد هذا الطفل الذي يكون مختلفا عن اقرانه ذكيا مهتما بقضايا عامه فهذا هواسه في التاريخ وعامه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76
+        ]
+      }
+    ],
+    "notes": "Publisher synopsis supports a history-loving 11-year-old and time-travelling thieves; exact wardrobe dialogue and scene order uninspected."
+  },
+  {
+    "id": "e10-supreme",
+    "type": "plot-retelling",
+    "title": "The giant head and the Supreme Being",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=191s",
+    "locator": "Normalized Arabic episode captions, 191–251 seconds; original source not inspected",
+    "claim": "The episode interprets a giant-headed pursuer and Kevin’s question as introducing a fictional representation of God.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 191,
+        "end_seconds": 251,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شخصيه كائن له راس ضخم يدخل من نفس بوابه الزمن الى غرفه الولد اللي اسمه كيفن ويبدا يصرخ في هذه العصابه اعطوني هذه الخريطه التي سرقتموها مني فهي ملك له من",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84
+        ]
+      }
+    ],
+    "notes": "Detailed scene and translated dialogue are the presenter’s retelling. No original screenplay/subtitle track inspected."
+  },
+  {
+    "id": "e10-hell",
+    "type": "plot-retelling",
+    "title": "Pure Evil and the underworld",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=251s",
+    "locator": "Normalized Arabic episode captions, 251–312 seconds; original source not inspected",
+    "claim": "A dark volcanic realm is ruled by Pure Evil; a name joke evokes demons.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 251,
+        "end_seconds": 312,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الحلقه الاولى العالم الاخر عالم الجحيم مكان مظلم موحش فيه الكثير من البراكين ولكن في نفس الوقت ايضا في وسطه قصر ضخم ويتربع على عرشه ملك الجحيم واسمه بيور",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104
+        ]
+      }
+    ],
+    "notes": "Do not back-translate the demon-name joke as an exact English quotation."
+  },
+  {
+    "id": "e10-map",
+    "type": "plot-retelling",
+    "title": "The map as an instrument of power",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=293s",
+    "locator": "Normalized Arabic episode captions, 293–344 seconds; original source not inspected",
+    "claim": "Presenter describes the map as enabling control over creation and making the creator character dependent on an object.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 293,
+        "end_seconds": 344,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هذه البدايات انه القصه عباره عن صراع بين عالمين عالم يقوده الرب وعالم يقوده ابليس او الشر المطلق والخريطه سرقت من الرب الرب هو الخالق هم لا ينكرون ذلك ولكن",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116
+        ]
+      }
+    ],
+    "notes": "Plot mechanism and theological reading require separate treatment; original scenes uninspected."
+  },
+  {
+    "id": "e10-prayers",
+    "type": "plot-retelling",
+    "title": "Jasper, the heavenly office and unanswered petitions",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=344s",
+    "locator": "Normalized Arabic episode captions, 344–432 seconds; original source not inspected",
+    "claim": "Presenter describes a spying subordinate, a worn giant-head costume, postal prayers and ineffectual heavenly helpers.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 344,
+        "end_seconds": 432,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نتعرف عليها شيطان كوميدي ايضا موجود في عالم الجحيم اسمه جاسبر ينفذ اوامر سيده وهو مستشار له ايضا وقد يدخل الى مملكه الرب نفسه ايضا حتى يتجسس عليه بكل بساطه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145
+        ]
+      }
+    ],
+    "notes": "The identification of the helpers as angels is an interpretation; do not imply official character terminology."
+  },
+  {
+    "id": "e10-troy",
+    "type": "plot-retelling",
+    "title": "The Troy encounter and divine pretension",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=432s",
+    "locator": "Normalized Arabic episode captions, 432–487 seconds; original source not inspected",
+    "claim": "Presenter says the Supreme Being appears as a sea deity and cannot reason with Kevin.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 432,
+        "end_seconds": 487,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الطفل كيفن الذي انضم للعصابه من خمسه اشخاص في كل حلقه سيدخل الى حقده زمنيه فنحن هنا نتعرف على عده حقب في التاريخ يذهبون مثلا في حلقه الى اليونان وقرواده",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163
+        ]
+      }
+    ],
+    "notes": "Original episode and claimed god-complex line uninspected; paraphrase only."
+  },
+  {
+    "id": "e10-musa-episode",
+    "type": "television",
+    "title": "Time Bandits, season 1 episode 6: Mansa Musa",
+    "creators": [
+      "Apple TV"
+    ],
+    "url": "https://tv.apple.com/us/show/time-bandits/umc.cmc.1oenx8mbap78we9b35c52s07s",
+    "locator": "Episode 6 synopsis",
+    "claim": "The show includes an episode called Mansa Musa in which the bandits plan a robbery.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 487,
+        "end_seconds": 535,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في حلقه اخرى يذهبون الى حقبه زمنيه مفاجئه وهم يدخلون في بوابات من الزمن عندما يدخلون في ازمه فيكتشفون انهم ذهبوا بدون اي ترتيب ولا حتى اييه الى حقبه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178,
+          179,
+          180,
+          181
+        ]
+      }
+    ],
+    "notes": "Publisher synopsis inspected; its promotional richest-man label is not a historical wealth calculation."
+  },
+  {
+    "id": "e10-musa-wealth",
+    "type": "historical-claim",
+    "title": "Mansa Musa’s comparative wealth",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 507–530 seconds; original source not inspected",
+    "claim": "Presenter calls him history’s richest person and richer than Elon Musk in modern terms.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 507,
+        "end_seconds": 530,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الملك ملك او امبراطور مملكه مالي من ساموسه الملك المشهور تاريخيا بانه كان اغنى انسان في التاريخ كما يقال يعني هو حتى اغنى من ايون ماسك بمعايير اليوم بما",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178
+        ]
+      }
+    ],
+    "notes": "No defensible cross-era wealth method or primary calculation supplied; omit quantitative comparison."
+  },
+  {
+    "id": "e10-musa-entourage",
+    "type": "historical-claim",
+    "title": "The pilgrimage entourage",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 521–531 seconds; original source not inspected",
+    "claim": "Presenter states a following of 60,000.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 521,
+        "end_seconds": 531,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تاريخيا اين نحن ومن هو فيقول هذا منسوسه المشهور بالذهب وهو الان يستعد الى رحله الحج الى مكه مع 60,000 شخص من حاشيته فورا هنا نبدا بالتعرف على العالم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          176,
+          177,
+          178,
+          179
+        ]
+      }
+    ],
+    "notes": "Inspected al-Maqrizi passage contains a different reported figure/category (14,000 female slaves) and does not verify 60,000. Do not turn medieval reported totals into a census."
+  },
+  {
+    "id": "e10-wives-scene",
+    "type": "plot-retelling",
+    "title": "The ninety-six wives joke",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=535s",
+    "locator": "Normalized Arabic episode captions, 535–591 seconds; original source not inspected",
+    "claim": "Presenter reports recurring jokes that Mansa Musa has ninety-six wives.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 535,
+        "end_seconds": 591,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "صور نمطيه للمسلمين اول صوره نمطيه نعرفها فورا هي تعدد الزوجات هذا اهم شيء في العقل الغربي الاستشراقي فنرى مثلا انه في حاشيته هناك عشرات النساء وهم زوجات",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201
+        ]
+      }
+    ],
+    "notes": "Original scene uninspected. Islamic legal limit does not prove how a historical ruler behaved. No exact historical wife total verified."
+  },
+  {
+    "id": "e10-marriage-limit",
+    "type": "quran",
+    "title": "Qur’an 4:3",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/an-nisa/3",
+    "locator": "Al-Nisa 4:3, Arabic and displayed meaning",
+    "claim": "Verse discusses two, three or four wives and justice, with one if justice is feared unattainable.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 553,
+        "end_seconds": 570,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المشكله ونكتشف انه عنده 96 زوجه طبعا المشاهد الغربي او حتى العالمي باستثناء المسلمين لن يتوقف هنا ولن يسال انه عندنا اربع زوجات ولا غيرهم ستمر ولن يراجع احد",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          188,
+          189,
+          190,
+          191,
+          192,
+          193
+        ]
+      }
+    ],
+    "notes": "Verse identified for the presenter’s legal allusion; English article paraphrases rather than reproducing a modern translation. Historical practice is a separate question."
+  },
+  {
+    "id": "e10-plague-date",
+    "type": "historical-context",
+    "title": "The Great Pestilence in London",
+    "creators": [
+      "London Museum"
+    ],
+    "url": "https://www.londonmuseum.org.uk/collections/london-stories/great-pestilence-london/",
+    "locator": "Opening and Inescapable death section",
+    "claim": "The episode connects the Mansa Musa visit with English Black Death conditions; London Museum dates British arrival to June 1348.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 591,
+        "end_seconds": 621,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "جدا ايضا الملك يسال كيفين من اين انت فيقول له من انجلترا ففورا يصاب القرف يقول انت جئت من بلد الطاعون نتذكر هنا ان الطاعون الاسود الذي اصاب بريطانيا وكل",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211
+        ]
+      }
+    ],
+    "notes": "Added curatorial check, read 16 September. Comparing 1348 with al-Maqrizi’s 1324 reveals a chronology mismatch, not merely a hygiene contrast. National Archives pages failed; museum body inspected."
+  },
+  {
+    "id": "e10-plague-mortality",
+    "type": "historical-claim",
+    "title": "European Black Death mortality estimates",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 598–614 seconds; original source not inspected",
+    "claim": "Presenter gives estimates from one third to two thirds of Europe.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 598,
+        "end_seconds": 614,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يقول انت جئت من بلد الطاعون نتذكر هنا ان الطاعون الاسود الذي اصاب بريطانيا وكل اوروبا تقريبا قتل ما بين الثلث الى النصف وبعض التقديرات ترفع عدد القتلى الى ثلثي",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ]
+      }
+    ],
+    "notes": "No population study identified; local London museum estimate must not be generalized to all Europe. Omitted."
+  },
+  {
+    "id": "e10-book",
+    "type": "book",
+    "title": "Presenter’s earlier book, title uncertain in ASR",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 645–656 seconds; original source not inspected",
+    "claim": "Presenter says he discussed Western self-criticism in a book more than fifteen years earlier.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 645,
+        "end_seconds": 656,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اللي كان في القرن الثام ع وحتى ربما الى اواخر القرن العتراف واضح وهذا انا ايضا وثقته حتى في كتاب ضريبه واللي مر عليه اكثر من 15 سنه فالان",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          220,
+          221,
+          222,
+          223,
+          224
+        ]
+      }
+    ],
+    "notes": "Caption ضريبه may be corrupt or incomplete. Title/edition/page not identified; do not invent bibliographic details."
+  },
+  {
+    "id": "e10-satire",
+    "type": "presenter-opinion",
+    "title": "Satire and the loss of the sacred",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=617s",
+    "locator": "Normalized Arabic episode captions, 617–713 seconds; original source not inspected",
+    "claim": "Presenter argues that shared mockery can make religious conviction seem unreasonable.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 617,
+        "end_seconds": 713,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ولا تغتسلون وهذه بالمناسبه هي من اساليب الليبراليه الخبيثه يعني هو يسخر من نفسه وليس فقط منك انت ويسخر من كل شيء نرى انهم ايضا هنا يسخرون حتى من ابليس ولكن",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238,
+          239,
+          240,
+          241,
+          242,
+          243,
+          244
+        ]
+      }
+    ],
+    "notes": "Interpretive argument, not a demonstrated population-wide effect or a description of every liberal thinker."
+  },
+  {
+    "id": "e10-cairo-maqrizi",
+    "type": "history",
+    "title": "Al-Maqrizi: Mansa Musa’s pilgrimage and audience",
+    "creators": [
+      "al-Maqrizi",
+      "Jo Van Steenbergen"
+    ],
+    "url": "https://tile.loc.gov/storage-services/master/gdc/gdcebookspublic/20/19/66/78/98/2019667898/2019667898.pdf",
+    "locator": "Al-Dhahab al-masbuk, §204; Jo Van Steenbergen ed./trans., Brill 2016, pp. 398–401 (PDF indices 411–414)",
+    "claim": "The presenter attributes the Cairo audience story to al-Maqrizi and Ibn Kathir.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 713,
+        "end_seconds": 800,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاحداث ياخذون كيفن والعصابه معهم الى الحج ويمرون بالقاهره ويقول له هذه مدينه المدن وهذا بالفعل لما كانت القاهره هي عاصمه الدوله المملوكيه وتحديدا في عهد",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          245,
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276
+        ]
+      }
+    ],
+    "notes": "Critical edition/English translation inspected at pp. 399 and 401, with adjacent Arabic text extraction (Arabic extraction is reversed, not reliable for word-level quotation). Musa arrives in 724/1324, refuses ground-kissing and is excused/honoured by the sultan. This inspected version does NOT narrate both rulers bowing, or Musa resolving it by bowing with a changed intention. Full book not read."
+  },
+  {
+    "id": "e10-cairo-ibn-kathir",
+    "type": "history",
+    "title": "Ibn Kathir attribution for the Cairo encounter",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 773–793 seconds; original source not inspected",
+    "claim": "Presenter also names Ibn Kathir for the prostration account.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 773,
+        "end_seconds": 793,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاصطدام فيقول المؤرخون بما فيما المقرزي ابن كثير ان منس موسى لما دخل قال بصوت عال لا اسجد الا لله الذي خلقني وانحنى ولكن سجد لله سبحانه وتعالى فهنا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273
+        ]
+      }
+    ],
+    "notes": "Original passage not located or inspected. Do not treat al-Maqrizi’s inspected version as verification of Ibn Kathir."
+  },
+  {
+    "id": "e10-envoy",
+    "type": "plot-and-history-claim",
+    "title": "Portrayal of the Mamluk envoy",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=800s",
+    "locator": "Normalized Arabic episode captions, 800–825 seconds; original source not inspected",
+    "claim": "Presenter criticizes an effeminate envoy portrayal and generalizes about court pages.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 800,
+        "end_seconds": 825,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مثلا ان الرسول الذي ارسله محمد بن قلابون الى منس موسى هو شخص نراه على هيئه مخنث وهذه ايضا الصوره النمطيه للسلاطين وللعالم الاسلامي الذي كان فيه غلمان",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284
+        ]
+      }
+    ],
+    "notes": "Scene not viewed and historical prevalence not sourced. Omitted; perceived gender expression does not establish conduct or a historical institution."
+  },
+  {
+    "id": "e10-theft-scene",
+    "type": "plot-retelling",
+    "title": "The joke about executing thieves",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=825s",
+    "locator": "Normalized Arabic episode captions, 825–863 seconds; original source not inspected",
+    "claim": "Presenter reports a joke about beheading thieves to prevent repeated theft.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 825,
+        "end_seconds": 863,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المشاهده انه لا بد ان ياتوا الى ايضا صوره نمطيه مشهوره وهي الحدود وقطع الايدي والارجل والرؤوس وخصوصا انه ابطال المسلسل والذيه اصلا نحن نتعاطف معهم هم لصوص",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298
+        ]
+      }
+    ],
+    "notes": "Original line uninspected; quote through source only as paraphrase, not an English transcript."
+  },
+  {
+    "id": "e10-theft-verse",
+    "type": "quran",
+    "title": "Qur’an 5:38",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/al-maidah/38",
+    "locator": "Al-Ma’idah 5:38, Arabic and displayed meaning",
+    "claim": "The relevant Qur’anic theft verse concerns the hand, rather than the show’s reported beheading joke.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 839,
+        "end_seconds": 852,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "القصه فيقول منسى موسى مثلا لكيفن انه نحن نقطع رؤوس اللصوص وايضا تمر عادي وما في احد سيناقش نحن نقطع رؤوسهم ولا نقطع ايديهم ما في احد سيناقش ولا حتى سيراجع",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          290,
+          291,
+          292,
+          293,
+          294
+        ]
+      }
+    ],
+    "notes": "Contextual source for the episode’s allusion. This brief distinction is not a legal ruling or a claim about every medieval punishment; legal conditions and implementation not covered."
+  },
+  {
+    "id": "e10-hostages",
+    "type": "plot-retelling",
+    "title": "The parents as hostages",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=866s",
+    "locator": "Normalized Arabic episode captions, 866–934 seconds; original source not inspected",
+    "claim": "Presenter says Pure Evil holds Kevin’s parents to obtain the map; they comment favourably on the underworld.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 866,
+        "end_seconds": 934,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الحلقات التاليه في المسلسل كلها حقق زمنيه مختلفه نمر عليها ما في داعي نتوقف عندها ليست مهمه منها مثلا يعودون الى طرواده منها ايضا يظهرون في العصر الجليدي",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323
+        ]
+      }
+    ],
+    "notes": "Original finale uninspected. Keep the claim tied to this retelling; do not generalize to actual afterlife doctrine."
+  },
+  {
+    "id": "e10-hell-kingship",
+    "type": "presenter-opinion",
+    "title": "The devil as ruler rather than a condemned creature",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=910s",
+    "locator": "Normalized Arabic episode captions, 910–977 seconds; original source not inspected",
+    "claim": "Presenter objects to an underworld imagined as a manageable kingdom for the devil and his allies.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 910,
+        "end_seconds": 977,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفكره الراسخه عندهم انه الجحيم ليس مكانا سيئا بالضروره هو مكان مظلم فيه بعض البراكين ولكن من يحكمه من ابليس وجنوده هم اصلا لا يعذبون هناك بل هم ملوك فيه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338
+        ]
+      }
+    ],
+    "notes": "Media/theological criticism. Gang/prison analogy condensed out; no sociological evidence for a uniform Western belief."
+  },
+  {
+    "id": "e10-reset",
+    "type": "plot-retelling",
+    "title": "The proposed Great Reset",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=977s",
+    "locator": "Normalized Arabic episode captions, 977–1187 seconds; original source not inspected",
+    "claim": "Presenter describes competing offers to remake the world or preserve it in a worse condition.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 977,
+        "end_seconds": 1187,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نعود للقصه يذهب كيفين ويواجه ابليس شخصيا ويبدا التفاوض ما يقوله ابليس هنا لكيفن انه الرب يريد استعاده هذه الخريطه حتى يعيد الخلق لديه خطه تسمى اعاده الضبط",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409
+        ]
+      }
+    ],
+    "notes": "Phrase is used in the plot retelling; do not infer a connection to any contemporary political programme."
+  },
+  {
+    "id": "e10-ending",
+    "type": "plot-retelling",
+    "title": "Failed lightning and exchanged maps",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=1187s",
+    "locator": "Normalized Arabic episode captions, 1187–1249 seconds; original source not inspected",
+    "claim": "Presenter describes Kevin outwitting both antagonists and a final missing-map cliffhanger.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1187,
+        "end_seconds": 1249,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاسمى يغضب فيحاول ان ينتزع الخريطه من ابليس بالقوه ويوجه له سلاح البرق ولكن يكتشف انه سلاحه لا يستطيع ان يفعل شيئا فيسخر منه ابليس ويقول له قدراتك لا تعمل",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430,
+          431
+        ]
+      }
+    ],
+    "notes": "Original finale not inspected. Retelling includes Pure Evil being deceived, not an uncomplicated victory of evil."
+  },
+  {
+    "id": "e10-relativism",
+    "type": "presenter-opinion",
+    "title": "Comedy as a way to dissolve conviction",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=1260s",
+    "locator": "Normalized Arabic episode captions, 1260–1321 seconds; original source not inspected",
+    "claim": "Presenter interprets habitual mockery as promoting moral/religious relativism.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1260,
+        "end_seconds": 1321,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ناتي الان لرساله هذا العمل ابطال العمل يقدمون انفسهم على انهم لا دينيين او ملحدين واحيانا حتى روحانيين وثنيين كما ساذكر لاحقا ولكن عندي كلهم اتباعوا ابليس",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          458
+        ]
+      }
+    ],
+    "notes": "Interpretation rather than a psychological study. No claim that every viewer necessarily adopts it."
+  },
+  {
+    "id": "e10-taboos",
+    "type": "political-claim",
+    "title": "Claim about the sole permissible boundary of satire",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1320–1346 seconds; original source not inspected",
+    "claim": "Presenter claims only Holocaust remembrance is protected from mockery.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1320,
+        "end_seconds": 1346,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ولكن يبقى هناك خط احمر واحد وهو ما حدث في الحرب العالميه الثانيه هذه الدماء التي سفكت والتي على اساسها اقاموا دوله الاحتلال كما تعرفون وكل هذه المنظومه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466
+        ]
+      }
+    ],
+    "notes": "No legal or comparative evidence provided; absolute generalization omitted. Do not reproduce as fact or infer a group conspiracy."
+  },
+  {
+    "id": "e10-evil-bargain",
+    "type": "plot-retelling",
+    "title": "The villain’s promise",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=1345s",
+    "locator": "Normalized Arabic episode captions, 1345–1403 seconds; original source not inspected",
+    "claim": "Presenter says Pure Evil releases the parents after receiving the bag.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1345,
+        "end_seconds": 1403,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مشكله ايضا في هذه المنظومه لا يقولون لك انه ابليس خير هو لا يقدم نفسه على انه الاله الجيد في مقابل الاله الاخر اللي اكتشفنا انه عاجز وناقص",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486
+        ]
+      }
+    ],
+    "notes": "Keep this qualifying observation in the account; the presenter sees the character as more persuasive, not wholly benevolent."
+  },
+  {
+    "id": "e10-new-age",
+    "type": "presenter-opinion",
+    "title": "Alleged spiritual affiliation and rival powers",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=1402s",
+    "locator": "Normalized Arabic episode captions, 1402–1505 seconds; original source not inspected",
+    "claim": "Presenter connects the story’s competing powers with his broader interpretation of New Age spirituality.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1402,
+        "end_seconds": 1505,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وهذا للعالم كله لكن اذا كنت انت من خواصه واردت ان تتقرب من ابليس فتصبح من حركه العصر الجديد او من اتباع الوثنيات والروحانيات ستكون من خواص ابليس ستتلبس",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          510,
+          511,
+          512,
+          513,
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521
+        ]
+      }
+    ],
+    "notes": "Not a census of New Age beliefs; not evidence of possession or secret affiliation of named people."
+  },
+  {
+    "id": "e10-transcendence",
+    "type": "quran",
+    "title": "Qur’an 42:11",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/ash-shuraa/11",
+    "locator": "Al-Shura 42:11, Arabic and displayed meaning",
+    "claim": "Allah is unlike created beings.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 375,
+        "end_seconds": 432,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "من ذلك ايضا ان الرب هنا نراه وهو يخلع زي الراس الضخم الذي كان يلبسه فهو مجرد انسان لكنه له قدرات خارقه له جسد دائما في تجسيد في هذه العقليات وايضا هو شخصيه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145
+        ]
+      }
+    ],
+    "notes": "Added explicit scriptural anchor for the article’s theological distinction; the presenter does not name this verse."
+  },
+  {
+    "id": "e10-hell-warning",
+    "type": "quran",
+    "title": "Qur’an 7:18",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/al-araf/18",
+    "locator": "Al-A‘raf 7:18, Arabic and displayed meaning",
+    "claim": "Iblis and his followers are threatened with Hell.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 910,
+        "end_seconds": 977,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "الفكره الراسخه عندهم انه الجحيم ليس مكانا سيئا بالضروره هو مكان مظلم فيه بعض البراكين ولكن من يحكمه من ابليس وجنوده هم اصلا لا يعذبون هناك بل هم ملوك فيه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          314,
+          315,
+          316,
+          317,
+          318,
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338
+        ]
+      }
+    ],
+    "notes": "Added scriptural anchor for the afterlife contrast, not a named video citation."
+  },
+  {
+    "id": "e10-life-test",
+    "type": "quran",
+    "title": "Qur’an 67:2",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/al-mulk/2",
+    "locator": "Al-Mulk 67:2, Arabic and displayed meaning",
+    "claim": "Life and death are a test of conduct.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1137,
+        "end_seconds": 1165,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "منطقيه المفروض ان يقتني بها كيفن ولكن لاحظ انهم دائما يفكرون بطريقه انه هذا العالم ناقص وبما انه ناقص فالاله نفسه ناقص اذا ما في احد منهم يخطر على باله",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403
+        ]
+      }
+    ],
+    "notes": "Specific verse supplied for the presenter’s general teaching, not quoted by number in the episode."
+  },
+  {
+    "id": "e10-affliction",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 5641–5642",
+    "creators": [
+      "al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:5641",
+    "locator": "Book 75, Hadith 2; combined displayed references 5641–5642; Abu Sa‘id al-Khudri and Abu Hurayra",
+    "claim": "Affliction can expiate a Muslim’s sins; faith does not guarantee a life without illness.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1428,
+        "end_seconds": 1449,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الكوارث فحتى نحن المسلمين نعرف ايضا انه حتى لو كنت مؤمنا صالحا هذا لا يعني انه ستنال صك براءه ووعد بالحمايه من الامراض ومن المصائب بل اذا ابتليت فهذا سيكون",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502
+        ]
+      }
+    ],
+    "notes": "Arabic and English report read. Report identified for an allusion rather than a verbatim video quotation. Does not identify the cause of a specific person’s illness."
+  },
+  {
+    "id": "e10-channelling",
+    "type": "interview-claim",
+    "title": "Unnamed channelling interviews",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1505–1546 seconds; original source not inspected",
+    "claim": "Presenter recalls beings reportedly telling interviewees that the creator is imperfect.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1505,
+        "end_seconds": 1546,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "والسيطره وبالمناسبه ايضا في بعض المقابلات التي رايتها او سمعتها او قرات عنها ما يحدث من اتصال روحي مع الكائنات العليا التي يعتبرونها كائنات خارقه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533,
+          534,
+          535,
+          536
+        ]
+      }
+    ],
+    "notes": "No speaker, recording, date or passage identified. The episode’s earlier channel references do not prove which interviews are meant."
+  },
+  {
+    "id": "e10-direction-opinion",
+    "type": "presenter-opinion",
+    "title": "Assessment of Waititi’s direction and performance",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=1546s",
+    "locator": "Normalized Arabic episode captions, 1546–1626 seconds; original source not inspected",
+    "claim": "Presenter judges the acting/direction weak and conjectures this affected viewing figures.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1546,
+        "end_seconds": 1626,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نتعرف الان على فريق عمل هذا المسلسل المخرج النيوزيلندي تايكا وايتيتي هو الذي اخرج العمل وهو الذي كان من الكتاب الاساسيين له قبل كل شيء بالمناسبه اخراجه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          537,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565
+        ]
+      }
+    ],
+    "notes": "Aesthetic opinion and causal speculation. No viewing or financial analysis inspected; condensed out."
+  },
+  {
+    "id": "e10-atheism-interpretation",
+    "type": "presenter-opinion",
+    "title": "Atheism interpreted as rebellion",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=1626s",
+    "locator": "Normalized Arabic episode captions, 1626–1660 seconds; original source not inspected",
+    "claim": "Presenter argues that ridicule by atheists reflects resentment rather than disbelief.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1626,
+        "end_seconds": 1660,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الالحاد حتى الالحاد المتطرف الصلب تجد انه هو ليس مجرد الانكار وجود الله بل هو تمرد على الله لا تفهم لماذا مثلا ملحدين كبار يشتمون شيئا غير موجود ودائما يصفونه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          566,
+          567,
+          568,
+          569,
+          570,
+          571,
+          572,
+          573,
+          574,
+          575,
+          576,
+          577
+        ]
+      }
+    ],
+    "notes": "His theological/psychological interpretation; cannot establish what every atheist secretly believes. Omitted as a general factual assertion."
+  },
+  {
+    "id": "e10-waititi-identity",
+    "type": "biography",
+    "title": "Waititi’s family background and chosen names",
+    "creators": [],
+    "url": "https://ffrf.org/publications/day/taika-waititi/",
+    "locator": "FFRF biographical entry, opening paragraphs",
+    "claim": "Presenter discusses Māori and Jewish background and the surname Cohen.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1660,
+        "end_seconds": 1681,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اسمه الاصلي تايكا ديفيد كوهين واضح تماما ما هي ديانته ودائما يتباهى بانه يهودي بولينيزي بولينيزيا هي منطقه تشمل نيوزيلندا وبعض الجزر المحيطه بها وابوه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          578,
+          579,
+          580,
+          581,
+          582,
+          583,
+          584
+        ]
+      }
+    ],
+    "notes": "Secondary compilation read; no genealogy checked. Ancestry neither proves personal belief nor establishes secret affiliation or motive."
+  },
+  {
+    "id": "e10-waititi-goodweekend",
+    "type": "interview",
+    "title": "Why the whole world wants Taika",
+    "creators": [
+      "Konrad Marshall",
+      "Taika Waititi"
+    ],
+    "url": "https://beautyandstrangeness.com/whole-world-wants-taika/",
+    "locator": "Konrad Marshall’s own excerpt, paragraphs 3–5, linking to Good Weekend 2023 feature",
+    "claim": "Waititi rejects a judging man-on-a-cloud image and emphasizes treating people well.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1680,
+        "end_seconds": 1716,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سناتي لهذه النقطه لاحقا. صرح في لقاء مع مجله جود ويكند في عام 2023 قال انا شخصيا لا اؤمن بوجود رجل ضخم يجلس على سحابه ويحاكم الجميع حتى الاله الذي صوروه بهذه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          584,
+          585,
+          586,
+          587,
+          588,
+          589,
+          590,
+          591,
+          592,
+          593,
+          594,
+          595
+        ]
+      }
+    ],
+    "notes": "Author-posted excerpt independently read; full SMH page returned an internal error. Page’s day/date label is inconsistent (calls 1 December 2023 Saturday); cite year without silently resolving it. No demon worship admission in the inspected passage."
+  },
+  {
+    "id": "e10-waititi-wsj",
+    "type": "interview",
+    "title": "An Atheist Director Walks Into a Marvel Movie Full of Gods",
+    "creators": [],
+    "url": "https://ffrf.org/publications/day/taika-waititi/",
+    "locator": "Secondary lead: John Jurgensen, Wall Street Journal, 11 July 2022; FFRF Overheard cites 12 July",
+    "claim": "Presenter attributes Indigenous-gods comments to a 2022 Wall Street Journal interview.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1716,
+        "end_seconds": 1749,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لصحيفه وول ستريت جورنال في عام 2022 قال بكل وضوح انه يؤمن بمعتقدات الشعوب الاصليه التي تربط الالهه بعناصر الطبيعه مثل الرياح والبحر والارض وغير ذلك وشبه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          596,
+          597,
+          598,
+          599,
+          600,
+          601,
+          602,
+          603,
+          604,
+          605
+        ]
+      }
+    ],
+    "notes": "FFRF excerpt read, original WSJ body/URL not located in inspected results. Do not upgrade original quotation or infer secret worship. Date variant recorded."
+  },
+  {
+    "id": "e10-waititi-tweets",
+    "type": "social-post",
+    "title": "April Fools religious-identification posts",
+    "creators": [],
+    "url": "https://ffrf.org/publications/day/taika-waititi/",
+    "locator": "Secondary FFRF account dates first post 31 March 2013",
+    "claim": "Presenter describes Christian/April Fools/atheist posts on 1 April 2013.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1748,
+        "end_seconds": 1775,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شياطين الجن في تغريده في اول ابريل من عام 2013 كتب تغريده فيها كلمتين انا مسيحي ثم بعدها بقليل قال في تغريده اخرى هذه كذبه ابريل انا لست مسيحيا وانا ملحد",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          605,
+          606,
+          607,
+          608,
+          609,
+          610,
+          611,
+          612,
+          613
+        ]
+      }
+    ],
+    "notes": "Original posts uninspected; timezone may explain date difference. Do not invent original wording or URLs."
+  },
+  {
+    "id": "e10-genealogy-forum",
+    "type": "forum",
+    "title": "Unnamed forum post about Waititi’s ancestors",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1774–1806 seconds; original source not inspected",
+    "claim": "Presenter recounts a forum writer’s assertion about one Jewish great-grandparent.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1774,
+        "end_seconds": 1806,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشيطانيه وجدت مقالا ايضا لشخص يهودي في منتدى يهودي يتساءل لماذا يصر تايكا على الانتساب لنا نحن اليهود وانه يقول في عده مقابلات يكرر انه يفتخر باصوله اليهوديه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          613,
+          614,
+          615,
+          616,
+          617,
+          618,
+          619,
+          620,
+          621,
+          622,
+          623
+        ]
+      }
+    ],
+    "notes": "Forum author and source unidentified; genealogy not verified. Omitted from article."
+  },
+  {
+    "id": "e10-hollywood-control",
+    "type": "conspiracy-claim",
+    "title": "Ancestry and control of Hollywood",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1804–1815 seconds; original source not inspected",
+    "claim": "Presenter links claiming Jewish ancestry to alleged group control of Hollywood.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1804,
+        "end_seconds": 1815,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يريد ان يسر على ان ينتسب اليهود بكل بساطه الجواب طبعا نعرف انه هوليود من يحكمها ومن يريد ان يتقرب منهم فسيبحث عن اي اصل له يمكن ان يجعله منهم اذكر هنا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          623,
+          624,
+          625,
+          626,
+          627
+        ]
+      }
+    ],
+    "notes": "Unsupported identity-based conspiracy assertion; no evidence supplied or inspected. Excluded from article. Ancestry does not establish control, wrongdoing, religious belief or motive."
+  },
+  {
+    "id": "e10-epstein-email",
+    "type": "document-claim",
+    "title": "Alleged Emirati correspondent’s ancestry remark",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1814–1827 seconds; original source not inspected",
+    "claim": "Presenter invokes an unnamed person’s alleged email to Epstein.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1814,
+        "end_seconds": 1827,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشخصيه الاماراتيه التي كانت ترسل في احدى رسائلها لابستين وتقول له انا عندي جزء بسيط من جيناتي قد يكون من اليهود حتى فقط يرضى عنها بالمناسبه ايضا ومخرج وكاتب",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          627,
+          628,
+          629,
+          630,
+          631
+        ]
+      }
+    ],
+    "notes": "No named correspondent, document ID, release or original message identified. Omitted; do not infer a relationship between this allegation and film creators."
+  },
+  {
+    "id": "e10-jojo-award",
+    "type": "film-award",
+    "title": "2020 Academy Award for adapted screenplay",
+    "creators": [
+      "Academy of Motion Picture Arts and Sciences"
+    ],
+    "url": "https://www.oscars.org/oscars/ceremonies/2020",
+    "locator": "Writing (Adapted Screenplay), winner",
+    "claim": "Waititi won the adapted-screenplay Oscar for Jojo Rabbit.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1826,
+        "end_seconds": 1846,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لفيلم اسمه جوجو رابت كان فيلما ساخرا واخذ جائزه الاوسكار لافضل كتابه سيناريو يعني هو نفسه حصل على الاوسكار وايضا اصر هو على ان يظهر في الفيلم الذي اخرجه واخذ",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          631,
+          632,
+          633,
+          634,
+          635,
+          636,
+          637
+        ]
+      }
+    ],
+    "notes": "Official award entry inspected. Does not verify the presenter’s account of motives or every film scene."
+  },
+  {
+    "id": "e10-jojo-role",
+    "type": "film",
+    "title": "Waititi’s role in Jojo Rabbit",
+    "creators": [],
+    "url": "https://ffrf.org/publications/day/taika-waititi/",
+    "locator": "Secondary filmography paragraph",
+    "claim": "Presenter notes his portrayal of Hitler.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1832,
+        "end_seconds": 1846,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يعني هو نفسه حصل على الاوسكار وايضا اصر هو على ان يظهر في الفيلم الذي اخرجه واخذ شخصيه هتلر حتى يسخر منه ايضا بطريقته الكوميديه باكبر قدر ممكن نفهم طبعا دائما",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          633,
+          634,
+          635,
+          636,
+          637
+        ]
+      }
+    ],
+    "notes": "Secondary account specifies the protagonist’s imaginary friend; original film/credits not inspected. Keep this distinct from a documentary portrayal."
+  },
+  {
+    "id": "e10-moana",
+    "type": "film",
+    "title": "Moana and its collaborative writing process",
+    "creators": [
+      "Courtney Potter",
+      "Jared Bush",
+      "D23"
+    ],
+    "url": "https://d23.com/we-know-the-way-to-the-moana-story-room/",
+    "locator": "Courtney Potter, 22 November 2016; Jared Bush interview, collaborative process",
+    "claim": "Waititi worked on Moana’s early writing; presenter interprets its mythology as demon worship.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1846,
+        "end_seconds": 1863,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يراد توصيلها ايضا هو كاتب قصه فيلم موانا الذي انتجته ديزني في 2016 عن اساطير بولينيزيا وطبعا الفيلم من اوله لاخره انا شاهدته بالفعل كله قائم على فكره عباده",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644
+        ]
+      }
+    ],
+    "notes": "Production-team interview inspected: early Waititi work, later Bush screenplay and a collaborative story room. Disney movie page also lists multiple writers. Does not support sole authorship or an admission of demon worship."
+  },
+  {
+    "id": "e10-thor",
+    "type": "film",
+    "title": "Thor: Ragnarok (2017)",
+    "creators": [],
+    "url": "https://www.marvel.com/movies/thor-ragnarok",
+    "locator": "Official page found in search, body blocked (403)",
+    "claim": "Waititi directed the Marvel film Thor: Ragnarok.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1862,
+        "end_seconds": 1875,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا مخرج لفيلم ثور راجنارك في 2017 هذا اهم افلامه ايضا واضح تماما هي قائمه عن الاساطير النورديه وراجنارك هي نبوءه نهايه العالم في الاساطير النورديه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          644,
+          645,
+          646,
+          647,
+          648
+        ]
+      }
+    ],
+    "notes": "D23 interview independently confirms he was directing the project in 2016; Marvel release/finished credits body uninspected. Film not viewed."
+  },
+  {
+    "id": "e10-ragnarok",
+    "type": "mythology",
+    "title": "Claim about the fate of Norse gods at Ragnarok",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1865–1887 seconds; original source not inspected",
+    "claim": "Presenter says all gods die and return to rule.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1865,
+        "end_seconds": 1887,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اهم افلامه ايضا واضح تماما هي قائمه عن الاساطير النورديه وراجنارك هي نبوءه نهايه العالم في الاساطير النورديه الاسكندنافيه التي يموت فيها في النهايه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          645,
+          646,
+          647,
+          648,
+          649,
+          650,
+          651,
+          652,
+          653
+        ]
+      }
+    ],
+    "notes": "No Edda passage identified or read; claim needs individual distinctions among gods and versions. Omitted rather than converting the movie into a historical religious source."
+  },
+  {
+    "id": "e10-clement-beliefs",
+    "type": "interview-claim",
+    "title": "Unspecified Jemaine Clement interviews",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1886–1934 seconds; original source not inspected",
+    "claim": "Presenter attributes Indigenous spiritual belief, cosmic absurdity and anti-capitalist attitudes to Clement.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1886,
+        "end_seconds": 1934,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الجن البطل الثاني للمسلسل هو جيمين كليمنت والذي لعب دور شخصيه الشيطان هو صديق شخصي للمخرج هو ايضا مثله من نيوزيلندا ومن السكان الاصليين ويحمل نفس",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663,
+          664,
+          665,
+          666,
+          667,
+          668,
+          669,
+          670
+        ]
+      }
+    ],
+    "notes": "No exact primary interview located. Search for the purported cosmic joke did not yield it. Playing Pure Evil does not establish worship or the actor’s theology."
+  },
+  {
+    "id": "e10-kudrow-politics",
+    "type": "biography-and-politics",
+    "title": "Lisa Kudrow’s family background and political position",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1934–1957 seconds; original source not inspected",
+    "claim": "Presenter links family background and support for Israel to his discussion of the cast.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1934,
+        "end_seconds": 1957,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المسلسل هي النجمه ليسا كودرو وهي نفسها بطله مسلسل فرنز الذي يعرفه ربما كل من يسمعنا الان هي ممثله ولدت لعائله يهوديه في لوس انجلس عائلته هاجرت من يهود",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          671,
+          672,
+          673,
+          674,
+          675,
+          676,
+          677,
+          678
+        ]
+      }
+    ],
+    "notes": "No specific statement or original source supplied; omitted. Identity cannot establish a person’s political commitments or a production’s theology."
+  },
+  {
+    "id": "e10-gilliam-tv-role",
+    "type": "production-claim",
+    "title": "Claimed executive-producer role for Gilliam in the series",
+    "creators": [],
+    "url": "https://www.apple.com/uk/tv-pr/news/2024/07/apple-tv-unveils-trailer-for-first-ever-television-adaptation-of-cult-classic-time-bandits-starring-lisa-kudrow/",
+    "locator": "2024 press-release executive-producer paragraph; cast/crew page",
+    "claim": "Presenter calls Gilliam a television executive producer.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1957,
+        "end_seconds": 1972,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هو المنتج التنفيذي لهذا المسلسل وهو نفسه الذي الف القصه قبل عشرات السنين هو الذي انتج النسخه الاولى وكان فيلما بنفس العنوان انتج في عام 1981 هو المخرج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          679,
+          680,
+          681,
+          682,
+          683
+        ]
+      }
+    ],
+    "notes": "Inspected Apple lists Clement, Morris, Waititi, Basch, Coddington and Stanton; Gilliam absent. This does not exhaust legal credits, so do not label disproven; article credits only the inspected 1981 film role."
+  },
+  {
+    "id": "e10-connery-masonry",
+    "type": "biography-claim",
+    "title": "Sean Connery and an Edinburgh lodge",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 1972–1987 seconds; original source not inspected",
+    "claim": "Presenter claims Connery belonged to an Edinburgh Masonic lodge.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1972,
+        "end_seconds": 1987,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "احد ابطال الفيلم الاول كان شون كونري الممثل الاسكتلندي المشهور الذي دائما يذكر على انه اسطوريته توفي قبل بضع سنوات كان",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          684,
+          685,
+          686,
+          687,
+          688,
+          689
+        ]
+      }
+    ],
+    "notes": "No lodge number or membership record supplied; Grand Lodge-domain search yielded no supporting original record. His film role is confirmed separately, membership is not."
+  },
+  {
+    "id": "e10-gilliam-interview",
+    "type": "interview",
+    "title": "The Meaning of Life: Terry Gilliam on The Zero Theorem",
+    "creators": [
+      "Nathanael Smith",
+      "Terry Gilliam"
+    ],
+    "url": "https://www.theskinny.co.uk/film/cineskinny/the-meaning-of-life-terry-gilliam-on-the-zero-theorem",
+    "locator": "Nathanael Smith, 12 March 2014; questions beginning Really? and I didn’t know you came from a Presbyterian background",
+    "claim": "Gilliam describes a Presbyterian scholarship and later pagan/animist self-identification.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1987,
+        "end_seconds": 2045,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هو نشا في عائله مسيحيه متدينه ولكن في سن المراهقه اختار ان يخرج من الدين بعد ان وجد ان الكنيسه لا تتقبل اسلوبه الساخر بين قوسين وصار يصف نفسه بانه وثني بكل",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          690,
+          691,
+          692,
+          693,
+          694,
+          695,
+          696,
+          697,
+          698,
+          699,
+          700,
+          701,
+          702,
+          703,
+          704,
+          705,
+          706,
+          707,
+          708,
+          709
+        ]
+      }
+    ],
+    "notes": "Relevant Q&A read, including belief in nature and refusal to expect a rescuer to fix everything. He discusses jokes at college; do not sharpen this to a verified teenage conversion date. Identifies his words, not demon worship."
+  },
+  {
+    "id": "e10-holy-grail",
+    "type": "film",
+    "title": "Monty Python and the Holy Grail (1975)",
+    "creators": [
+      "Monty Python",
+      "David Morgan"
+    ],
+    "url": "https://www.montypython.com/film_Monty%20Python%20and%20the%20Holy%20Grail%20(1975)/15",
+    "locator": "Official film page, credits and synopsis, David Morgan 2014",
+    "claim": "Gilliam co-directed the 1975 film with Terry Jones.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 2044,
+        "end_seconds": 2056,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بوجود الله في 1975 اخرج فيلما كوميديا بعنوان مونتي بايثن والكاس المقدسه ذا هولي كريل يسخر من المسيحيه ولكن بالعوده الى القرون الوسطى وقال ايضا في مقابله",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          709,
+          710,
+          711,
+          712
+        ]
+      }
+    ],
+    "notes": "Co-director/date and religious parody in synopsis inspected. Full film not viewed."
+  },
+  {
+    "id": "e10-gilliam-early-quote",
+    "type": "interview-claim",
+    "title": "Purported pagan declaration after Holy Grail",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 2055–2066 seconds; original source not inspected",
+    "claim": "Presenter mentions a separate interview following the 1975 film.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 2055,
+        "end_seconds": 2066,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الى القرون الوسطى وقال ايضا في مقابله بعد انتاج الفيلم لقد اصبحت وثنيا وثنيا تماما الخلاصه اذا نحن امام شخصيات وثنيه اقول بكل وضوح انها اما لا دينيه او في",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          712,
+          713,
+          714,
+          715
+        ]
+      }
+    ],
+    "notes": "No separate date/outlet/recording found; do not transfer the verified 2014 quotation to 1975."
+  },
+  {
+    "id": "e10-media-conclusion",
+    "type": "presenter-opinion",
+    "title": "Entertainment as a carrier of belief",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=qG4k4vJUhaI&t=2064s",
+    "locator": "Normalized Arabic episode captions, 2064–2148 seconds; original source not inspected",
+    "claim": "Presenter argues that entertainment can normalize beliefs opposed to tawhid and that technology platforms also carry ideology.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 2064,
+        "end_seconds": 2148,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اقول بكل وضوح انها اما لا دينيه او في نفس الوقت في مقابلات اخرى انهم وثنيون روحيون ليسوا فقط اعداء للمسيحيه ولكن هم اقرب الى حلول الارواح في الطبيعه في",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          715,
+          716,
+          717,
+          718,
+          719,
+          720,
+          721,
+          722,
+          723,
+          724,
+          725,
+          726,
+          727,
+          728,
+          729,
+          730,
+          731,
+          732,
+          733,
+          734,
+          735,
+          736,
+          737,
+          738,
+          739,
+          740,
+          741,
+          742,
+          743,
+          744,
+          745,
+          746,
+          747
+        ]
+      }
+    ],
+    "notes": "Preserve as media criticism. The episode supplies no controlled audience study or internal production evidence establishing hidden motives."
+  },
+  {
+    "id": "e10-epstein-control",
+    "type": "conspiracy-claim",
+    "title": "Alleged evidence of an organized ritual network directing media",
+    "creators": [],
+    "url": null,
+    "locator": "Normalized Arabic episode captions, 2147–2204 seconds; original source not inspected",
+    "claim": "Presenter invokes Epstein files as proof of ritual/ideological control.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 2147,
+        "end_seconds": 2204,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ويفرق بين المرء وزوجه الان فقط بعد كشف ملفات ابستين بدا الناس يفهمون هناك خطه هناك اقطاب يحكمون هؤلاء العالم يتقر قربون الابليس بالقرابين وبطقوس روحانيه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          747,
+          748,
+          749,
+          750,
+          751,
+          752,
+          753,
+          754,
+          755,
+          756,
+          757,
+          758,
+          759,
+          760,
+          761,
+          762,
+          763,
+          764,
+          765,
+          766,
+          767
+        ]
+      }
+    ],
+    "notes": "No file IDs, passages or links inspected, and no demonstrated link to this production. Omitted; do not convert a general allegation into fact or name participants by association."
+  }
+]

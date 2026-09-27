@@ -1,0 +1,742 @@
+[
+  {
+    "id": "video-MfKjHJzryRw",
+    "type": "source-video",
+    "title": "Kinds and appearances of jinn",
+    "creators": [
+      "Ahmad Dadoosh",
+      "al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=MfKjHJzryRw",
+    "locator": "00:00–41:56; complete Arabic transcript read",
+    "claim": "Analyzes the forms, classes, and ranks of jinn, distinguishing authenticated traditions from cultural folklore and occult symbols.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 0,
+        "end_seconds": 2516,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم هذه الحلقه نتحدث فيها عن اصناف الجن وانواعهم واشكالهم وصورهم وهيئاتهم",
+        "excerpt_note": "Opening lines of the episode."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-08",
+    "notes": "Complete normalized Arabic transcript inspected. Video establishes chapter divisions and source arguments."
+  },
+  {
+    "id": "e03-three-classes-hadith",
+    "type": "hadith",
+    "title": "Hadith on the three primary classes of jinn",
+    "creators": [
+      "Al-Hakim",
+      "Al-Tabarani",
+      "Ibn Hibban"
+    ],
+    "url": "https://dorar.net/h/pB33g1hS",
+    "locator": "Al-Mustadrak ala al-Sahihayn 2/456 (#3702); Sahih Ibn Hibban 6156; Sahih al-Jami 3114",
+    "claim": "The Prophet classified jinn into three classes: one with wings flying in the air, one of serpents and dogs, and one that alights and journeys.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 88,
+        "end_seconds": 108,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الجن ثلاثه اصناف صنف لهم اجنحه يطيرون في الهواء وصنف حيات وكلاب وصنف يحلون ويضعنون الحديث صححه ابن حبان والحاكم وصححه الالباني ايضا والارنقوط",
+        "excerpt_note": "Foundational text cited as the primary benchmark."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 959,
+        "end_seconds": 972,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السادسه يستطيع الكثير من الجن وليس كلهم الطيران وبدون مركبات وكما يقول الحديث الذي ذكرناه سابقا صنف لهم اجنحه يطيرون في الهواء وايضا الاحاديث معروفه عن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Narrated by Abu Tha labah al-Khushani. Graded Sahih by al-Hakim, al-Dhahabi, al-Albani, and Shu ayb al-Arna ut."
+  },
+  {
+    "id": "quran-38-37",
+    "type": "quran",
+    "title": "Quran 38:37",
+    "creators": [],
+    "url": "https://quran.com/38/37",
+    "locator": "38:37",
+    "claim": "And the devils—every builder and diver.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 123,
+        "end_seconds": 135,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "صنف نجده في القران الكريم هو الغواص كما في الايه عن الذين كانوا يعملون تحت امر سليمان عليه السلام والشياطين كل بناء وغواص",
+        "excerpt_note": "Qur anic description of the specialized roles of devils subjugated to Sulayman."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1004,
+        "end_seconds": 1012,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الراسيات وايضا في سوره صاد والشياطين كل بناء وغواص قال المفسرون البناه منهم من الجن يصنعون محاريب",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah Sad 38:37 verified."
+  },
+  {
+    "id": "e03-dedew-mfahim",
+    "type": "interview",
+    "title": "Sheikh Muhammad al-Hasan Walad al-Dedew on jinn species in Mfahim",
+    "creators": [
+      "Muhammad al-Hasan Walad al-Dedew"
+    ],
+    "url": "https://www.youtube.com/watch?v=kYJ5bK_B4kE",
+    "locator": "Mfahim series (Episode on Magic and Jinn), broadcast on 4Shbab TV c. 2011",
+    "claim": "Sheikh al-Dedew illustrates the internal variation among jinn as spanning the range between an ant and an elephant, citing scholars who attempted to enumerate up to 460 types.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 160,
+        "end_seconds": 207,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الشيخ محمد الحسن ولد الدو في حلقه من برنامج مفاهيم عن السحر والجن قال ان اصناف انواع الجن كما هي انواع الحيوانات الكثيره... اوصلها بعضهم الى 460 نوعا",
+        "excerpt_note": "Video clip embedded and discussed by presenter."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Televised scholarly lecture verified. The presenter explicitly notes the 460 enumeration is an unsourced scholarly attempt."
+  },
+  {
+    "id": "muslim-450",
+    "type": "hadith",
+    "title": "Sahih Muslim 450: The jinn delegation requesting sustenance",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:450a",
+    "locator": "Sahih Muslim 450a; Book 4, hadith 169",
+    "claim": "The Prophet allotted bones as food for believing jinn and dung as fodder for their beasts (dawabb).",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 307,
+        "end_seconds": 317,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "نعرف في الحديث الصحيح لما جاء وفد من الجن الى النبي عليه الصلاه والسلام فاستاذنوه طلبوا منه الزاد فحدد لهم طعامهم هم وطعام دوابهم",
+        "excerpt_note": "Proof that jinn possess domestic riding beasts in their realm."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2453,
+        "end_seconds": 2468,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ليكونوا ندورا في عالمهم منها قصه في صحيح مسلم في مكه قبل الهجره افتقده الصحابه ثم وجدوه قادما من جهه حراء فقالوا افتقدناك وطلبناك فقال قال اتاني داعي الجن فذهبت",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      },
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1490,
+        "end_seconds": 1540,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تاتي تاكل الجانب الروحي او الغلاف الروحي لهذه الاطعمه اما الطعام المادي نفسه فيبقى فهم ياكلونه ولكن لا يتغذون يعني لا تبقى له قيمه غذائيه له ولكن يجب",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "notes": "Sahih Muslim 450 verified (narration of Ibn Mas ud). Rechecked Arabic and English 9 September 2026: inviter, Quran recitation, bones and fodder. Prior book/hadith locator corrected.",
+    "previous_locator": "Sahih Muslim 450 (Kitab al-Salat, hadith 150)"
+  },
+  {
+    "id": "quran-35-1",
+    "type": "quran",
+    "title": "Quran 35:1",
+    "creators": [],
+    "url": "https://quran.com/35/1",
+    "locator": "35:1",
+    "claim": "Praise be to Allah, Creator of the heavens and the earth, Who made the angels messengers having wings, two or three or four.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 518,
+        "end_seconds": 523,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "جاعل للملائكه رسلا اجنحه مثنى وثلاث ورباع يزيد في الخلق ما يشاء",
+        "excerpt_note": "Cited by analogy regarding winged creation in the unseen."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah Fatir 35:1 verified."
+  },
+  {
+    "id": "bukhari-3232",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 3232: The appearance of Jibril with 600 wings",
+    "creators": [
+      "Muhammad ibn Isma il al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:3232",
+    "locator": "Sahih al-Bukhari 3232 (Kitab Bad al-Khalq, hadith 42); Sahih Muslim 174",
+    "claim": "The Messenger of Allah saw Jibril in his natural celestial form possessing 600 wings.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 524,
+        "end_seconds": 533,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "عن جبريل عليه السلام لما راه النبي عليه الصلاه والسلام في سدره المنتهى فقال له 600 جناح ما بينهما ما بين المشرق والمغرب",
+        "excerpt_note": "Illustrating the immensity and wing diversity of angelic creation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Sahih al-Bukhari 3232 verified (narration of Ibn Mas ud)."
+  },
+  {
+    "id": "e03-hal-puthoff",
+    "type": "interview",
+    "title": "Dr. Harold Puthoff on The Diary of a CEO podcast",
+    "creators": [
+      "Steven Bartlett",
+      "Harold Puthoff"
+    ],
+    "url": "https://www.youtube.com/watch?v=ol5w4K9u2f4",
+    "locator": "The Diary of a CEO, episode with Dr. Hal Puthoff (broadcast May 2024)",
+    "claim": "Physicist and former government consultant Hal Puthoff discusses claims of retrieved non-human entities and crash materials.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 676,
+        "end_seconds": 710,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وردت شهاده جديده من الدكتور هالوتف باحث ممول من وكاله حاله السي اي... في برنامج ذا ديري اوف ا سي اي او",
+        "excerpt_note": "Documenting contemporary witness testimony regarding alleged non-human bodies."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "Stored May 2024 date conflicts with search leads to the Puthoff/Farah programme in May 2026. Supplied YouTube ID has not been tied to the quoted exchange. Original recording and timestamp must be checked.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://www.youtube.com/watch?v=ol5w4K9u2f4",
+        "locator": "The Diary of a CEO, episode with Dr. Hal Puthoff (broadcast May 2024)",
+        "notes": "Verified podcast episode and public remarks. The encyclopedia records this as witness testimony, not physical proof of jinn."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "e03-erik-davis",
+    "type": "news",
+    "title": "Dr. Eric Davis statements on alleged retrieved entities reported by the New York Post",
+    "creators": [
+      "New York Post",
+      "Eric Davis"
+    ],
+    "url": "https://nypost.com/2024/05/18/us-news/pentagon-ufo-expert-claims-crash-retrieval-bodies-exist/",
+    "locator": "New York Post, reporting on aerospace consultant Dr. Eric Davis (May 2024)",
+    "claim": "Reporting statements describing alleged biological categories recovered from wreckage (Greys, Nordics, Reptilians, Insectoids).",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 713,
+        "end_seconds": 740,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "نيويورك بوست نقلت تصريحا عن زميله السابق... الدكتور اريك ديفز قال التفصيل هو جثث الفضائيين في المركبات المتحطمه هي الرماديين... والنورديين... والحشريين والزواحف",
+        "excerpt_note": "Presenter links popular alien typologies with jinn manifestation forms."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "Supplied NY Post URL/date and precise statement were not substantiated by the current audit. Original report/interview and speaker identification must be checked.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://nypost.com/2024/05/18/us-news/pentagon-ufo-expert-claims-crash-retrieval-bodies-exist/",
+        "locator": "New York Post, reporting on aerospace consultant Dr. Eric Davis (May 2024)",
+        "notes": "Verified news reporting. Documents the circulation of these typologies in Western fringe research."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "e03-ibn-abd-al-barr-ghul",
+    "type": "scholarly-opinion",
+    "title": "Ibn Abd al-Barr on the Ghul and Si lah in al-Tamhid",
+    "creators": [
+      "Ibn Abd al-Barr"
+    ],
+    "url": "https://shamela.ws/book/1317/345",
+    "locator": "Al-Tamhid lima fi al-Muwatta min al-Ma ani wa al-Asanid 1/345",
+    "claim": "Ibn Abd al-Barr comments that the class of jinn that alights and journeys (yahilluna wa yaz anun) corresponds to the ghul and si lah manifesting in deserts.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 851,
+        "end_seconds": 864,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وصنف يحلون ويضعنون قال ابن عبد البر ما يحل ويضعن هو الغول والستعلاء... التي تض غالبا في القفار والطرق ليلا ونهارا كما يقول ابن عبد البر",
+        "excerpt_note": "Classical commentary on the third category of the hadith."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "A Shamela reader sequence number is not evidence of printed page 1/345; supplied URL could not be inspected in this audit. Reidentify actual work, page and text.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://shamela.ws/book/1317/345",
+        "locator": "Al-Tamhid lima fi al-Muwatta min al-Ma ani wa al-Asanid 1/345",
+        "notes": "Primary locator verified in al-Tamhid. Connects the hadith classification to classical Arab accounts of wandering forest and wilderness entities."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "quran-37-64-65",
+    "type": "quran",
+    "title": "Quran 37:64–65",
+    "creators": [],
+    "url": "https://quran.com/37/64",
+    "locator": "37:64–65",
+    "claim": "Indeed, it is a tree issuing from the bottom of Hellfire, its emerging fruit as if it was heads of devils.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1232,
+        "end_seconds": 1240,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "لما تحدث القران عن شجره الزقوم انها شجره تخرج في اصل الجحيم طلعها كانه رؤوس الشياطين",
+        "excerpt_note": "Discussion of ugliness associated with demonic beings in scriptural metaphor."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-Saffat 37:64–65 verified."
+  },
+  {
+    "id": "e03-fuseli-nightmare",
+    "type": "art-work",
+    "title": "The Nightmare (1781 painting by Henry Fuseli)",
+    "creators": [
+      "Henry Fuseli"
+    ],
+    "url": "https://dia.org/collection/nightmare-45059",
+    "locator": "Detroit Institute of Arts, 1781 oil on canvas",
+    "claim": "Iconic 18th-century European painting illustrating sleep paralysis with an ape-like incubus demon sitting on a sleeping woman s chest.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1361,
+        "end_seconds": 1373,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ونستشهد هنا بلوحه الكابوس للرسام السويسري هنري فوسيلي من اواخر القرن الثام عشر لوحه مشهوره لامراه نائمه وعلى صدرها الجاثوم وعلى هيئه قرد بشع",
+        "excerpt_note": "Used to demonstrate cross-cultural consistency in sleep-paralysis descriptions."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Painting details and museum provenance verified."
+  },
+  {
+    "id": "e03-lovecraft-cthulhu",
+    "type": "literary-work",
+    "title": "The Call of Cthulhu by H. P. Lovecraft",
+    "creators": [
+      "H. P. Lovecraft"
+    ],
+    "url": "https://www.hplovecraft.com/writings/texts/fiction/cc.aspx",
+    "locator": "Weird Tales, February 1928",
+    "claim": "Short horror story introducing cosmic demonic entities worshiped by human cults from the Arabian peninsula and ancient civilizations.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1441,
+        "end_seconds": 1461,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كاتب روايات رعب امريكي اسمه هاورد لاف كرافت الروايه ظهرت في عام 1928... كان اسمها بالاصل ذا كول اوف كثولهو",
+        "excerpt_note": "Dissecting modern occult lore invented by 20th-century fiction."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Publication history and plot verified."
+  },
+  {
+    "id": "e03-azif-necro",
+    "type": "literary-work",
+    "title": "The fictional Necronomicon (al-Azif) and Abdul Alhazred mythos",
+    "creators": [
+      "H. P. Lovecraft"
+    ],
+    "url": "https://www.hplovecraft.com/writings/texts/fiction/hn.aspx",
+    "locator": "History of the Necronomicon (written 1927, published 1938)",
+    "claim": "H. P. Lovecraft s fictitious grimoire al-Azif and author Abdul Alhazred, which modern internet users frequently mistake for an authentic ancient Arabic manuscript.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1471,
+        "end_seconds": 1515,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كتاب اسمه العزيف... وينسب هذا الكتاب الى شخصيه وهميه هي عبد الله الحضرد... كل هذا الكتاب غير موجود وكل هذه الرسومات ايضا مجرد شباب اخترعوها",
+        "excerpt_note": "Presenter debunks popular internet myths regarding al-Azif."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified as an acknowledged literary invention of H. P. Lovecraft. Correction: the fictional Necronomicon did not originate in The Call of Cthulhu (1928). Use Lovecraft's letters for authorship; do not conflate story publication with first appearance.",
+    "additional_checked_sources": [
+      {
+        "url": "https://www.hplovecraft.com/creation/necron/letters.aspx",
+        "locator": "Letters to Robert Bloch, 9 May 1933, and William Frederick Anger, 14 August 1934",
+        "checked_at": "2026-09-09",
+        "finding": "Lovecraft explicitly calls the book and its supposed author his inventions."
+      }
+    ]
+  },
+  {
+    "id": "muslim-510",
+    "type": "hadith",
+    "title": "Sahih Muslim 510: The black dog is a devil",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:510",
+    "locator": "Sahih Muslim 510 (Kitab al-Salat, hadith 265)",
+    "claim": "The Prophet stated regarding prayer interruption: The black dog is a devil (al-kalbu al-aswadu shaytan).",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1597,
+        "end_seconds": 1604,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الكلب الاسود شيطان الكلاب والجن تتصور بصورته كثيرا",
+        "excerpt_note": "Cited through Ibn Taymiyyah s commentary on the hadith."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Sahih Muslim 510 verified (narration of Abu Dharr al-Ghifari)."
+  },
+  {
+    "id": "e03-ibn-taymiyyah-black-dog",
+    "type": "scholarly-opinion",
+    "title": "Ibn Taymiyyah on black animals and demonic manifestation in Majmu al-Fatawa",
+    "creators": [
+      "Ibn Taymiyyah"
+    ],
+    "url": "https://shamela.ws/book/12290/3932",
+    "locator": "Majmu al-Fatawa 19/52 (Kitab Ilm al-Suluk)",
+    "claim": "Ibn Taymiyyah explains that jinn frequently appear in the form of black dogs and black cats because blackness collects demonic power and possesses thermal energy.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1598,
+        "end_seconds": 1612,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "شيخ الاسلام ابن تيميه قال في الفتاوى الكلب الاسود شيطان الكلاب والجن تتصور بصورته كثيرا وكذلك بصوره القط الاسود لان السواد اجمع للقوى الشيطانيه من غيره وفيه قوه الحراره",
+        "excerpt_note": "Direct quotation from Majmu al-Fatawa."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Primary text verified in Majmu al-Fatawa 19/52."
+  },
+  {
+    "id": "e03-john-ramirez",
+    "type": "book",
+    "title": "Out of the Devil s Cauldron by John Ramirez",
+    "creators": [
+      "John Ramirez"
+    ],
+    "url": "https://www.goodreads.com/book/show/9622933-out-of-the-devil-s-cauldron",
+    "locator": "Out of the Devil s Cauldron, Chapters 4–6 (2010)",
+    "claim": "Former practitioner describing modern occult subcultures modifying their appearance (split tongues, horns, dark tattoos) to mimic entities encountered in altered states.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1734,
+        "end_seconds": 1761,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعض التائبين ذكر بالتفصيل ومنهم مثلا الامريكي جون راميرز وهو يعترف بانه شيطاني سابق والان مبشر ايفانجيلي قال في بعض كتبه ومحاضراته لما كان في ذلك العالم",
+        "excerpt_note": "Documenting testimony from an ex-practitioner."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "A Goodreads listing cannot verify the alleged content of chapters 4–6. Inspect the book passage or the original interview before claiming the body-modification attribution is verified.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://www.goodreads.com/book/show/9622933-out-of-the-devil-s-cauldron",
+        "locator": "Out of the Devil s Cauldron, Chapters 4–6 (2010)",
+        "notes": "Verified autobiographical publication."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "e03-eliphas-levi-baphomet",
+    "type": "occult-writing",
+    "title": "Éliphas Lévi drawing of Baphomet in Dogme et Rituel de la Haute Magie",
+    "creators": [
+      "Éliphas Lévi"
+    ],
+    "url": "https://gallica.bnf.fr/ark:/12148/bpt6k54366661",
+    "locator": "Dogme et Rituel de la Haute Magie, frontispiece to volume 2 (1856)",
+    "claim": "Drawing of the goat-headed Sabbatic Baphomet designed as an occult symbol of cosmic dualism, popularized in modern times as the face of Satan.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1841,
+        "end_seconds": 1852,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يعود في المشهور الى عام 1856 لما نشر الساحر والكاتب الفرنسي... اليفاس ليفي رسم لوحه مشهوره لكائن سماه بافوميت",
+        "excerpt_note": "Tracing the modern iconography of Baphomet."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified 1856 French publication. The presenter distinguishes this 19th-century occult invention from the actual unseen nature of jinn."
+  },
+  {
+    "id": "e03-templar-trials",
+    "type": "historical-record",
+    "title": "Inquisitorial trials of the Knights Templar (1307–1314)",
+    "creators": [
+      "Papal Commission of Clement V"
+    ],
+    "url": "https://www.britannica.com/topic/Templars",
+    "locator": "Trial transcripts under King Philip IV and Pope Clement V (1307–1314)",
+    "claim": "Historical interrogations where Templars were accused of worshiping an idol called Baphomet, likely derived from an Old French corruption of Mahomet.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1853,
+        "end_seconds": 1873,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لجماعه فرسان الهيكل الذين كانوا يعبدون بافومت بنفس الاسم... بعض المحققين قالوا ربما هو الاسم الفرنسي المحرف لمحمد صلى الله عليه وسلم",
+        "excerpt_note": "Historical etymology of the name Baphomet."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "An encyclopedia topic URL is not an inspected primary trial transcript. Separate the medieval name, specific accusations, etymology and later drawing; locate primary evidence for each.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://www.britannica.com/topic/Templars",
+        "locator": "Trial transcripts under King Philip IV and Pope Clement V (1307–1314)",
+        "notes": "Verified historical trial records and modern scholarly consensus on the medieval linguistic corruption."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "e03-church-of-satan",
+    "type": "occult-writing",
+    "title": "The Satanic Bible and Sigil of Baphomet by Anton LaVey",
+    "creators": [
+      "Anton LaVey"
+    ],
+    "url": "https://www.churchofsatan.com/history-sigil-of-baphomet/",
+    "locator": "The Satanic Bible (1969); official adoption of the Sigil of Baphomet",
+    "claim": "20th-century secular occult organization adopting the goat head in an inverted pentagram as their official trademark symbol.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 1904,
+        "end_seconds": 1912,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انتون لافي في القرن العشر كانت قد اخذت او ايضا تبنت هذا الشكل لبفومت واعتبرته هو شكل الشيطان الرسمي",
+        "excerpt_note": "Explaining modern diffusion of the symbol."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified organizational history."
+  },
+  {
+    "id": "e03-dore-lucifer",
+    "type": "art-work",
+    "title": "Gustave Doré engravings for Milton s Paradise Lost",
+    "creators": [
+      "Gustave Doré"
+    ],
+    "url": "https://www.artic.edu/artworks/147482/satan-approaching-the-court-of-chaos-from-paradise-lost",
+    "locator": "Illustrations for John Milton s Paradise Lost, Cassell (1866)",
+    "claim": "19th-century French engravings portraying Lucifer as a winged, heroic, muscular humanoid fallen angel.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 2023,
+        "end_seconds": 2029,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لوحه سقوط لوسيفر لجوستاف دوريه رسام فرنسي من القرن التاسع عشر",
+        "excerpt_note": "Contrasting Western aesthetic romanticization of Lucifer with Islamic revelation."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "Supplied museum URL could not be inspected in this audit. Specific object attribution, date and image still need an accessible collection record.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://www.artic.edu/artworks/147482/satan-approaching-the-court-of-chaos-from-paradise-lost",
+        "locator": "Illustrations for John Milton s Paradise Lost, Cassell (1866)",
+        "notes": "Verified historical illustrations."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "e03-liege-statue",
+    "type": "art-work",
+    "title": "Le génie du mal (The Genius of Evil) by Guillaume Geefs",
+    "creators": [
+      "Guillaume Geefs"
+    ],
+    "url": "https://www.belgianheritage.be/en/heritage/le-genie-du-mal",
+    "locator": "St. Paul s Cathedral, Liège, Belgium (installed 1848)",
+    "claim": "White marble sculpture depicting Lucifer as a handsome chained youth with bat wings.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 2030,
+        "end_seconds": 2035,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ونفس الهيئه نجدها ايضا في تمثال موجود حتى الان في كاتدرائيه ليج في بلجيكا",
+        "excerpt_note": "Artistic example of Western fallen angel lore."
+      }
+    ],
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": null,
+    "notes": "No inspected collection record or precise source passage is recorded to substantiate the supplied heritage URL. Recheck official cathedral/museum record.",
+    "verification_history": [
+      {
+        "status": "verified",
+        "checked_at": "2026-09-08",
+        "url": "https://www.belgianheritage.be/en/heritage/le-genie-du-mal",
+        "locator": "St. Paul s Cathedral, Liège, Belgium (installed 1848)",
+        "notes": "Verified architectural and sculptural installation in Liège Cathedral."
+      }
+    ],
+    "audit_status": "needs-primary-recheck",
+    "audit_date": "2026-09-09"
+  },
+  {
+    "id": "e03-umar-wrestling-jinn",
+    "type": "hadith",
+    "title": "Narration of Umar ibn al-Khattab wrestling a jinn in Sunan al-Darimi",
+    "creators": [
+      "Al-Darimi",
+      "Al-Bayhaqi",
+      "Ibn Mas ud"
+    ],
+    "url": "https://shamela.ws/book/1376/3422",
+    "locator": "Sunan al-Darimi 3381, 3422; Dala il al-Nubuwwah by al-Bayhaqi 7/48; al-Bidayah wa al-Nihayah 6/162",
+    "claim": "A jinn manifested in human form and wrestled Umar three times, and Umar threw him down each time, observing that his arms were like those of a frail dog.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 2246,
+        "end_seconds": 2275,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الاثر المنقول عن ابن مسعود ان عمر رضي الله عنه لقي جنيا فصارعه عمر بعد ان تشكل على هيئه رجل... اني لاراك ضئيلا شحيبا كان ذراعيك ذراعا كلب",
+        "excerpt_note": "Classical report illustrating the weakness of demonic physical manifestation against profound spiritual faith."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Transmitted from Abd Allah ibn Mas ud. Graded Sahih isnad by Ibn Kathir (al-Bidayah 6/162) and al-Haythami (Majma al-Zawa id 9/71)."
+  },
+  {
+    "id": "quran-37-7",
+    "type": "quran",
+    "title": "Quran 37:7",
+    "creators": [],
+    "url": "https://quran.com/37/7",
+    "locator": "37:7",
+    "claim": "And as protection against every rebellious devil (shaytan marid).",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 2408,
+        "end_seconds": 2415,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "والكافر هنا هو الذي جاء في الايه وحفظا من كل شيطان مارد هذا مارد ويحاول ان يسترق السمع من السماء",
+        "excerpt_note": "Linguistic and Quranic definition of marid."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-Saffat 37:7 verified."
+  },
+  {
+    "id": "quran-27-39",
+    "type": "quran",
+    "title": "Quran 27:39",
+    "creators": [],
+    "url": "https://quran.com/27/39",
+    "locator": "27:39",
+    "claim": "An ifrit from among the jinn said: I will bring it to you before you rise from your place, and indeed, I am strong and trustworthy for it.",
+    "mentions": [
+      {
+        "episode_id": "MfKjHJzryRw",
+        "start_seconds": 2450,
+        "end_seconds": 2465,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "قال عفريت من الجن انا اتيك به قبل ان تقوم من مقامك واني عليه لقوي امين قال بعض المفسرين هذا عفريت مؤمن",
+        "excerpt_note": "Quranic use of the term ifrit denoting power and capability in Sulayman s assembly."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-Naml 27:39 verified."
+  }
+]

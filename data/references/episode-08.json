@@ -1,0 +1,1510 @@
+[
+  {
+    "id": "e08-suwaidan",
+    "type": "scholar-opinion",
+    "title": "Tariq al-Suwaidan on jinn and possession",
+    "creators": [
+      "Tariq al-Suwaidan"
+    ],
+    "url": "https://suwaidan.com/jinn-and-magic-in-islam/",
+    "locator": "حقيقة تأثير الجن في حياة الناس, especially paragraph beginning يرى الدكتور طارق سويدان; published 5 May 2022, updated 29 July 2024",
+    "claim": "Opening clip disputes bodily possession; al-Suwaidan distinguishes belief in jinn from possession.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 0,
+        "end_seconds": 90,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم لنبدا هذه الحلقه بالاستماع الى مقطع قصير من حلقه من برنامج الوسطيه من تقديم الدكتور طارق السويدان والتي بثت في 2014 وكانت بعنوان تاثير السحر والجن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Own website explicitly states his position. This does not verify the alleged 2014 broadcast date, his US anecdote, or the site’s other historical and hadith claims."
+  },
+  {
+    "id": "e08-wasatiyya-date",
+    "type": "broadcast",
+    "title": "Al-Wasatiyya opening clip and US anecdote",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 0–70 seconds; independent locator pending",
+    "claim": "Presenter dates clip to 2014; host recalls 17 years in the US and one Muslim possession case.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 0,
+        "end_seconds": 70,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم لنبدا هذه الحلقه بالاستماع الى مقطع قصير من حلقه من برنامج الوسطيه من تقديم الدكتور طارق السويدان والتي بثت في 2014 وكانت بعنوان تاثير السحر والجن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Full original broadcast and date not checked. A personal acquaintance sample cannot establish prevalence. Guest opposing the host remains unnamed."
+  },
+  {
+    "id": "e08-historical-dissent",
+    "type": "scholarly-summary",
+    "title": "Historical dissent over possession",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 65–145 seconds; independent locator pending",
+    "claim": "Names Muʿtazila, some Shafiʿis, Ibn Hazm and Muhammad Abduh as exceptions to a broad historical majority.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 65,
+        "end_seconds": 145,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وعلى كل هذا الطرح واكدنا ما هو مؤكد في طوال التاريخ الاسلامي ان جمهور العلماء متفقين على وجود المسحقه السحر وتلبس الجن او الاستحواذ كما يسمى الان والذي عرفته",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Exact works, passages and extent of each position require individual checks; no claim of unanimity accepted."
+  },
+  {
+    "id": "e08-mutazila",
+    "type": "scholar-opinion",
+    "title": "Muʿtazilite positions on possession",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 65–145 seconds; independent locator pending",
+    "claim": "Presenter lists Muʿtazilite positions among dissenting views.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 65,
+        "end_seconds": 145,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وعلى كل هذا الطرح واكدنا ما هو مؤكد في طوال التاريخ الاسلامي ان جمهور العلماء متفقين على وجود المسحقه السحر وتلبس الجن او الاستحواذ كما يسمى الان والذي عرفته",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Separate source lead: original work, exact passage and extent of disagreement not identified. Do not infer denial of jinn from a disputed possession claim."
+  },
+  {
+    "id": "e08-shafiis",
+    "type": "scholar-opinion",
+    "title": "Unnamed Shafiʿi scholars on possession",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 65–145 seconds; independent locator pending",
+    "claim": "Presenter lists Unnamed Shafiʿi scholars among dissenting views.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 65,
+        "end_seconds": 145,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وعلى كل هذا الطرح واكدنا ما هو مؤكد في طوال التاريخ الاسلامي ان جمهور العلماء متفقين على وجود المسحقه السحر وتلبس الجن او الاستحواذ كما يسمى الان والذي عرفته",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Separate source lead: original work, exact passage and extent of disagreement not identified. Do not infer denial of jinn from a disputed possession claim."
+  },
+  {
+    "id": "e08-ibn-hazm",
+    "type": "scholar-opinion",
+    "title": "Ibn Hazm on possession",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 65–145 seconds; independent locator pending",
+    "claim": "Presenter lists Ibn Hazm among dissenting views.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 65,
+        "end_seconds": 145,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وعلى كل هذا الطرح واكدنا ما هو مؤكد في طوال التاريخ الاسلامي ان جمهور العلماء متفقين على وجود المسحقه السحر وتلبس الجن او الاستحواذ كما يسمى الان والذي عرفته",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Separate source lead: original work, exact passage and extent of disagreement not identified. Do not infer denial of jinn from a disputed possession claim."
+  },
+  {
+    "id": "e08-abduh",
+    "type": "scholar-opinion",
+    "title": "Muhammad Abduh on possession",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 65–145 seconds; independent locator pending",
+    "claim": "Presenter lists Muhammad Abduh among dissenting views.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 65,
+        "end_seconds": 145,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وعلى كل هذا الطرح واكدنا ما هو مؤكد في طوال التاريخ الاسلامي ان جمهور العلماء متفقين على وجود المسحقه السحر وتلبس الجن او الاستحواذ كما يسمى الان والذي عرفته",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Separate source lead: original work, exact passage and extent of disagreement not identified. Do not infer denial of jinn from a disputed possession claim."
+  },
+  {
+    "id": "e08-older-debate",
+    "type": "video",
+    "title": "Earlier al-Sabeel discussion of possession",
+    "creators": [
+      "al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=JTO_1Y8zYto&t=3768s",
+    "locator": "Description link and previously checked 2024 metadata",
+    "claim": "Presenter refers to an earlier discussion.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 70,
+        "end_seconds": 160,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "طوال التاريخ الاسلامي ان جمهور العلماء متفقين على وجود المسحقه السحر وتلبس الجن او الاستحواذ كما يسمى الان والذي عرفته كل الشعوب بالاستثناء حتى الشعوب التي لا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Older recording not fully read; outside the requested date window."
+  },
+  {
+    "id": "e08-psychiatry-materialism",
+    "type": "presenter-opinion",
+    "title": "Criticism of materialist psychiatry",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=120s",
+    "locator": "Arabic normalized captions, 120–230 seconds",
+    "claim": "Claims psychiatry rejects spiritual causes and many patients remain ill because jinn are overlooked.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 120,
+        "end_seconds": 230,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الدعويه نحن مضطرون هنا للتاكيد والتوضيح مره اخرى على ان امريكا نفسها غارقه بهذه الظواهر ولذلك هذه الحلقه ساستشهد فيها بقصه نشرت مؤخرا تتحدث فيها سيده امريكيه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No treatment-outcome study cited. Omitted as medical fact; NIMH added independently for context. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-trauma-cause",
+    "type": "presenter-opinion",
+    "title": "Childhood abuse and spiritual vulnerability",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=170s",
+    "locator": "Arabic normalized captions, 170–240 seconds",
+    "claim": "Presenter proposes abuse makes people targets for spirits.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 170,
+        "end_seconds": 240,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هم يعترفون بانفسهم معظم هذه الامراض حتى لو تم تشخيصها بالظواهر التي يمكن مشاهدتها ولكن علاجها لا يمكن الاكتفاء فيه بالادويه ولا بالعلاج السلوكي حتى لو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Unproven causal theory; victim-blaming implications must not enter article as fact. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-pew",
+    "type": "survey",
+    "title": "New Age beliefs common among both religious and nonreligious Americans",
+    "creators": [
+      "Claire Gecewicz",
+      "Pew Research Center"
+    ],
+    "url": "https://www.pewresearch.org/short-reads/2018/10/01/new-age-beliefs-common-among-both-religious-and-nonreligious-americans/",
+    "locator": "1 October 2018; four-belief definition and paragraph comparing atheists, agnostics and nothing in particular",
+    "claim": "Episode loosely invokes a third of atheists/nonreligious people and infers belief in spiritual possession.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 200,
+        "end_seconds": 266,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "رابط لمن يريد ان يعود اليها وساعلق على اهم النقاط التي ذكرتها اهمها قضيه انه الطفل الذي يتعرض رض للتحرش والاغتصاب في طفولته يصبح هدفا للشياطين لما يكبر ايضا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Article gives 22% of atheists, 56% of agnostics and 80% of nothing-in-particular respondents at least one of four beliefs: psychics, reincarnation, astrology, spiritual energy in objects. Possession is not one of the measured outcomes. Direct text inspected; full survey methods not audited."
+  },
+  {
+    "id": "e08-identity-causation",
+    "type": "presenter-opinion",
+    "title": "Sexuality and gender linked to demonic influence",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=200s",
+    "locator": "Arabic normalized captions, 200–266 seconds",
+    "claim": "Presenter associates identity categories with spiritual influence.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 200,
+        "end_seconds": 266,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "رابط لمن يريد ان يعود اليها وساعلق على اهم النقاط التي ذكرتها اهمها قضيه انه الطفل الذي يتعرض رض للتحرش والاغتصاب في طفولته يصبح هدفا للشياطين لما يكبر ايضا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Unsupported generalization about groups, omitted from article. The original interview distinguishes accusations against individuals from transgender people generally. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-swu-biography",
+    "type": "biography",
+    "title": "Mark Laita and Soft White Underbelly",
+    "creators": [
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.softwhiteunderbelly.com/videos/kimberly-cult",
+    "locator": "Publisher interview landing page",
+    "claim": "Channel biography, years active and approximately seven million subscribers.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 266,
+        "end_seconds": 370,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "القصه التي سنستشهد بها بثت على قناه على اليوتيوب اسمها سوفت وايت اندربي اسسها مصور امريكي اسمه مارك ليتا قبل 10 سنوات وخصصها لاجراء مقابلات مع المهمشين في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Landing page identifies interview, not all biography/count claims. Counts not needed in article; do not turn selected interviews into a representative sample."
+  },
+  {
+    "id": "e08-america-sample",
+    "type": "presenter-opinion",
+    "title": "Social conclusions from interview selection",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=290s",
+    "locator": "Arabic normalized captions, 290–390 seconds",
+    "claim": "Interviews are offered as a portrait of American social decline.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 290,
+        "end_seconds": 390,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "معاناه شخصيه معاناه تكون غالبا كارثيه ومؤلمه وجارحه فيضعهم امام الكاميرا فقط ويعطيهم مايك بابسط الامكانيات وهو احيانا يسالهم حتى يفتح لهم الباب لانهم غير",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Editorial opinion, not representative demographic evidence. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-interview",
+    "type": "interview",
+    "title": "How I Became Part of a Cult-Kimberly",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 0–3069 seconds; track acquired 15 September 2026",
+    "claim": "Kimberly tells an account of an occult group, frightening experiences and religious relief.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 266,
+        "end_seconds": 390,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "القصه التي سنستشهد بها بثت على قناه على اليوتيوب اسمها سوفت وايت اندربي اسسها مصور امريكي اسمه مارك ليتا قبل 10 سنوات وخصصها لاجراء مقابلات مع المهمشين في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "YouTube metadata: uploaded 21 May 2026, duration 3069 seconds. Publisher page retains title How I Became Part of a Satanic Cult-Kimberly and a 49-minute label; use current hashed YouTube track for timestamps. Sponsor segment excluded from adaptation. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-childhood",
+    "type": "interview",
+    "title": "Kimberly’s account of childhood abuse",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 0:30–8:30; track acquired 15 September 2026",
+    "claim": "Kimberly describes abuse in her extended family.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 370,
+        "end_seconds": 510,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "على كل المجتمع الامريكي ولكن هذا يعطينا فكره الى اين وصل التدهور بهذه الحضاره وهي في طور الانحدار كما هو معروف المهم لدينا الان موضوعنا في هذه الحلقه هو قصه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Original identifies maternal family, not the paternal grandmother stated in the Arabic retelling. Graphic details and alleged perpetrators’ identities omitted. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-fitra-abuse",
+    "type": "presenter-opinion",
+    "title": "Interpretation of abuse as a ritual attack on fitrah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=395s",
+    "locator": "Arabic normalized captions, 395–505 seconds",
+    "claim": "Presenter connects deliberate trauma, corruption of fitrah and possession.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 395,
+        "end_seconds": 505,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يريد ان يعود ليها كامله مع التعليق على اهم النقاط خصوصا نحن نعلق منظورنا الاسلامي هي سيده عمرها 43 سنه ضخمه وقويه وتعلمت الملاكمه تبدا القصه بطفولتها تقول",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No independent proof or religious text establishes this mechanism. Abuse survivors must not be described as spiritually tainted. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-housing",
+    "type": "interview",
+    "title": "Housing insecurity and the Oregon rental",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 11:00–14:30; track acquired 15 September 2026",
+    "claim": "After a notice to leave her home, Kimberly rents a room while her children stay with their father.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 470,
+        "end_seconds": 550,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا هذا يعني مشروع انشاء جيل او مجموعه من الناس اللي من طفولتهم كانوا مهيئ اين اكثر يعني ان يكونوا اكثر قربا للشيطان واكثر ارضاء له مثل ايماء وعبيد للشيطان",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Rental is in east Medford; later 40:00 vicinity places the alleged group in Ashland. Homeowner and alleged leader are different people. Original does not confirm every financial detail. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-leader-identity",
+    "type": "interview",
+    "title": "The house occupants and alleged leader",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 12:00–16:00; 27:00–28:30; track acquired 15 September 2026",
+    "claim": "Kimberly distinguishes the homeowner, an alleged group leader and a third occupant.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 515,
+        "end_seconds": 595,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ابيهم اللي هو اصلا مستقل وهي بدات تبحث عن سكن قالت وجدت اعلانا في جريده عن غرفه تؤجر في بيت مسكون وهذا شائع طبعا في الغرب واستغربت انه البيت فاخر وفخم في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Avoid merging homeowner with leader. She is uncertain about the third occupant’s involvement. Incidental private names and protected identity details are unnecessary to the public article. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-entheogen-role",
+    "type": "interview",
+    "title": "The leader’s claimed role",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 14:30–16:00; track acquired 15 September 2026",
+    "claim": "She describes the leader as an entheogenic historian.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 560,
+        "end_seconds": 625,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "امراتين هم اصلا ايضا اعضاء في الطائفه كانت فرصه لها لتسكن بايجار رخيص خصوصا هي في هذا الوضع المادي السيء المهم في المقابله وافقوا على ان تكون معهم دفعت",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "This is a reported self-description, not an independently checked qualification. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-lotus-botany",
+    "type": "botanical-claim",
+    "title": "Identification and effects of blue lotus",
+    "creators": [],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34345890/",
+    "locator": "Independent case-series lead; plant identity of interview drink unknown",
+    "claim": "Presenter identifies Nymphaea caerulea and describes relaxation and altered awareness.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 565,
+        "end_seconds": 650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في هذا الوضع المادي السيء المهم في المقابله وافقوا على ان تكون معهم دفعت الايجار وهي مستغربه من رخص هذا الايجار وسكنت في غرفه لوحدها وبدات ترى ان صاحب",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "The botanical name is used in the case-series title; that does not authenticate this drink or the episode’s asserted mechanism."
+  },
+  {
+    "id": "e08-lotus-legality",
+    "type": "legal-claim",
+    "title": "Legal status of blue lotus",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 580–645 seconds; independent locator pending",
+    "claim": "Presenter describes blue lotus as legal/not banned.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 580,
+        "end_seconds": 645,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الى امر ما كان يقدم نفسه لها على انه امراه مؤرخه متخصصه بما يسمى انثيوجين اللي هي العقاقير النباتيه والفطريه التي تغير الوعي وانصحنا بالعوده للحلقه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No jurisdiction, date or governing text specified. Omit universal legal assertion."
+  },
+  {
+    "id": "e08-lotus-entity-studies",
+    "type": "study-claim",
+    "title": "Unnamed studies of lotus and entity encounters during sleep",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 590–675 seconds; independent locator pending",
+    "claim": "Presenter invokes research for entity encounters associated with lotus and sleep.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 590,
+        "end_seconds": 675,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تغير الوعي وانصحنا بالعوده للحلقه السابقه التي تحدثنا فيها عن العقاقير المهلوسه وكيف تستخدم تاريخيا ومما قبل التاريخ للاتصال بالكيانات اللي هي في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No named experiment, paper, authors, participant count or inspected findings. Independent toxicity paper is not a substitute for this missing source."
+  },
+  {
+    "id": "e08-lotus-case-series",
+    "type": "study",
+    "title": "Toxicity From Blue Lotus (Nymphaea caerulea) After Ingestion or Inhalation: A Case Series",
+    "creators": [
+      "Mackenzie Schimpf",
+      "Thomas Ulmer",
+      "Hugh Hiller",
+      "Alexander F. Barbuto"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34345890/",
+    "locator": "Abstract; DOI 10.1093/milmed/usab328; first online 4 August 2021; Military Medicine 188(7–8), 2023",
+    "claim": "Independent clinical context: five patients with altered mental status following reported blue-lotus product use.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 565,
+        "end_seconds": 675,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "في هذا الوضع المادي السيء المهم في المقابله وافقوا على ان تكون معهم دفعت الايجار وهي مستغربه من رخص هذا الايجار وسكنت في غرفه لوحدها وبدات ترى ان صاحب",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Added editorial source, not the episode’s unnamed study. Abstract inspected, not full paper. Four inhalation exposures and one infused beverage; supportive care. Does not establish frequency of harm, this interview’s ingredients, or supernatural encounters."
+  },
+  {
+    "id": "e08-egypt-atum",
+    "type": "historical-claim",
+    "title": "Atum, Ra and the lotus creation motif",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 640–696 seconds; independent locator pending",
+    "claim": "Presenter describes a deity emerging from a lotus and associates the story with Atum and Ra.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 640,
+        "end_seconds": 696,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ببعض الفتور مثل الحشيش تقريبا يعني طبعا لذلك هو حرام يعني لانه الاسم الاسلام ينهي عن كل مسكر ومفتر فهذا مفتر فيعطيك شعور بالاسترخاء ولكن بعد ذلك لما تدخل في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Specific myth/edition unresolved. Met Nefertum object is a related source, not confirmation of every attribution."
+  },
+  {
+    "id": "e08-lotus-mummies",
+    "type": "historical-claim",
+    "title": "Lotus petals and royal mummies",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 650–696 seconds; independent locator pending",
+    "claim": "Presenter says lotus petals were used with royal mummies.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 650,
+        "end_seconds": 696,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النوم في حالات كثيره وليس دائما يلتقي فعلا بالكيانات لذلك بعض هؤلاء يستخدمونها مع عقاقير اخرى وايضا زهره اللوتس كما ذكرت هي كانت مقدسه عند الفراعنه ونرى",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No excavation report, identified burial or museum object inspected for this claim."
+  },
+  {
+    "id": "e08-nefertum",
+    "type": "museum-object",
+    "title": "Nefertum, Metropolitan Museum of Art, object 04.2.455",
+    "creators": [
+      "The Metropolitan Museum of Art"
+    ],
+    "url": "https://www.metmuseum.org/art/collection/search/570682",
+    "locator": "Curatorial description and object details: Late Period–Ptolemaic Period, 664–30 BCE",
+    "claim": "Lotus symbolism has an Egyptian religious context.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 640,
+        "end_seconds": 696,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "ببعض الفتور مثل الحشيش تقريبا يعني طبعا لذلك هو حرام يعني لانه الاسم الاسلام ينهي عن كل مسكر ومفتر فهذا مفتر فيعطيك شعور بالاسترخاء ولكن بعد ذلك لما تدخل في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Added independent context. Curatorial text describes Nefertum born from a lotus on the mound of creation and solar associations. It does not establish this modern group’s practices, a psychoactive recipe, or the episode’s precise Atum attribution."
+  },
+  {
+    "id": "e08-leader-podcasts",
+    "type": "recording-leads",
+    "title": "Podcasts attributed to the alleged group leader",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original interview 14:30–16:00 and 39:00–40:30 supplies ASR leads only",
+    "claim": "Presenter says he inspected the leader’s podcasts and channels.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 696,
+        "end_seconds": 780,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نعود الان للقصه هذه السيده او هذا الرجل المتحول لديه بودكاست خاص به ولديه قنا قناته على اليوتيوب ضعيفه انا شاهدتها وغير مشهور عنده بعض الاتباع فقط هي تقول",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Possible ASR leads: Arishta Dean; Rock Recham (possibly Rak Razam); Green Goddess; Priesthood of Nefertem. Spellings/identity not resolved; no leader recording inspected. Do not equate identification in a witness account with verification of group allegations."
+  },
+  {
+    "id": "e08-leader-biography",
+    "type": "biographical-claim",
+    "title": "Programmer, Silicon Valley wealth and age of alleged leader",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 696–780 seconds; independent locator pending",
+    "claim": "Presenter provides background details about the alleged leader.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 696,
+        "end_seconds": 780,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نعود الان للقصه هذه السيده او هذا الرجل المتحول لديه بودكاست خاص به ولديه قنا قناته على اليوتيوب ضعيفه انا شاهدتها وغير مشهور عنده بعض الاتباع فقط هي تقول",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No primary biography inspected; unnecessary identifying details omitted."
+  },
+  {
+    "id": "e08-coffee",
+    "type": "interview",
+    "title": "Alleged spiking and physical weakness",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 15:30–17:40; track acquired 15 September 2026",
+    "claim": "Kimberly suspects coffee was altered after she experienced weakness and numbness.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 735,
+        "end_seconds": 830,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفرعوني ولاحظوا هذا كله مكشوف يعني يعني هذا لا يعتبر خارج القانون نعود الى قصه كمبرلي تقول كان يعطيها القهوه كل صباح قبل ان تذهب الى عملها في احد الايام لما",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No toxicology evidence; symptoms and suspicion are separate. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-pain-belief",
+    "type": "interview",
+    "title": "Kimberly’s interpretation of suffering",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 0:00–0:30; 16:00–18:00; track acquired 15 September 2026",
+    "claim": "Kimberly believes evil entities feed on suffering.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 785,
+        "end_seconds": 855,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "are spiritual forces in this world that are very real but they need you to be in a lot of pain during their torture. اذا كما راينا هي تقول انه الشياطين لما",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "A spiritual interpretation by the witness; not measured energy transfer. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-aura-energy",
+    "type": "presenter-opinion",
+    "title": "Aura and energy explanation",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=790s",
+    "locator": "Arabic normalized captions, 790–890 seconds",
+    "claim": "Presenter expands the witness’s account into an energy/aura mechanism.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 790,
+        "end_seconds": 890,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "a lot of pain during their torture. اذا كما راينا هي تقول انه الشياطين لما يدخلوا في هذا المشروع للاستحواذ على شخص ما يريدونك ان تبقى تعاني وتتالم هذا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No independently inspected experiment supports it. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-christian-categories",
+    "type": "presenter-opinion",
+    "title": "Christian and Jewish categories of spirits",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=840s",
+    "locator": "Arabic normalized captions, 840–910 seconds",
+    "claim": "Presenter generalizes about angels, fallen angels and the absence of a jinn category.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 840,
+        "end_seconds": 910,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اكثر من مره ايضا لا يهم انك تؤمن بالله او تؤمن بالشياطين وهي ايضا دائما تتحدث باسلوب احترامها للصبابيه السياسيه يعني انت لا تريد ان تؤمن اوكي انا احترمك ولكن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Broad comparative theology requires tradition-specific primary texts; omitted as universal claim. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-egyptian-flattery",
+    "type": "interview",
+    "title": "Egyptian imagery and spiritual flattery",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 18:00–20:30; track acquired 15 September 2026",
+    "claim": "She says the leader praised her eyes and connected her with Egyptian religious imagery.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 875,
+        "end_seconds": 985,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "صالح وفيه شرير فهذا ايضا يسبب لهم هذا الاشكال نعود الان الى القصه بدا ايضا يستدرجها اكثر فكان دائما يقول لها عيونك مصريه تشبه الالهه سخمت من باب الاستدراج",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Sekhmet spelling supported by context but audiovisual confirmation still pending; avoids endorsing a claimed past life. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-drink",
+    "type": "interview",
+    "title": "Uncertain contents of the ceremonial drink",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 20:00–21:00; 31:30–33:00; track acquired 15 September 2026",
+    "claim": "Presenter describes DMT and LSD together with lotus; witness lists possible substances.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 910,
+        "end_seconds": 1020,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اقوى المهلوسات واللي تحدثنا عنهم في حلقه خاصه دي ام تي وال اس دي مع انه تاثير كل واحد منهم مختلف لكن اذا اجتمعوا تكون النتيجه كارثيه خلال ثواني فورا بدات ترى",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Witness says DMT, LSD or psilocybin as alternatives, not a chemically confirmed simultaneous DMT/LSD mixture. Actual contents unresolved. No preparation details reproduced. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-american-drug-use",
+    "type": "prevalence-claim",
+    "title": "Claim about most Americans having used drugs",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 920–985 seconds; independent locator pending",
+    "claim": "Presenter suggests broad prevalence of drug experience.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 920,
+        "end_seconds": 985,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عالم اخر انفصلت عن وعيها بالمحيط ولكن هي تستطيع ان تسمع وروحها تحلق وتذهب الى العوالم الاخرى وتكون مستعده للتواصل مع الشياطين وتقول هي ايضا انها جربت مخدرات",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No population, drug category, date or survey identified; omitted."
+  },
+  {
+    "id": "e08-mesmer-history",
+    "type": "history",
+    "title": "Mesmer and the history of hypnotism",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 965–1045 seconds; independent locator pending",
+    "claim": "Presenter connects modern hypnosis terminology and practice with Mesmer.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 965,
+        "end_seconds": 1045,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قديم من ايام دكتور اسمه مزمر ربطها بالمغناطيس المصطلح الان صار التنويم الايحائي انا جربته بنفسي على بعض اصدقائي من زمان قبل 20 سنه قرات كم كتاب في هذا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Historical edition/source not located in this pass; do not conflate hypnotic suggestion with a proven magnetic force."
+  },
+  {
+    "id": "e08-hypnosis-practice",
+    "type": "presenter-opinion",
+    "title": "Presenter’s personal experience with hypnosis",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=965s",
+    "locator": "Arabic normalized captions, 965–1055 seconds",
+    "claim": "Dadoosh says he read books and tried hypnosis on friends about twenty years earlier, and that hypnosis does not necessarily involve demons.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 965,
+        "end_seconds": 1055,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قديم من ايام دكتور اسمه مزمر ربطها بالمغناطيس المصطلح الان صار التنويم الايحائي انا جربته بنفسي على بعض اصدقائي من زمان قبل 20 سنه قرات كم كتاب في هذا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Preserve the explicit qualification; it is a personal account, not a clinical competence assessment. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-guided-experience",
+    "type": "interview",
+    "title": "Guided imagery and perceived intrusion",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 21:00–24:30; track acquired 15 September 2026",
+    "claim": "Kimberly recalls a guided Egyptian scene, an inner growling sound, terror and abruptly ending the experience.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 990,
+        "end_seconds": 1120,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بمحيطه ولكن اذا هو استسلم بالفعل واراد بالفعل ان يسير بالتوجيهات التي انت توجهه بها اذا وثق بك طبعا فانت تهيئه لتخيل امر ما فكانه بالفعل نائم ويرى الحلم الذي انت",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Subjective recall, not independent verification of a past life or an entering entity. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-nightmares",
+    "type": "interview",
+    "title": "Distress after leaving the house",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 24:00–25:30; 33:00–39:00; track acquired 15 September 2026",
+    "claim": "Kimberly reports frightening sleep experiences and chest pressure.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1090,
+        "end_seconds": 1170,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "استيقظت فورا من الرعب وقالت له ما الذي فعلت به؟ فهو كان مستغرب يقول للماذا استيقظتي لسه احنا ما خلصنا فتقول غادرت وانا مستاء من الشقه وذهبت لتنام في بيت",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Original locates acute distress over weeks; do not diagnose or infer a supernatural cause. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-locked-room",
+    "type": "interview",
+    "title": "The locked room and alleged ritual objects",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 28:30–31:30; track acquired 15 September 2026",
+    "claim": "She describes entering a locked room and finding objects and journals she found alarming.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1150,
+        "end_seconds": 1260,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عالم الشياطين ليس فقط لكي يعصو الله لكي تمسخ الفطره فهذا معروف ايضا في هيئه بافومت المعروفه تقليديا والمرسوم على هيئه جسد انثى وراس تيس والجسد نفسه ترى",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "She says she broke into the room. Jewelry looked like human bones to her: no forensic identification. Journal allegations do not establish human sacrifice; no police record inspected. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-baphomet-identity",
+    "type": "presenter-opinion",
+    "title": "Baphomet and gender speculation",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=1180s",
+    "locator": "Arabic normalized captions, 1180–1270 seconds",
+    "claim": "Presenter links dual-sex symbolism and identities to occultism.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1180,
+        "end_seconds": 1270,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وضعتها في كيس اسود واخذته الى الشرطه هنا المفارقه قالوا لها اعيدي هذه الاشياء والا فانت سارقه مين سمح لك تاخذي هذه الاشياء قالت لهم شوفوا ايش بيعمل بالناس",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Unsubstantiated inference about groups; omitted from article. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-police",
+    "type": "interview",
+    "title": "Reported exchanges with police",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 30:30–33:30; 50:00–51:00; track acquired 15 September 2026",
+    "claim": "She says police required return of belongings and did not resolve her complaint.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1210,
+        "end_seconds": 1350,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اي تشريع الماني في بلد مسلم كما هو حالنا اليوم في البلاد المسلمه الخاضعه للثقافه الغربيه لا تستطيع ان تقتل الساحر ولا ان تحاكمه ولا تحاسبه لانه ما عندك في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Closing account also says another complainant could help pursue charges. Neither police records nor an official response has been obtained. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-religious-freedom",
+    "type": "legal-claim",
+    "title": "Religious freedom and criminal investigation",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1230–1335 seconds; independent locator pending",
+    "claim": "Presenter treats secular religious freedom as preventing investigation of occult groups.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1230,
+        "end_seconds": 1335,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هذه قضيه ايمانيه نفسيه بحته امر يتعلق بك لا نستطيع ان نثبتها ولا ننكرها فحتى حتى لو كان الشرطي والقاضي مؤمن القانون نفسه لا يسمح له بذلك لذلك اقول دائما الشيطان",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No applicable statute or case cited. Witness account is not proof of general legal immunity. No legal advice or blanket assertion published."
+  },
+  {
+    "id": "e08-sorcery-penalty",
+    "type": "fiqh-claim",
+    "title": "Capital punishment for sorcery",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1250–1340 seconds; independent locator pending",
+    "claim": "Presenter states an Islamic penalty for sorcery.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1250,
+        "end_seconds": 1340,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الحضارات الكبرى كلها بلا استثناء الا الحضاره الاسلاميه والتي عبدت الله عن طريق الانبياء كل هذه الحضارات كانت حضارات وثنيه شيطانيه كان الشيطان متجسدا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No specific text, legal authority, evidentiary conditions or school distinction supplied. Not published as a blanket ruling or private enforcement instruction."
+  },
+  {
+    "id": "e08-epstein-conspiracy",
+    "type": "presenter-opinion",
+    "title": "Epstein and wider elite ritual allegations",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=1270s",
+    "locator": "Arabic normalized captions, 1270–1360 seconds",
+    "claim": "Presenter links elite abuse allegations to ritual activity.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1270,
+        "end_seconds": 1360,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "موجود حتى لا تحاسبه حتى لا تلاحقه وخلاص بالنسبه لك غير موجود فماذا ستفعل معه الان ولكن في نفس الوقت قاده العالم وكما ظهر لنا من ملفات ابستين التي فتحت يؤمنون",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No inspected primary evidence establishes this proposed connection. Omitted from article; actual abuse and an alleged occult explanation must not be conflated. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-homelessness",
+    "type": "interview",
+    "title": "Homelessness and attempts to find help",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 33:00–39:00; track acquired 15 September 2026",
+    "claim": "Kimberly reports living in her car and difficulty being believed by authorities.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1330,
+        "end_seconds": 1450,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شياطين يسخرون منها انت مجنونه روحي دبري نفسك ذهبت بالفعل الى اطباء نفسيين عن طريق الدعم الحكومي طبعا نعود لنفس القصه التي ذكرناها الطب النفسي هنا لا ينجح",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "A serious account of distress. No independent case records or other parties’ responses inspected. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-diagnosis",
+    "type": "interview",
+    "title": "Claim of psychiatric diagnosis and failed treatment",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, Complete track 0–3069 seconds, especially 33:00–39:00; track acquired 15 September 2026",
+    "claim": "Arabic retelling implies psychosis/schizophrenia diagnosis and psychiatric treatment failure.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1350,
+        "end_seconds": 1460,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يصابون بها باسباب جينيه وكيميائيه ولكن في ناس يصابون بها بامراض روحيه والاعراض نفسها جزء منها يكون متكررا نفسه نفس اعراض التوحد وكل الامراض اللي تعرفها",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Original captions do not report a formal diagnosis by a psychiatrist or a documented medication course. Being called crazy by officials or fearing detention is not equivalent. No diagnostic conclusion about Kimberly is drawn. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-fanjan",
+    "type": "interview",
+    "title": "هل أنت مكتئب فعلًا (Are you actually depressed?)",
+    "creators": [
+      "Ahmad al-Shaye",
+      "Thmanyah / Fanjan"
+    ],
+    "url": "https://thmanyah.com/post/1jysxh0xks_1jhggnmybp",
+    "locator": "Publisher episode page, 10 March 2024; introductory description and guest identification",
+    "claim": "Presenter invokes Ahmad al-Shaye on Fanjan to support criticism of psychiatric treatment.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1410,
+        "end_seconds": 1485,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بالكامل كثير من المرضى نفسيين معظمهم وهذا مؤكد قراته باكثر من مصدر حتى لو انت شخصت المرض وعرفت اعراضه وبالفعل هي تتقاطع مع كل ما قراته وتعلمته المؤكد",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Publisher page read and guest/title/date identified. It discusses diagnostic complexity and mild symptoms, not proof that most disorders are possession or that treatment cannot help. Full recording and exact claimed quotation NOT inspected; status remains identified."
+  },
+  {
+    "id": "e08-nimh",
+    "type": "medical-context",
+    "title": "Understanding Psychosis",
+    "creators": [
+      "National Institute of Mental Health"
+    ],
+    "url": "https://www.nimh.nih.gov/health/publications/understanding-psychosis",
+    "locator": "What causes psychosis?; How is psychosis treated?; NIMH research on coordinated specialty care; publication 23-MH-8110",
+    "claim": "Independent clinical context: symptoms have multiple possible causes and effective care can support recovery.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1330,
+        "end_seconds": 1485,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "شياطين يسخرون منها انت مجنونه روحي دبري نفسك ذهبت بالفعل الى اطباء نفسيين عن طريق الدعم الحكومي طبعا نعود لنفس القصه التي ذكرناها الطب النفسي هنا لا ينجح",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Added editorial context, not a diagnosis of the interviewee. Direct body read: trauma, sleep loss and substances among relevant factors; professional assessment and early treatment matter."
+  },
+  {
+    "id": "e08-church",
+    "type": "interview",
+    "title": "Prayer, baptism and practical support",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 36:00–39:00; 42:00–45:30; track acquired 15 September 2026",
+    "claim": "Kimberly attributes relief to turning to God and baptism; the church also helped with daily needs.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1450,
+        "end_seconds": 1540,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جديه بالانتحار في النهايه بالصدفه اكتشفت انه في جماعه تابعه لاحدى الكنائس يمكن ان تستمع لهذه الحالات من باب المساعده النفسيه ذهبت الى القص وذكرت له القصه وهو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Witness says acute experiences ended after baptism and did not recur; earlier eight-year statement concerns explaining the experience. Church assistance included housing, fuel, food and companionship. No controlled treatment comparison. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-other-faith-healing",
+    "type": "presenter-opinion",
+    "title": "Interpretation of reported healing outside Islam",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=1450s",
+    "locator": "Arabic normalized captions, 1450–1550 seconds",
+    "claim": "Presenter explains spiritual relief outside Islam and contrasts it with Quranic ruqyah.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1450,
+        "end_seconds": 1550,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جديه بالانتحار في النهايه بالصدفه اكتشفت انه في جماعه تابعه لاحدى الكنائس يمكن ان تستمع لهذه الحالات من باب المساعده النفسيه ذهبت الى القص وذكرت له القصه وهو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "The theological interpretation is not proof of the cause of this witness’s improvement or a clinical cure guarantee. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-ruqyah",
+    "type": "hadith",
+    "title": "Ruqyah without shirk",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2200",
+    "locator": "Sahih Muslim 2200; Book 39, Hadith 86; report of Awf ibn Malik",
+    "claim": "Islamic textual context for distinguishing ruqyah from invocations involving shirk.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1450,
+        "end_seconds": 1550,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "جديه بالانتحار في النهايه بالصدفه اكتشفت انه في جماعه تابعه لاحدى الكنائس يمكن ان تستمع لهذه الحالات من باب المساعده النفسيه ذهبت الى القص وذكرت له القصه وهو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      },
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1941.919,
+        "end_seconds": 1970.59,
+        "normalized_segment_indices": [
+          670,
+          671,
+          672,
+          673,
+          674,
+          675,
+          676,
+          677,
+          678,
+          679,
+          680
+        ],
+        "raw_excerpt_ar": "واستشهدوا ايضا بالحديث في صحيح مسلم ان النبي صلى الله عليه وسلم قال اعرضوا علي رقاكم ولا باس بالرقى ما لم تكن شركا لا يقال مره اخرى انه بعد ما اقرها النبي",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter.",
+        "checked_at": "2026-09-21",
+        "verification_note": "Muslim 2200 independently reread, Auf ibn Malik; excludes shirk."
+      }
+    ],
+    "notes": "Arabic and English directly read. Added editorial textual context; the episode does not explicitly cite this numbered report. Does not establish this particular case as possession."
+  },
+  {
+    "id": "e08-halloween-allegation",
+    "type": "interview",
+    "title": "Timing and alleged sacrifice",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 38:00–40:00; 45:30–47:00; track acquired 15 September 2026",
+    "claim": "Kimberly places the incident near Halloween 2018 and alleges a plan for a sacrifice.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1510,
+        "end_seconds": 1620,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاقوى والانجح واللي يؤدي للنتيجه الكامله والمؤكده نعود الان ايضا للقصه تقول ان الطائفه هذه التي ابتليت بها هي طائفه جنسيه تمارس طقوس جنسيه بالتوازي مع",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "She did not report witnessing the proposed sacrifice. Presenter expressly allows uncertainty over what would be sacrificed. No proof of human sacrifice or trafficking obtained. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-halloween-history",
+    "type": "history",
+    "title": "Samhain and All Saints’ Day chronology",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1540–1635 seconds; independent locator pending",
+    "claim": "Presenter links Halloween to Celtic practice and an eighth-century change under Gregory III.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1540,
+        "end_seconds": 1635,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يضحون بماذا غالبا لا يضحون ببشر بحيوانات واحيانا بممارسه الجنس الشائع طبعا كما نعرف انه الهالوين هو عيد مسيحي هو المساء الذي يسبق عيد جميع القديسين في 1 نوفمبر",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Precise dates, institutions and primary historical text unverified. Omitted historical digression rather than converting a broad association into proof about a modern group."
+  },
+  {
+    "id": "e08-nine-months",
+    "type": "recording-claim",
+    "title": "Nine-month preparation theory",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Witness 38:00–40:00; alleged underlying podcasts uninspected",
+    "claim": "Presenter and witness refer to a preparation period described in the alleged leader’s recordings.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1590,
+        "end_seconds": 1695,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جميع القديسين اللي كان عيد مسيحي بعد ان نقله من موعده في الصيف في مايو نقله الى 1 نوفمبر حتى يدمجه مع عيد الهالوين هذا موضوع اخر لا يهمنا ولكن المفارقه ايضا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Testimony identifies a source lead; exact original words, author and recording date remain unresolved."
+  },
+  {
+    "id": "e08-forest-contact",
+    "type": "presenter-opinion",
+    "title": "Unnamed acquaintance’s forest encounter",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=1620s",
+    "locator": "Arabic normalized captions, 1620–1716 seconds",
+    "claim": "Presenter recounts someone known to him describing an entity seen with an ordinary companion.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1620,
+        "end_seconds": 1716,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المقابلات الاعلاميه ويقول انه الاعضاء الذين ينتسبون الى طائفته يحتاجون الى التحضير العقلي والعاطفي تسعه شهور قبل ان يعطيهم الجرعه التي يحضرها من زهره اللوتس",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "No original interview or independent witness statement obtained; do not merge automatically with episode-six accounts. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-public-disclosure",
+    "type": "interview",
+    "title": "Reason for speaking publicly",
+    "creators": [
+      "Kimberly",
+      "Soft White Underbelly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "Original English automatic captions, 48:30–50:00; track acquired 15 September 2026",
+    "claim": "Kimberly says recent public discussion of abuse helped prompt her disclosure.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1670,
+        "end_seconds": 1716,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تهيا نفسيا وكان ياخذ هذه الملوسات فبعد تحضير طويل بالفعل صار هو يقدم نفسه للشيطان فكان عنده شيطان خاص به يستحوذ عليه حرفيا ويمشي معه يعني يقول انا ادخل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Her reason for speaking does not independently connect this group with another criminal case. Complete 1,561-segment English caption track read; no audiovisual check. Verification is limited to what the interviewee reports, not confirmation of crimes, chemical composition or supernatural cause. See research/sources/XtynXtx_g20-review.md."
+  },
+  {
+    "id": "e08-qarin-plan",
+    "type": "presenter-opinion",
+    "title": "A proposed demonic plan",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=1716s",
+    "locator": "Arabic normalized captions, 1716–1815 seconds",
+    "claim": "Explicitly personal interpretation: spirits or the qarin identified vulnerability and arranged a cheap room to recruit Kimberly.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1716,
+        "end_seconds": 1815,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الان اختم بما لم تقله كمبرلي لانه ما عندها ثقافه اسلاميه ولا ثقافه عامه انسانه بسيطه ولكنها كانت ضحيه هي لم تجد ربما الرابط بين كونها ضحيه تحرش في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "The presenter labels this his interpretation. No independent evidence for unseen coordination; article preserves that attribution. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  },
+  {
+    "id": "e08-islamic-care",
+    "type": "presenter-opinion",
+    "title": "Spiritual care, medicine and trustworthy ruqyah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=QXKDqDYCgdQ&t=1800s",
+    "locator": "Arabic normalized captions, 1800–1879 seconds",
+    "claim": "Presenter urges attention to spiritual needs and warns against fraudulent or harmful practitioners.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 1800,
+        "end_seconds": 1879,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بالامر وحتى لو في طبيب نفسي ترجح عنده انه فعلا في شيء خارق للعاده ما يستطيع ان يعالج به لانه ما عنده اي تصنيف لهذا الامر لكن للاسف نحن عندنا اطباء مسلمين",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Do not use the episode to diagnose readers or advise stopping treatment. Final cue at 1878.48–1880.6 is a trailing English ASR artifact; audiovisual review pending. Extracted from the source episode; no independent confirmation of the causal interpretation."
+  }
+]

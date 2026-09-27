@@ -1,0 +1,2131 @@
+[
+  {
+    "id": "video-3sVCCYYmuzU",
+    "type": "source-video",
+    "title": "Jinn and human relationships: love, marriage, and offspring",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=3sVCCYYmuzU",
+    "locator": "00:00–55:36; all normalized Arabic segments",
+    "claim": "The episode's ordered argument and explicitly qualified conclusions.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 0,
+        "end_seconds": 3336,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم. الجانب العاطفي قد يكون اخطر باب يدخل منه الجن سواء كان شيطانا او مسلما الى حياه الناس. وقد تحدث هذه ايضا العلاقه بمبادره من الانسان نفسه.",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Complete normalized caption text read in five contiguous intervals. No audio/video inspection; this verifies caption coverage, not supernatural causes."
+  },
+  {
+    "id": "e05-khawatir",
+    "type": "broadcast",
+    "title": "Khawatir 3: Khuzabalat",
+    "creators": [
+      "Ahmad al-Shugairi"
+    ],
+    "url": null,
+    "locator": "Season 3, episode 6 as identified by the presenter; embedded clip 02:34–03:23",
+    "claim": "Ahmad al-Shugairi criticizes a book's human–jinn marriage claim.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 142,
+        "end_seconds": 203,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لاقل من دقيقه للاستاذ احمد الشقيري وهي من الحلقه السادسه من برنامج خواطر الجزء الثالث قبل 14 سنه نسمع المقطع ثم نعلق عليه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original broadcast not inspected. Secondary listings disagree about numbering 6/7 and precise 2007 date; the presenter's rough 14–15-year estimate is not a reliable broadcast date."
+  },
+  {
+    "id": "e05-concealed-book",
+    "type": "book",
+    "title": "Unidentified 2003 book shown in Khawatir",
+    "creators": [],
+    "url": null,
+    "locator": "Book cover deliberately concealed in the embedded clip",
+    "claim": "Book reportedly reproduces an intermarriage statement.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 156,
+        "end_seconds": 226,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "امر عجيب يعني تعجبت له عندما قراته موضوع زواج الجن بالانس مع الاسف كتب وموجوده في مكتباتنا في العالم العربي كتب مطبوعه حديثا يعني هذا كتاب امامي مطبوع عام 2003",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Presenter explicitly does not know the book title; do not identify it as Majmu al-fatawa solely because it quotes Ibn Taymiyyah."
+  },
+  {
+    "id": "e05-gomaa-clip",
+    "type": "broadcast",
+    "title": "Ali Gomaa on Satan's influence",
+    "creators": [
+      "Ali Gomaa"
+    ],
+    "url": null,
+    "locator": "Clip alluded to after the Khawatir excerpt",
+    "claim": "Presenter attributes a whispering-only position to Ali Gomaa.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 264,
+        "end_seconds": 300,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تعودوا للحلقه يقول انه النتيجه لهذا الفكر كله ليس فقط انها ستبرر الزنا ولكن ايضا الفكره الاساسيه عنده انه يجب ان يقتصر اثر الشياطين على الوسوسه ويستشهد",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original clip and context not identified; do not turn the polemic into a verified comprehensive account of Gomaa's views."
+  },
+  {
+    "id": "e05-modernist-genealogy",
+    "type": "presenter-opinion",
+    "title": "Muhammad Abduh, Mu'tazilism and modern denial",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "04:35–05:00",
+    "claim": "Presenter links modern rejection of possession to particular intellectual schools.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 275,
+        "end_seconds": 300,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بمقطع للشيخ علي جمعه الشيخ علي جمعه كما تعرفوا انه يجمع بين التصوف وحتى في شيء من الغلو في التصوف مع النقيض واللي هو ايضا الاغراق في الجانب العلمي المادي",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Historical lineage and specific individual affiliations not independently established."
+  },
+  {
+    "id": "e05-rand",
+    "type": "report",
+    "title": "Civil Democratic Islam: Partners, Resources, and Strategies",
+    "creators": [
+      "Cheryl Benard"
+    ],
+    "url": "https://www.rand.org/pubs/monograph_reports/MR1716.html",
+    "locator": "RAND MR-1716-CMEPP; author, abstract and document details",
+    "claim": "A RAND report proposes strategies concerning currents within Islam.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 423,
+        "end_seconds": 445,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النموذج القائم على جمع اسلام مدني حسب مصطلحات مؤسسه راند مع اسلام السوق بمصطلحات باتريك هايني فهذا النموذج الاسلامي للحضاره القائم على الاهتمام",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Publisher page inspected; labels publication 2004, unlike references to the 2003 edition. Confirms identity and stated policy subject only. Does not establish that RAND directed Khawatir or Ahmad al-Shugairi."
+  },
+  {
+    "id": "e05-haenni",
+    "type": "book",
+    "title": "L'islam de marché: L'autre révolution conservatrice",
+    "creators": [
+      "Patrick Haenni"
+    ],
+    "url": "https://repid.com/L-islam-de-marche.html",
+    "locator": "Author's presentation; opening paragraphs defining islam de marché",
+    "claim": "Patrick Haenni uses market Islam for a religious configuration drawing on business and individual-success discourse.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 430,
+        "end_seconds": 450,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بمصطلحات باتريك هايني فهذا النموذج الاسلامي للحضاره القائم على الاهتمام بالتنميه البشريه والتنميه الاقتصاديه وطاعه السلطه وفي نفس الوقت هو ايضا نموذج",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Inspected author's presentation on the book-series site. Application to a particular broadcaster is Dadoosh's interpretation."
+  },
+  {
+    "id": "e05-forty",
+    "type": "book",
+    "title": "Arba'un (Forty)",
+    "creators": [
+      "Ahmad al-Shugairi"
+    ],
+    "url": null,
+    "locator": "Title named at 07:30",
+    "claim": "Shugairi's book was the subject of an earlier al-Sabeel critique.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 450,
+        "end_seconds": 464,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قدمت حلقه كامله لمناقشه فكره هل هو الاستاذ احمد كان طالب علم لما ناقش ناشنا كتابه 40 واثبتنا عنده اخطاء كارثيه في العقيده وانه ليس قارئا اصلا ثم ايضا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Exact edition and relevant passages not inspected."
+  },
+  {
+    "id": "e05-forty-review",
+    "type": "source-video",
+    "title": "Earlier al-Sabeel critique of Forty",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": null,
+    "locator": "07:30 allusion",
+    "claim": "Earlier channel review is invoked for method.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 450,
+        "end_seconds": 471,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قدمت حلقه كامله لمناقشه فكره هل هو الاستاذ احمد كان طالب علم لما ناقش ناشنا كتابه 40 واثبتنا عنده اخطاء كارثيه في العقيده وانه ليس قارئا اصلا ثم ايضا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Locate exact channel video; do not substitute the book for its critique."
+  },
+  {
+    "id": "e05-magic-background",
+    "type": "source-video",
+    "title": "Earlier al-Sabeel discussion of the reality of magic",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": null,
+    "locator": "07:40–08:04",
+    "claim": "Earlier methodological discussion is referenced.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 460,
+        "end_seconds": 484,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "العقيده وانه ليس قارئا اصلا ثم ايضا قدمنا حلقه فيها مناقشه ومراجعه لكل منهجه فانصح بالعوده اليها ايضا انصحنا بحلقه كامله كانت بعنوان حقيقه السحر لم استشهد",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Check archived channel metadata and on-screen link; no exact ID assigned."
+  },
+  {
+    "id": "e05-possession-background",
+    "type": "source-video",
+    "title": "Earlier al-Sabeel discussion of possession",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": null,
+    "locator": "07:55–08:14",
+    "claim": "Presenter refers to a discussion roughly two years earlier.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 475,
+        "end_seconds": 494,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تعرف الاديان نفسها وكانت منغمسه في السحر والشياطين في حلقه اخرى ايضا تحدثنا فيها عن تلبس الجن والاصح هو المس مس مس مس مس من الجن وناقشنا فيها ايضا اعراء المعتزله",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Previously catalogued JTO_1Y8zYto and nQVlmmbV8A0 are background leads, not an established match."
+  },
+  {
+    "id": "e05-ashiq-term",
+    "type": "terminology",
+    "title": "Al-jinn al-ashiq: modern wording and older concept",
+    "creators": [],
+    "url": null,
+    "locator": "09:14–09:54",
+    "claim": "Presenter says the expression is more common today, while attachment itself appears in older writing.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 554,
+        "end_seconds": 594,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الجن العاشق من اكثر المصطلحات التداول الان هذا المصطلح ما كان معروفا في تراثنا بنفس هذا المصطلح حتى لو ما كان مصطلح متداول فالقصه معروفه وما كان في خلاف",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "The older concept has an Ibn Taymiyyah passage; the comparative frequency of the exact expression has not been demonstrated."
+  },
+  {
+    "id": "e05-psychedelic-meme",
+    "type": "social-media",
+    "title": "Anonymous psychedelics/spirituality meme",
+    "creators": [],
+    "url": null,
+    "locator": "11:24–12:35",
+    "claim": "An unnamed Facebook meme portrays affectionate encounters with entities.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 684,
+        "end_seconds": 755,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هنا بمثال واحد فقط هذه الصوره اقدمها لكم من صفحه على الفيسبوك صفحه روحانيه متخصصه بموضوع المخدرات لن اذكر اسم الصفحه لا اريد الترويج لها",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Page identity withheld by the presenter. Image not inspected; record as a cultural anecdote, not a survey of drug experiences."
+  },
+  {
+    "id": "e05-ibn-taymiyyah",
+    "type": "scholarly-opinion",
+    "title": "Ibn Taymiyyah on attachment, intermarriage and moral responsibility",
+    "creators": [
+      "Ibn Taymiyyah"
+    ],
+    "url": "https://www.islamweb.net/ar/library/content/22/1940/",
+    "locator": "Majmu al-fatawa 19:39–40; section on addressing an aggressing jinn",
+    "claim": "Ibn Taymiyyah describes attachment and offspring as reported realities and says most scholars disapproved of intermarriage.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 756,
+        "end_seconds": 784,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اشهر العلماء الذين تحدثوا عن مس الجن العاشق ووصفه بهذا الوصف هو ابن تيميه ونفس النص الذي ذكرناه سابقا في الفقره السابقه يقول ابن تيميه وصرعهم للانس قد",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 226,
+        "end_seconds": 264,
+        "mention_kind": "spoken-quotation",
+        "raw_excerpt_ar": "مؤلف هذا الكتاب الذي يقرا منه من ابن تيميه رحمه الله هو منقول نصا عن ابن تيميه سناتي لهذا الاقتباس وسيتكرر معنا هذا الاقتباس لاحقا ففي مجموع فتاوى ابن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1858,
+        "end_seconds": 1880,
+        "mention_kind": "spoken-quotation",
+        "raw_excerpt_ar": "من فتاوى ابن تيميه التي ذكرناها سابقا وقد يتناكح الانس والجن ويولد بينهما ولد وهذا كثير معروف وقد ذكر العلماء ذلك وتكلموا عليه الى اخر كلام",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2237,
+        "end_seconds": 2250,
+        "mention_kind": "spoken-quotation",
+        "raw_excerpt_ar": "تاريخنا الاسلامي الراي الاول يقول هذا ممكن هذا راي ابن تيميه الذي نقلناه سابقا وقد يتناكح الانس والجن ويولد بينهما ولد وهذا كثير معروف وقد ذكر العلماء ذلك",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original digitized chapter inspected, including the following condemnation of sexual misconduct and coercion. This verifies his assertion, not independent biological evidence."
+  },
+  {
+    "id": "e05-practitioner-dream",
+    "type": "testimony",
+    "title": "Unnamed ruqyah practitioner's dream account",
+    "creators": [],
+    "url": null,
+    "locator": "14:35–15:49",
+    "claim": "Presenter retells a friend's disturbing dream involving an attractive figure.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 875,
+        "end_seconds": 949,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بنفسي منها هنا اذكر مثلا وسناتي بعدها لقصص احد اصدقائي هو اصلا راقي ومنخرط في عالم الجن لابعد الحدود ويعرف عنه اكثر من غيره فلذلك ظهرت له في احدى الايام جني",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Anonymous second-hand testimony; no independent interview or clinical record."
+  },
+  {
+    "id": "e05-ashiq-signs",
+    "type": "presenter-opinion",
+    "title": "Purported signs of romantic attachment by jinn",
+    "creators": [],
+    "url": null,
+    "locator": "14:06–17:50",
+    "claim": "Recurring dreams, bodily heaviness and relationship difficulties are interpreted as signs.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 846,
+        "end_seconds": 1070,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "العاشق هذا؟ نفس اعراض المس المعروفه طبعا الجن العاشق يظهر للانسان في الاحلام يحاول اغائه وغالبا ياتيه بصوره اما صوره رجل وسيم ليغري او يغوي الفتاه المستهدفه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Not a validated diagnostic checklist. Do not diagnose readers, their partners, or anonymous people from these descriptions."
+  },
+  {
+    "id": "e05-suyuti",
+    "type": "book",
+    "title": "Laqt al-marjan fi ahkam al-jann: marriage and offspring",
+    "creators": [
+      "Jalal al-Din al-Suyuti"
+    ],
+    "url": null,
+    "locator": "Marriage/offspring chapters; edition and pages pending",
+    "claim": "Al-Suyuti collects stories and legal opinions; presenter questions the stories' reliability.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1140,
+        "end_seconds": 1198,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سريعا الامام السيوطي في كتابه لقط المرجان في احكام الجان ذكر عده قصص لرجال من الجن خطبوا نساء من الانس خطبوهم من اهلهم يعني وفي فتاوى وجهت للمشايخ ذلك",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1916,
+        "end_seconds": 1937,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا السيوطي في لقطه المرجان في فصل كامل عن امكانيه الزواج وعن الحكم الشرعي للزواج فنقل اقوال العلماء في تحريمه وفيه ايضا عده روايات عن فتاوى تاتي العلماء",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2250,
+        "end_seconds": 2280,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ذكروا ذلك لدينا ايضا السيوطي رحمه الله قال في لقطه المرجان انه هذا يقال قال يعني هكذا قيل غير ممكن والحق امكانه ثم نقل عن الثعالبي امكانيه الولاده",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2318,
+        "end_seconds": 2344,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انها من الاساطير ذكر السيوطي ايضا القصه المتداوله جدا في كتب التفسير عن ان بلقيس ملكه سبا في عصر سليمان عليه السلام ان اباها كان من ملوك سبا وامها جنيه تجدها",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Al-Ashqar cites Laqt p.53, while other leads use pp.30–32 or 65–66; edition not settled. Original Laqt passages not inspected. Distinguish it from al-Shibli's Akam al-marjan."
+  },
+  {
+    "id": "e05-manifestation-model",
+    "type": "presenter-hypothesis",
+    "title": "Brief bodily manifestation and an energy requirement",
+    "creators": [],
+    "url": null,
+    "locator": "19:28–19:58",
+    "claim": "Presenter proposes that physical manifestation requires energy and cannot be sustained for long.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1168,
+        "end_seconds": 1198,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قلت انه التجسد في عالمنا للجن يحتاج الى طاقه كبيره حتى بالفعل يدخل الى هذا العالم ولا يستمر لفتره طويله دقائق ثواني لا يصل الى ساعات فهو يستهلك طاقته ولا بد",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No measurement, named experiment or scientific paper supplied."
+  },
+  {
+    "id": "e05-touch-accounts",
+    "type": "testimony",
+    "title": "Unnamed accounts of physical contact",
+    "creators": [],
+    "url": null,
+    "locator": "19:58–20:33",
+    "claim": "Presenter reports touching/hugging accounts but explicitly has no personal account confirming physical intercourse.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1198,
+        "end_seconds": 1233,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "على هيئتنا وانا سمعت ايضا هنا عن قصص ورويت لي من اشخاص اعرفهم عن اشخاص هم يعرفونهم وكلهم ثقات ان شاء الله حالات لحاله تلامس بين انسان وجني قد تجسد على",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Preserve the negative qualification at 20:29; do not promote these to documented intercourse."
+  },
+  {
+    "id": "e05-weak-shared-intercourse",
+    "type": "historical-report",
+    "title": "Reports about a devil sharing intercourse when Allah is not remembered",
+    "creators": [],
+    "url": null,
+    "locator": "20:53–21:08; repeated 37:51–38:00",
+    "claim": "Presenter calls these reports weak.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1253,
+        "end_seconds": 1268,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا هل يمكن للجني ان يشارك الرجل جماع زوجته؟ هذا مذكور في بعض الكتب الشرعيه اذا لم يسمي الرجل ما قال بسم الله عند حاله الجماع هذه روايات ضعيفه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Exact chains/versions not named. Do not confuse them with the sound protective supplication in Bukhari 141."
+  },
+  {
+    "id": "e05-bukhari-141",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 141: supplication before marital intimacy",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:141",
+    "locator": "Book 4, hadith 7; Ibn Abbas report",
+    "claim": "Prophetic supplication seeks protection for the couple and any child Allah grants.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1253,
+        "end_seconds": 1268,
+        "mention_kind": "editorial-source-identification-for-allusion",
+        "raw_excerpt_ar": "ايضا هل يمكن للجني ان يشارك الرجل جماع زوجته؟ هذا مذكور في بعض الكتب الشرعيه اذا لم يسمي الرجل ما قال بسم الله عند حاله الجماع هذه روايات ضعيفه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Independent contextual check for the basmalah allusion; report not numbered in the video. It does not state that omission proves demonic parentage."
+  },
+  {
+    "id": "e05-faith-assault-generalization",
+    "type": "presenter-opinion",
+    "title": "Generalization from contacts about Muslim women and assault",
+    "creators": [],
+    "url": null,
+    "locator": "22:00–22:48",
+    "claim": "Presenter limits a reassuring claim to stories he has personally received.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1320,
+        "end_seconds": 1368,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انه قد يكون الارجح انه لا يتعرض ويحميه الله ولكن ما في نص على انه الايمان سيحميك بنفس المعنى مبدئيا نقول الاصل هو ان لا يحميك ايضا ايمانك من تتعرض لامر",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No evidence supports treating religious identity as a guarantee against assault. Do not infer blame or deficient faith from victimization."
+  },
+  {
+    "id": "e05-widow-account",
+    "type": "testimony",
+    "title": "Anonymous widow's nightmares and reported improvement",
+    "creators": [],
+    "url": null,
+    "locator": "22:48–27:38",
+    "claim": "A widow reports repeated distressing dreams and later relief after devotional advice.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1368,
+        "end_seconds": 1658,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اسرارهم القصه الاولى سيده ارمله هي ليست ليست شابه ليست صغيره يعني وعندها اولاد ولكنها ليست متزوجه حاليا وهي من عائله محترمه انا اعرف العائله واعرف انها من",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Presenter knows the family, but no independently accessible testimony, medical record or controlled comparison is supplied."
+  },
+  {
+    "id": "e05-bukhari-2311",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 2311: Ayat al-Kursi before sleep",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:2311",
+    "locator": "Book 40, hadith 11; closing exchange in Abu Hurayrah's account",
+    "claim": "Ayat al-Kursi before sleep has a transmitted devotional basis.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1456,
+        "end_seconds": 1478,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فقلت لها اقرايها واحرصي على قراءه ايه الكرسي قبل النوم ويجب ان نستحضر الخشوع والطاقه الروحيه او القوه الروحيه الايمانيه اثناء قراءه الكرسي فليس كل من",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      },
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1588.76,
+        "end_seconds": 1613.83,
+        "normalized_segment_indices": [
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555
+        ],
+        "raw_excerpt_ar": "ان تاخذ منهم معلومات وقد تكون كاذبه لانه الاصل في الشياطين الشياطين وليس الجن الشياطين شياطين الجن الذين كفروا وصاروا شياطين الاصل فيهم الكذب ولكن ليس كل",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter.",
+        "checked_at": "2026-09-21",
+        "verification_note": "Bukhari 2311 concluding statement independently reread: attribution of truth requires prophetic confirmation in this incident."
+      }
+    ],
+    "notes": "Independent identification of the episode's allusion. Does not validate every recommendation in the anonymous case."
+  },
+  {
+    "id": "e05-bukhari-247",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 247: ablution before sleep",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:247",
+    "locator": "Book 4, hadith 113; al-Bara ibn Azib report",
+    "claim": "Ablution before sleep has a transmitted devotional basis.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1464,
+        "end_seconds": 1478,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الايمانيه اثناء قراءه الكرسي فليس كل من يقراها يستطيع ان يحصل على بركتها بنفس القوه فيجب ان تستحضر وتتدبر الايه وانت تقراها وان تنام على وضوء مع الرقيه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Video does not give a hadith number; matched by topic and inspected text."
+  },
+  {
+    "id": "e05-muslim-780",
+    "type": "hadith",
+    "title": "Sahih Muslim 780: al-Baqarah in the home",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:780",
+    "locator": "Book 6, hadith 252",
+    "claim": "Satan flees a house in which al-Baqarah is recited.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1470,
+        "end_seconds": 1484,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تقراها وان تنام على وضوء مع الرقيه وقراءه البقره والى اخره وايضا نصحتها بضروره ايجاد راقي في نفس بلدك ليرقيك بشكل شخصي فالقراءه لوحدها قد لا تكفي",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Does not specify recorded playback, overnight repetition, oils or a forty-day protocol."
+  },
+  {
+    "id": "e05-forty-day-protocol",
+    "type": "presenter-advice",
+    "title": "Recorded recitation, oils and forty-day protocol",
+    "creators": [],
+    "url": null,
+    "locator": "26:53–27:38; closing advice 55:09–55:26",
+    "claim": "The widow is advised to use these practices and later reports improvement.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1613,
+        "end_seconds": 1658,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ذلك هنا طلبت منها تشغيل تلاوه سوره البقره في غرفه النوم طوال الليل بحيث لا يستطيع ان يقترب منها وقراءه الرقيه على زيت والزيوت المعروفه تبحثوا على الانترنت",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No named trial, prophetic source for the specified duration, or independent treatment record. Retain in research and faithful translation; not an encyclopedia treatment prescription."
+  },
+  {
+    "id": "e05-long-attachment-account",
+    "type": "testimony",
+    "title": "Anonymous woman's twenty-year attachment account",
+    "creators": [],
+    "url": null,
+    "locator": "27:38–29:26",
+    "claim": "A woman describes failed relationships and dreams revealing alleged information about a fiance.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1658,
+        "end_seconds": 1766,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عمرها 40 سنه اخبرتني انها ايضا كانت طوال حياتها كل ما تحدث حاله خطوبه تاتي احداث غريبه وعجيبه ولا ينجح الموضوع حاله واحده فقط تزوجت ولم يستمر الزواج لاكثر من بضعه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Qarin-spying explanation is the presenter's inference. No independent interviews or contemporaneous records."
+  },
+  {
+    "id": "e05-friends-sister",
+    "type": "testimony",
+    "title": "Friend's sister: reported relief after ruqyah",
+    "creators": [],
+    "url": null,
+    "locator": "29:26–30:00",
+    "claim": "An acquaintance's sister reportedly improves after a ruqyah session.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1766,
+        "end_seconds": 1800,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "حميمه هنا ولكن حتى نستفيد اكثر فقط احد اصدقائي اتصل بي ايضا في احد الايام قبل سنوات وقال لي اخته المتزوجه فجاه صارت متوتره عصبيه لا تستطيع",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Anonymous second-hand report; neither diagnosis nor causal efficacy independently established."
+  },
+  {
+    "id": "e05-quran-17-64",
+    "type": "quran",
+    "title": "Qur'an 17:64",
+    "creators": [],
+    "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura17-aya64.html",
+    "locator": "Al-Isra 17:64",
+    "claim": "Satan's participation in wealth and children is mentioned.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1812,
+        "end_seconds": 1827,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وشاركهم في الاموال والاولاد هذه الايه نصا من الله سبحانه وتعالى لابليس فبعضهم استدل بذلك يمكن ان يشارك الشيطان الانسان في الاولاد ولكن ارى انه هذه ليست دلاله",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Verse inspected. The presenter explicitly denies that this alone proves physical relations or interspecies offspring."
+  },
+  {
+    "id": "e05-ibn-kathir-17-64",
+    "type": "tafsir",
+    "title": "Ibn Kathir on Satan's participation in children",
+    "creators": [
+      "Ibn Kathir"
+    ],
+    "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura17-aya64.html",
+    "locator": "Commentary on 17:64; explanations of al-awlad",
+    "claim": "The commentary includes illicit parentage, killing children, naming and religious upbringing.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1812,
+        "end_seconds": 1827,
+        "mention_kind": "editorial-context-for-cited-verse",
+        "raw_excerpt_ar": "وشاركهم في الاموال والاولاد هذه الايه نصا من الله سبحانه وتعالى لابليس فبعضهم استدل بذلك يمكن ان يشارك الشيطان الانسان في الاولاد ولكن ارى انه هذه ليست دلاله",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Independent contextual reading of the episode's verse citation; not an assertion that Dadoosh named this commentary here."
+  },
+  {
+    "id": "e05-quran-55-56",
+    "type": "quran",
+    "title": "Qur'an 55:56",
+    "creators": [],
+    "url": "https://quran.ksu.edu.sa/tafseer/saadi/sura55-aya56.html",
+    "locator": "Al-Rahman 55:56 (parallel wording also at 55:74)",
+    "claim": "The companions of Paradise have not previously been touched by human or jinn.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1827,
+        "end_seconds": 1858,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "واستشهد البعض ايضا بايه لم يطمثهن انس قبلهم ولا جان فقال ابن الجوزي فيه دليل على ان الجني قد يغشى المراه من الانس ولكن الايه تتحدث بوضوح عن الحور العين",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Quoted clause occurs twice. Use 55:56 with its context; do not claim the video spoke an explicit verse number."
+  },
+  {
+    "id": "e05-ibn-jawzi-55-56",
+    "type": "tafsir",
+    "title": "Ibn al-Jawzi's inference about intimacy",
+    "creators": [
+      "Ibn al-Jawzi"
+    ],
+    "url": "https://www.islamweb.net/ar/library/content/216/2102/?idfrom=&idto=&start=",
+    "locator": "Zad al-masir 8:122; commentary on 55:56; page contains several surahs despite misleading heading",
+    "claim": "Ibn al-Jawzi infers that a jinn can have intercourse as a human can.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1833,
+        "end_seconds": 1843,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ولكن الايه تتحدث بوضوح عن الحور العين فيمكن الحور العين ان يطمثهن انس وجان نحن نعرف ايضا انه يعني يغلب على الظن انه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Digitized original inspected. Presenter argues that the Paradise context does not settle earthly interspecies intimacy."
+  },
+  {
+    "id": "e05-ashqar-marriage",
+    "type": "book",
+    "title": "Umar al-Ashqar: marriage between humans and jinn",
+    "creators": [
+      "Umar Sulayman al-Ashqar"
+    ],
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Alam al-jinn wa-l-shayatin; al-matlab al-rabi: Zawaj al-ins min al-jinn",
+    "claim": "Al-Ashqar records disagreement, disapproval and arguments from marriage's purpose.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1880,
+        "end_seconds": 1918,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "للزواج ففيه تفصيل من كتاب عالم الجن للشيخ عمر الاشقر انقل الامام مالك رحمه الله يقول لا يوجد دليل ينهى عن مناكحه الجن غير اني لا استحبه لاني اكره اذا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Author's digitized section inspected, including his own inference from 55:56. Verification does not authenticate every earlier attribution he quotes."
+  },
+  {
+    "id": "e05-malik",
+    "type": "scholarly-opinion",
+    "title": "Malik's reported concern about false claims of jinn husbands",
+    "creators": [
+      "Malik ibn Anas"
+    ],
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Al-Ashqar's marriage section citing Akam al-marjan p.67",
+    "claim": "Malik reportedly disapproved because the claim could obscure parentage.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1885,
+        "end_seconds": 1900,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله يقول لا يوجد دليل ينهى عن مناكحه الجن غير اني لا استحبه لاني اكره اذا وجدت لاني اكره اذا وجدت امراه حامل فقيل من زوجك قالت من الجن فيكثر الفساد ويقول",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Indirect quotation independently found; original report/chain in al-Shibli not inspected."
+  },
+  {
+    "id": "e05-hakam",
+    "type": "scholarly-opinion",
+    "title": "al-Hakam ibn Utaybah on intermarriage",
+    "creators": [
+      "al-Hakam ibn Utaybah"
+    ],
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Early disapproval attributed in episode at 31:40",
+    "claim": "Intermarriage reportedly disapproved.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1900,
+        "end_seconds": 1908,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا وكذا كرهه الحكم بن عتيبه وقتاده والحسن وعقبه الاصم واسحاق بن راه رهويه وغيرهم ومعنى الكراهه هنا لما يقولون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original individual opinion/chain not inspected. Al-Ashqar names al-Hasan, Qatadah, al-Hakam and Ishaq; Uqbah not in that inspected list. Do not assert consensus or equate every use of karahah with prohibition."
+  },
+  {
+    "id": "e05-qatadah",
+    "type": "scholarly-opinion",
+    "title": "Qatadah on intermarriage",
+    "creators": [
+      "Qatadah"
+    ],
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Early disapproval attributed in episode at 31:40",
+    "claim": "Intermarriage reportedly disapproved.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1900,
+        "end_seconds": 1908,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا وكذا كرهه الحكم بن عتيبه وقتاده والحسن وعقبه الاصم واسحاق بن راه رهويه وغيرهم ومعنى الكراهه هنا لما يقولون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original individual opinion/chain not inspected. Al-Ashqar names al-Hasan, Qatadah, al-Hakam and Ishaq; Uqbah not in that inspected list. Do not assert consensus or equate every use of karahah with prohibition."
+  },
+  {
+    "id": "e05-hasan",
+    "type": "scholarly-opinion",
+    "title": "al-Hasan al-Basri on intermarriage",
+    "creators": [
+      "al-Hasan al-Basri"
+    ],
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Early disapproval attributed in episode at 31:40",
+    "claim": "Intermarriage reportedly disapproved.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1900,
+        "end_seconds": 1908,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا وكذا كرهه الحكم بن عتيبه وقتاده والحسن وعقبه الاصم واسحاق بن راه رهويه وغيرهم ومعنى الكراهه هنا لما يقولون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original individual opinion/chain not inspected. Al-Ashqar names al-Hasan, Qatadah, al-Hakam and Ishaq; Uqbah not in that inspected list. Do not assert consensus or equate every use of karahah with prohibition."
+  },
+  {
+    "id": "e05-uqbah",
+    "type": "scholarly-opinion",
+    "title": "Uqbah al-Asamm on intermarriage",
+    "creators": [
+      "Uqbah al-Asamm"
+    ],
+    "url": null,
+    "locator": "Early disapproval attributed in episode at 31:40",
+    "claim": "Intermarriage reportedly disapproved.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1900,
+        "end_seconds": 1908,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا وكذا كرهه الحكم بن عتيبه وقتاده والحسن وعقبه الاصم واسحاق بن راه رهويه وغيرهم ومعنى الكراهه هنا لما يقولون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original individual opinion/chain not inspected. Al-Ashqar names al-Hasan, Qatadah, al-Hakam and Ishaq; Uqbah not in that inspected list. Do not assert consensus or equate every use of karahah with prohibition."
+  },
+  {
+    "id": "e05-ishaq",
+    "type": "scholarly-opinion",
+    "title": "Ishaq ibn Rahawayh on intermarriage",
+    "creators": [
+      "Ishaq ibn Rahawayh"
+    ],
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Early disapproval attributed in episode at 31:40",
+    "claim": "Intermarriage reportedly disapproved.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1900,
+        "end_seconds": 1908,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا وكذا كرهه الحكم بن عتيبه وقتاده والحسن وعقبه الاصم واسحاق بن راه رهويه وغيرهم ومعنى الكراهه هنا لما يقولون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original individual opinion/chain not inspected. Al-Ashqar names al-Hasan, Qatadah, al-Hakam and Ishaq; Uqbah not in that inspected list. Do not assert consensus or equate every use of karahah with prohibition."
+  },
+  {
+    "id": "e05-ahmad-prohibition",
+    "type": "scholarly-opinion",
+    "title": "Ahmad ibn Hanbal: attributed prohibition",
+    "creators": [
+      "Ahmad ibn Hanbal"
+    ],
+    "url": null,
+    "locator": "31:47–32:00",
+    "claim": "Presenter attributes explicit prohibition to Ahmad.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1907,
+        "end_seconds": 1920,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وغيرهم ومعنى الكراهه هنا لما يقولون اكرهه غالبا عند هؤلاء العلماء هو بمعنى التحريم اما الامام احمد فنص على التحريم ايضا السيوطي في لقطه المرجان في فصل كامل",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original legal passage required."
+  },
+  {
+    "id": "e05-wali-zar",
+    "type": "book",
+    "title": "Al-jinn fi al-Qur'an wa-l-Sunnah",
+    "creators": [
+      "Wali Zar ibn Shah al-Din"
+    ],
+    "url": "https://alkitab.com/44505.html",
+    "locator": "Page 206 as cited; edition not established",
+    "claim": "Wali Zar ibn Shah al-Din prefers legal prohibition despite discussion of possibility.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1972,
+        "end_seconds": 1996,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اخره اعود الان للكتب الشيخ ولي زار بن شاه الدين في كتابه الجن في القران والسنه هذا كان اطروح الدكتوراه في صفحه 206 قال اما القضيه من حيث الواقع فالكل قد جوز",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Bookseller identifies author/title; secondary quotations point to p.206. Original dissertation/page not inspected; do not treat quoted unanimity about possibility as established."
+  },
+  {
+    "id": "e05-dedew-marriage",
+    "type": "interview",
+    "title": "Al-Dedew on disputed marriage permissions",
+    "creators": [
+      "Muhammad al-Hasan al-Dedew"
+    ],
+    "url": null,
+    "locator": "33:16–33:47; referred to as the jinn and magic episode",
+    "claim": "Presenter recalls a distinction allowing a man to marry a female jinn but not the reverse.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 1996,
+        "end_seconds": 2027,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الدو في حلقه الجن والسحر التي ذكرناها سابقا قال انه بعض العلماء اجازوا الزواج من الانسي للجنيه وحرموا العكس ولكن انا لم اجد في البحث من اجاز ذلك فالخلاصه اذا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "He says he did not find the permissive authority himself. Exact recording/timestamp not identified; do not assume earlier Mfahim species clip is the same interview."
+  },
+  {
+    "id": "e05-quran-16-72",
+    "type": "quran",
+    "title": "Qur'an 16:72",
+    "creators": [],
+    "url": "https://quran.ksu.edu.sa/tafseer/saadi/sura16-aya72.html",
+    "locator": "Al-Nahl 16:72",
+    "claim": "Allah grants spouses from among yourselves.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2030,
+        "end_seconds": 2034,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تعالى يقول والله جعل لكم من انفسكم ازواجا ومن اياته ان خلق لكم من انفسكم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "The legal deduction is distinct from the verse wording."
+  },
+  {
+    "id": "e05-quran-30-21",
+    "type": "quran",
+    "title": "Qur'an 30:21",
+    "creators": [],
+    "url": "https://quran.ksu.edu.sa/tafseer/saadi/sura30-aya21.html",
+    "locator": "Al-Rum 30:21",
+    "claim": "Marriage is associated with tranquillity, affection and mercy.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2034,
+        "end_seconds": 2039,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ازواجا لتسكنوا اليها العله الثانيه لا يمكن للانسي اذا تزوج جنيه ان يتحقق من",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Verse inspected; not an explicit mention of human–jinn marriage."
+  },
+  {
+    "id": "e05-four-legal-reasons",
+    "type": "presenter-synthesis",
+    "title": "Four reasons given for prohibition",
+    "creators": [],
+    "url": null,
+    "locator": "33:39–34:27",
+    "claim": "Marriage's purpose, checking impediments, practical marital responsibilities and lineage are invoked.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2019,
+        "end_seconds": 2067,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اختصارا ان الزواج شرع للانسان لتحقيق الالفه والموده والاستقرار وهذا لا يكون اذا حدث التزاوج بين الانسان والجن فالله تعالى يقول والله جعل لكم من انفسكم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Record as Dadoosh's synthesis. Original authorities for each reason and any consensus claim remain open."
+  },
+  {
+    "id": "e05-crowley",
+    "type": "occult-book",
+    "title": "Unspecified Aleister Crowley writing on sexual ritual",
+    "creators": [
+      "Aleister Crowley"
+    ],
+    "url": null,
+    "locator": "34:44–35:04",
+    "claim": "Presenter attributes altered-consciousness and occult-union ideas to Crowley.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2084,
+        "end_seconds": 2104,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشيطان اليستر كراولي من اشهر السحره وعبده الشيطان في القرن العشرين تحدث في كتبه بصراحه انه في لحظه النشوه في الجماع الاورجازم تكون هي حاله غياب الوعي في نفس",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No title/page named; do not guess a specific Crowley work or present energy transfer as measured fact."
+  },
+  {
+    "id": "e05-occult-energy",
+    "type": "presenter-hypothesis",
+    "title": "Sexual energy, possession and unnamed occult rituals",
+    "creators": [],
+    "url": null,
+    "locator": "34:27–37:08",
+    "claim": "Claims about energy exchange and rituals in unnamed religious communities.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2067,
+        "end_seconds": 2228,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النقطه الاخيره في هذا الباب هناك فكره ايضا يجب ان نمر عليها انه حاله الجماع لو حدثت بين هذين العالمين فيها ام امتصاص طاقه من احدهما للاخر او القوه الروحيه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No named groups, books, interviewees or experiments beyond Crowley. Avoid sweeping assertions about actual religious communities or actionable ritual instructions."
+  },
+  {
+    "id": "e05-thalabi",
+    "type": "scholarly-report",
+    "title": "Al-Tha'labi attribution in al-Suyuti (name requires check)",
+    "creators": [
+      "al-Tha'labi?"
+    ],
+    "url": null,
+    "locator": "Laqt al-marjan offspring discussion; exact edition pending",
+    "claim": "Al-Suyuti reportedly cites the possibility of offspring.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2258,
+        "end_seconds": 2265,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نقل عن الثعالبي امكانيه الولاده ما وجدت الا السيوطي والثعالبي والله اعلم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Captions say al-Tha'alibi; indirect Laqt quotation found in search says al-Tha'labi. Do not silently resolve spelling before original page/audio."
+  },
+  {
+    "id": "e05-abudawud-5107",
+    "type": "hadith",
+    "title": "Sunan Abi Dawud 5107: al-mugharribun",
+    "creators": [
+      "Abu Dawud",
+      "al-Albani (grading)"
+    ],
+    "url": "https://sunnah.com/abudawud:5107",
+    "locator": "Book 43, hadith 335; report from Aishah; al-Albani: weak chain",
+    "claim": "A report associates al-mugharribun with jinn; the episode rejects it as weak.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2280,
+        "end_seconds": 2292,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا حديث ينسب الى عائشه ان النبي صلى الله عليه وسلم قال هل رؤي فيكم المغربون فقالت رضي رضي الله عنها وما المغربون؟ قال الذين يشترك فيهم الجن حديث ضعيف لا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Arabic text and displayed al-Albani grading inspected. Verified identification of a weak report, not verification of hybrid offspring."
+  },
+  {
+    "id": "e05-dhul-thudayyah",
+    "type": "historical-report",
+    "title": "Dhu al-Thudayyah's alleged jinn parentage",
+    "creators": [],
+    "url": "https://islamqa.info/ar/answers/303795",
+    "locator": "Lead: answer 303795; mother story and report variants",
+    "claim": "Presenter rejects a story of jinn parentage as very weak.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2292,
+        "end_seconds": 2319,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وصفه النبي صلى الله عليه وسلم سيكون من الخوارج لاحقا الذين حاربوا علي بن ابي طالب وقتله رضي الله عنه فكان مشوها فالروايه غير الثابته والضعيفه جدا انه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Independent answer identifies variants, but original mother-story chain not inspected. Keep separate from sound reports of the man at Nahrawan; bodily difference is not evidence of supernatural parentage."
+  },
+  {
+    "id": "e05-bilqis-qurtubi",
+    "type": "tafsir",
+    "title": "Al-Qurtubi on the Queen of Sheba and alleged jinn parentage",
+    "creators": [
+      "al-Qurtubi"
+    ],
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura27-aya44.html",
+    "locator": "Commentary on 27:44, final discussion before her profession of faith",
+    "claim": "Al-Qurtubi transmits al-Mawardi's objection and then disagrees with his impossibility argument.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2319,
+        "end_seconds": 2344,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المتداوله جدا في كتب التفسير عن ان بلقيس ملكه سبا في عصر سليمان عليه السلام ان اباها كان من ملوك سبا وامها جنيه تجدها في التفاسير كلها ابن كثير والقرطبي",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Primary commentary inspected. Corrects the overly broad idea that all named commentators merely dismissed these stories. His argument does not supply independent biological evidence."
+  },
+  {
+    "id": "e05-bilqis-ibn-kathir",
+    "type": "tafsir",
+    "title": "Ibn Kathir's criticism of embellished Queen of Sheba narratives",
+    "creators": [
+      "Ibn Kathir"
+    ],
+    "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura27-aya44.html",
+    "locator": "Commentary on 27:44; criticism following Ibn Abi Shaybah's report",
+    "claim": "Ibn Kathir criticizes a long embellished narrative as very strange and likely Israelite material.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2328,
+        "end_seconds": 2344,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في التفاسير كلها ابن كثير والقرطبي والطبري ولكنهم كانوا يذكرونها من باب انها روايه ما في احد يصححها تقريبا ومن حقق في الامر قال واضح انها مجرد روايات",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Exact inspected passage is a criticism of that narrative, not proof that every commentator rejected every parentage version."
+  },
+  {
+    "id": "e05-bilqis-tabari",
+    "type": "tafsir",
+    "title": "Al-Tabari's Queen of Sheba narratives",
+    "creators": [
+      "al-Tabari"
+    ],
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura27-aya44.html",
+    "locator": "27:44 likely locus; original passage not inspected",
+    "claim": "Presenter names al-Tabari among transmitters of Bilqis stories.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2330,
+        "end_seconds": 2344,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في التفاسير كلها ابن كثير والقرطبي والطبري ولكنهم كانوا يذكرونها من باب انها روايه ما في احد يصححها تقريبا ومن حقق في الامر قال واضح انها مجرد روايات",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Separate check needed; URL is a research lead, not verification."
+  },
+  {
+    "id": "e05-mawardi",
+    "type": "scholarly-opinion",
+    "title": "Al-Mawardi's objection to interspecies offspring",
+    "creators": [
+      "al-Mawardi"
+    ],
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura27-aya44.html",
+    "locator": "Quotation in al-Qurtubi on 27:44; original al-Mawardi locator pending",
+    "claim": "Different natures are invoked against human–jinn reproduction.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2344,
+        "end_seconds": 2365,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الراي الثاني هو ان التناسل بين الانس والجن غير ممكن قال الماوردي وهذا مستنكر للعقول لتباين الجنسين واختلاف الطبعين اذ الادمي جسماني والجني روحاني هذا من صلصال",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Quotation verified as transmitted by al-Qurtubi, but original al-Mawardi page not inspected. Al-Qurtubi's rebuttal must not be omitted."
+  },
+  {
+    "id": "e05-meditation-wife-account",
+    "type": "testimony",
+    "title": "Anonymous woman's dream of a figure resembling her husband",
+    "creators": [],
+    "url": null,
+    "locator": "39:56–40:42",
+    "claim": "A woman reports an intimate dream after meditation; presenter says no pregnancy resulted.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2396,
+        "end_seconds": 2442,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وهنا ساذكر قصه ايضا سيده غير متدينه ذكرت لي بنفسها هذه القصه كانت لا تعرف شيئا عن الجن وعن المس سابقا لما كانت غير متدينه وكانت منخرطه في عالم التامل وعالم الطاقه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Anonymous testimony; not an experiment and does not establish either general possibility or impossibility."
+  },
+  {
+    "id": "e05-abudawud-4403",
+    "type": "hadith",
+    "title": "Sunan Abi Dawud 4403: the sleeper's accountability",
+    "creators": [
+      "Abu Dawud",
+      "al-Albani (grading)"
+    ],
+    "url": "https://sunnah.com/abudawud:4403",
+    "locator": "Book 40, hadith 53; Ali report; al-Albani: sahih",
+    "claim": "A sleeper is not accountable until waking.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2423,
+        "end_seconds": 2433,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يعني فحتى مساله انه هل هذا الانسان يكون مكلفا في الحلم نحن عارفين انه ال النائم يرفع عنه القلم حتى يستيقظ وانا هنا لن ادخل في الامر الشرعي يعني ولكن المهم هنا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Text and displayed grading inspected. Preserve distinction from the presenter's closing warning about deliberately pursued conduct."
+  },
+  {
+    "id": "e05-pre-flood-theory",
+    "type": "comparative-religion",
+    "title": "Unspecified Theosophical and practitioner theory of a pre-Flood shared world",
+    "creators": [],
+    "url": null,
+    "locator": "41:00–41:36",
+    "claim": "Human and jinn worlds allegedly overlapped before the Flood and during Sulayman's reign.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2460,
+        "end_seconds": 2496,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "على نظريه متداوله بين بعض الرق ونجد ما يدعمها في الثقافات الاخرى في الثيو صوفيا مثلا ان الانسان والجن كانوا متداخلين وكان يرى بعضهم بعضا في بدايه خلق البشريه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No author/title named; presenter explicitly does not know if the theory is true. Not scriptural chronology."
+  },
+  {
+    "id": "e05-malleus",
+    "type": "historical-demonology",
+    "title": "Malleus maleficarum: incubi, succubi and conception",
+    "creators": [
+      "Heinrich Kramer",
+      "Montague Summers (translator)"
+    ],
+    "url": "https://sacred-texts.com/pag/mm/mm01_03a.htm",
+    "locator": "Part I, Question III; Montague Summers English translation; opening objections and answer",
+    "claim": "The text discusses purported demonic transfer of human semen.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2496,
+        "end_seconds": 2638,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التزاوج بين الشياطين اللي هم بالنسبه لهم ملائكه ساقطه والانسان مساله مبحوثه في كتبهم اكتفي هنا بمثال كتاب ماليوس ماليفكارم يترجم عاده الى مطرقه الساحرات",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Inspected historical text, not experimental evidence. This portion does not substantiate the episode's chromosome-alteration analogy or establish biological hybrids. Remainder of Question III should be checked before asserting exact parentage conclusion."
+  },
+  {
+    "id": "e05-reproduction-analogy",
+    "type": "presenter-hypothesis",
+    "title": "IVF, chromosomes and reproductive barriers as analogies",
+    "creators": [],
+    "url": null,
+    "locator": "43:03–45:48",
+    "claim": "Presenter compares alleged transfer with assisted reproduction and invokes species barriers.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2583,
+        "end_seconds": 2748,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مبدئيا اقول هذا ممكن يشبه تماما حاله ولاده طفل الانابيب تؤخذ النطفه والبويضه ويحدث التخصيب في الانابيب ثم تعادل البويضه المخصبه الى الرحم وتحدث الولاده",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No named biology study or experiment is cited. Analogy does not demonstrate a jinn mechanism; avoid claims that a single protein lock or chromosome count settles all reproductive biology."
+  },
+  {
+    "id": "e05-kitsune",
+    "type": "folklore",
+    "title": "Japanese fox-wife story",
+    "creators": [],
+    "url": "https://publish.iupress.indiana.edu/read/the-yanagita-kunio-guide-to-the-japanese-folk-tale/section/527f504b-9d5a-4212-8146-6a08609a88b9",
+    "locator": "Lead: Nihon ryoiki I.2; exact episode variant not established",
+    "claim": "A fox appears as a woman, marries a human and bears a child.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2767,
+        "end_seconds": 2790,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تقريبا ابدا بالاساطير اليابانيه شخصيه الكيتسوني معروفه لمن يتابع الانمي في هذا العصر هي شخصيه الثعلب الروحاني وغالبا تكون انثى ثعلبه فتتجسد في احدى القصص",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Search identified an academic folklore catalogue and Nihon ryoiki lead. Original tale not inspected; eighth-century dating is not yet verified."
+  },
+  {
+    "id": "e05-yuki-onna",
+    "type": "folklore",
+    "title": "Yuki-Onna (likely match to ASR yokai-onna)",
+    "creators": [
+      "Lafcadio Hearn"
+    ],
+    "url": "https://americanliterature.com/author/lafcadio-hearn/short-story/yuki-onna",
+    "locator": "Lafcadio Hearn, Kwaidan (1904), Yuki-Onna; narrative of Minokichi and O-Yuki",
+    "claim": "A snow woman marries a human and bears children in a literary retelling.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2790,
+        "end_seconds": 2816,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شخصيه اليوكاي اونا اليوكاي هي جنس الجن يذكر عندهم على انها ارواح ايضا من تلك الروايات ان امراه جميله بيضاء تجسدت من اليوكاي وظهرت لانسان وتزوجها وكان من",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Full tale inspected. Hearn's husband is a woodcutter, not the episode's recalled warrior. Exact spoken name/version needs audio check; verified motif, not exact identification of the version used."
+  },
+  {
+    "id": "e05-melusine",
+    "type": "folklore",
+    "title": "Melusine / Jean d'Arras",
+    "creators": [
+      "Jean d'Arras",
+      "Bibliothèque nationale de France (catalogue)"
+    ],
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb467834856",
+    "locator": "BnF FRBNF46783485; edition note and publisher synopsis of Jean d'Arras's 1392 text",
+    "claim": "Medieval literary tradition depicts marriage between Raimondin and a supernatural woman with a serpent transformation.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2821,
+        "end_seconds": 2837,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كثيره جدا منها مثلا اسطوره فرنسيه من القرن ال 14بع عشر شخصيه اسمها ميلوسين هي جنيه نصف انسان ونصف ثعبان تزوجت فارسا من فرسان اوروبا وانجبت له اولادا اقوياء",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "BnF edition record and publisher synopsis inspected. Confirms literary identity and broad marriage motif, not every offspring detail or real event."
+  },
+  {
+    "id": "e05-welsh-lake-maidens",
+    "type": "folklore",
+    "title": "Welsh lake-maiden marriage stories",
+    "creators": [],
+    "url": null,
+    "locator": "Likely Lady of Llyn y Fan Fach / Gwragedd Annwn tradition; variant not established",
+    "claim": "Episode describes a lake maiden marrying a human.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2837,
+        "end_seconds": 2865,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عذاره البحيره ليك ميدنز من التراث الويلزي وهي ايضا تتحدث عن حوريات يعشن في الماء تحت الماء في مدن كامله تحت الماء في قاعه البحيرات والمحيطات وهن فتيات",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Do not substitute generic fish-tailed mermaids for all Welsh lake-woman traditions. Museum Wales MS 3701 identifies a thesis, not an inspected original tale."
+  },
+  {
+    "id": "e05-zeus",
+    "type": "mythology",
+    "title": "Zeus, Heracles and Helen",
+    "creators": [],
+    "url": null,
+    "locator": "47:45–48:04",
+    "claim": "Greek divine-human offspring stories used as parallels.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2865,
+        "end_seconds": 2884,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قصه زوس رئيس الالهه كبير الالهه اله السماء هو ابليس شخصيا فالقصه او الاسطوره تقول انه تزوج واغوى عشرات النساء من البشر وانجبنا له كائنات هم انصاف الالهه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original Greek passages not inspected; these are distinct literary/mythological traditions."
+  },
+  {
+    "id": "e05-zeus-iblis",
+    "type": "presenter-interpretation",
+    "title": "Identification of Zeus with Iblis",
+    "creators": [],
+    "url": null,
+    "locator": "47:47–47:54",
+    "claim": "Presenter identifies Zeus directly with Iblis.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2867,
+        "end_seconds": 2874,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قصه زوس رئيس الالهه كبير الالهه اله السماء هو ابليس شخصيا فالقصه او الاسطوره",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Theological interpretation supplied by the speaker; no Quranic or historical text establishes this one-to-one identification."
+  },
+  {
+    "id": "e05-incubus-depletion",
+    "type": "presenter-interpretation",
+    "title": "Incubus/succubus depletion and mortality claims",
+    "creators": [],
+    "url": null,
+    "locator": "48:04–48:40",
+    "claim": "Presenter associates repeated encounters with loss of energy and eventual death.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2884,
+        "end_seconds": 2920,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لدينا قصه الانكوبس والسكوبس كما ذكرنا هؤلاء ايضا الشيطان هذا انكوبس تحديدا هو يتغذى على الطاقه الجنسيه لدى المراه التي يستهدفها في احلامها الملفت في هذه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No clinical data, denominator or source for mortality claim. Do not treat it as prognosis."
+  },
+  {
+    "id": "e05-suicide-account",
+    "type": "testimony",
+    "title": "Anonymous third-hand report of a woman's suicide",
+    "creators": [],
+    "url": null,
+    "locator": "48:40–48:59",
+    "claim": "Presenter retells a report of suicide following alleged prolonged possession.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2920,
+        "end_seconds": 2939,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وهذا ما نعرفه في عالمنا ايضا انا يعني سمعت قصه قريبه مؤلمه جدا ل يعني ذكرتها احدى الاخوات عن انثى هي تعرفها صديقتها انها انتحرت بعد حاله مس طويله من جن عاشق",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No independent records or evidence for supernatural causation. Do not sensationalize or reduce suicide to a single cause."
+  },
+  {
+    "id": "e05-cambion",
+    "type": "folklore-term",
+    "title": "Cambion and modern hybrid characters",
+    "creators": [],
+    "url": null,
+    "locator": "42:34–43:58; 48:59–49:10",
+    "claim": "A term for a purported human-demon hybrid is connected with contemporary stories.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2554,
+        "end_seconds": 2638,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وينتج عن ذلك الانسان الهجين كما يسمى هو الكامبيون وسناتي له بعد قليل فلذلك يقول انه كل ما يحدث من قصص في تلك الايام وقبلها من حاله جماع حقيقيه وحاله انجاب",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No named anime/comic examples, original lexical source or population evidence given."
+  },
+  {
+    "id": "e05-nightmare",
+    "type": "documentary",
+    "title": "The Nightmare (2015)",
+    "creators": [
+      "Rodney Ascher",
+      "Eric Hynes (Q&A report)"
+    ],
+    "url": "https://www.sundance.org/blogs/day-5-guy-maddin-rodney-ascher-and-a-perilous-journey-into-the-world-of-drug-cartels-3/",
+    "locator": "Sundance screening report, 27 January 2015; The Nightmare section and director Q&A",
+    "claim": "Rodney Ascher's film presents eight people's sleep-paralysis experiences and reconstructions.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2950,
+        "end_seconds": 2973,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الان لبعض الافلام الحديثه التي تتحدث عن قصص مشابهه في وثائقي مشهور بعنوان الكابوس ذا نايت مير استشهدت به في عده حلقات سابقه المخرج الامريكي رودني اشر هو",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Festival's direct Q&A report inspected. Ascher expressly leaves internal versus external origin open. His Jewish ancestry and all subjects being atheists are not verified here; do not infer a general theological identity from the word agnostic."
+  },
+  {
+    "id": "e05-nightmare-chris",
+    "type": "interview",
+    "title": "Chris's testimony in The Nightmare",
+    "creators": [
+      "Chris (surname unconfirmed)"
+    ],
+    "url": null,
+    "locator": "Original film timestamp pending; episode 49:43–49:54",
+    "claim": "Presenter says the experience changed Chris's religious belief.",
+    "verification_status": "identified",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2983,
+        "end_seconds": 2994,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وبعضهم امن منهم مثلا شخص اسمه كريس قال انه لما كان يتعرض لذلك دفعته هذه التجربه الروحيه من حاله الكابوس والتلبس دفعه للتوقف عن الالحاد والايمان بوجود اله",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original interview not inspected; Sundance summary does not verify this individual's precise account."
+  },
+  {
+    "id": "e05-nightmare-connie",
+    "type": "interview",
+    "title": "Connie's testimony in The Nightmare",
+    "creators": [
+      "Connie (surname unconfirmed)"
+    ],
+    "url": null,
+    "locator": "Original film timestamp pending; episode 49:54–50:06",
+    "claim": "Presenter says Connie returned to Christianity and attributed relief to Christian treatment.",
+    "verification_status": "identified",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 2994,
+        "end_seconds": 3006,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وايضا في شخصيه اسمها كوني كانت من ابطال الفيلم ايضا قالت انه قصص الجاثوم التي تعرضت له لسنوات دفعتها للعوده الى المسيحيه وترك الالحاد لانه ايضا العلاج",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Original interview not inspected; belief and reported improvement do not establish the cause."
+  },
+  {
+    "id": "e05-nightmare-assault-account",
+    "type": "interview",
+    "title": "Unnamed participant's assault experience in The Nightmare",
+    "creators": [],
+    "url": null,
+    "locator": "Original film timestamp and participant identity pending",
+    "claim": "Presenter describes a participant's experience of immobility and assault.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3062,
+        "end_seconds": 3082,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ولكن الشاهد هنا احدى بطلات الفيلم تقول انها تعرضت للاغتصاب من كائن شرير ما عندها مصطلح الجن ولا الشياطين وكانت تشعر بكل التفاصيل اثناء الاغتصاب وتتذكر كل",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Do not merge with Connie merely because her name precedes it; identity not given in this passage."
+  },
+  {
+    "id": "e05-cross-religious-healing",
+    "type": "presenter-hypothesis",
+    "title": "Proposed explanation of reported healing in other religions",
+    "creators": [],
+    "url": null,
+    "locator": "50:06–51:02",
+    "claim": "Presenter invokes spiritual power and distinguishes effectiveness from religious truth.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3006,
+        "end_seconds": 3062,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مهم وربما ناقشته اكثر من مره كيف يمكن للقس المسيحي ان يشفي او يعالج الانسان ويخلصه من الشيطان هنا باختصار شديد اقول انه اولا هذا دين محرف فالمسيحي يؤمن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "No comparative treatment study supplied. Broad efficacy claims remain his interpretation."
+  },
+  {
+    "id": "e05-nushrah",
+    "type": "legal-allusion",
+    "title": "Nushrah and non-Quranic ruqyah",
+    "creators": [],
+    "url": null,
+    "locator": "50:40–50:50",
+    "claim": "Presenter alludes to nushrah and some lawful non-Quranic ruqyah.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3040,
+        "end_seconds": 3050,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قد تستعمل فيها ايضا بعض الرقى التي لا تكون من القران اصلا وتؤدي للنتيجه وهي العلاج وقد يكون شرعيا المهم انه ابطال",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Terminology and conditions need precise fiqh/hadith sources; do not equate every practice called nushrah with lawful ruqyah."
+  },
+  {
+    "id": "e05-doris-bither",
+    "type": "testimony",
+    "title": "Doris Bither case",
+    "creators": [
+      "Doris Bither"
+    ],
+    "url": null,
+    "locator": "California, 1974 as stated; original investigative records pending",
+    "claim": "Presenter says reported assaults inspired The Entity.",
+    "verification_status": "identified",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3085,
+        "end_seconds": 3104,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انتري يعني الكيان وهي قصه حقيقيه كما ورد القصه هي قصه امراه اسمها دورس بيثر قالت انها تعرضت لاعتداءات من اشباح في كاليفورنيا في عام 1974 بعد اربع سنوات",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Name corrected from ASR دورس بيثر by identification leads. No first-person recording, field notes or independent corroboration inspected."
+  },
+  {
+    "id": "e05-entity-novel",
+    "type": "novel",
+    "title": "The Entity (1978 novel)",
+    "creators": [
+      "Frank De Felitta"
+    ],
+    "url": "https://catalog.afi.com/Film/57941-THE-ENTITY",
+    "locator": "AFI catalogue history; publication 31 July 1978 and adaptation rights",
+    "claim": "Frank De Felitta's novel preceded the film.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3097,
+        "end_seconds": 3104,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تحولت الى روايه بنفس العنوان ثم ايضا بعد اربع سنوات 1982 ظهر هذا الفيلم بنفس العنوان ايضا مصطلح ذا انتدي يعني الكيان",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Bibliographic/adaptation chronology verified from film archive history; original novel not read. Does not verify Bither's alleged supernatural cause."
+  },
+  {
+    "id": "e05-entity-film",
+    "type": "film",
+    "title": "The Entity",
+    "creators": [
+      "Sidney J. Furie"
+    ],
+    "url": "https://catalog.afi.com/Film/57941-THE-ENTITY",
+    "locator": "AFI catalogue 57941; credits, release history and synopsis",
+    "claim": "Film dramatizes an invisible assailant attacking Carla Moran.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3082,
+        "end_seconds": 3125,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من افلام هوليود منها مثلا قصه فيلم انتري يعني الكيان وهي قصه حقيقيه كما ورد القصه هي قصه امراه اسمها دورس بيثر قالت انها تعرضت لاعتداءات من اشباح في",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "AFI synopsis/credits inspected. Episode calls it 1982; AFI documents US opening 4 February 1983. Preserve distinction between production/copyright year and territorial release rather than silently correcting all dates."
+  },
+  {
+    "id": "e05-entity-remake",
+    "type": "film-project",
+    "title": "Unrealized The Entity remake",
+    "creators": [],
+    "url": null,
+    "locator": "52:05–52:12; 2025 as recalled",
+    "claim": "Presenter says a remake failed to proceed.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3125,
+        "end_seconds": 3132,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ستنتج منه نسخه جديده في 2025 ولكن المخرج لم ينجح ايضا في قصه لفيلم اسمه عشيقه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "AFI history only mentions a 2004 plan, with no further mention as of 2014; it cannot verify a 2025 development claim."
+  },
+  {
+    "id": "e05-satans-mistress",
+    "type": "film",
+    "title": "Satan's Mistress (1982)",
+    "creators": [
+      "James Polakof"
+    ],
+    "url": null,
+    "locator": "52:12–52:41; original film/distributor source pending",
+    "claim": "A married woman encounters an attractive supernatural stranger in a horror film.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3132,
+        "end_seconds": 3161,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشيطان صدر في 1982 سيتنز مستريس قصه ايضا مشابهه هي ان زوجه تعيش مع زوجها واطفالها ولكن في حاله انفصال ما في جماع بينهم هي تنام لوحدها في غرفتها يستحوذ",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Secondary identification found: James Polakof; also Demon Rage / Dark Eyes. Original film and reliable primary synopsis not inspected."
+  },
+  {
+    "id": "e05-lifeforce",
+    "type": "film",
+    "title": "Lifeforce (1985)",
+    "creators": [
+      "Tobe Hooper"
+    ],
+    "url": "https://www.arrowfilms.com/p/4k/lifeforce-limited-edition-4k-ultra-hd/15819457/",
+    "locator": "Arrow Video product overview and theatrical release year",
+    "claim": "Science-fiction horror depicts human-looking space vampires consuming life-force.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3161,
+        "end_seconds": 3184,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فيلم صدر في عام 85 بعنوان ذا لايف فورس قصته انه في بعثه فضائيه تعثر على مركبه فضائيه فيها كائنات فضائيه متجمده فتاخذهم الى الارض منهم انثى هذه الانثى ستكون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Distributor synopsis inspected. Identifying its fictional aliens as jinn is Dadoosh's interpretation."
+  },
+  {
+    "id": "e05-black-room",
+    "type": "film",
+    "title": "The Black Room (2017)",
+    "creators": [
+      "Rolfe Kanefsky"
+    ],
+    "url": "https://cleorecs.com/collections/_dvd-blu-ray/products/the-black-room-dvd",
+    "locator": "Cleopatra Entertainment synopsis, credits and 2017 home release",
+    "claim": "A cellar entity exploits desire and possesses a husband in a horror film.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3184,
+        "end_seconds": 3214,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فيلم في 2017 صدر بعنوان ذا بلاك روم يتحدث ايضا يستحضر نفس قصه الانكوبس الحاضم وقصته باختصار ايضا زوجان ينتقلان الى بيت جديد وفاخر في نيويورك فيكتشفون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Producer/distributor synopsis inspected; it describes possession of Paul. Do not reduce the plot to women attacked only in dreams or claim the New York setting without checking."
+  },
+  {
+    "id": "e05-rosemary",
+    "type": "film",
+    "title": "Rosemary's Baby (1968)",
+    "creators": [
+      "Roman Polanski",
+      "Ira Levin"
+    ],
+    "url": "https://www.paramountpictures.com/movies/rosemarys-baby",
+    "locator": "Paramount synopsis, year and credits",
+    "claim": "A New York couple's pregnancy story involves the husband's pact with the Devil.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3214,
+        "end_seconds": 3257,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "صدر في 1968 بعنوان ذا روزماريز بيبي حتى الان يعتبر من ايقونات افلام الرعب قصته مختلفه ولكن باختصار ايضا زوجان ينتقلان الى بيت في شقه في مبنى في نيويورك وهذا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Studio synopsis inspected; film not watched. The episode's equation of its Antichrist motif with the Islamic Dajjal is not established by this source."
+  },
+  {
+    "id": "e05-closing-ruling",
+    "type": "presenter-opinion",
+    "title": "Closing warning against deliberately pursuing intimate spirit contact",
+    "creators": [],
+    "url": null,
+    "locator": "54:44–55:09",
+    "claim": "Presenter condemns deliberately pursued relations as unlawful.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 3284,
+        "end_seconds": 3309,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عبده الشيطان نصيحه اخيره للشباب من يخوض في هذا العالم من باب الطاقه ودخول عوالم عالم اخرى تزيد في وعيه نصيحه اذا كنت مسلما فيجب ان تعرف ان هؤلاء جن وشياطين",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Keep distinct from involuntary dreams, sleep paralysis or victimization. He himself invokes the sleeper's exemption at 40:26."
+  },
+  {
+    "id": "e05-nhs-sleep-paralysis",
+    "type": "medical-context",
+    "title": "NHS: sleep paralysis",
+    "creators": [
+      "NHS"
+    ],
+    "url": "https://www.nhs.uk/conditions/sleep-paralysis/",
+    "locator": "Symptoms; See a GP if; page reviewed 7 February 2023, accessed 9 September 2026",
+    "claim": "Immobility with a felt presence can occur during sleep paralysis; frequent distress merits medical care.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-09",
+    "mentions": [
+      {
+        "episode_id": "3sVCCYYmuzU",
+        "start_seconds": 846,
+        "end_seconds": 1070,
+        "mention_kind": "editorial-context-not-mentioned-in-video",
+        "raw_excerpt_ar": "العاشق هذا؟ نفس اعراض المس المعروفه طبعا الجن العاشق يظهر للانسان في الاحلام يحاول اغائه وغالبا ياتيه بصوره اما صوره رجل وسيم ليغري او يغوي الفتاه المستهدفه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments within the discussion interval; not corrected Arabic or a quotation from the independent source. Editorial-context entries mark the passage prompting the added check."
+      }
+    ],
+    "notes": "Editorial context added to avoid turning the episode's purported signs into a diagnosis; not a source cited by al-Sabeel. Page's scheduled review date has passed; retrieved live guidance remains as described."
+  }
+]

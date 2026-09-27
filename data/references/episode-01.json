@@ -1,0 +1,1341 @@
+[
+  {
+    "id": "video-GZRckyIXMBc",
+    "type": "source-video",
+    "title": "Common misconceptions about jinn",
+    "creators": [
+      "Ahmad Dadoosh",
+      "al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=GZRckyIXMBc",
+    "locator": "00:00–53:43; complete Arabic caption text read",
+    "claim": "Documents the presenter's argument and structure.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 0,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم حلقه جديده عن عالم الجن لنصحح فيها بعض المفاهيم والمغالطات الشائعه ما هي حقيقه الجن هل يمكن رؤيتهم",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-08",
+    "notes": "Metadata and full textual transcript inspected. ASR is not an audiovisual check; this does not certify every claim."
+  },
+  {
+    "id": "quran-15-27",
+    "type": "quran",
+    "title": "Quran 15:27, context 15:26",
+    "creators": [],
+    "url": "https://quran.com/15/27",
+    "locator": "15:27, context 15:26",
+    "claim": "Jinn were created before humankind.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1020,
+        "end_seconds": null,
+        "mention_kind": "corroboration"
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 442,
+        "end_seconds": 457,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من الجن كما تقول الايه في الارجح اذا جنس الجن كان موجودا قبل ادم وربما ما بعصور كما قال بعض المفسرين ربما ب000 سنه فاذا الاصل انه كان في تكليف في عالم الجن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2256,
+        "end_seconds": 2282,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الرد الاهم في رايي على هذا الراي هو انه الجن موجودين قبل البشر كما ذكرنا ابليس كان من الجن فالجنس هذا كان موجودا فلا بد لهم اذا من نبوه ووحي على الاقل يعني قبل",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "quran-19-64",
+    "type": "quran",
+    "title": "Quran 19:64",
+    "creators": [],
+    "url": "https://quran.com/19/64",
+    "locator": "19:64",
+    "claim": "Angels descend by divine command.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 783,
+        "end_seconds": null,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "بحيث ان نحن لا نستطيع ان نستحضرهم فالايه تقول وما نتنزل الا بامر ربك فنحن لا نستطيع ان ندعوهم لنراهم او نتواصل معهم هذا يحدث بامر الهي وهو الذي ياذن بذلك",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "quran-18-50",
+    "type": "quran",
+    "title": "Quran 18:50",
+    "creators": [],
+    "url": "https://quran.com/18/50",
+    "locator": "18:50",
+    "claim": "Iblis is identified as one of the jinn.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1049,
+        "end_seconds": null,
+        "mention_kind": "allusion",
+        "raw_excerpt_ar": "كذلك وقد لا يكون ولكن المعروف والمؤكد انه ابليس كان من الجن وامر بان يسجد لما امر الملائكه فهو كان موجودا معهم لماذا الله اعلم ولكن يعني ما يغلب على الظن انه",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 440,
+        "end_seconds": 452,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نفسه عند الغضب ذكرنا سابقا ان ابليس كان من الجن كما تقول الايه في الارجح اذا جنس الجن كان موجودا قبل ادم وربما ما بعصور كما قال بعض المفسرين ربما ب000 سنه فاذا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      },
+      {
+        "episode_id": "qG4k4vJUhaI",
+        "start_seconds": 1065,
+        "end_seconds": 1099,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "الباطنيه الشيطانيه هم لا ينكرون ان هناك ربا خلق هناك رب خالق بالفعل ولكنه ناقص هذه اهم نقطه وايضا ابليس هو من مخلوقات هذا الرب ولكنه استطاع ان يتمرد عليه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in this broad discussion window; not an original-source quotation. Editorial-context anchors do not mean the presenter named the added source.",
+        "normalized_segment_indices": [
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377,
+          378,
+          379
+        ],
+        "verification_note": "Re-read Qur’an 18:50 Arabic/meaning at https://quran.com/al-kahf/50 on 2026-09-16; added explicit correction to the fallen-angel/rival-deity framing, not a named verse in this episode."
+      },
+      {
+        "episode_id": "txkeVCL7eEI",
+        "start_seconds": 3584.559,
+        "end_seconds": 3587.47,
+        "raw_excerpt_ar": "اخرج ابويكم من الجنه افتتخذونه وذريته",
+        "normalized_segment_indices": [
+          1263
+        ],
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact Arabic ASR segment. Existing verification status preserved, not re-audited in this unit."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "quran-72-11",
+    "type": "quran",
+    "title": "Quran 72:11; surrounding 72:1–15",
+    "creators": [],
+    "url": "https://quran.com/72/11",
+    "locator": "72:11; surrounding 72:1–15",
+    "claim": "Jinn differ in righteousness and conduct.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1431,
+        "end_seconds": null,
+        "mention_kind": "corroboration"
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "quran-7-27",
+    "type": "quran",
+    "title": "Quran 7:27",
+    "creators": [],
+    "url": "https://quran.com/7/27",
+    "locator": "7:27",
+    "claim": "Satan and his company see people where people do not see them.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1657,
+        "end_seconds": null,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الامام الشافعي رحمه الله والذي رد شهاده من زعم رؤيتهم على هيئتهم واستشهد بالايه انه يراكم هو وقبيله من حيث لا ترونهم وهذا لا يسع راي بقيه العلماء ولا حتى كل",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 789,
+        "end_seconds": 814,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "رؤيتنا وليست لدينا بنفس الطريقه انه يراكم هو وقبيله من حيث لا ترونهم هذا يعني يعطي للجن بغض النظر عن كفرهم وايمانهم قدره على التجسس على كشف اسرار",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      },
+      {
+        "episode_id": "txkeVCL7eEI",
+        "start_seconds": 3581.96,
+        "end_seconds": 3584.549,
+        "raw_excerpt_ar": "ايضا في التحذير لا يفتننكم الشيطان كما",
+        "normalized_segment_indices": [
+          1262
+        ],
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact Arabic ASR segment. Existing verification status preserved, not re-audited in this unit."
+      },
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1327.24,
+        "end_seconds": 1358.35,
+        "normalized_segment_indices": [
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467
+        ],
+        "raw_excerpt_ar": "البدايه اول جمله قالها عالم الجن هو عالم غيبي عنا واي شخص يتحدث عن هذا العالم الغيبي فعليه ان يتوقف على ما ورد في القران والسنه لاننا لا نعرف شيئا عن الجن",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter.",
+        "checked_at": "2026-09-21",
+        "verification_note": "Qur’an 7:27 Arabic and displayed English independently reread."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "quran-15-16-18",
+    "type": "quran",
+    "title": "Quran 15:16–18",
+    "creators": [],
+    "url": "https://quran.com/15/16-18",
+    "locator": "15:16–18",
+    "claim": "Heavenly protection and pursuit of an eavesdropper.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2572,
+        "end_seconds": null,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "على مستوى اقل يعترضون بدون سؤال ولا فهم بعضهم يستشهدون بالايه ولقد جعلنا في السماء بروجا وزيناها للناظرين وحفظناها من كل شيطان الرجيم الايه عن الرجل طبعا",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "quran-55-33",
+    "type": "quran",
+    "title": "Quran 55:33, context 55:31–39",
+    "creators": [],
+    "url": "https://quran.com/55/33",
+    "locator": "55:33, context 55:31–39",
+    "claim": "Humans and jinn cannot pass beyond divine authority; judgment context.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2706,
+        "end_seconds": null,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "نقول عمليا هذا ممكن فاذا لا يحق لاحد هنا ان يستشهد بايه يا معشر الجن والانس ان استطعتم ان تنفذوا من اقطار السماوات والارض فانفذوا لا تنفذون الا بسلطان يجب",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and displayed translation inspected. Article paraphrases rather than reproducing a modern translation."
+  },
+  {
+    "id": "bukhari-4485",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 4485",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:4485",
+    "locator": "Book 65, hadith 12",
+    "claim": "Withhold automatic affirmation or denial of reports from the People of the Book.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 913,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قاعده شرعيه الاسرائيليات مثلا في القاعده الشرعيه لا تصدقوهم ولا تكذبوهم يعني نحن لا نستطيع ان نكذبهم فقط لانهم يهود فليس كل ما جاء من روايات بني اسرائيل هو كذب",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and English report inspected. Recorded in Sahih al-Bukhari; wording variants require separate checking."
+  },
+  {
+    "id": "bukhari-461",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 461",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:461",
+    "locator": "Book 8, hadith 109",
+    "claim": "Ifrit interrupts prayer; the Prophet considers tying it to a pillar but recalls Solomon.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1676,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اختصه الله بذلك من غير الانبياء والدليل الحديث الصحيح لما قال النبي عليه الصلاه والسلام ان عفريت من الجن تفلت البارحه ليقطع علي صلاتي فامكنني الله منه فاخذته",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Arabic and English report inspected. Recorded in Sahih al-Bukhari; wording variants require separate checking."
+  },
+  {
+    "id": "bukhari-773",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 773",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:773",
+    "locator": "Sahih al-Bukhari 773; Book 10, Hadith 167; Fajr recitation chapter",
+    "claim": "Jinn hear the Quran at Nakhlah after heavenly news is obstructed.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2607,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كما يقول الحديث ايضا لدينا في سوره الجن وانا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبه الى اخر الايات قال المفسرون ان الجن لما بعث النبي عليه الصلاه",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-18",
+    "notes": "Arabic and English re-read 18 September. The report has the Prophet travelling toward Suq ‘Ukaz and praying at Nakhlah, not returning from ‘Ukaz as ASR segment 946 says. It does not establish all proposed post-revelation rules or a physical location for angelic descent.",
+    "verification_history": [
+      {
+        "verification_status": "verified",
+        "support": "supports",
+        "checked_at": "2026-09-08",
+        "url": "https://sunnah.com/bukhari:773",
+        "locator": "Hadith 773",
+        "notes": "Arabic and English report inspected. Recorded in Sahih al-Bukhari; wording variants require separate checking."
+      }
+    ]
+  },
+  {
+    "id": "bukhari-5762",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 5762",
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:5762",
+    "locator": "Sahih al-Bukhari 5762; Book 76, Hadith 76; chapter on soothsayers",
+    "claim": "A soothsayer mixes a fragment of truth with many falsehoods.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2598,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يسترق السنع يرجم لذلك بعض الكهنه يصلهم من الغيب شيء بسيط فيضيفون عليه 100 كذبه كما يقول الحديث ايضا لدينا في سوره الجن",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-18",
+    "notes": "Arabic and English re-read 18 September. ‘A’ishah report includes one hundred lies mixed with the stolen true word. Verification is of this report, not the presenter’s larger causal model.",
+    "verification_history": [
+      {
+        "verification_status": "verified",
+        "support": "supports",
+        "checked_at": "2026-09-08",
+        "url": "https://sunnah.com/bukhari:5762",
+        "locator": "Book of Medicine, chapter on soothsayers",
+        "notes": "Arabic and English report inspected. Recorded in Sahih al-Bukhari; wording variants require separate checking."
+      }
+    ]
+  },
+  {
+    "id": "islamweb-110576",
+    "type": "scholarly-summary",
+    "title": "Seeing and depicting jinn",
+    "creators": [
+      "Islamweb"
+    ],
+    "url": "https://www.islamweb.org/ar/fatwa/print.php?id=110576",
+    "locator": "Fatwa 110576, 23 July 2008, opening discussion",
+    "claim": "Documents a distinction between original and assumed forms.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1652,
+        "end_seconds": null,
+        "mention_kind": "independent-verification"
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Secondary locator found in independent research; original classical editions not inspected."
+  },
+  {
+    "id": "islamweb-126665",
+    "type": "scholarly-summary",
+    "title": "Solomon seeing jinn and whether others can see them",
+    "creators": [
+      "Islamweb"
+    ],
+    "url": "https://islamweb.net/ar/fatwa/print.php?id=126665",
+    "locator": "Fatwa 126665, 6 September 2009, citations following the ifrit report",
+    "claim": "Reproduces classical opinions with volume/page locators.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1698,
+        "end_seconds": null,
+        "mention_kind": "independent-verification"
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified as a secondary scholarly summary. Original editions remain to be checked."
+  },
+  {
+    "id": "binbaz-3291",
+    "type": "scholarly-opinion",
+    "title": "Assessment of reports about devils teaching religious matters",
+    "creators": [
+      "Abd al-Aziz ibn Baz"
+    ],
+    "url": "https://binbaz.org.sa/fatwas/3291/ما-صحة-احاديث-تعليم-الشياطين-الناس-امور-دينهم",
+    "locator": "Fatwa 3291, answer about devils confined by Solomon",
+    "claim": "Ibn Baz treats the account as potentially Israelite material and urges verification.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2014,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الصلاه والسلام ولكن البعض شكك مثل الشيخ بن باز قال مثلا هذا الاثر غالبا مما تلقاه هذا الصحابي من اخبار بني اسرائيل فاذا اردتم ان تاخذوا به فهذا هو المعنى",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Official answer inspected. Resolve the Companion name using the original Muslim report."
+  },
+  {
+    "id": "house-uap-2023",
+    "type": "hearing",
+    "title": "US House hearing on unidentified anomalous phenomena",
+    "creators": [],
+    "url": "https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/",
+    "locator": "26 July 2023; witness list and hearing record",
+    "claim": "Hearing included Grusch, Graves and Fravor.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2423,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مره المقاطع الموثقه من الجيش الامريكي ثم تسريبات اخرى متتاليه ثم 2023 الضابط جروش صرح بوجود ذكاء غير بشري ثم اخيرا 2026 26",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-08",
+    "notes": "Verified event and witness identity. Specific testimony assertions need recording locators; hearing is not proof of their content."
+  },
+  {
+    "id": "e01-map-sects",
+    "type": "book",
+    "title": "A map of religious sects",
+    "creators": [],
+    "url": "https://al-sabeel.net/books/كتاب-خارطة-الطوائف/",
+    "locator": "Theosophy chapter; page unresolved",
+    "claim": "Presenter refers to his comparative-religion book.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 126,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الدكتوراه فربما يكون في بحث واحد مطول فهذا مؤجل ايضا هناك كتاب خارطه الطوائف نشر قبل سنه تقريبا وفيه جزء متعلق بما نتحدث عنه وتحديدا فصل عن جماعه الثيوسوفي",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "Publisher confirms Ahmad Dadoosh, 454 pages, 2024. Chapter not inspected."
+  },
+  {
+    "id": "e01-unpublished-research",
+    "type": "unpublished-research",
+    "title": "Presenter research on shamanism and occult traditions",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Presenter describes unpublished research.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 114,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "امتدادات معاصره خلاصات بحثي في هذا الموضوع نشرتها في اكثر من حلقه تجدونها في هذه القناه منها حلقه الشام يه مثلا ولكن البحث نفسه لم ينشر بعد وربما لا",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "No accessible thesis supplied."
+  },
+  {
+    "id": "e01-ibn-taymiyyah",
+    "type": "book",
+    "title": "Ibn Taymiyyah on encounters with jinn",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Reports attributed to Ibn Taymiyyah and his companions.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 224,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اكثر فهما اكثر مخالطه وتجربه واعتقد انه ابن تيميه رحمه الله كان هو الاكثر انفتاحا في هذا الموضوع تجد لديه فتاوى جريئه وتجده يقول حتى في بعض كتبه انه لا",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Identify exact work, edition and page; a search lead resembles Majmu al-Fatawa."
+  },
+  {
+    "id": "e01-gulf-interview",
+    "type": "interview",
+    "title": "Former Gulf-based energy-healing practitioner",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Presenter recalls an earlier channel interview.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 354,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ونستشهد بتجارب لاخوه مسلمين كما عرضته في هذه القناه في احداها مثلا كانت حلقه فيها مقابله مع اخت من الخليج دخلت لثلاث سنوات",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Possibly the Iman interviews; confirm original recording."
+  },
+  {
+    "id": "e01-ibrashi",
+    "type": "field-study",
+    "title": "Dr. Hisham Sidqi al-Ibrashi field study on West African religions",
+    "creators": [
+      "Hisham Sidqi al-Ibrashi"
+    ],
+    "url": "https://www.youtube.com/watch?v=c4u1s3fEpuk",
+    "locator": "Doctoral field study: al-Diyanat al-Wad iyyah fi Gharb Ifriqya",
+    "claim": "Descriptive field study linking indigenous West African spirit cults and sacrifices to jinn.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 390,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يربطوا بين هذه العوالم ايضا اريد ان اوضح انه حتى قبل ان انشر بحثي المتعلق بدراسه بعض المعتقدات للسكان الاصليين اكتشفت ايضا انه الدكتور ابراهيم الابراشي ايضا",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Speaker inadvertently said Ibrahim at 06:36 then corrected to Dr. Hisham at 07:20. Field research publication verified."
+  },
+  {
+    "id": "e01-vancouver-museum",
+    "type": "video",
+    "title": "Presenter visit to a Vancouver anthropology museum",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Objects interpreted by presenter in relation to spirit beliefs.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 480,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مخلوق اخر ومرتبط به وسبق ايضا ان قدمت حلقه كانت في جوله في متحف الانثروبولوجيا في فانكوفر الذي يقدم عبادات او تاريخ",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Identify source video and object provenance; interpretation is not museum attribution."
+  },
+  {
+    "id": "e01-private-testimonies",
+    "type": "testimony",
+    "title": "Private correspondence and unnamed contacts",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Presenter reports experiences from correspondents and scholars.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 507,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من تلك الشعوب ايضا من الشهادات التي اتلقاها بنفسي حتى من تعليقات الناس ومن رسائلهم الذين يتواصلون معنا فهذه شهادات لها قيمتها في البحث العلمي وايضا اوضح",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Attribute only; do not identify private individuals."
+  },
+  {
+    "id": "e01-quran-2-30",
+    "type": "quran",
+    "title": "Quran 2:30",
+    "creators": [],
+    "url": "https://quran.com/2/30",
+    "locator": "2:30",
+    "claim": "Angels ask about corruption and bloodshed.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1035,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "موجودين على الارض وكان في بينهم حروب لذلك لما الله سبحانه وتعالى قال اني جاعل في الارض خليفه فالملائكه اول ما خطر على بالها انه سيحدث اقتتال اتجعل فيها من يفسد فيها",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2623,
+        "end_seconds": 2640,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التفاسير البشر هم اصحاب الاستخلاف الظاهر وربما كان قبل ان يخلق ادم وهو الخليفه كما تقول الايه كان الاستخلاف للجن والله اعلم فالان هذه مرحله البشر والاستخلاف",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "Independently inspect; verse alone does not establish pre-Adamic jinn wars."
+  },
+  {
+    "id": "e01-hinn-binn",
+    "type": "historical-report",
+    "title": "Hinn and binn and pre-Adamic beings",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Possible earlier beings and conflicts.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1104,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التفاصيل لكن نعرف الان ان الجن كانوا موجودين قبلنا في بعض التفاسير قالت ان هناك الحن والبن والجن ما ندري قد يكون صحيح ربما هذا العلم ايضا كان موجودا حتى",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Unnamed source; speculative report."
+  },
+  {
+    "id": "e01-ancient-nuclear",
+    "type": "historical-claim",
+    "title": "Ancient nuclear war and monument theories",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Alleged ancient destruction and jinn roles in monuments.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1124,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نقرا ما يروى لنا والله اعلم بالمناسبه ايضا في جماعه ما يسمى بنظريه الفضائيون القدماء تبحث في بعض الامور يعني تقول انه الفضائيين القدماء جاؤوا قبل الاف السنين",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "No identifiable archaeological evidence supplied."
+  },
+  {
+    "id": "e01-shasta",
+    "type": "source-video",
+    "title": "Mount Shasta and Telos",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=zelhzux0yeM",
+    "locator": null,
+    "claim": "Earlier channel episode.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1190,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انصحنا بمشاهده حلقه جبل جاستا حتى نفهم اكثر هذه النقطه اذا هنا نتذكر ايضا بما انه البشر انفسهم يعني ادم عليه السلام",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "ID in channel playlist; outside date window and unread."
+  },
+  {
+    "id": "e01-quran-114",
+    "type": "quran",
+    "title": "Quran 114:4",
+    "creators": [],
+    "url": "https://quran.com/114/4",
+    "locator": "114:4",
+    "claim": "Whispering and withdrawal.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1440,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ربما تافهه ويربط مفهوم الجن بالوسواس الخناسا اذا استعذت بالله منه فقط خنس وانتهى الامر وهذا هو الجني وهذا هو كل شيء على عالم الجن وهم يعيشون في الغابات والصحاري وفي",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 814,
+        "end_seconds": 834,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النقطه الثانيه لديهم قدره على التاثير في قلوبنا عن طريق الوسوسه الوسوسه بشكل بسيط وعادي وليس عن طريق السحر يعني اي شيطان صغير او تافه يعني حتى لو كان قزما كما",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      },
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 541.88,
+        "end_seconds": 555.23,
+        "normalized_segment_indices": [
+          186,
+          187,
+          188,
+          189,
+          190
+        ],
+        "raw_excerpt_ar": "الكتاب والسنه فالقران الكريم يقول من شر الوسواس الخناس الذي يوسوس في صدور الناس وقال النبي عليه الصلاه والسلام ان الشيطان يجري من ابن ادم مجرى الدم يحاول",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter.",
+        "checked_at": "2026-09-21",
+        "verification_note": "Qur’an 114:4–6 context independently reread; does not diagnose OCD."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "Allusion; inspect before quotation."
+  },
+  {
+    "id": "e01-quran-14-48",
+    "type": "quran",
+    "title": "Quran 14:48",
+    "creators": [],
+    "url": "https://quran.com/14/48",
+    "locator": "14:48",
+    "claim": "Earth and heavens changed at judgment.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1521,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعد ما تقوم قيامتنا ما الذي سيحدث ستبدل الارض غير الارض والسماوات غير السماوات لكن هل سيكون هناك تكرار لقصه اخرى مع",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "Does not establish further speculation about subsequent worlds."
+  },
+  {
+    "id": "e01-shafii",
+    "type": "book",
+    "title": "Al-Shafi i on seeing jinn in Ahkam al-Qur an (al-Bayhaqi)",
+    "creators": [
+      "Al-Shafi i",
+      "Al-Bayhaqi"
+    ],
+    "url": "https://shamela.ws/book/8381/374",
+    "locator": "Ahkam al-Qur an (ed. al-Kawthari), 2/194; Manaqib al-Shafi i, 1/461",
+    "claim": "Al-Shafi i rejects the legal testimony of anyone claiming to see jinn in their created form.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1655,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعضهم تشدد في الانكار والاشهر في ذلك راي الامام الشافعي رحمه الله والذي رد شهاده من زعم رؤيتهم على هيئتهم واستشهد بالايه انه يراكم هو وقبيله من حيث لا ترونهم",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Textual statement verified. Refers to claiming vision in created form; scholars harmonize with authentic reports of seeing them in assumed forms."
+  },
+  {
+    "id": "e01-baghawi",
+    "type": "book",
+    "title": "Al-Baghawi on seeing jinn in Sharh al-Sunnah",
+    "creators": [
+      "Al-Baghawi"
+    ],
+    "url": "https://shamela.ws/book/12815/1218",
+    "locator": "Sharh al-Sunnah (ed. Shu ayb al-Arna ut), 3/270, Kitab al-Salat",
+    "claim": "Al-Baghawi states the ifrit hadith proves seeing jinn is not impossible and Sulayman s companions saw them.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1698,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "البغوي في شرح للحديث في شرح السنه وفيه دليل على ان رؤيه الجن غير مستحيله وايضا",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Primary edition verified at 3/270. Supports the presenter s citation."
+  },
+  {
+    "id": "e01-ayni",
+    "type": "book",
+    "title": "Al- Ayni on Sulayman companions in Umdat al-Qari",
+    "creators": [
+      "Badr al-Din al- Ayni"
+    ],
+    "url": "https://shamela.ws/book/21743/1825",
+    "locator": "Umdat al-Qari Sharh Sahih al-Bukhari, 4/346, Kitab al-Salat",
+    "claim": "Al- Ayni notes that Sulayman s companions saw the jinn at work as proof of his prophethood.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1711,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا في عمده القاري شرح صحيح البخاري فيه دليل على ان اصحاب سليمان كانوا يرون الجن وهو من دلائل نبوته ولولا مشاهدتهم اياهم",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Primary edition verified at 4/346. Supports the presenter s citation."
+  },
+  {
+    "id": "e01-ibn-hajar",
+    "type": "book",
+    "title": "Ibn Hajar on seeing jinn in Fath al-Bari",
+    "creators": [
+      "Ibn Hajar al- Asqalani"
+    ],
+    "url": "https://shamela.ws/book/1673/590",
+    "locator": "Fath al-Bari, 1/548 (Kitab al-Salat, hadith 461) and 6/344 (Kitab Bad al-Khalq)",
+    "claim": "Ibn Hajar cites al-Khattabi on Sulayman s companions and distinguishes original from assumed forms.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1724,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بقيه الناس يعني وايضا الحافظ بن حجر في فتح الباري شرح صحيح البخاري قال واستدل الخطابي بهذا الحديث على ان اصحاب سليمان كانوا يرون الجن في اشكالهم وياتي حال",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Primary edition verified. Supports the presenter s citations."
+  },
+  {
+    "id": "e01-saliva-variant",
+    "type": "hadith",
+    "title": "Report of Abu Sa id al-Khudri on ifrit and coolness of its saliva",
+    "creators": [
+      "Abu Dawud",
+      "Ahmad ibn Hanbal"
+    ],
+    "url": "https://sunnah.com/abudawud:773",
+    "locator": "Sunan Abi Dawud 773; Musnad Ahmad 11354, 11776, 11824",
+    "claim": "The Prophet choked an ifrit during prayer until he felt the coolness of its saliva between his thumb and index finger.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1684,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ليقطع علي صلاتي فامكنني الله منه فاخذته قبض علي في روايه اخرى يعني حتى شعر ببرد لعابه على يده فاردت ان اربطه على ساريه من سوار المسجد حتى تنظروا اليه كلكم الى",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Narrated from Abu Sa id al-Khudri. Graded Sahih by al-Albani (Sahih Abi Dawud 773) and Shu ayb al-Arna ut (Tahqiq al-Musnad). Distinct from Bukhari 461 which transmits Abu Hurayrah without the saliva wording."
+  },
+  {
+    "id": "e01-three-thousand-years",
+    "type": "film",
+    "title": "Three Thousand Years of Longing (film)",
+    "creators": [
+      "George Miller",
+      "Idris Elba",
+      "Tilda Swinton"
+    ],
+    "url": "https://www.imdb.com/title/tt9144442/",
+    "locator": "Metro-Goldwyn-Mayer, 2022",
+    "claim": "Fictional portrayal of a jinn manifesting physically in London and deteriorating over time.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1894,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لا تصمد كثيرا مؤقته وهذا ايضا تجده حتى في بعض افلام هوليود مثلا في فيلم مشهور في 2002 22 3000 يرز ا لونجين يعني 3000 سنه من الشوق الفيلم نفسه ماخوذ على",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified film credits and plot. Used as an illustration of Western cultural depictions."
+  },
+  {
+    "id": "e01-nightingale",
+    "type": "literary-work",
+    "title": "The Djinn in the Nightingale s Eye",
+    "creators": [
+      "A. S. Byatt"
+    ],
+    "url": "https://www.goodreads.com/book/show/24445.The_Djinn_in_the_Nightingale_s_Eye",
+    "locator": "Chatto & Windus, 1994",
+    "claim": "Literary novella upon which Three Thousand Years of Longing was based.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1901,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سنه من الشوق الفيلم نفسه ماخوذ على الروايه عنوان هذا الجن ان ذا نايت انجلز اي لاحظ ذا الجن يعني حتى الغربيين لما",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified publication details and author A. S. Byatt."
+  },
+  {
+    "id": "e01-muslim-imprisoned",
+    "type": "companion-report",
+    "title": "Report of Abd Allah ibn Amr in Muqaddimat Sahih Muslim",
+    "creators": [
+      "Muslim ibn al-Hajjaj",
+      "Abd Allah ibn Amr ibn al-As"
+    ],
+    "url": "https://sunnah.com/muslim/introduction",
+    "locator": "Sahih Muslim, Muqaddimah, Bab bayan an al-isnad min al-din, Hadith/Athar 13",
+    "claim": "Devils imprisoned in the sea by Sulayman will emerge and recite a Quran to the people.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 1991,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من الاساطير لها اصل حقيقي والله اعلم والاثر لدينا ان في البحر شياطين مسجونه اوثقه سليمان يوشك ان تخرج فتقرا على الناس قرانا بعض المفسرين قالوا هذا في",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Mawquf on Abd Allah ibn Amr ibn al-As, not a prophetic hadith. Ibn Baz (fatwa 3291) notes it derives from traditions of the People of the Book (Isra iliyyat)."
+  },
+  {
+    "id": "e01-hamid-adam",
+    "type": "interview",
+    "title": "Hamid Adam interview",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Former practitioner describes a shadow-like appearance.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2050,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاشكال ايضا متفاوته ساستشهد هنا بما قاله الساحر السوداني التائب حامد ادم في اكثر من مقابله منها مقابله التي ظهرت في قناه سعوديه قبل سنه قال انه كان يرى",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Saudi channel and recording unresolved; ASR jinn-name uncertain."
+  },
+  {
+    "id": "e01-blavatsky",
+    "type": "occult-writing",
+    "title": "Blavatsky accounts of teachers or masters",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Descriptions of alleged beings.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2093,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشفافه والتي تظهر في حالات محدوده وقصيره ايضا نجد عند قصص جماعه الثيوسوفيا وكما ذكرنا في حلقه مفصله مثلا بلافاتكي",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Find work and passage; claimed encounters remain claims."
+  },
+  {
+    "id": "e01-crowley-lam",
+    "type": "occult-writing",
+    "title": "Aleister Crowley drawing of Lam",
+    "creators": [
+      "Aleister Crowley"
+    ],
+    "url": "https://hermetic.com/crowley/equinox/iii/i/index",
+    "locator": "Exhibited 1919; published in The Equinox III:1 (1919)",
+    "claim": "Occult entity drawing presented in comparison to modern grey alien iconography.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2110,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعضهم رسموا لنا شخصيات في هيئه تشبه الفضائيين من اشهرهم كراولي اليستر كراولي احد مؤسسي الديانات الباطنيه في العصر الحديث مؤسس",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "ASR transcript garbled Thelema. Crowley founded Thelema after leaving the Golden Dawn. Lam drawing documented."
+  },
+  {
+    "id": "e01-hellyer",
+    "type": "interview",
+    "title": "Paul Hellyer public statements and RT interview",
+    "creators": [
+      "Paul Hellyer"
+    ],
+    "url": "https://www.youtube.com/watch?v=XEQdvY3Z540",
+    "locator": "Toronto address (2005); SophieCo RT interview (2014)",
+    "claim": "Former Canadian Defence Minister claiming government awareness of extraterrestrials.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2403,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بالتدريج كما ذكرنا بالتفصيل بدات الامور تنكشف في 2005 وزير الدفاع الكندي اعترف لاول مره اول مسؤول بهذا الحجم يعترف بوجود ذكاء غير بشري ثم في 2014 لما اعترف",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified occurrence of public statements and RT broadcast. Documents the witness testimony, not the supernatural conclusion."
+  },
+  {
+    "id": "e01-nyt-2017",
+    "type": "news",
+    "title": "New York Times report on Pentagon UAP program",
+    "creators": [
+      "Helene Cooper",
+      "Ralph Blumenthal",
+      "Leslie Kean"
+    ],
+    "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+    "locator": "The New York Times, 16 December 2017",
+    "claim": "Reporting on DoD AATIP program and publishing official Navy UAP videos.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2417,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يتواصل معهم وان الحكومات تخفي هذا الامر ثم 2017 صحيفه نيويورك تايمز نشرت لاول مره المقاطع الموثقه من الجيش الامريكي ثم تسريبات اخرى متتاليه ثم 2023 الضابط جروش",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified publication and content."
+  },
+  {
+    "id": "e01-may-2026-release",
+    "type": "government-record",
+    "title": "May 2026 UAP record release",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Presenter interprets imagery as acknowledgement of nonhuman intelligence.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2430,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "صرح بوجود ذكاء غير بشري ثم اخيرا 2026 26 في هذا الشهر تحديدا البنتاغون لاول مره ينشر صور واضحه لاطباق طائره ويعترف بانه في اشياء غير مفسره فالان صار عندنا تصريح",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Search found AARO staging pages marked FOR NEXT RELEASE. Locate final records; unidentified does not establish nonhuman origin."
+  },
+  {
+    "id": "e01-luna-rogan",
+    "type": "interview",
+    "title": "Anna Paulina Luna on The Joe Rogan Experience",
+    "creators": [
+      "Joe Rogan",
+      "Anna Paulina Luna"
+    ],
+    "url": "https://www.youtube.com/watch?v=bcpkHaiG2io",
+    "locator": "JRE #2365, 13 August 2025; official JRE Clips excerpt bcpkHaiG2io: 03:16–03:35, 04:06–04:35, 05:23–06:15, 08:03–08:20 and 10:01–10:18",
+    "claim": "Congressional member asserting classified briefing access and interdimensional hypothesis.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2517,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كوكب واحد صغير وايضا اضيف هنا معلومه لم اذكرها في الحلقه السابقه لما تحدثنا عن الفضائيين في اغسطس 2025 في بودكاست جو روغن النائبه الامريكيه الجمهوريه ان باولينا لونا قالت انها اطلعت على صور",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-18",
+    "notes": "18 September audit corrected inherited August 2024 / #2184 and unsupported Spotify locator. Programme listing https://podcasts.apple.com/us/podcast/2365-rep-anna-paulina-luna/id360084272?i=1000721847962 and official clip metadata identify #2365 / 13 August 2025. All available English auto-caption text of the 14:08 official clip read (02.710–13:56.639); no audio/video watched and full podcast not read. Luna attributes interdimensional descriptions to witnesses, denies personally seeing a portal open or a spaceship, and says she interprets photographs viewed in a SCIF as non-human-made. This verifies attributed testimony at caption level, not the photographs, underlying classified evidence, origin, or jinn interpretation. See research/audits/2026-09-18.md.",
+    "verification_history": [
+      {
+        "verification_status": "verified",
+        "support": "supports",
+        "checked_at": "2026-09-08",
+        "url": "https://open.spotify.com/episode/3G7k0mD0qW1pG6H2S3cW8J",
+        "locator": "Joe Rogan Experience #2184, August 2024",
+        "notes": "Verified podcast episode and remarks. Documents public political statements."
+      }
+    ],
+    "audit_status": "scoped-primary-caption-check",
+    "audit_date": "2026-09-18"
+  },
+  {
+    "id": "e01-syria-reports",
+    "type": "testimony",
+    "title": "Unnamed accounts from Syrian conflict",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Alleged supernatural intervention.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2845,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الطاقه ويكون مؤقتا حتى لو نجح فيه مع ذلك نسمع بعض القصص معاصره وقديمه عن تعاون حتى في الحروب سمعت في الثوره السوريه عن بعض المعارك التي ظهر لهم فيها من يساعده",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "Presenter acknowledges these could be false; no firsthand records."
+  },
+  {
+    "id": "e01-umar-messenger",
+    "type": "historical-report",
+    "title": "Report of Umar and Abu al-Haytham (barid al-jinn)",
+    "creators": [
+      "Ibn Abi al-Dunya",
+      "Ibn Hajar",
+      "Al-Bayhaqi"
+    ],
+    "url": "https://shamela.ws/book/755/65",
+    "locator": "Hawatiff al-Jinan #69; al-Isabah 7/465 (#11831); Dala il al-Nubuwwah 6/389",
+    "claim": "Narration of a jinn courier bringing early news of military victory to Umar in Madinah.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2880,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اخرى في حالات محدوده في التاريخ عندنا قصه ان عمر بن الخطاب رضي الله عنه كان ينتظر في المدينه المنوره لما كان خليفه خبرا من احدى الجيوش فكانوا ينتظرون هل",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified as a recorded classical tradition with known chain weakness. Presenter explicitly presented it as unconfirmed."
+  },
+  {
+    "id": "e01-uap-gray",
+    "type": "interview",
+    "title": "Jonathan Grey statements on UAP recoveries",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Alleged recoveries beyond United States.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 3079,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كله في امور سريه يعني عند المخابرات ايضا ذكرنا الضابط ضابط المخابره جوناثان جري قال ايضا انه الفكره القائله بان الولايات المتحده وحدها مارست ضغوطا على الدول",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "Original interview and identity need checking."
+  },
+  {
+    "id": "e01-global-sightings",
+    "type": "testimony",
+    "title": "Unspecified accounts across countries",
+    "creators": [],
+    "url": null,
+    "locator": null,
+    "claim": "Kuwait, Egypt, Arab comments and Russian books.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 3101,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تسيطر عليها وتخفيها عن شعبها واذا انتقلنا الى المشاهدات اصلا مواقع الانترنت والصحف نفسها تذكر الاف المشاهدات في كل مكان بما فيها الدول",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "notes": "No precise titles, witnesses, dates or records supplied."
+  },
+  {
+    "id": "e01-magic-background",
+    "type": "source-video",
+    "title": "Earlier episode on effects of magic",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=g7vINs6M3Ag",
+    "locator": null,
+    "claim": "Presenter prefers a view of external effects.",
+    "mentions": [
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 3005,
+        "end_seconds": null,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الجن وهذا فقط في اخر الزمان واذكر هنا ايضا لما تحدثنا في حلقه مفصله عن السحر تحدثت بالتفصيل عن الاراء العقديه والفقهيه في قضيه هل السحر يقلب الاعيان",
+        "excerpt_note": "Nearby ASR context, not a manually corrected exact quotation."
+      }
+    ],
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "notes": "ID in playlist; outside date window. Scholarly sources need review."
+  }
+]

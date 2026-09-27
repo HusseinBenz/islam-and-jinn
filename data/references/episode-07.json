@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "video-n8kkRim6ecs",
+    "type": "source-video",
+    "title": "Channelling and the New Age account of other worlds",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs",
+    "locator": "00:00–52:18; all 1,084 normalized Arabic segments",
+    "claim": "The episode sequence and its qualified and unqualified assertions.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 0,
+        "end_seconds": 3139,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم تخيل عزيزي المستمع ان هناك كائنات روحيه خارقه تعيش في كوكبه الثريا وفي نجم الشعره وان لديها طاقات روحيه هائله وانها تتواصل ايضا مع البشر منذ",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read completely in five contiguous ranges on 11 September 2026. No audiovisual review; verifies caption coverage and attribution, not the truth of the channelled narratives it summarizes."
+  },
+  {
+    "id": "e07-central-thesis",
+    "type": "presenter-interpretation",
+    "title": "Channelled star-being cosmology as a message from devils",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=0s",
+    "locator": "Episode discussion 0–124 seconds; independent locator pending",
+    "claim": "Presenter argues that the Pleiadian/Sirian/Anunnaki narrative is delivered by devils directly to chosen individuals.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 0,
+        "end_seconds": 124,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم تخيل عزيزي المستمع ان هناك كائنات روحيه خارقه تعيش في كوكبه الثريا وفي نجم الشعره وان لديها طاقات روحيه هائله وانها تتواصل ايضا مع البشر منذ",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Central theological interpretation. Not an independently testable finding."
+  },
+  {
+    "id": "e07-ancient-lineage",
+    "type": "claim",
+    "title": "Claim that the narrative is an ancient creed",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 47–124 seconds; independent locator pending",
+    "claim": "Presenter says versions of the story have existed for thousands of years, were embraced by whole civilizations and are held by esoteric New Age movements.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 47,
+        "end_seconds": 124,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لا نعرف ما هي الحقيقه ان هنا لا اتحدث عن نظريه مؤامره سخيفه تجدها فقط على مواقع الانترنت هناك عقيده راسخه ببعض تفاصيل هذه العقيده او هذه القصه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Specific civilizations, texts and continuity of doctrine not identified. Article treats star veneration and the modern channelled narrative separately."
+  },
+  {
+    "id": "e07-series-crossrefs",
+    "type": "claim",
+    "title": "Recommended earlier episodes",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 97–124 seconds; independent locator pending",
+    "claim": "Presenter recommends the Theosophy, New Age and aliens episodes as background.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 97,
+        "end_seconds": 124,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وانصح ايضا بالعوده لمشاهده حلقه الثيو صوفيا وكل ما قدمناه من حلقات عن حركه العصر الجديد وايضا الحلقات الجديده التي نشرناها سابقا بدءا بحلقه الفضائيين ثم كل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Earlier episodes lie outside or before the requested corpus window unless otherwise identified; not used as evidence."
+  },
+  {
+    "id": "e07-pleiades-astronomy",
+    "type": "reference-work",
+    "title": "The Pleiades cluster in Taurus",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Pleiades",
+    "locator": "Wikipedia, “Pleiades”, lead and names sections",
+    "claim": "The Pleiades (Seven Sisters) lie in Taurus, show about seven naked-eye stars and are relatively near Earth.",
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 124,
+        "end_seconds": 150,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كوكبه الثريه او عنقود الثريا الموجود في مكان ما من مجرى درب التبانه تسمى بالانجليزيه ذا بليديز وكانت معروفه في كل العصور القديمه على الاقل فيما وصلنا في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Tertiary encyclopaedia inspected: Taurus location, 6–14 naked-eye stars depending on conditions, about 444 light-years. Replace with an astronomical primary or observatory source before publication."
+  },
+  {
+    "id": "e07-arab-thurayya",
+    "type": "claim",
+    "title": "Arab usage of al-Najm and al-Thurayya",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 150–175 seconds; independent locator pending",
+    "claim": "Arabs called the Pleiades al-Najm, used the proverb “ayna al-thara min al-thurayya”, and linked it with rain-stars (anwa’).",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 150,
+        "end_seconds": 175,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشعوب العرب مثلا كان لهم ارتباط روحي بهذه الكواكب وكانوا يطلقون عليها اسم النجم بمجرد اطلاقه النجم يعني الثريه وكانت الثريه هي رمز للجمال والعلو والسمو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Lexicon (e.g. Lisan al-Arab) and proverb collection not yet inspected. Wikipedia confirms only the Arabic name al-Thurayya."
+  },
+  {
+    "id": "e07-quran-sirius",
+    "type": "quran",
+    "title": "Qur’an 53:49",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/53/49",
+    "locator": "Surat al-Najm 53:49",
+    "claim": "Allah is the Lord of al-Shi‘ra (Sirius), in a surah named al-Najm.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 175,
+        "end_seconds": 195,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شعره كانت ايضا معبوده لدى كل الشعوب وتسمى الشعره اليمنيه ولذلك جاء القران الكريم لهدم هذه الفلسفه لدى العرب في سوره كامله اسمها النجم وفيها ايه وانه هو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Arabic and English translation inspected on Quran.com. Identification of al-Shi‘ra with Sirius follows the commentary tradition."
+  },
+  {
+    "id": "e07-sirius-worship-tafsir",
+    "type": "tafsir",
+    "title": "Al-Baghawi on Sirius worship among the Arabs",
+    "creators": [
+      "al-Baghawi"
+    ],
+    "url": "https://quran.ksu.edu.sa/tafseer/baghawy/sura53-aya49.html",
+    "locator": "Ma‘alim al-Tanzil on 53:49",
+    "claim": "Some Arabs worshipped Sirius; the verse answers that practice.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 175,
+        "end_seconds": 195,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شعره كانت ايضا معبوده لدى كل الشعوب وتسمى الشعره اليمنيه ولذلك جاء القران الكريم لهدم هذه الفلسفه لدى العرب في سوره كامله اسمها النجم وفيها ايه وانه هو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Commentary inspected: Khuza‘a worshipped al-Shi‘ra, a practice attributed to Abu Kabsha. Supports worship by an Arab group, not the presenter’s wider claim that every people worshipped it."
+  },
+  {
+    "id": "e07-universal-veneration",
+    "type": "claim",
+    "title": "Claim that nearly all peoples sanctified the Pleiades and Sirius",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 150–300 seconds; independent locator pending",
+    "claim": "Presenter says the Pleiades and Sirius were sacred to nearly all peoples, pointing to one common source.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 150,
+        "end_seconds": 300,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشعوب العرب مثلا كان لهم ارتباط روحي بهذه الكواكب وكانوا يطلقون عليها اسم النجم بمجرد اطلاقه النجم يعني الثريه وكانت الثريه هي رمز للجمال والعلو والسمو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Comparative survey not identified. Article presents widespread star lore without asserting universality or a single source."
+  },
+  {
+    "id": "e07-mulmul-sebitti",
+    "type": "historical-claim",
+    "title": "Mesopotamian MUL.MUL and the Sebitti",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Sebitti",
+    "locator": "Wikipedia, “Sebitti” and “Pleiades”",
+    "claim": "In Mesopotamia the Pleiades were called MUL.MUL, “star of stars” or holiest cluster, linked to seven warrior gods protecting humans from plagues and darkness.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 195,
+        "end_seconds": 207,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الرافدين كانت الثريا تسمى ململ اي نجم النجوم او العنقود الاقدس وربطها ايضا بسبعه العظام وهي سبعه الهه المحاربين في الاساطير البابليه يحمون البشر من الاوبئه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Tertiary sources inspected: MUL.MUL rendered literally as “star star”; the Sebitti are seven warrior gods associated with the Pleiades, used in protective rituals but also portrayed as weapons of the plague god Nergal in the Erra Epic. The episode’s gloss and purely protective role are simplifications. Assyriological primary source pending."
+  },
+  {
+    "id": "e07-maya-pleiades",
+    "type": "historical-claim",
+    "title": "Maya calendar and the Pleiades",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 207–226 seconds; independent locator pending",
+    "claim": "The Maya calendar was built entirely on the movement of the Pleiades, and the Maya firmly believed humanity originated there.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 207,
+        "end_seconds": 226,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وقوى الظلام في امريكا الوسطى كان تقويم المايا المعقد كان مبنيا بالكامل على حركه الثريا وكانوا يعتقدون اعتقادا جازما بان اصل السلاله البشريه وجذور الوعي جاء من",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "A search surfaced only popular secondary pages on Pleiades rising and agriculture. No Mayanist source inspected supports a wholly Pleiades-based calendar or origin belief. Omitted from article."
+  },
+  {
+    "id": "e07-greek-pleiades",
+    "type": "mythology",
+    "title": "Greek myth of the Pleiades",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Pleiades",
+    "locator": "Wikipedia, “Pleiades”, mythology",
+    "claim": "The Greek Pleiades were daughters of Atlas pursued by Orion and turned into stars.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 226,
+        "end_seconds": 251,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا في اليونان وسكان امريكا الاصليين اللي يسمون الهنود الحمر لديهم نفس الاساطير مع انه معروف تاريخيا سكان امريكا الشماليه هم موضوع دراستي في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Tertiary source confirms daughters of Atlas. Classical primary passage (e.g. Hesiod or Hyginus) for the Orion pursuit not inspected."
+  },
+  {
+    "id": "e07-americas-peopling",
+    "type": "claim",
+    "title": "Presenter’s remark on the peopling of the Americas",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 226–251 seconds; independent locator pending",
+    "claim": "Presenter, citing his master’s study, says North American populations were isolated for tens of thousands of years after arriving from Siberia 10,000–40,000 years ago.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 226,
+        "end_seconds": 251,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا في اليونان وسكان امريكا الاصليين اللي يسمون الهنود الحمر لديهم نفس الاساطير مع انه معروف تاريخيا سكان امريكا الشماليه هم موضوع دراستي في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Autobiographical aside; no source named. Not used in the article."
+  },
+  {
+    "id": "e07-devils-tower",
+    "type": "mythology",
+    "title": "Kiowa and Lakota account of Devils Tower",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Devils_Tower",
+    "locator": "Wikipedia, “Devils Tower”, Native American legends",
+    "claim": "Seven girls chased by a giant bear were saved on a rock that rose into the sky; the bear’s claws marked the tower in Wyoming.",
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 251,
+        "end_seconds": 278,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لحمايتهن نفس الشيء ايضا عند بعض قبائل الهنود الحمر او السكان الاصليين في امريكا الشماليه لديهم اسطوره متطابقه تماما سبع فتيات صغيرات طاردهن دب عملاق",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Tertiary source inspected: Kiowa and Lakota tradition; girls became the Pleiades. An NPS legend URL returned 404 on 11 September 2026; inspect an NPS or tribal source before publication."
+  },
+  {
+    "id": "e07-single-source-inference",
+    "type": "presenter-interpretation",
+    "title": "Recurring star lore as evidence of one source",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=278s",
+    "locator": "Episode discussion 278–309 seconds; independent locator pending",
+    "claim": "Presenter infers that repeated veneration of these stars indicates one source, while noting 20th-century astrologers use the same parallels to support their claims.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 278,
+        "end_seconds": 309,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "على اطرافه فاذا هذا التطابق وتكرار التقديس بين الشعوب للشعره وللثريه ولا استطيع ان اسرد كل الاساطير والقصص الموجوده هذا يؤشر الى انه فعلا هناك مصدر",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Interpretation; similar myths are not independently shown to share a source."
+  },
+  {
+    "id": "e07-billy-meier",
+    "type": "biographical-claim",
+    "title": "Billy Meier’s 1975 Pleiadian contact claim",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Billy_Meier",
+    "locator": "Wikipedia, “Billy Meier”",
+    "claim": "In 1975 in Switzerland, Eduard Albert “Billy” Meier said he met a Nordic-looking woman from the Pleiades and published photo books of flying saucers.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 309,
+        "end_seconds": 347,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "القصه المقدمه لنا الان من حركه العصر الجديد في القرن العشرين تبدا من عام 1975 في سويسرا لما طرح احد اقطاب هذه الحركه واسمه ادوارد البرت بلي مايور او اختصارا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Tertiary source inspected: claimed contact with “Semjase” on 28 January 1975; photographs widely characterized as fraudulent, including his former wife’s 1997 statement about models. Nordic description and the two photo books not inspected."
+  },
+  {
+    "id": "e07-clow-bear-company",
+    "type": "biographical-claim",
+    "title": "Barbara Hand Clow and Bear & Company",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Inner_Traditions_%E2%80%93_Bear_%26_Company",
+    "locator": "Wikipedia, “Inner Traditions – Bear & Company”, history; Encyclopedia.com biography",
+    "claim": "Barbara Hand Clow studied astrology, joined the New Age movement and founded the publisher Bear & Company with her husband around 1980.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 347,
+        "end_seconds": 380,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "حركه العصر الجديد اهم ما فيها هو الذي ذكرته لاحقا سيده اسمها بربرا هاند كلو درست علم التنج جيم وانضمت الى حركه العصر الجديد بدات بنشر هذه الافكار من عام 1980",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Inspected: founded in Santa Fe “in the early 1980s by Gerry Clow and astrologer Barbara Hand Clow”; Encyclopedia.com lists her as executive vice president 1983–2000. Exact 1980 founding year and the bear’s symbolism unconfirmed. Joined Inner Traditions in 2000."
+  },
+  {
+    "id": "e07-eye-centaur",
+    "type": "book",
+    "title": "Clow, Eye of the Centaur (1986)",
+    "creators": [
+      "Barbara Hand Clow"
+    ],
+    "url": "https://www.encyclopedia.com/arts/educational-magazines/clow-barbara-hand-1943",
+    "locator": "Encyclopedia.com, “Clow, Barbara Hand 1943-”, writings",
+    "claim": "Her first published book was Eye of the Centaur (1986).",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 378,
+        "end_seconds": 390,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عين القنطور في عام 1986 خلال ثمانينات القرن الع كان هناك اهتمام مبالغ فيه بقضايا التنجيم هي اولا البدايه كانت لها باهتمام بالتنجيم واثر النجوم والكواكب",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Bibliography lists Eye of the Centaur: A Visionary Guide into Past Lives (1986). “First” not independently confirmed."
+  },
+  {
+    "id": "e07-astrology-hadith",
+    "type": "hadith",
+    "title": "Hadith: acquiring knowledge from the stars",
+    "creators": [
+      "Ibn Majah",
+      "Abu Dawud"
+    ],
+    "url": "https://hadithprophet.com/hadith-45044.html",
+    "locator": "Sunan Ibn Majah 3726; also Sunan Abi Dawud 3905 and Musnad Ahmad 2000; report from Ibn Abbas",
+    "claim": "“Whoever acquires knowledge of the stars acquires a branch of magic; the more he acquires, the more he adds.”",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 402,
+        "end_seconds": 420,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وكما جاء في الحديث من اقتبس علما من النجوم اقتبس شعبه من السحر فهذا يعني انه في علم من النجوم في علم مرتبط بالنجوم وهو حقيقه يعني كما ان للسحر حقيقه فهناك",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Arabic text and parallel numbers inspected on HadithProphet; page displays the chain as sound (isnaduhu sahih) without naming the grader in the extracted view. Sunnah.com returned 403 for both numbers on 11 September 2026. Islamweb fatwa 63430 inspected for the scholarly distinction between forbidden astrology and permitted timekeeping/navigation."
+  },
+  {
+    "id": "e07-astrology-reality",
+    "type": "presenter-interpretation",
+    "title": "Astrology as forbidden but not wholly illusory",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=410s",
+    "locator": "Episode discussion 410–440 seconds; independent locator pending",
+    "claim": "Presenter holds that astrology, like sihr, is forbidden and connected with magic yet has some reality, though it cannot reveal the unseen future.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 410,
+        "end_seconds": 440,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وهو حقيقه يعني كما ان للسحر حقيقه فهناك حقيقه ما ولو كان فيها الكثير من المبالغات وهذا شان السحر والمنجمين دائما فهم لا يستطيعون كشف الغيب مثلا بالمستقبل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Theological interpretation. Its reliability is not established; article presents it as the presenter’s view alongside the Islamweb distinction."
+  },
+  {
+    "id": "e07-heart-christos",
+    "type": "book",
+    "title": "Clow, Heart of the Christos (1989)",
+    "creators": [
+      "Barbara Hand Clow"
+    ],
+    "url": "https://archive.org/details/heartofchristoss00clow",
+    "locator": "Bear & Company, Santa Fe, 1989; ISBN 9780939680597; second volume of the Mind Chronicles",
+    "claim": "In 1989 Clow published Heart of the Christos: Starseeding from the Pleiades, presented as inspired by Pleiadian beings.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 433,
+        "end_seconds": 480,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لها متعلق بالثريا وكان عنوان هذا الكتاب قلب الكريستس هارت اوف ذا كريستس الكريستس هو الطاقه النجميه التي توجد في وسط المجره او في الشمس كما سياتي بعد قليل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Bibliographic records (Internet Archive, Biblio listing) inspected. The book’s own claim of Pleiadian inspiration and its passages were not read."
+  },
+  {
+    "id": "e07-nine-dimensions",
+    "type": "claim",
+    "title": "Nine-dimension cosmology as summarized by the presenter",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 465–631 seconds; independent locator pending",
+    "claim": "The galactic centre/Sun is the ninth-dimensional Christos energy; Pleiadians are fifth-dimensional; Sirians sixth; together they made Earth, the third dimension, as a living library; original humans had twelve DNA strands.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 465,
+        "end_seconds": 631,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يتلقى منهم الوحي الان ما هي قصه الوجود وقصه الكون في هذه الفلسفه الكون فيه تسعه ابعاد روحيه مركز المجره دربه التبانه هو الطاقه طاقه الكريستس طاقه الوجود الطاقه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary of Clow’s cosmology. Original passages not inspected; her later Alchemy of Nine Dimensions (2004) is separate. Scientific claims checked separately under e07-dna-structure."
+  },
+  {
+    "id": "e07-lucifer-descent",
+    "type": "claim",
+    "title": "Lucifer’s descent and the fall as self-awareness",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 583–720 seconds; independent locator pending",
+    "claim": "In this narrative Lucifer, a Sirian sixth-dimensional being, descended with good intentions, fractured Earth’s energy, and the resulting self-awareness is reinterpreted as the Fall; Adam and Eve become a generation.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 583,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سيعرف باسم ابليس قرر ان يهبط من بعده السادس بعد الهندسه الكونيه والبعي العالي جدا والطاقه الروحيه الهائ ان ينزل الى الارض للبعد الثالث وكانت",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary; original Clow passage not located."
+  },
+  {
+    "id": "e07-nibiru-anunnaki",
+    "type": "claim",
+    "title": "Nibiru beings, genetic tampering and the matrix",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 690–840 seconds; independent locator pending",
+    "claim": "Emotionally cold fourth-dimensional beings from Nibiru arrived 450,000 years ago, cut human DNA from twelve strands to two, built the “matrix” of religions and systems, and erected a frequency fence; they were later called the Anunnaki.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 690,
+        "end_seconds": 840,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يشعر بذاته في نفس هذه المرحله كانت هناك كائنات تعيش في كوكب يسمى نبرو وهو في البعد الرابع فهي اعلى منا اللي احنا في البعد الثالث ولكن بما انهم كانوا بعيدين",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary of the channelled narrative. Not historical or scientific evidence."
+  },
+  {
+    "id": "e07-dna-structure",
+    "type": "editorial-check",
+    "title": "DNA’s double-stranded structure",
+    "creators": [
+      "National Human Genome Research Institute"
+    ],
+    "url": "https://www.genome.gov/genetics-glossary/Double-Helix",
+    "locator": "Talking Glossary of Genomic and Genetic Terms, “Double Helix”",
+    "claim": "Added editorial check against the narrative’s twelve-strand human DNA.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 549,
+        "end_seconds": 760,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من الدي ان ايه اللي هو يعني الحمض النووي فكانت حتى جيناتنا اكثر تطورا بكثير وكنا نحن مندمجون مع الطاقه الروحيه لوسط صط المجره اللي هو البعد التاسع فكنا نحن جزء",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Inspected: a DNA molecule consists of two linked strands. Added context, not a channel citation. It does not address speculative prehistoric DNA claims beyond the absence of evidence for them."
+  },
+  {
+    "id": "e07-anunnaki-mesopotamian",
+    "type": "editorial-check",
+    "title": "The Anunnaki in Mesopotamian sources",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/Anunnaki",
+    "locator": "Wikipedia, “Anunnaki”",
+    "claim": "Iraqi carvings depict these tall beings with reptile-like heads; the Sumerians believed they were creator gods from the sky.",
+    "verification_status": "identified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 820,
+        "end_seconds": 840,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بالانوناكي هذا المصطلح الذي نجده في الاساطير البابليه والسومريه ونجد بعض الصور والنقوش التي رسمها العراقيون في بلاد الرافدين لهذه الكائنات الطويله",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Tertiary source inspected: a group of Mesopotamian deities who decree fates, depicted almost exclusively anthropomorphically; extraterrestrial Nibiru readings derive from Zecharia Sitchin and are rejected as pseudoarchaeology. Reptile-headed carvings not supported. Oracc AMGG page failed with a TLS certificate error; retry for a specialist source."
+  },
+  {
+    "id": "e07-atlantis-egypt",
+    "type": "claim",
+    "title": "Atlantis, the Egyptian archive and the pyramids",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 930–1000 seconds; independent locator pending",
+    "claim": "Atlantean elites rescued a cosmic archive and star-seed genes to Egypt about 12,000 years ago; the pyramids mirror Orion’s belt and beam energy to the Pleiades as secret wisdom schools.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 930,
+        "end_seconds": 1000,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بين هذين الطرفين فمثلا كان في حضاره اتلانتس التي وصلت الى مرحله عاليه من التكنولوجيا الماديه والطاقه الروحيه لكن تدخل الانوناكي لتدميرها ومحاوله كبحها",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary of the narrative. No archaeological support inspected; not used as history."
+  },
+  {
+    "id": "e07-prophets-reinterpretation",
+    "type": "claim",
+    "title": "Prophets recast as star-seeds",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1000–1225 seconds; independent locator pending",
+    "claim": "The narrative makes Idris/Enoch, Buddha and prophets trainees of secret schools; Moses a Sirian deceived by an Anunnaki posing as Yahweh; Jesus and Muhammad ninth-dimensional beings supported by Pleiadians and Sirians respectively.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1000,
+        "end_seconds": 1225,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التي تتمرد على سلطه الانوناكي وفي داخله يدربون هؤلاء النخب ليقودوا بانفسهم ايضا حمله توعيه البشريه لذلك عبر التاريخ كل الحكماء والانبياء والمعلمين الروحيين",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter summarizes from his reading (“at least what I read”). Original passages and which book they come from remain unidentified. Article reports this as a claim rejected by Islamic belief."
+  },
+  {
+    "id": "e07-kaaba-energy",
+    "type": "claim",
+    "title": "The Kaaba and Black Stone as energy devices",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1220–1290 seconds; independent locator pending",
+    "claim": "The narrative calls the Kaaba an energy centre linked with Sirius and the Pleiades, the Black Stone a meteoric energy receiver, and circumambulation a vortex of light.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1220,
+        "end_seconds": 1290,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التجسدات للهندسه المقدسه بدءا بالكعبه المشرفه والتي تعتبر مكعبا متمركزا في مكان مقدس وهذه الكعبه مارساه طاقيه لطاقه الكوكب كله وتنبثق منها ايضا الطاقه لتتصل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary; original text not inspected."
+  },
+  {
+    "id": "e07-reinterpretation-skill",
+    "type": "presenter-interpretation",
+    "title": "Esoteric reinterpretation as a sign of experienced devils",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=1287s",
+    "locator": "Episode discussion 1287–1320 seconds; independent locator pending",
+    "claim": "Presenter argues the capacity to reinterpret every religion shows devils well-read in history.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1287,
+        "end_seconds": 1320,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لذلك نرى في هذه الفلسفه كل شيء تقريبا في الاديان من اليهوديه والمسيحيه والاسلام له فلسفه وله تفسير باطني لديهم وهي فلسفه رمزيه عميقه ليست مجرد رد اساطير يمكن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Theological interpretation."
+  },
+  {
+    "id": "e07-ignorance-islam",
+    "type": "presenter-interpretation",
+    "title": "Inconsistency on the law of Moses and Muhammad",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=1320s",
+    "locator": "Episode discussion 1320–1383 seconds; independent locator pending",
+    "claim": "Presenter notes the narrative calls Mosaic law a deceptive imposition yet exalts Muhammad, although Islamic law shares many prohibitions, showing ignorance of Islam.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1320,
+        "end_seconds": 1383,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تلقوا هذه الخرافات وهذه السرديه المحرفه للوجود كله بربره وكل من تبعها لديهم جهل هائل بالاديان تحديدا بالاسلام هي مثلا قالت انه شريعه موسى هي شريعه محرفه شريعه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s argument; depends on the unverified summary under e07-prophets-reinterpretation."
+  },
+  {
+    "id": "e07-lucifer-redemption",
+    "type": "claim",
+    "title": "Lucifer’s release and the photon belt",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1383–1548 seconds; independent locator pending",
+    "claim": "Lucifer remains trapped; the Anunnaki turned him into Satan and the symbol of ego; a new light belt and the “nano-second” will free him once humanity accepts the story; the Anunnaki came for gold.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1383,
+        "end_seconds": 1548,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السرديه والقصه الان نعود الى لوسيفر ذكرنا انه هبط قبل ملايين السنين ما هي قصه لوسيفر الان اين هو ما زال على الارض وما زال حبيسا في ما حدث للارض بعد نزوله",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary; original passages not inspected."
+  },
+  {
+    "id": "e07-marciniak-bio",
+    "type": "biographical-claim",
+    "title": "Barbara Marciniak",
+    "creators": [
+      "Barbara Marciniak"
+    ],
+    "url": "https://archive.org/details/bringersofdawnte0000marc",
+    "locator": "Internet Archive catalog record (author dates 1948–)",
+    "claim": "Barbara Marciniak, a US medium and astrologer now in her seventies, says she began receiving Pleiadian messages in 1988 during a trip to Greece and Egypt.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1548,
+        "end_seconds": 1590,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في عام 1992 ظهرت شخصيه جديده قالت نفس الشيء ايضا انها بدات تتواصل مع كائنات سكان الثوريه هي وسيطه روحيه وعالمه ايضا في التنجيم اسمها بربرا مارسينياك من",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Birth year 1948 consistent with age claim. The 1988 Greece origin story and astrology training not inspected in her own account."
+  },
+  {
+    "id": "e07-bringers-dawn",
+    "type": "book",
+    "title": "Marciniak, Bringers of the Dawn (1992)",
+    "creators": [
+      "Barbara Marciniak",
+      "Tera Thomas"
+    ],
+    "url": "https://archive.org/details/bringersofdawnte0000marc",
+    "locator": "Bear & Co., Santa Fe, 1992; xxvii + 246 pp.; ISBN 093968098X",
+    "claim": "In 1992 Bear & Company published Bringers of the Dawn: Teachings from the Pleiadians, compiled from over 400 hours of channelling.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1590,
+        "end_seconds": 1650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النشر التي كانت تديرها كلو ونشرت رت لديها في عام 92 كتابها الجديد حاملوا الفجر تعاليم سكان الثريه برينجرز اوف ذا دون او يعني الحاملون للفجر او حاملون",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Catalog record inspected for publisher/year. The 400-hour figure appeared only in search-result retail copy, not an inspected primary page."
+  },
+  {
+    "id": "e07-lizzies",
+    "type": "claim",
+    "title": "Reptilian “Lizzies” and the 300,000-year date",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1610–1650 seconds; independent locator pending",
+    "claim": "Marciniak identifies the Anunnaki with reptilian beings from Nibiru who arrived about 300,000 years ago, rather than 450,000.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1610,
+        "end_seconds": 1650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ليس الاسم الذي يطلق عليهم عندهم على الاقل هم لم يتسموا بذلك وهم نفسهم الزواحف هيئتهم هي هيئه الزواحف وسمتهم ذا ليزيز يعني الزواحف الذين جاؤوا من كوكب",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s summary; original passages not inspected."
+  },
+  {
+    "id": "e07-homo-sapiens-age",
+    "type": "editorial-check",
+    "title": "Age of Homo sapiens",
+    "creators": [
+      "Smithsonian National Museum of Natural History"
+    ],
+    "url": "https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens",
+    "locator": "Human Origins, “Homo sapiens”",
+    "claim": "Presenter notes 300,000 years matches the evolutionary date for Homo sapiens.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1625,
+        "end_seconds": 1650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نيبيرو وبدلا من 450,000 سنه فقالت هم جاؤوا قبل تقريبا 300000 سنه وهي نفس الفتره التي يقول بها علماء التطور التي ظهر فيها ما يسمى ذا هومو سيبينز اللي هو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Inspected: Homo sapiens evolved in Africa about 300,000 years ago. Confirms only the date the channelled figure echoes, not the narrative."
+  },
+  {
+    "id": "e07-bringers-passages",
+    "type": "claim",
+    "title": "Passages quoted from Bringers of the Dawn",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1640–1775 seconds; independent locator pending",
+    "claim": "Pleiadian ancestors came from a completed universe; beings called God were extraterrestrial energies far from the Prime Creator; Pleiadians feed experience to the Prime Creator; humans are controlled like sheep.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1640,
+        "end_seconds": 1775,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هنا بعض المقتطفات من كتاب حاملو الفجر والذي يعتبر من اهم المراجع لدى هذه الفلسفه واذكر هنا بان كل ما جاء في هذا الكتاب هو عباره عن وحي كما تقول جاءها من",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter translates passages into Arabic. English originals and chapter locators not inspected; do not back-translate as quotations."
+  },
+  {
+    "id": "e07-sexuality-teaching",
+    "type": "claim",
+    "title": "Channelled teaching on sexuality",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1772–1880 seconds; independent locator pending",
+    "claim": "The book says religions taught that sex is shameful to control people, and that ecstasy reconnects humans to the divine; presenter links this to tantra and “sacred prostitution” across pagan religions.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1772,
+        "end_seconds": 1880,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انحرفت النشوه عن غايتها الاصليه نسي جسدك ايها الانسان النشوه الكونيه التي هو قادر عليها لان المجتمع علمك لالاف السنين ان الجنس امر سيء يعني شيء معيب وهذا عبر",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Original passage not inspected; presenter’s historical generalization about all pagan religions unverified and omitted."
+  },
+  {
+    "id": "e07-earth-keys",
+    "type": "book",
+    "title": "Marciniak, Earth: Pleiadian Keys to the Living Library (1994)",
+    "creators": [
+      "Barbara Marciniak"
+    ],
+    "url": "https://archive.org/details/earthpleiadianke0000marc",
+    "locator": "Bear & Company, 1994; ISBN 9781879181212",
+    "claim": "The 1994 book presents Earth as a goddess and says reptilian controllers feed on fear; world leaders and bankers are hidden reptilians.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1880,
+        "end_seconds": 1975,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا بنفس الطريقه في عام 1994 نشرت ايضا بربرا كتابا جديدا بعنوان الارض مفاتيح البليديانز يعني سكان الثريا للمكتبه الحيه الكتاب يركز على اضافه هنا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Search-result publisher metadata gives 1 November 1994 and a description mentioning Goddess energies and DNA. Simon & Schuster page returned 403. Fear-feeding and leaders-as-reptilians passages not inspected."
+  },
+  {
+    "id": "e07-parenthood-passage",
+    "type": "claim",
+    "title": "Passage on alternative forms of parenthood",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1968–2055 seconds; independent locator pending",
+    "claim": "The 1994 book invites readers to consider ways of creating life other than two parents of different sexes; presenter connects this to IVF, same-sex relationships, gender transition, cloning and transhumanism.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 1968,
+        "end_seconds": 2055,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في هذا الكتاب ايضا تقليديا ترتبط الابوه والامومه على كوكبكم بعمليه بيولوجيه يجتمع فيها شخصان من جنسين مختلفين لخلق الحياه هذا الكلام على اساس انه موحى به",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Original passage not inspected. The list of modern developments is the presenter’s extrapolation, not the book’s; article keeps only the narrower point."
+  },
+  {
+    "id": "e07-epstein-claims",
+    "type": "biographical-claim",
+    "title": "Claims about Jeffrey Epstein",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2052–2075 seconds; independent locator pending",
+    "claim": "Presenter says Epstein was connected with New Age movements, possibly worshipped Iblis with other elites, and had a genetic-development company.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2052,
+        "end_seconds": 2075,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نتذكر طبعا هنا ايضا ابستين ابستين المتصل كان بحركات العصر الجديد ولكن بطريقه ارقى بكثير من هؤلاء طبعا متصل فورا هو بابليس شخصيا ربما هو والنخب الذين معه يعبدون",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Speculative claims about a named person; no source cited in this episode. Omitted from the article pending specific documentary evidence."
+  },
+  {
+    "id": "e07-family-light",
+    "type": "book",
+    "title": "Marciniak, Family of Light (1998)",
+    "creators": [
+      "Barbara Marciniak"
+    ],
+    "url": "https://www.amazon.com/Family-Light-Pleiadian-Lessons-Living/dp/1879181479",
+    "locator": "Family of Light: Pleiadian Tales and Lessons in Living, Bear & Company, 1998; ISBN 9781879181472",
+    "claim": "The 1998 book describes 1987–2012 as a 25-year “nano-second” of energy acceleration closing in December 2012; believing readers join the Family of Light.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2075,
+        "end_seconds": 2160,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نشرت كتابا جديدا بعنوان عائله النور ايضا على اساس انه موحى به ايضا من جماعه الثريا هنا في معلومه جديده كانت انه الفتره بين عامي 1987 و2012 اذكر الكتاب",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Retail/search metadata only (October 1998, Inner Traditions/Bear). Book passages not inspected."
+  },
+  {
+    "id": "e07-family-light-passages",
+    "type": "claim",
+    "title": "Passages quoted from Family of Light",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2159–2200 seconds; independent locator pending",
+    "claim": "Humans were born telepathic; a world management team of a few thousand families controls banking, media and education.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2159,
+        "end_seconds": 2200,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من سكان الثريا لقد ولدتم بمهاره التخاطر لو طورتموها لكنتم اذكى بكثير مما تظنون لكن للاسف يعني من يوم ما صار الشرخ الطاقي قبل ملايين السنين نحن خسرنا ذلك",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "English originals not inspected."
+  },
+  {
+    "id": "e07-both-sides",
+    "type": "presenter-interpretation",
+    "title": "Devils supplying rival narratives",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=2195s",
+    "locator": "Episode discussion 2195–2225 seconds; independent locator pending",
+    "claim": "Presenter argues devils give the New Age one story and worldly elites another, manipulating both.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2195,
+        "end_seconds": 2225,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اخرى في شياطين ايضا تتواصل مع باربرا ومع هؤلاء ليقولوا روايه اخرى وهي انه هؤلاء النخب هم انفسهم الانوناكي هنا سيحدث هذا الخلل ربما عند بعض المستمعين كيف نفسر",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Theological interpretation; its assertions about elites are not independently documented."
+  },
+  {
+    "id": "e07-path-empowerment",
+    "type": "book",
+    "title": "Marciniak, Path of Empowerment (2004)",
+    "creators": [
+      "Barbara Marciniak"
+    ],
+    "url": null,
+    "locator": "New World Library, 2004",
+    "claim": "Her final book, Path of Empowerment: Pleiadian Wisdom for a World in Chaos (2004), repeats earlier ideas.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2220,
+        "end_seconds": 2240,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من قبل ابليس وجماعته في عام 2004 نشرت كتابا هو الاخير لها عنوانه مسار التمكين حكمه الثريا لعالم في حاله فوضى ما في اي فكره جديده مجرد اعاده للافكار القديمه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Publisher and year from search-result metadata only; publisher page and contents not inspected."
+  },
+  {
+    "id": "e07-film-2012",
+    "type": "film",
+    "title": "The film 2012",
+    "creators": [],
+    "url": "https://en.wikipedia.org/wiki/2012_(film)",
+    "locator": "Wikipedia, “2012 (film)”",
+    "claim": "A Hollywood film titled 2012 depicted an end-of-world flood linked to the Maya date.",
+    "verification_status": "identified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2236,
+        "end_seconds": 2290,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ديسمبر 2012 وهو نفس التاريخ الذي نجده في تقويم المايا ربما تذكر يذكرون انه كان في يعني كلام كثير في 2012 هذا هو يوم القيامه لذلك حتى صدر في هوليود فيلم بهذا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Inspected: 2009 disaster film directed by Roland Emmerich drawing on the 2012 phenomenon, including megatsunamis."
+  },
+  {
+    "id": "e07-2012-reinterpretation",
+    "type": "claim",
+    "title": "Reinterpretation after December 2012",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2240–2345 seconds; independent locator pending",
+    "claim": "After 21 December 2012 passed, followers said it marked an anchor point dividing humanity, and every later crisis (financial, COVID-19, wars, AI) confirms their account.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2240,
+        "end_seconds": 2345,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تقويم المايا ربما تذكر يذكرون انه كان في يعني كلام كثير في 2012 هذا هو يوم القيامه لذلك حتى صدر في هوليود فيلم بهذا العنوان عنوانه 2012 سيتقوم فيه قيامه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s description; original post-2012 statements not inspected."
+  },
+  {
+    "id": "e07-channelling-classes",
+    "type": "claim",
+    "title": "Paid online channelling classes",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2345–2380 seconds; independent locator pending",
+    "claim": "Marciniak still offers paid online group channelling sessions; participants may use hallucinogens.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2345,
+        "end_seconds": 2380,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يحدث على اي حال بربرا ما زالت حتى الان تقدم دورات لم تعد تؤف كتبا ولكن ترسل لاتباعها كل فتره اعلانا عن جلسات تخاطر جماعيه شانلين كلاسز عبر الانترنت وتدخل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Current website not inspected. The hallucinogen suggestion is the presenter’s speculation (“perhaps”) and is omitted."
+  },
+  {
+    "id": "e07-pleiadian-times",
+    "type": "periodical",
+    "title": "The Pleiadian Times",
+    "creators": [
+      "Barbara Marciniak"
+    ],
+    "url": null,
+    "locator": "Publisher biography blurb (search result)",
+    "claim": "A twelve-page quarterly electronic journal with new channelled articles, which ceased in 2013.",
+    "verification_status": "identified",
+    "support": "partial",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2378,
+        "end_seconds": 2416,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ارباحها كانت لديها ايضا مجله قديمه بعنوان ذا بليديانز تايمز وهي مجله الكترونيه غير مطبوعه مجله صغيره 12 صفحه فقط وتصدر اربعه اعداد فقط في السنه عند",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Search-result biography calls her publisher of the quarterly Pleiadian Times. Page count, format and 2013 end not inspected."
+  },
+  {
+    "id": "e07-spiritweb",
+    "type": "website",
+    "title": "SpiritWeb.org and René K. Müller",
+    "creators": [
+      "René K. Müller"
+    ],
+    "url": "https://renekmueller.com/Spirit",
+    "locator": "ReneKMueller.com, “Spirituality”",
+    "claim": "Swiss programmer René Müller founded SpiritWeb.org in 1994; by 2001 it was the largest New Age site with over 3,000 articles; overwhelmed by growth, he closed it in 2003, saying it was not worth his time.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2416,
+        "end_seconds": 2527,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ناتي الان لموقع مشهور كان ينشر هذه المقالات وهذه الثقافه اسمه spريتwيب.org هذا الموقع اسسه مبرمج سويسري في عام 94 اسمه ريني مولر وهو الذي كان من اهم الذين",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Author’s page inspected: started 1994; largest spiritual site in 2001 with over 3,000 articles; closed 2003 because administration consumed his time. A LightParty directory corroborates Müller as webmaster/editor and its channelling/UFO content. The Pleiadian portal and Marciniak page are separate records."
+  },
+  {
+    "id": "e07-spiritweb-pleiadian",
+    "type": "claim",
+    "title": "SpiritWeb’s Pleiadian teachings portal",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2430–2455 seconds; independent locator pending",
+    "claim": "SpiritWeb hosted a portal of Pleiadian teachings where Marciniak’s channelled texts appeared.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2430,
+        "end_seconds": 2455,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نشروا هذه الافكار في الانترنت حتى للذين لا يستطيعون الحصول على كتبها وهذا الموقع كان بالفعل من اكبر المواقع التي نشرت افكار حركه العصر الجديد وكان فيه بوابه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Wayback Machine captures not inspected."
+  },
+  {
+    "id": "e07-spiritweb-domain",
+    "type": "claim",
+    "title": "Later fate of the spiritweb.org domain",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2500–2527 seconds; independent locator pending",
+    "claim": "The domain was sold, the archive deleted, and the current site publishes softer yoga/meditation content under Müller’s old about page.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2500,
+        "end_seconds": 2527,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الانتقال دومين الموقع بيع لاحقا فاخذوه ناس مهتمين بالحركه العصر الجديد ولكن حذفوا كل الارشيف حذفوا كل شيء ما عاد في شيء من تلك المقالات ممكن تجدوها من يريد",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Current site and archive history not inspected."
+  },
+  {
+    "id": "e07-spiritweb-about",
+    "type": "claim",
+    "title": "Passages from the SpiritWeb about page",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2527–2660 seconds; independent locator pending",
+    "claim": "Established religions suit some people but experience-based spirituality surpasses texts; esoteric teachings matter little today; beings once called gods, Elohim or angels are now called extraterrestrials.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2527,
+        "end_seconds": 2660,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "رينيه بنفسه ساذكر هنا مقتطفات سريعه حتى نرى افكاره تعتبر الاديان الراسخه صالحه للاشخاص الذين يستطيعون ربط انفسهم برؤيه معينه للعالم او بالاله او بما هو موجود",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Original about page not inspected. The presenter’s aside characterizing Ismaili, Druze and Alawite communities is his own and is not reproduced in the article."
+  },
+  {
+    "id": "e07-aliens-as-devils",
+    "type": "presenter-interpretation",
+    "title": "Worshipped beings as devils in many guises",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=2654s",
+    "locator": "Episode discussion 2654–2680 seconds; independent locator pending",
+    "claim": "Presenter holds that the same beings misled peoples as Zeus, the Anunnaki and other idols.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2654,
+        "end_seconds": 2680,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فهذا نفس الكلام الذي ذكرناه في حلقه الفضائيين هي نفس الكائنات التي تواصلت مع كل تلك الشعوب وضللتها وعبدت على هيئه زوس وعلى هيئه انوناكي وعلى هيئه كل الاوثان",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Theological interpretation connecting to the aliens episode."
+  },
+  {
+    "id": "e07-muller-blog",
+    "type": "claim",
+    "title": "Müller’s later blog",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2680–2750 seconds; independent locator pending",
+    "claim": "Müller praises yoga, Theosophy and astrology, sees the matrix as real and expects AI to raise consciousness.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2680,
+        "end_seconds": 2750,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وسيله للاتصال بالله وهو لا يؤمن بوجود له ولكن هي حاله من الوعي المطلق في وسط المجره مثلا يمدح الثي وصوفيا ويقول هي ايضا كانت مهمه في بدايه القرن العشر ولكن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Blog passages not inspected."
+  },
+  {
+    "id": "e07-fraud-objection",
+    "type": "presenter-interpretation",
+    "title": "Objection that channellers are simply frauds",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=2750s",
+    "locator": "Episode discussion 2750–2890 seconds; independent locator pending",
+    "claim": "Presenter answers that these figures did not become rich, that selling books and paid sessions is normal in Western religious settings, comparing mosque donations in the West with endowment ministries in Muslim countries.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2750,
+        "end_seconds": 2890,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الذي نعيش فيه الان هو ايضا سينقلنا على مرحله بعي اعلى فنحن نسير في الاتجاه الصحيح اتوقع الان الكثير من المستمعين ربما سيقولون انه كل هؤلاء نصابين انه ما",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s argument and personal observation; financial claims about individuals not verified."
+  },
+  {
+    "id": "e07-blavatsky",
+    "type": "claim",
+    "title": "Blavatsky and publishing hidden teachings",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2889–2910 seconds; independent locator pending",
+    "claim": "Blavatsky, from the late nineteenth century, said teachings kept secret through the ages were now to be published.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2889,
+        "end_seconds": 2910,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عالي لانه النفق كلها كما ذكرنا كلها تاتي من المتابعين وحتى ايضا لما مول اسس موقعه ما كان في دعم كما هو الحال اليوم سابقا ما كان في مواقع مثل باتريون ما كان في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Primary Blavatsky passage not inspected."
+  },
+  {
+    "id": "e07-two-narratives",
+    "type": "presenter-interpretation",
+    "title": "Secret elite worship versus open New Age devotion",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=2907s",
+    "locator": "Episode discussion 2907–2985 seconds; independent locator pending",
+    "claim": "Presenter contrasts elites who publicly profess materialism but secretly worship Satan with New Age groups who openly seek these beings.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2907,
+        "end_seconds": 2985,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفلسفه نفسها نجدها عند ابستين وقاده العالم كما ذكرت ولكن بدون نشر لعامه الناس جماعه حركه العصر الجديد بد من بفاتسكي من اواخر القرن التاسع عشر كانت",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Assertions about elites are unverified; article omits them."
+  },
+  {
+    "id": "e07-prophethood-contrast",
+    "type": "presenter-interpretation",
+    "title": "Why channellers are not prophets",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=2980s",
+    "locator": "Episode discussion 2980–3045 seconds; independent locator pending",
+    "claim": "Presenter cites changing details (450,000 vs 300,000 years; origins revised), historical errors and ignorance of religions against the channellers’ claims.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 2980,
+        "end_seconds": 3045,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نقطه اخرى ايضا ربما البعض سيدخل في قلبه بعض الشك من المسلمين طيب هؤلاء يقدمون انفسهم على انهم انبياء كيف نؤمن اذا بنبوه الاسلام مثلا نبوه الانبياء كلهم",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Presenter’s argument. The date revision is documented within the episode’s own summaries."
+  },
+  {
+    "id": "e07-quran-challenge",
+    "type": "quran",
+    "title": "The Qur’an’s challenge",
+    "creators": [
+      "Qur’an"
+    ],
+    "url": "https://quran.com/11/13",
+    "locator": "Qur’an 11:13 and 2:23",
+    "claim": "The Qur’an challenges humanity to produce ten surahs, or one surah, like it.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-11",
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 3045,
+        "end_seconds": 3075,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يذكر بالاسلام الا تعاليم بسيطه جدا وسطحيه جدا ولا تمر الا على السطحيين فقط اضف الى ذلك النقطه الاهم الانبياء جاؤوا بمعجزات حقيقيه وبشرع لا يمكن خرقه الان",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Both verses inspected on Quran.com. The presenter’s remark about modern failed imitations is not independently surveyed."
+  },
+  {
+    "id": "e07-prophecies-fulfilled",
+    "type": "claim",
+    "title": "Fulfilled prophecies and historical accuracy",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3075–3110 seconds; independent locator pending",
+    "claim": "Nothing in the Qur’an is contradicted by historical facts, and the Prophet’s predictions were fulfilled.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 3075,
+        "end_seconds": 3110,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "القران كل ما جاء كل حرف في القران لا تجد ما ينقضه من حقائق التاريخ مما كان قبل وما جاء بعد من النبوءات وايضا كلام النبي صلى الله عليه وسلم وسلوكه في حياته وكل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "General claim; no specific prophecy or report named. Article states it as belief, not as a verified historical survey."
+  },
+  {
+    "id": "e07-closing",
+    "type": "presenter-interpretation",
+    "title": "Closing summary",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=n8kkRim6ecs&t=3105s",
+    "locator": "Episode discussion 3105–3139 seconds; independent locator pending",
+    "claim": "Presenter concludes the myths evolve with genetics and science but share one demonic origin.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "n8kkRim6ecs",
+        "start_seconds": 3105,
+        "end_seconds": 3139,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ليس هذا وقته ارجو ان تكون حلقه وافيه حاولت ان اشمل كل هذا الموضوع باكبر قدر ممكن من التفاصيل واقصر وقت ممكن نتحدث لاحقا ان شاء الله عن تفاصيل اخرى عن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Closing interpretation."
+  }
+]

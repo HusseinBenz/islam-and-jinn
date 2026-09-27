@@ -1,0 +1,33 @@
+{
+  "video_id": "lO7gpMINxgk",
+  "url": "https://www.youtube.com/watch?v=lO7gpMINxgk",
+  "accessed_at": "2026-09-21",
+  "title": "Psychotherapist Proves Demonic Voices in Your Head Are Real",
+  "channel": "Engineering Mental Sanity - Jerry Marzinsky",
+  "upload_date": "20260515",
+  "duration_seconds": 10969,
+  "read_scope": "Selected English automatic-caption ranges only; full interview and audiovisual content not inspected.",
+  "read_ranges": [
+    [
+      "00:56:07.839",
+      "00:57:57.520"
+    ],
+    [
+      "02:16:58.639",
+      "02:17:59.760"
+    ],
+    [
+      "02:32:15.840",
+      "02:34:27.760"
+    ]
+  ],
+  "keyword_context_only": [
+    "02:51:05.279, Voice of Knowledge title",
+    "02:54:39.840, Miguel Ruiz book"
+  ],
+  "files": {
+    "data/raw/references/marzinsky/lO7gpMINxgk.en-orig.vtt": "5709ea0d2f1ea73f67485a5f0d76e6e24e80b034d44ea03538714f3764378d61",
+    "data/raw/references/marzinsky/lO7gpMINxgk.info.json": "e2ca5ce14ccf05a5970ee7ddfac7a105c0d3dd02643d1e1b03edf28b866902a0"
+  },
+  "limitations": "Original patient records, study protocols and full book not inspected. Download succeeded without media. JS-runtime/impersonation warnings did not block captions."
+}

@@ -1,0 +1,347 @@
+[
+  {
+    "id": "desc-c2d85a0c5ede",
+    "type": "study",
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0269881120916143",
+    "title": "Survey of entity encounter experiences occasioned by inhaled N,N-dimethyltryptamine: Phenomenology, interpretation, and enduring effects",
+    "creators": [
+      "Alan K Davis",
+      "John M Clifton",
+      "Eric G Weaver",
+      "Ethan S Hurwitz",
+      "Matthew W Johnson",
+      "Roland R Griffiths"
+    ],
+    "locator": "Abstract; participant sample; study limitations",
+    "claim": "A retrospective online survey documents reports of perceived entities after DMT use.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-08",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "2,561 respondents reporting their most memorable encounter. Self-selection, recall and cross-sectional design limit inference. Supports the existence and content of subjective reports, not an independently established encounter with jinn or a treatment recommendation. Spoken passage in the episode still needs mapping.",
+    "year": 2020,
+    "journal": "Journal of Psychopharmacology",
+    "volume": "34",
+    "issue": "9",
+    "doi": "10.1177/0269881120916143"
+  },
+  {
+    "id": "desc-2a8673909852",
+    "type": "study",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.720717/full",
+    "title": "An Encounter With the Other: A Thematic and Content Analysis of DMT Experiences From a Naturalistic Field Study",
+    "creators": [
+      "Pascal Michael",
+      "David Luke",
+      "Oliver Robinson"
+    ],
+    "locator": "Abstract; Materials and Methods; Encountering Other Beings; Limitations",
+    "claim": "A naturalistic qualitative analysis documents perceived entities in reports by experienced DMT users.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-08",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "36 interviews analysed; 34 included entity encounters. Selected experienced users and a narrow demographic constrain generalisation. Documents phenomenology, not independent proof of external beings or a clinical efficacy trial. Spoken passage in the episode still needs mapping.",
+    "year": 2021,
+    "journal": "Frontiers in Psychology",
+    "volume": "12",
+    "doi": "10.3389/fpsyg.2021.720717"
+  },
+  {
+    "id": "desc-a838908c24b4",
+    "type": "web",
+    "url": "https://www.iflscience.com/why-do-people-see-elves-and-other-entities-when-they-smoke-dmt-62234",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-037fc14dec1a",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "locator": "YouTube description",
+        "start_seconds": null
+      },
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-e88e6ef43f08",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-31a8495d14d9",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=JTO_1Y8zYto&t=3768s&pp=ygUT2KfZhNmF2LMg2K_Yudiv2YjYtA%3D%3D",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-5e369cdf9c93",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=lO7gpMINxgk",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "txkeVCL7eEI",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-43f62163d53f",
+    "type": "video",
+    "url": "https://youtu.be/2vCEIAfCppY?si=x6UelyxHPx-0JXDW",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-4f32d356caf8",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=jp25P0CUftw",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "LD9CCX7Y5uA",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-691556e3abc4",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=ZmejzHXudq0",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "LD9CCX7Y5uA",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-0b1d72efcd40",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=Xs94KBeIiAo",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "LD9CCX7Y5uA",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-88a0aeba24eb",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=xcTpio5mQMg",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "LD9CCX7Y5uA",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-042d2692e494",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=CaRPZYt2pRE",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "jKz9GLqhuPo",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-99e377ebf0df",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=o9rkasdHJt0",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "jKz9GLqhuPo",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-7f6b5da07045",
+    "type": "video",
+    "url": "https://www.youtube.com/watch?v=Z9sGqzc8Ecs&t",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "xS-lcnRvjBc",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  },
+  {
+    "id": "desc-bfb4553de055",
+    "type": "video",
+    "url": "https://youtu.be/2vCEIAfCppY",
+    "title": null,
+    "creators": [],
+    "locator": null,
+    "claim": null,
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "-GeI1OO5WuY",
+        "locator": "YouTube description",
+        "start_seconds": null
+      }
+    ],
+    "notes": "URL extracted from episode description. Original recording/passage and supporting claim remain to be inspected."
+  }
+]

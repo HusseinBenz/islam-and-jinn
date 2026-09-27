@@ -1,0 +1,2563 @@
+[
+  {
+    "id": "e12-introduction",
+    "type": "presenter-opinion",
+    "title": "Correcting claims while respecting their speakers",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=0s",
+    "locator": "Normalized Arabic indices 0–22, 0.199–68.91 seconds",
+    "claim": "Dadoosh discusses two practitioners and invites reasoned correction.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 0.199,
+        "end_seconds": 68.91,
+        "normalized_segment_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ],
+        "raw_excerpt_ar": "السلام عليكم هذه الحلقه اخصصها لمناقشه افكار اثنين من الرقاه الذين اشتهروا في مرحله الصحوه تحديدا في التسعينات قبل 30 او 40 سنه ثم اشتهر عنهم انهم تراجعوا او",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Article keeps the principle without reproducing personal insults."
+  },
+  {
+    "id": "e12-umari-biography",
+    "type": "biography",
+    "title": "Ali ibn Mushrif al-Umari: career and withdrawal",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.okaz.com.sa/article/1039171",
+    "locator": "Normalized Arabic indices 23–43, 68.92–126.27 seconds",
+    "claim": "Presenter recalls his popularity and says he taught hadith and served at Quba.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 68.92,
+        "end_seconds": 126.27,
+        "normalized_segment_indices": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ],
+        "raw_excerpt_ar": "نبدا مع الشيخ السعودي علي بن مشرف العمري وهو كان مشهورا في مرحله الصحوه في الثمانينات والتسعينات بانه كان راقيا وكان الكثير من الناس يقصدونه للرقيه وانا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Okaz supplies related biographical reporting, not original employment/degree records. Article avoids a precise retirement date."
+  },
+  {
+    "id": "e12-umari-2011",
+    "type": "interview",
+    "title": "Al-Umari gathering reportedly recorded in 2011",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 44–61, 126.28–182.39 seconds",
+    "claim": "He reportedly rejected jinn speaking through patients in an informal filmed gathering.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 126.28,
+        "end_seconds": 182.39,
+        "normalized_segment_indices": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ],
+        "raw_excerpt_ar": "ظهر في لقاء مصور بشكل بسيط في احد المجالس يعني ما يسمى الديوانيه في بعض الدول كان يتحدث في هذا اللقاء الذي بث على اليوتيوب على انه تراجع عن كل هذا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original recording not located after searches by full name, year and YouTube. No verified exact quotation or full context."
+  },
+  {
+    "id": "e12-false-attribution",
+    "type": "religious-argument",
+    "title": "Diagnosis and attributing a trial to Allah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=182s",
+    "locator": "Normalized Arabic indices 62–79, 182.4–234.39 seconds",
+    "claim": "Dadoosh objects to treating every mistaken diagnosis as a deliberate lie about Allah.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 182.4,
+        "end_seconds": 234.39,
+        "normalized_segment_indices": [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79
+        ],
+        "raw_excerpt_ar": "اذا قلت لمسلم يعني للمريض انه في جني متلبس بك فكيف ست تقف بين يدي الله ويسالك لماذا افتريت علي؟ لانك هنا انت تكون قد افتريت على الله وقلت الله ابتلاك بهذا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "The reported phrase about the worst punishment was not identified as a verse or hadith; no exhaustive negative claim about all collections made."
+  },
+  {
+    "id": "e12-diabetes",
+    "type": "analogy",
+    "title": "Diabetes and the distribution of illness",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=234s",
+    "locator": "Normalized Arabic indices 80–96, 234.4–288.189 seconds",
+    "claim": "Al-Umari reportedly contrasts diabetes affecting many social groups with the people who attended his practice.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 234.4,
+        "end_seconds": 288.189,
+        "normalized_segment_indices": [
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96
+        ],
+        "raw_excerpt_ar": "لدي دليل من الواقع وهو مرض السكر لو جاءني طبيب قبل 40 سنه وقال لي عندك سكر فساقول انت مجنون لانه هذا ما كان معروف هذا الامر من زمان ولكن الان صار واقعيصيب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Diabetes history and general prevalence assertions not researched; omitted as factual medical claims."
+  },
+  {
+    "id": "e12-selection",
+    "type": "presenter-argument",
+    "title": "Who seeks help from a particular practitioner?",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=288s",
+    "locator": "Normalized Arabic indices 97–130, 288.199–385.83 seconds",
+    "claim": "Presenter argues that a practitioner’s visitors cannot represent every affected person.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 288.199,
+        "end_seconds": 385.83,
+        "normalized_segment_indices": [
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130
+        ],
+        "raw_excerpt_ar": "وتتحققوا مما قال صراحه لما سمعت هذا الكلام لم اصدق انه في شيخ يفكر بهذه السطحيه مع احترامنا الشديد له وخصوصا انه مارس الرقيه بنفسه نحن استشهدنا في حلقات",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Useful sampling distinction; does not establish the supernatural diagnosis of non-attenders."
+  },
+  {
+    "id": "e12-nonmuslims",
+    "type": "testimony",
+    "title": "Non-Muslims reportedly seeking ruqyah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=385s",
+    "locator": "Normalized Arabic indices 131–145, 385.84–427.51 seconds",
+    "claim": "Presenter reports hearing of Christians visiting Muslim practitioners after other attempts to find help.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 385.84,
+        "end_seconds": 427.51,
+        "normalized_segment_indices": [
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145
+        ],
+        "raw_excerpt_ar": "الى شيخ مثلا بل نحن ايضا لدينا ادله انا اعرف رقاه يعيشون في الغرب او حتى بعضهم يعيش في دول عربيه فيها مسيحيين مثلا في مصر سمعتها منهم ياتيهم اقباط ياتيهم",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Anonymous accounts; no clinical records or independently established cause/outcome."
+  },
+  {
+    "id": "e12-poetry",
+    "type": "testimony",
+    "title": "A woman responding to poetry recited like Qur’an",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=427s",
+    "locator": "Normalized Arabic indices 146–178, 427.52–521.75 seconds",
+    "claim": "Al-Umari reportedly recited poetry to a woman who reacted as though it were Qur’an. Dadoosh allows that she may have been mistaken.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 427.52,
+        "end_seconds": 521.75,
+        "normalized_segment_indices": [
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178
+        ],
+        "raw_excerpt_ar": "في كلامه بمريضه جاؤوه بها وكانت حسب كلامه هي ضحيه لتضليل ل 20 سنه يعني كانت متوهمه انه كان في عندها جني فجلس يناقشها اسمعوا الحجه قالت له الشيوخ يقولون لها",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Uncontrolled reported incident, no original session record. Preserve Dadoosh’s admission that he does not know her case."
+  },
+  {
+    "id": "e12-umari-2013",
+    "type": "interview",
+    "title": "Reported later clarification in 2013",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 179–198, 521.76–579.35 seconds",
+    "claim": "Dadoosh says al-Umari later distinguished satanic influence from ordinary psychiatric causes and did not reject every form of mass.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 521.76,
+        "end_seconds": 579.35,
+        "normalized_segment_indices": [
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198
+        ],
+        "raw_excerpt_ar": "ذلك بعد انتهاء هذا الحوار وبثه وتسبب ببعض الضجه ورد عليه بعض المشايخ نشر بعد ثلاث سنوات في 2013 حوارا على نفس القناه اجري معه يعني من صاحب القناه حوار ليحاول",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original recording not located. The episode says three years after 2011 but also gives 2013: chronology internally inconsistent; do not reconcile by invention."
+  },
+  {
+    "id": "e12-bloodstream",
+    "type": "hadith",
+    "title": "Satan and the circulation of blood",
+    "creators": [
+      "Muhammad ibn Isma‘il al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:2035",
+    "locator": "Sahih al-Bukhari 2035, Book 33, chapter 8",
+    "claim": "The hadith is invoked in the discussion of satanic influence.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 541.88,
+        "end_seconds": 555.23,
+        "normalized_segment_indices": [
+          186,
+          187,
+          188,
+          189,
+          190
+        ],
+        "raw_excerpt_ar": "الكتاب والسنه فالقران الكريم يقول من شر الوسواس الخناس الذي يوسوس في صدور الناس وقال النبي عليه الصلاه والسلام ان الشيطان يجري من ابن ادم مجرى الدم يحاول",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Sahih al-Bukhari report read in context: Safiyyah’s visit during i‘tikaf and preventing suspicion. Not a diagnostic rule."
+  },
+  {
+    "id": "e12-ocd-interpretation",
+    "type": "presenter-interpretation",
+    "title": "OCD and satanic whispering",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=579s",
+    "locator": "Normalized Arabic indices 199–238, 579.36–695.31 seconds",
+    "claim": "Dadoosh proposes a satanic cause for all clinical obsessive-compulsive symptoms while allowing chemical or genetic involvement.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 579.36,
+        "end_seconds": 695.31,
+        "normalized_segment_indices": [
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238
+        ],
+        "raw_excerpt_ar": "وانا ازعم انه كل الوسواس القهري الذي يصل الى مرحله المرض سواء كان له سبب جيني وراثي او سبب كيميائي ما له علاقه بالوراثه بسبب ما صار في هذا الخلل او ما",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Not a medical finding or diagnosis. Do not equate waswasah, OCD and psychosis."
+  },
+  {
+    "id": "e12-ocd-context",
+    "type": "medical-context",
+    "title": "OCD: symptoms and treatments",
+    "creators": [
+      "National Institute of Mental Health"
+    ],
+    "url": "https://www.nimh.nih.gov/health/publications/obsessive-compulsive-disorder-when-unwanted-thoughts-or-repetitive-behaviors-take-over",
+    "locator": "What is OCD? Risk factors; How is OCD treated?",
+    "claim": "OCD involves distressing recurring thoughts and/or compulsions, with effective medication and psychological treatment options.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 579.36,
+        "end_seconds": 695.31,
+        "normalized_segment_indices": [
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223,
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238
+        ],
+        "raw_excerpt_ar": "وانا ازعم انه كل الوسواس القهري الذي يصل الى مرحله المرض سواء كان له سبب جيني وراثي او سبب كيميائي ما له علاقه بالوراثه بسبب ما صار في هذا الخلل او ما",
+        "mention_kind": "editorial-context",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "NIMH definition, risk factors and treatment sections read; causes not fully understood. Added context, not cited by channel."
+  },
+  {
+    "id": "e12-riba",
+    "type": "quran",
+    "title": "The comparison in the prohibition of riba",
+    "creators": [],
+    "url": "https://quran.com/2/275",
+    "locator": "Qur’an 2:275",
+    "claim": "Qur’an 2:275 compares those consuming riba with someone disordered by Satan’s touch.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 695.32,
+        "end_seconds": 708.829,
+        "normalized_segment_indices": [
+          239,
+          240,
+          241,
+          242,
+          243
+        ],
+        "raw_excerpt_ar": "بين الصرع الذي يحدث من المس لانه مذكور بالايات والاحاديث والذي لا يستطيع ان ينكره فالايه التي تتحدث عن ضحيه الربا يتخبطه الشيطان من المس وايضا لدينا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Arabic and displayed translation read; verse context is riba, not a clinical differential diagnosis."
+  },
+  {
+    "id": "e12-seizure-claim",
+    "type": "medical-interpretation",
+    "title": "Seizures combined with other symptoms",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=708s",
+    "locator": "Normalized Arabic indices 244–248, 708.8389999999999–724.59 seconds",
+    "claim": "Dadoosh asserts a spiritual cause for certain combinations of seizures, hallucinations and obsessive symptoms.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 708.8389999999999,
+        "end_seconds": 724.59,
+        "normalized_segment_indices": [
+          244,
+          245,
+          246,
+          247,
+          248
+        ],
+        "raw_excerpt_ar": "هذا وبين من يصاب بصرع المس فيقول هناك من يصاب بصرع كيميائي وهناك من يصاب بصرع من الشيطان وانا زعم ايضا ان كل صرع يصل الى هستيريا ويترافق مع وساوس قهريه وهلوسات",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No clinical validation or case assessment. Not reproduced as a diagnostic test."
+  },
+  {
+    "id": "e12-ibn-hazm-quotation",
+    "type": "scholarly-attribution",
+    "title": "Ibn Hazm on speech through a patient",
+    "creators": [
+      "Ibn Hazm"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 249–261, 724.6–760.75 seconds",
+    "claim": "A passage rejecting speech on a patient’s tongue is attributed to Ibn Hazm.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 724.6,
+        "end_seconds": 760.75,
+        "normalized_segment_indices": [
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261
+        ],
+        "raw_excerpt_ar": "لابن حزم ويقول ابن حزم كان في القرن الرابع الهجري يعني هو قديم قبل شيخ الاسلام ابن تيميه فاذا كان قديما فهو اقرب الى السلف فيعني هو اقرب الى الصحه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Related chapter in al-Fasl inspected, but the exact quotation does not appear in that digital witness. Need reliable edition/scan and page. Ibn Hazm’s dates also not verified here; episode’s fourth-century shorthand not adopted."
+  },
+  {
+    "id": "e12-ibn-hazm-context",
+    "type": "book",
+    "title": "Al-Fasl: jinn, whispering and the afflicted person",
+    "creators": [
+      "Ibn Hazm"
+    ],
+    "url": "https://ar.wikisource.org/wiki/الفصل_في_الملل_والأهواء_والنحل/الجزء_الخامس",
+    "locator": "Part five: الكلام في الجن ووسوسة الشيطان وفعله في المصروع",
+    "claim": "Ibn Hazm affirms jinn and a satanic touch while restricting claims about the mechanism.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 760.76,
+        "end_seconds": 787.629,
+        "normalized_segment_indices": [
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270
+        ],
+        "raw_excerpt_ar": "مع انه الشيخ سلفي تقليدي جدا لكن لسبب ما ترك ابن تيميه الذي يقول بعكس هذا الكلام واخذ بكلام ابن حزم وهو مقوله شاذه في التاريخ الاسلامي وكما ذكرنا سابقا ابن",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Digital primary-text transcription, part five, chapter on jinn/whispering/effect on the afflicted, read. It does not support blanket denial of every satanic effect. No printed-edition collation; quoted speech passage still unresolved."
+  },
+  {
+    "id": "e12-marzinsky-comparison",
+    "type": "presenter-argument",
+    "title": "Contrasting al-Umari with Marzinsky",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=787s",
+    "locator": "Normalized Arabic indices 271–306, 787.639–887.99 seconds",
+    "claim": "Presenter contrasts their intellectual journeys and criticizes psychiatric institutions.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 787.639,
+        "end_seconds": 887.99,
+        "normalized_segment_indices": [
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301,
+          302,
+          303,
+          304,
+          305,
+          306
+        ],
+        "raw_excerpt_ar": "الان نقارن بين مقوله هذا الشيخ وبين جيري مارزنسكي الذي ذكرناه سابقا هذا الشيخ الذي مارس بنفسه الرقيه وراى بنفسه اثارها وهو اصلا انطلق من مقدمات المفروض تكون",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Episode 11 separately checks Marzinsky. Universal no-recovery/licence-revocation claims are not established and are not repeated as facts."
+  },
+  {
+    "id": "e12-scope-of-denial",
+    "type": "presenter-interpretation",
+    "title": "Distinguishing rejection of mass from rejection of speech",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=888s",
+    "locator": "Normalized Arabic indices 307–318, 888.0–921.87 seconds",
+    "claim": "Presenter says al-Umari did not reject every form of mass and criticizes restricting knowledge to explicit texts.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 888.0,
+        "end_seconds": 921.87,
+        "normalized_segment_indices": [
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318
+        ],
+        "raw_excerpt_ar": "على اي حال الشيخ لم ينكر المس كما ذكرنا تراجع جزئيا عن بعض كلامه او حاول يصحح لكن قال انه الكثير من هذه الحالات ليست مس وانه اذا نطق فهذا ليس الجني وحجته",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "A reported clarification, not independently confirmed original interview wording."
+  },
+  {
+    "id": "e12-okaz",
+    "type": "reporting",
+    "title": "Okaz’s account of al-Umari’s withdrawal",
+    "creators": [
+      "Adnan al-Shabrawi",
+      "Okaz"
+    ],
+    "url": "https://www.okaz.com.sa/article/1039171",
+    "locator": "Adnan al-Shabrawi, 20 January 2016, الجن ليسوا مغفلين .. عليكم بأطباء النفس!",
+    "claim": "The 2016 newspaper story says al-Umari rejected possession and speech through a patient.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 921.88,
+        "end_seconds": 964.59,
+        "normalized_segment_indices": [
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333
+        ],
+        "raw_excerpt_ar": "هذا الكلام وترا ت هذا الشيخ الراقي استغل طبعا من قبل الاطراف العلمانيه سواء في السعوديه او في الخارج مثلا في صحيفه عكاظ نشر في عام 2016 هذا الخبر وقالوا انه من",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original newspaper story inspected; establishes what Okaz reported, not whether its characterization fully represents original recordings."
+  },
+  {
+    "id": "e12-television",
+    "type": "media-claim",
+    "title": "Televised and telephone ruqyah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=964s",
+    "locator": "Normalized Arabic indices 334–361, 964.6–1048.47 seconds",
+    "claim": "Presenter recalls televised ruqyah during the satellite-channel boom and warns against generalizing from fraud.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 964.6,
+        "end_seconds": 1048.47,
+        "normalized_segment_indices": [
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361
+        ],
+        "raw_excerpt_ar": "بالفعل لانه في هذه الفتره في العقد الاول من الالفيه تحديدا يعني ممكن نقول 2005 6 7 هذه السنوات تحديدا هي كانت مرحله طفره في الفضائيات في كل شيء والشباب الصغار",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "He explicitly says he has not investigated the alleged television fraud; no named programme verified."
+  },
+  {
+    "id": "e12-magic-text",
+    "type": "quran-allusion",
+    "title": "Teaching magic and the limits of harm",
+    "creators": [],
+    "url": "https://quran.com/2/102",
+    "locator": "Normalized Arabic indices 362–374, 1048.48–1085.83 seconds",
+    "claim": "Presenter invokes Qur’an 2:102 when calling magic a learned practice.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1048.48,
+        "end_seconds": 1085.83,
+        "normalized_segment_indices": [
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374
+        ],
+        "raw_excerpt_ar": "السحر نفسه ايضا في من يدعي انه يمارس السحر هو نفسه دجال هو لا يمارس السحر اصلا هو يكذب يعني العزائم الطلاسم كلها كاذبه وما في شياطين تتعامل معه ولا يكتب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Verse located; full passage not independently read this unit. Do not infer a tested science or validated occult mechanism from the word knowledge."
+  },
+  {
+    "id": "e12-relapse",
+    "type": "testimony",
+    "title": "Claim of returning with more jinn",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1085s",
+    "locator": "Normalized Arabic indices 375–383, 1085.84–1111.909 seconds",
+    "claim": "A returning patient reportedly claimed more jinn after treatment.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1085.84,
+        "end_seconds": 1111.909,
+        "normalized_segment_indices": [
+          375,
+          376,
+          377,
+          378,
+          379,
+          380,
+          381,
+          382,
+          383
+        ],
+        "raw_excerpt_ar": "نفس الشيء ايضا مع احترامنا للشيخ العمري اذا هو كان قد فشل لمدى 20 سنه هو قال في الحلقه لما كان يتحدث في ذلك المجلس انه بعض الذين كانوا ياتون اليه يقولون ذهب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No examined case; does not establish failure, fraud or supernatural cause."
+  },
+  {
+    "id": "e12-practice-knowledge",
+    "type": "presenter-argument",
+    "title": "Experiential knowledge and disagreement within traditions",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1111s",
+    "locator": "Normalized Arabic indices 384–409, 1111.919–1189.43 seconds",
+    "claim": "Presenter argues ruqyah includes inherited experience and that one practitioner does not represent all Salafi scholars.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1111.919,
+        "end_seconds": 1189.43,
+        "normalized_segment_indices": [
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398,
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409
+        ],
+        "raw_excerpt_ar": "كلامه للاسف ليس على علم كاف ومعرفتنا بالرقيه وباهل الرقيه وعلم الرقيه نعرف تماما ان الرقيه ليست امرا بسيطا ليست مجرد ان تقرا ايات عاديه في علم متوارث",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Unnamed supporting practitioners and opinions not individually locatable; no claim of consensus."
+  },
+  {
+    "id": "e12-bali-books-protection",
+    "type": "book",
+    "title": "Wiqayat al-insan min al-jinn wa-l-shaytan",
+    "creators": [
+      "Wahid Abd al-Salam Bali"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 410–430, 1189.44–1249.63 seconds",
+    "claim": "Bali’s book on protection from jinn and Satan is named as influential in Dadoosh’s youth.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1189.44,
+        "end_seconds": 1249.63,
+        "normalized_segment_indices": [
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430
+        ],
+        "raw_excerpt_ar": "ناتي الان للشيخ وحيد عبد السلام باني الشيخ عمره الان 63 سنه اشتهر ايضا في نفس تلك المرحله بانه راقي معروف ايضا واكثر ما اشهره ايضا انه نشر كتابين وقايه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original edition and narrated cases not read; publication dates, sales and claimed prevalence unverified."
+  },
+  {
+    "id": "e12-bali-books-sword",
+    "type": "book",
+    "title": "Al-Sarim al-battar fi al-tasaddi li-l-saharah al-ashrar",
+    "creators": [
+      "Wahid Abd al-Salam Bali"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 413–430, 1198.0–1249.63 seconds",
+    "claim": "A second book on confronting sorcery is named.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1198.0,
+        "end_seconds": 1249.63,
+        "normalized_segment_indices": [
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419,
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430
+        ],
+        "raw_excerpt_ar": "ما اشهره ايضا انه نشر كتابين وقايه الانسان من الجن والشيطان والصارم البتار في التصدي للسحره الاشرار الكتابين نشرا في اوائل التسعينات كما ذكرت في اول",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original edition not read. No invented page numbers or clinical evidence."
+  },
+  {
+    "id": "e12-bali-career",
+    "type": "interview",
+    "title": "Bali’s explanation for leaving regular treatment",
+    "creators": [
+      "Wahid Abd al-Salam Bali",
+      "Haitham Talaat"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=1750s",
+    "locator": "Interview captions 00:29:10–00:29:17; published 19 June 2026",
+    "claim": "Bali says he stopped treating people about thirty years earlier and was occupied with da‘wah.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1249.64,
+        "end_seconds": 1276.07,
+        "normalized_segment_indices": [
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439
+        ],
+        "raw_excerpt_ar": "اللافت انه الشيخ ايضا تخلى عن ممارسه الرقيه الشرعيه كما اشتهر عنه بعد ذلك حسب ما بحثت فهو تخلى عن الرقيه في اوائل الالفينات تقريبا بعد عر سنوات فقط من نشر",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original interview 29:10–29:17 inspected. Dadoosh estimates early 2000s; retain approximate self-description, not an invented exact date."
+  },
+  {
+    "id": "e12-radio-memory",
+    "type": "recollection",
+    "title": "Uncertain memory of a radio discussion",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 440–451, 1276.08–1311.31 seconds",
+    "claim": "Dadoosh remembers an older interview about African da‘wah and reluctance to revisit ruqyah.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1276.08,
+        "end_seconds": 1311.31,
+        "normalized_segment_indices": [
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451
+        ],
+        "raw_excerpt_ar": "اتحدثنا من ذاكرتي اني سمعت له حوارا قبل 15 سنه تقريبا ربما على اذاعه القران الكريم في قطر او غيرها الحديث كله كان عن الدعوه في افريقيا ففاجاه المحاور لما خرج",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Presenter explicitly uncertain about station, date and answer. No archive located; not used as a verified statement."
+  },
+  {
+    "id": "e12-bali-interview",
+    "type": "interview",
+    "title": "Haitham Talaat’s interview with Wahid Bali",
+    "creators": [
+      "Wahid Abd al-Salam Bali",
+      "Haitham Talaat"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=122s",
+    "locator": "Original interview 00:02:02–00:02:49; metadata date 20260619",
+    "claim": "Bali says knowledge of the unseen should rest on Qur’an and Sunnah rather than stories.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1311.32,
+        "end_seconds": 1358.35,
+        "normalized_segment_indices": [
+          452,
+          453,
+          454,
+          455,
+          456,
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463,
+          464,
+          465,
+          466,
+          467
+        ],
+        "raw_excerpt_ar": "اذكره يعني الان ظهر في حوار مؤخرا في ال من يونيو قبل فتره قصيره جدا في حوار على بودكاست للدكتور هيثم طلعت وكان يتحدث عن تجربته في عالم الرقيه فهنا في بعض النقاط",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original channel metadata and Arabic automatic captions 1:55–3:48 checked; limited excerpt only. Original upload 19 June 2026, not 21 June reuploads."
+  },
+  {
+    "id": "e12-relative-unseen",
+    "type": "presenter-argument",
+    "title": "Relative unseen and observation",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1358s",
+    "locator": "Normalized Arabic indices 468–501, 1358.36–1457.43 seconds",
+    "claim": "Dadoosh argues that jinn can become accessible through particular experiences without all their world being observable.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1358.36,
+        "end_seconds": 1457.43,
+        "normalized_segment_indices": [
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501
+        ],
+        "raw_excerpt_ar": "نحن على هذه المغالطه الشائعه للاسف في اول حلقه من هذه السلسله في حلقه سميناها اخطاء شائعه عن الجن اول مغالطه هي هذه المغالطه التي رددنا عليها واكرر هنا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Presenter’s epistemic argument, not blanket validation of claimed sightings."
+  },
+  {
+    "id": "e12-dream",
+    "type": "presenter-testimony",
+    "title": "Presenter’s recent dream",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1457s",
+    "locator": "Normalized Arabic indices 502–507, 1457.44–1474.07 seconds",
+    "claim": "Dadoosh describes a recent, unfrightening dream which he interprets as seeing a jinn.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1457.44,
+        "end_seconds": 1474.07,
+        "normalized_segment_indices": [
+          502,
+          503,
+          504,
+          505,
+          506,
+          507
+        ],
+        "raw_excerpt_ar": "المنام والاحلام انا اليوم مثلا حلم او الليل الماضي يعني رايت جنيا في الحلم وما كان كابوسا ولم يكن جاثوما ولم يكن شيئا خطيرا ولا مخيفا والحمد لله ولم يكن شيئا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Personal dream, not independent evidence of an encounter."
+  },
+  {
+    "id": "e12-altered-consciousness",
+    "type": "presenter-interpretation",
+    "title": "Voices, psychedelics and meditation",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1474s",
+    "locator": "Normalized Arabic indices 508–526, 1474.08–1531.83 seconds",
+    "claim": "Presenter links altered experiences to contact with jinn, while denying this makes the practices permissible.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1474.08,
+        "end_seconds": 1531.83,
+        "normalized_segment_indices": [
+          508,
+          509,
+          510,
+          511,
+          512,
+          513,
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526
+        ],
+        "raw_excerpt_ar": "طريقه الهلوسات من يصاب بالابتلاء كما ذكرنا سابقا المس فهناك تواصل معهم ويراهم يرونه وهم يختارون الذين يريدون ان يظهروا له",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No diagnosis from hallucination, no instructions for inducing altered states in article; cross-reference existing chapters."
+  },
+  {
+    "id": "e12-energy-interview",
+    "type": "interview-allusion",
+    "title": "Earlier interview with a former energy practitioner",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 527–533, 1531.84–1550.149 seconds",
+    "claim": "Dadoosh recalls a woman’s reports of entities in dreams and meditation.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1531.84,
+        "end_seconds": 1550.149,
+        "normalized_segment_indices": [
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533
+        ],
+        "raw_excerpt_ar": "واجرينا حوارا سابقا مع سيده كانت متعمقه في علوم الطاقه وذكرت بالحرف كيف راتهم ياتونها احيانا في الاحلام نفسه واحيانا في ممكن نسميه حلم اليقضه في حاله التامل",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Name and exact episode not established in this unit; avoid identifying her by guess."
+  },
+  {
+    "id": "e12-scholars-visits",
+    "type": "testimony",
+    "title": "Accounts of jinn visiting scholars",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1550s",
+    "locator": "Normalized Arabic indices 534–559, 1550.159–1624.75 seconds",
+    "claim": "Presenter says some scholars privately reported visits or questions from jinn.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1550.159,
+        "end_seconds": 1624.75,
+        "normalized_segment_indices": [
+          534,
+          535,
+          536,
+          537,
+          538,
+          539,
+          540,
+          541,
+          542,
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559
+        ],
+        "raw_excerpt_ar": "الراقي نفسه خصوصا لو كان عنده في الاستعداد اصلا قوه روحيه معينه او ايضا من علماء عاديين مشايخ وهذا نعرفه بدون ما يعلن على الملاء نعرفه من مشايخنا ممن",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Unnamed sources; no original testimony or external validation."
+  },
+  {
+    "id": "e12-repetitions",
+    "type": "interview",
+    "title": "Personal practice and prescribing fixed recitations",
+    "creators": [
+      "Wahid Abd al-Salam Bali",
+      "Haitham Talaat"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=2136s",
+    "locator": "Original interview 00:35:36–00:37:22",
+    "claim": "Bali allows personal choices but objects to prescribing unestablished specific routines for others.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1624.76,
+        "end_seconds": 1667.31,
+        "normalized_segment_indices": [
+          560,
+          561,
+          562,
+          563,
+          564,
+          565,
+          566,
+          567,
+          568,
+          569,
+          570,
+          571,
+          572,
+          573
+        ],
+        "raw_excerpt_ar": "الشيخ سئل عن الرقى المجربه بما لا يخالف الوحي تحديدا تكرار الرقيه بعدد معين فقال ايضا في جوابه باختصار يعني انه يجب ان نتمسك بالقران والسنه بالتكرارات التي",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Selected original interview 35:36–37:22 inspected. Dadoosh’s disagreement retained as disagreement about authority, not consensus."
+  },
+  {
+    "id": "e12-other-bali-video",
+    "type": "video-allusion",
+    "title": "Another Bali video on recitation counts and water",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 574–581, 1667.32–1691.19 seconds",
+    "claim": "Presenter says a separate video describes Bali abandoning additional repetitions and recitation over water.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1667.32,
+        "end_seconds": 1691.19,
+        "normalized_segment_indices": [
+          574,
+          575,
+          576,
+          577,
+          578,
+          579,
+          580,
+          581
+        ],
+        "raw_excerpt_ar": "اخر رايته على قناته انه هو ايضا تراجع عن التكرارات التي كان يطبقها في الرقيه ثم صار يتمسك بما ورد فقط في القران والسنه وقال في نفس هذا الكلام انه ايضا تراجع عن",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Separate video not located; do not treat the inspected Talaat interview as verification of that video."
+  },
+  {
+    "id": "e12-water-ibn-taymiyyah",
+    "type": "scholarly-attribution",
+    "title": "Ibn Taymiyyah and recitation over water",
+    "creators": [
+      "Ibn Taymiyyah"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 578–581, 1680.559–1691.19 seconds",
+    "claim": "The practice is attributed to Ibn Taymiyyah.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1680.559,
+        "end_seconds": 1691.19,
+        "normalized_segment_indices": [
+          578,
+          579,
+          580,
+          581
+        ],
+        "raw_excerpt_ar": "القراءه على الماء مع ان ابن تيميه وابن حنبل قبله رحمهم الله كان يفعلان ذلك فهو لا يرى ذلك ويتمسك فقط بالرقيه في القران والسنه وبطريقه تطبيقها في القران والسنه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No work/edition/page inspected. Attribution remains open."
+  },
+  {
+    "id": "e12-water-ahmad",
+    "type": "scholarly-attribution",
+    "title": "Ahmad ibn Hanbal and recitation over water",
+    "creators": [
+      "Ahmad ibn Hanbal"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 578–581, 1680.559–1691.19 seconds",
+    "claim": "The practice is also attributed to Ahmad ibn Hanbal.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1680.559,
+        "end_seconds": 1691.19,
+        "normalized_segment_indices": [
+          578,
+          579,
+          580,
+          581
+        ],
+        "raw_excerpt_ar": "القراءه على الماء مع ان ابن تيميه وابن حنبل قبله رحمهم الله كان يفعلان ذلك فهو لا يرى ذلك ويتمسك فقط بالرقيه في القران والسنه وبطريقه تطبيقها في القران والسنه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No transmission or original source inspected."
+  },
+  {
+    "id": "e12-prophetic-command",
+    "type": "hadith",
+    "title": "Uthman ibn Abi al-As report",
+    "creators": [
+      "Ibn Majah"
+    ],
+    "url": "https://sunnah.com/ibnmajah:3548",
+    "locator": "Sunan Ibn Majah 3548; Book 31, Hadith 113",
+    "claim": "Presenter alludes to a prophetic command for an enemy of Allah to leave.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1691.2,
+        "end_seconds": 1711.789,
+        "normalized_segment_indices": [
+          582,
+          583,
+          584,
+          585,
+          586,
+          587,
+          588
+        ],
+        "raw_excerpt_ar": "ايضا ولا ينكر على الاخرين ونحن نعرف اصلا انه في القران والسنه طريقه الرقيه محدوده جدا يعني طريقه الرقيه التي فعلها النبي عليه الصلاه والسلام وردت في روايات قليله",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      },
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1986.279,
+        "end_seconds": 1993.59,
+        "normalized_segment_indices": [
+          733,
+          734,
+          735
+        ],
+        "raw_excerpt_ar": "النصوص في الوحي لكن النبي صلى الله عليه وسلم كما ذكرت سابقا هو عالج بالرقيه في حالات محدوده جدا اخرج عدو الله ما قرا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode.",
+        "checked_at": "2026-09-21",
+        "verification_note": "Ibn Majah3548 Arabic/English and displayed Sahih(Darussalam) grade independently reread; report of Uthman ibn Abi al-As."
+      }
+    ],
+    "notes": "Matched to Ibn Majah 3548, Arabic report and displayed Sahih (Darussalam) grade inspected. It contains no black animal emerging. Does not authorize lay violence toward a patient."
+  },
+  {
+    "id": "e12-black-animal",
+    "type": "hadith-allusion",
+    "title": "Unresolved report of an emerging small black animal",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 589–601, 1711.799–1748.549 seconds",
+    "claim": "Presenter blends a report of expulsion with an emerging dog-like animal.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1711.799,
+        "end_seconds": 1748.549,
+        "normalized_segment_indices": [
+          589,
+          590,
+          591,
+          592,
+          593,
+          594,
+          595,
+          596,
+          597,
+          598,
+          599,
+          600,
+          601
+        ],
+        "raw_excerpt_ar": "في فقط فخرج من فيه الجني على هيئه كلب او جرب صغير اسود في روايه ايات اخرى لما ضرب او مسح على صدر الممسوس فقام فورا فلم نعرف اكثر من ذلك لانه هذا النبي صلى الله",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Companion, collection and grading not supplied; do not combine this detail with Ibn Majah 3548. Exact ASR uncertain."
+  },
+  {
+    "id": "e12-prophetic-example",
+    "type": "presenter-argument",
+    "title": "Prophetic authority and later practice",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1748s",
+    "locator": "Normalized Arabic indices 602–607, 1748.559–1763.35 seconds",
+    "claim": "Dadoosh argues that the Prophet’s distinctive authority means later practitioners may need other means.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1748.559,
+        "end_seconds": 1763.35,
+        "normalized_segment_indices": [
+          602,
+          603,
+          604,
+          605,
+          606,
+          607
+        ],
+        "raw_excerpt_ar": "فاذا اقصد يعني انه الاحاديث التي عندنا عن ممارسه النبي عليه الصلاه والسلام لا يمكن ان نقتصر عليها ومن يريد ان يجرب فليفعل يعني اي راقي الان ليجرب فقط يضرب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "A theological and legal inference; not proof of any particular technique or permission to harm a person."
+  },
+  {
+    "id": "e12-fatiha-inference",
+    "type": "presenter-argument",
+    "title": "What follows from the Companion’s use of al-Fatihah?",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1763s",
+    "locator": "Normalized Arabic indices 608–635, 1763.36–1847.99 seconds",
+    "claim": "Dadoosh takes the Companion’s initiative as support for experience with permissible recitation.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1763.36,
+        "end_seconds": 1847.99,
+        "normalized_segment_indices": [
+          608,
+          609,
+          610,
+          611,
+          612,
+          613,
+          614,
+          615,
+          616,
+          617,
+          618,
+          619,
+          620,
+          621,
+          622,
+          623,
+          624,
+          625,
+          626,
+          627,
+          628,
+          629,
+          630,
+          631,
+          632,
+          633,
+          634,
+          635
+        ],
+        "raw_excerpt_ar": "والله اعلم ايضا لدينا حديث عن الصحابي ابو سعيد الخدري رضي الله عنه لما رقى الرجل الذيغ بسوره الفاتحه فما كان في اصل النص كانوا في سفر فطلب منهم ان يرقوا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Hadith establishes incident and prophetic approval; extending it to specific modern repetitions is interpretive."
+  },
+  {
+    "id": "e12-own-ruqyah-file",
+    "type": "presenter-testimony",
+    "title": "A compiled recitation sheet shared with a friend",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=1848s",
+    "locator": "Normalized Arabic indices 636–652, 1848.0–1894.99 seconds",
+    "claim": "Dadoosh says recommended counts in his sheet are optional experience, not religious obligations.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1848.0,
+        "end_seconds": 1894.99,
+        "normalized_segment_indices": [
+          636,
+          637,
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647,
+          648,
+          649,
+          650,
+          651,
+          652
+        ],
+        "raw_excerpt_ar": "فتره اعطيت لاحد الاصدقاء الرقيه المعروفه يعني عندي ملف طويل فيه كل الايات المتداوله بين الرقاه وبعضها مكتوب انه تكرره ثلاث مرات او سبعه وبعضه مكتوب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No copy of the file inspected. Article does not reproduce a regimen or assert predictable success."
+  },
+  {
+    "id": "e12-islamweb",
+    "type": "fatwa",
+    "title": "Ruqyah with particular supplications and repetitions",
+    "creators": [
+      "Islamweb Fatwa Centre"
+    ],
+    "url": "https://www.islamweb.net/amp/ar/fatwa/400630/",
+    "locator": "Fatwa 400630: question and complete answer",
+    "claim": "Islamweb permits specified supplications/repetition on conditions concerning meaning, permissibility and known benefit.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1895.0,
+        "end_seconds": 1941.909,
+        "normalized_segment_indices": [
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663,
+          664,
+          665,
+          666,
+          667,
+          668,
+          669
+        ],
+        "raw_excerpt_ar": "اكرر ايضا مره اخرى انه الاقتصار على هذه الامور ليس هو راي السلفيه وليس ايضا السلفيه يقولون انه نحن لا ناخذ بالمجربات بل هذا معروف بل ايضا يمكن ان تعودوا الى",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Exact fatwa found and read, 400630, 4 July 2019. Also says effects occur by Allah’s power and warns against charlatans. This is that site’s legal opinion, not a clinical trial or proof of consensus."
+  },
+  {
+    "id": "e12-bali-threat",
+    "type": "testimony",
+    "title": "Bali’s reported threat during recitation",
+    "creators": [
+      "Wahid Abd al-Salam Bali"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=4030s",
+    "locator": "Original interview 01:07:10–01:08:24",
+    "claim": "Bali recalls threatening continued recitation until the alleged jinn died or burned.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 1970.6,
+        "end_seconds": 2028.95,
+        "normalized_segment_indices": [
+          681,
+          682,
+          683,
+          684,
+          685,
+          686,
+          687,
+          688,
+          689,
+          690,
+          691,
+          692,
+          693,
+          694,
+          695,
+          696,
+          697,
+          698,
+          699
+        ],
+        "raw_excerpt_ar": "الوحي نعود الان الى الحوار ومساله الالتزام بالنص ايضا الشيخ ايضا وحيد بالي هو قال في الحلقه ايضا مثلا حتى نستشهد على الفكره نفسها قال انه في احدى تجاربه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original captions 1:07:10–1:08:24 checked; anonymous case remains testimony, not proof of harm to an entity or an instruction to harm a patient."
+  },
+  {
+    "id": "e12-snakes",
+    "type": "hadith",
+    "title": "Jinn in Medina and a warning to house snakes",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2236a",
+    "locator": "Sahih Muslim 2236a, Abu al-Sa’ib reporting Abu Sa‘id al-Khudri",
+    "claim": "Dadoosh invokes the house-snake report in an analogy about an attacking jinn.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2028.96,
+        "end_seconds": 2071.27,
+        "normalized_segment_indices": [
+          700,
+          701,
+          702,
+          703,
+          704,
+          705,
+          706,
+          707,
+          708,
+          709,
+          710,
+          711,
+          712
+        ],
+        "raw_excerpt_ar": "هو الحكم الشرعي هل يجوز قتله نعم العلماء قالوا يقتل واستشهدوا هنا قاسوا على حديث انك اذا حرجت على الافعى اذا رايتها او الحيه اذا رايتها في بيتك فتعطيها الاذن",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Muslim 2236a read in Arabic/English; wording specifies three days in this version, not an assumed universal three utterances. Hadith concerns a snake, not treatment of a human patient."
+  },
+  {
+    "id": "e12-assailant-analogy",
+    "type": "legal-interpretation",
+    "title": "Applying the assailant analogy to ruqyah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=2028s",
+    "locator": "Normalized Arabic indices 700–712, 2028.96–2071.27 seconds",
+    "claim": "Presenter reports a legal analogy treating a persistently harmful spirit as an assailant.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2028.96,
+        "end_seconds": 2071.27,
+        "normalized_segment_indices": [
+          700,
+          701,
+          702,
+          703,
+          704,
+          705,
+          706,
+          707,
+          708,
+          709,
+          710,
+          711,
+          712
+        ],
+        "raw_excerpt_ar": "هو الحكم الشرعي هل يجوز قتله نعم العلماء قالوا يقتل واستشهدوا هنا قاسوا على حديث انك اذا حرجت على الافعى اذا رايتها او الحيه اذا رايتها في بيتك فتعطيها الاذن",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No named jurist or full legal discussion inspected; article separates analogy from the literal hadith and supplies no coercive protocol."
+  },
+  {
+    "id": "e12-mirror-bali",
+    "type": "interview",
+    "title": "Bali on mirror prohibitions",
+    "creators": [
+      "Wahid Abd al-Salam Bali",
+      "Haitham Talaat"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=2739s",
+    "locator": "Original interview 00:45:39–00:46:51",
+    "claim": "Bali rejects unsupported religious restrictions on looking into mirrors.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2071.28,
+        "end_seconds": 2090.349,
+        "normalized_segment_indices": [
+          713,
+          714,
+          715,
+          716,
+          717,
+          718,
+          719
+        ],
+        "raw_excerpt_ar": "نعود الى الحوار ايضا سئل الشيخنا عن النظر في المرايا فيقاللمريض بالمس لا تنظر للمرايا فجوابه كان عجيبا فورا اخذ الموضوع باتجاه الفقه والحلال والحرام مع",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original question concerns prolonged looking, the evil eye and harm; it is broader than a narrow treatment question about diagnosed psychosis. Read 45:39–46:51."
+  },
+  {
+    "id": "e12-mirror-interpretation",
+    "type": "presenter-interpretation",
+    "title": "Disturbing reflections and emotional energy",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=2090s",
+    "locator": "Normalized Arabic indices 720–745, 2090.359–2161.309 seconds",
+    "claim": "Dadoosh separates practical avoidance from a religious ban, and attributes altered perceptions to devils feeding on fear.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2090.359,
+        "end_seconds": 2161.309,
+        "normalized_segment_indices": [
+          720,
+          721,
+          722,
+          723,
+          724,
+          725,
+          726,
+          727,
+          728,
+          729,
+          730,
+          731,
+          732,
+          733,
+          734,
+          735,
+          736,
+          737,
+          738,
+          739,
+          740,
+          741,
+          742,
+          743,
+          744,
+          745
+        ],
+        "raw_excerpt_ar": "حرام الرد المعروف هنا انه من عنده هلوسات ويصنف في الطب النفسي انه عنده ذهان او فصام ليس ربما كل الحالات ولكن المعروف انه يقال له وخصوصا اذا ثبت عنده هذه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "The spiritual mechanism is not established by the cited perceptual phenomenon."
+  },
+  {
+    "id": "e12-mirror-study",
+    "type": "study",
+    "title": "Visual perception during mirror gazing at one’s own face in schizophrenia",
+    "creators": [
+      "Giovanni B. Caputo",
+      "Roberta Ferrucci",
+      "Marco Bortolomasi",
+      "Mario Giacopuzzi",
+      "Alberto Priori",
+      "Stefano Zago"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22835808/",
+    "locator": "2012; DOI 10.1016/j.schres.2012.06.029; abstract Background–Conclusions",
+    "claim": "A small study reports more intense unusual face perceptions in participants with schizophrenia than controls.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2141.2,
+        "end_seconds": 2161.309,
+        "normalized_segment_indices": [
+          738,
+          739,
+          740,
+          741,
+          742,
+          743,
+          744,
+          745
+        ],
+        "raw_excerpt_ar": "ذكرت معروف في حالات المرض النفسي في الذهان ويسمى وهم الوجوه الغريبه سترينج فيس الوشن لذلك ينصحون بلا ينظر الى المراه لذلك نحن نقول ايضا لمن لديه هذا",
+        "mention_kind": "editorial-context",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Full abstract read through PubMed indexed result after direct page returned empty. 16 patients, 21 controls, seven-minute task and questionnaire/interview. Full paper not read. No diagnosis of possession or universal mirror-avoidance recommendation."
+  },
+  {
+    "id": "e12-black-mirrors",
+    "type": "occult-claim",
+    "title": "Black mirrors, facing mirrors and an unnamed Chinese tradition",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 746–788, 2161.319–2283.109 seconds",
+    "claim": "Presenter mentions magical mirrors and speculative portal/energy explanations, acknowledging limited research.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2161.319,
+        "end_seconds": 2283.109,
+        "normalized_segment_indices": [
+          746,
+          747,
+          748,
+          749,
+          750,
+          751,
+          752,
+          753,
+          754,
+          755,
+          756,
+          757,
+          758,
+          759,
+          760,
+          761,
+          762,
+          763,
+          764,
+          765,
+          766,
+          767,
+          768,
+          769,
+          770,
+          771,
+          772,
+          773,
+          774,
+          775,
+          776,
+          777,
+          778,
+          779,
+          780,
+          781,
+          782,
+          783,
+          784,
+          785,
+          786,
+          787,
+          788
+        ],
+        "raw_excerpt_ar": "قضيه حلال او حرام هناك نقطه اخرى امر عليها سريعا شائع عند ايضا الممارسين للطاقه وتحديدا الجانب الشيطاني المغرق في الشيطانيه وليس من يمارس الطاقه للعلاج",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No named Chinese text, ritual source or experiment. Omitted instructions; no assertion that a mirror opens a portal."
+  },
+  {
+    "id": "e12-salt",
+    "type": "interview",
+    "title": "Salt and purported information from jinn",
+    "creators": [
+      "Wahid Abd al-Salam Bali",
+      "Haitham Talaat"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=1665s",
+    "locator": "Original interview 00:27:45–00:29:17",
+    "claim": "Bali questions the source of claims that salt repels devils.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2283.119,
+        "end_seconds": 2316.67,
+        "normalized_segment_indices": [
+          789,
+          790,
+          791,
+          792,
+          793,
+          794,
+          795,
+          796,
+          797,
+          798,
+          799,
+          800,
+          801
+        ],
+        "raw_excerpt_ar": "ايضا الشيخ يكرر طوال الحلقه انه لو كان في اي شيء من طرق العلاج والرقيه خير لدلنا عليه النبي عليه الصلاه والسلام فمثلا وضع الملح مثلا في مكان ما لامتصاص",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original interview 27:45–29:17 distinguishes Qur’anic care from herbs and doubts purported instructions from jinn; not just a blanket rejection of all innovation. Physical energy-absorption claim unverified."
+  },
+  {
+    "id": "e12-seeing-knots",
+    "type": "interview",
+    "title": "Claims to see knots of magic or the evil eye",
+    "creators": [
+      "Wahid Abd al-Salam Bali",
+      "Haitham Talaat"
+    ],
+    "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU&t=2893s",
+    "locator": "Original interview 00:48:13–00:52:19",
+    "claim": "Talaat reports two informants and Bali doubts the alleged source of such knowledge.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2316.68,
+        "end_seconds": 2390.589,
+        "normalized_segment_indices": [
+          802,
+          803,
+          804,
+          805,
+          806,
+          807,
+          808,
+          809,
+          810,
+          811,
+          812,
+          813,
+          814,
+          815,
+          816,
+          817,
+          818,
+          819,
+          820,
+          821,
+          822,
+          823,
+          824,
+          825,
+          826
+        ],
+        "raw_excerpt_ar": "المساله هنا ايضا سئل الدكتور هيثم ساله انه هناك سيده تائبه من ممارسه الطاقه قالت له كلاما يتقاطع مع احد الرقاع لديه يعني معلومه من مصدرين من انسانه كانت",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Original captions 48:13–52:19 read, including warning that visions naming relatives can provoke false accusations. No independent test of the claimed sight."
+  },
+  {
+    "id": "e12-kashf",
+    "type": "presenter-argument",
+    "title": "Disclosure, inspiration and extraordinary gifts",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=2390s",
+    "locator": "Normalized Arabic indices 827–866, 2390.599–2500.23 seconds",
+    "claim": "Presenter argues that non-prophetic disclosure need not automatically mean communication with devils.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2390.599,
+        "end_seconds": 2500.23,
+        "normalized_segment_indices": [
+          827,
+          828,
+          829,
+          830,
+          831,
+          832,
+          833,
+          834,
+          835,
+          836,
+          837,
+          838,
+          839,
+          840,
+          841,
+          842,
+          843,
+          844,
+          845,
+          846,
+          847,
+          848,
+          849,
+          850,
+          851,
+          852,
+          853,
+          854,
+          855,
+          856,
+          857,
+          858,
+          859,
+          860,
+          861,
+          862,
+          863,
+          864,
+          865,
+          866
+        ],
+        "raw_excerpt_ar": "هذا الحصر ايضا لا يصدر عن من تعلم علم الرقيه وتعمق فيه وتبحر فيه ومارسه ايضا فالمعروف ايضا حتى في العلم الشرعي حتى لمن لم يمارس ان هناك محدثون وهناك اصحاب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Does not establish that any particular healer can diagnose by sight; neither a vision nor an impressive claim identifies its origin."
+  },
+  {
+    "id": "e12-inspiration",
+    "type": "hadith",
+    "title": "People inspired without being prophets",
+    "creators": [
+      "Muhammad ibn Isma‘il al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:3689",
+    "locator": "Sahih al-Bukhari 3689, merits of Umar",
+    "claim": "The episode alludes to muhaddathun, people inspired without prophethood.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2397.0,
+        "end_seconds": 2416.63,
+        "normalized_segment_indices": [
+          829,
+          830,
+          831,
+          832,
+          833,
+          834,
+          835
+        ],
+        "raw_excerpt_ar": "فالمعروف ايضا حتى في العلم الشرعي حتى لمن لم يمارس ان هناك محدثون وهناك اصحاب الكرامات ممن لا ينزل عليهم الوحي وقد يرون ويسمعون شيئا بسيطا من عالم الغيب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Matched to Bukhari 3689; Arabic and English read, Umar named. No support for universal diagnostic sight."
+  },
+  {
+    "id": "e12-burden",
+    "type": "presenter-testimony",
+    "title": "Unusual perception presented as a burden",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=2500s",
+    "locator": "Normalized Arabic indices 867–890, 2500.24–2565.43 seconds",
+    "claim": "Dadoosh warns against pursuing claimed perception as a desirable superpower.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2500.24,
+        "end_seconds": 2565.43,
+        "normalized_segment_indices": [
+          867,
+          868,
+          869,
+          870,
+          871,
+          872,
+          873,
+          874,
+          875,
+          876,
+          877,
+          878,
+          879,
+          880,
+          881,
+          882,
+          883,
+          884,
+          885,
+          886,
+          887,
+          888,
+          889,
+          890
+        ],
+        "raw_excerpt_ar": "في هذه المساله هذه الامور قد لا يكون الانسان اصلا تحكم فيها قد يرى بالفعل والكثير من هؤلاء قد لا يجرؤون اصلا على ان ينطقوا بذلك انهم يرون الجن او يرون من",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Anonymous personal observations; preserve warning without affirming readers possess paranormal gifts."
+  },
+  {
+    "id": "e12-auras",
+    "type": "occult-interpretation",
+    "title": "Auras and feeding on spiritual energy",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 891–900, 2565.44–2595.47 seconds",
+    "claim": "Presenter proposes that devils target distinctive spiritual auras.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2565.44,
+        "end_seconds": 2595.47,
+        "normalized_segment_indices": [
+          891,
+          892,
+          893,
+          894,
+          895,
+          896,
+          897,
+          898,
+          899,
+          900
+        ],
+        "raw_excerpt_ar": "ترى ايضا في عالمها هالات معينه من القوه الروحيه التي تحيط بهؤلاء الناس فتحاول التقصد يعني تحاول اذائهم حتى تجذبهم الى عالم السحر لماذا؟ لانه لما تدخل السحر هم",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "No independently inspected source or measurement supports this mechanism; omitted as fact."
+  },
+  {
+    "id": "e12-closing",
+    "type": "presenter-opinion",
+    "title": "Keeping the spiritual question open",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=mnl6N1wSUxI&t=2595s",
+    "locator": "Normalized Arabic indices 901–910, 2595.48–2625.599 seconds",
+    "claim": "Presenter proposes continued discussion of revelation, spiritual experience and empirical explanation.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "mnl6N1wSUxI",
+        "start_seconds": 2595.48,
+        "end_seconds": 2625.599,
+        "normalized_segment_indices": [
+          901,
+          902,
+          903,
+          904,
+          905,
+          906,
+          907,
+          908,
+          909,
+          910
+        ],
+        "raw_excerpt_ar": "نكتفي بهذا القدر شكرا لاستماعكم ونخصص حلقات اخرى ايضا لنتحدث فيها عن موضوع المس والسحر وهذا التعارض بين التفسير العلمي المادي التجريبي وبينما نراه ايضا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in the discussion window; not a quote from the original reference. Editorial context is separately researched, not necessarily named by the presenter."
+      }
+    ],
+    "notes": "Article retains faith-based voice and source distinctions."
+  }
+]

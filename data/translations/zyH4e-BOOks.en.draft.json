@@ -1,0 +1,2372 @@
+{
+  "schema_version": 1,
+  "episode_id": "zyH4e-BOOks",
+  "language": "en",
+  "status": "complete-machine-assisted-draft",
+  "method": "Direct assistant translation of every normalized Arabic automatic-caption segment in two consecutive batches; no external translation service, audiovisual review or new independent reference verification. Speaker claims and qualifications preserved, with contextual repairs flagged.",
+  "created_at": "2026-09-21",
+  "updated_at": "2026-09-21",
+  "source_segments_file": "data/transcripts/zyH4e-BOOks/segments.ar.json",
+  "source_segments_sha256": "a51726877f9605cbb0bd0745a03e233053371ee934d05c2bb4d48e0290bd0312",
+  "source_srt_sha256": "c85e7c81fd6755e31e69312005f3fc81e807dabf9efecb16c7dc10441461f7c5",
+  "complete": true,
+  "reviewed_at": null,
+  "segments": [
+    {
+      "source_segment_index": 0,
+      "text": "Peace be upon you. In this episode, we continue discussing"
+    },
+    {
+      "source_segment_index": 1,
+      "text": "the most important fundamental questions about the world"
+    },
+    {
+      "source_segment_index": 2,
+      "text": "of jinn: their origin, who their father is, why"
+    },
+    {
+      "source_segment_index": 3,
+      "text": "they were created, whether some were created specifically to be devils"
+    },
+    {
+      "source_segment_index": 4,
+      "text": "and that was their destiny, and what the qarin,"
+    },
+    {
+      "source_segment_index": 5,
+      "text": "the companion, is. Was it created to be a companion? In"
+    },
+    {
+      "source_segment_index": 6,
+      "text": "this episode we will discuss common misconceptions and ideas, some"
+    },
+    {
+      "source_segment_index": 7,
+      "text": "of which we may even find in our scholarly heritage. This does not"
+    },
+    {
+      "source_segment_index": 8,
+      "text": "necessarily mean that the scholars were wrong."
+    },
+    {
+      "source_segment_index": 9,
+      "text": "We must also understand that many"
+    },
+    {
+      "source_segment_index": 10,
+      "text": "matters concerning jinn belong to the realm"
+    },
+    {
+      "source_segment_index": 11,
+      "text": "of the unseen, about which most people"
+    },
+    {
+      "source_segment_index": 12,
+      "text": "know only what revelation contains. Revelation"
+    },
+    {
+      "source_segment_index": 13,
+      "text": "does not mention many of these details. So"
+    },
+    {
+      "source_segment_index": 14,
+      "text": "many questions about this subject"
+    },
+    {
+      "source_segment_index": 15,
+      "text": "draw on other accounts and sightings,"
+    },
+    {
+      "source_segment_index": 16,
+      "text": "including Israelite traditions and accounts from unbelievers,",
+      "review_notes": "Israelite traditions and non-Muslim accounts are source categories in the presenter’s argument; do not infer that every such account is false or verified."
+    },
+    {
+      "source_segment_index": 17,
+      "text": "from non-Muslims. Truth and falsehood became mixed. But"
+    },
+    {
+      "source_segment_index": 18,
+      "text": "in our own age, we have gained access to other"
+    },
+    {
+      "source_segment_index": 19,
+      "text": "cultures too, even cultures of polytheists,"
+    },
+    {
+      "source_segment_index": 20,
+      "text": "and much has been translated for us that was not known"
+    },
+    {
+      "source_segment_index": 21,
+      "text": "before."
+    },
+    {
+      "source_segment_index": 22,
+      "text": "Added to this are testimonies from people who may not"
+    },
+    {
+      "source_segment_index": 23,
+      "text": "be Muslims, even atheists, about their sightings"
+    },
+    {
+      "source_segment_index": 24,
+      "text": "of aliens and other things. As these accounts have multiplied,"
+    },
+    {
+      "source_segment_index": 25,
+      "text": "they too have become far more numerous than what was known"
+    },
+    {
+      "source_segment_index": 26,
+      "text": "before. We can add accounts from sorcerers"
+    },
+    {
+      "source_segment_index": 27,
+      "text": "who bewitched people and then repented, who had contact"
+    },
+    {
+      "source_segment_index": 28,
+      "text": "with the world of jinn and know more about it than others,"
+    },
+    {
+      "source_segment_index": 29,
+      "text": "and from ruqyah practitioners discussing their experiences and what"
+    },
+    {
+      "source_segment_index": 30,
+      "text": "they know of jinn, through Muslim jinn or"
+    },
+    {
+      "source_segment_index": 31,
+      "text": "other jinn they interact with who are not"
+    },
+    {
+      "source_segment_index": 32,
+      "text": "Muslim. When all these testimonies are translated"
+    },
+    {
+      "source_segment_index": 33,
+      "text": "and reach us through the internet, it becomes possible"
+    },
+    {
+      "source_segment_index": 34,
+      "text": "for a student of Islamic knowledge, even a young one,"
+    },
+    {
+      "source_segment_index": 35,
+      "text": "provided they have the tools to examine, understand, and distinguish"
+    },
+    {
+      "source_segment_index": 36,
+      "text": "truth from falsehood, to discover matters",
+      "review_notes": "Comparative claim that modern access can exceed early scholars’ available information is his methodological argument, not verification of online testimony."
+    },
+    {
+      "source_segment_index": 37,
+      "text": "and details unavailable to the greatest imams in"
+    },
+    {
+      "source_segment_index": 38,
+      "text": "history. Another point: we may disagree with some"
+    },
+    {
+      "source_segment_index": 39,
+      "text": "statements of the great imams, but usually over"
+    },
+    {
+      "source_segment_index": 40,
+      "text": "unimportant details that entail no practical action."
+    },
+    {
+      "source_segment_index": 41,
+      "text": "Usually, too, we favour one of the views"
+    },
+    {
+      "source_segment_index": 42,
+      "text": "already known in the past. Rarely might"
+    },
+    {
+      "source_segment_index": 43,
+      "text": "we put forward new ideas, suggestions, or interpretations,"
+    },
+    {
+      "source_segment_index": 44,
+      "text": "but not on matters of religious law where"
+    },
+    {
+      "source_segment_index": 45,
+      "text": "we would say we should not depart from the predecessors' positions."
+    },
+    {
+      "source_segment_index": 46,
+      "text": "Nor are these matters of creed; these too are issues that",
+      "review_notes": "Speaker distinguishes speculative details from creed/legal duties. This does not mean every claim later in the episode is outside theology."
+    },
+    {
+      "source_segment_index": 47,
+      "text": "entail no practical action, so disagreement over them"
+    },
+    {
+      "source_segment_index": 48,
+      "text": "is not important. Many of these matters"
+    },
+    {
+      "source_segment_index": 49,
+      "text": "are not important to many people, which is why"
+    },
+    {
+      "source_segment_index": 50,
+      "text": "revelation did not address them. But new developments,"
+    },
+    {
+      "source_segment_index": 51,
+      "text": "doubts, and questions may now affect some people's faith,"
+    },
+    {
+      "source_segment_index": 52,
+      "text": "so discussing them matters,"
+    },
+    {
+      "source_segment_index": 53,
+      "text": "especially when we try to answer questions whose"
+    },
+    {
+      "source_segment_index": 54,
+      "text": "answers people find in other religions,"
+    },
+    {
+      "source_segment_index": 55,
+      "text": "the New Age movement, and other pagan traditions. So"
+    },
+    {
+      "source_segment_index": 56,
+      "text": "we also need to discuss these matters and clarify some"
+    },
+    {
+      "source_segment_index": 57,
+      "text": "difficulties. The foundation is the search for truth"
+    },
+    {
+      "source_segment_index": 58,
+      "text": "and the attempt to build knowledge in a way pleasing to Allah,"
+    },
+    {
+      "source_segment_index": 59,
+      "text": "glorified and exalted, not to enter into disputes"
+    },
+    {
+      "source_segment_index": 60,
+      "text": "and conflicts. If any of you disagrees with us on an"
+    },
+    {
+      "source_segment_index": 61,
+      "text": "idea, our starting point should be to seek"
+    },
+    {
+      "source_segment_index": 62,
+      "text": "the truth and make allowances for one another. Let us not forget"
+    },
+    {
+      "source_segment_index": 63,
+      "text": "the noble hadith: whoever learns knowledge to rival",
+      "review_notes": "Hadith paraphrase through the Arabic caption. Inherited Tirmidhi 2654 / Ibn Majah 253–254 locators and grading labels were not independently rechecked in this pass."
+    },
+    {
+      "source_segment_index": 64,
+      "text": "scholars, argue with fools, or turn people's attention"
+    },
+    {
+      "source_segment_index": 65,
+      "text": "toward himself,"
+    },
+    {
+      "source_segment_index": 66,
+      "text": "Allah will admit him to Hell—we seek refuge in Allah. We ask"
+    },
+    {
+      "source_segment_index": 67,
+      "text": "Allah for success and sincerity."
+    },
+    {
+      "source_segment_index": 68,
+      "text": "Let us begin with the origin of jinn. What is their origin? As we know,"
+    },
+    {
+      "source_segment_index": 69,
+      "text": "[Clears throat.] It is agreed that they were created from",
+      "review_notes": "Non-speech cue retained. Marij min nar rendered smokeless flame of fire; Qur’an 55:15 is the inherited source lead."
+    },
+    {
+      "source_segment_index": 70,
+      "text": "a smokeless flame of fire, as the noble verse states."
+    },
+    {
+      "source_segment_index": 71,
+      "text": "The Prophet, peace and blessings be upon him, said in a hadith"
+    },
+    {
+      "source_segment_index": 72,
+      "text": "in Sahih Muslim: the angels were created from light, the"
+    },
+    {
+      "source_segment_index": 73,
+      "text": "jann from a smokeless flame of fire, and Adam from what has been described"
+    },
+    {
+      "source_segment_index": 74,
+      "text": "to you—that is, earth, or light [uncertain caption wording]. So",
+      "review_notes": "Caption says earth or light. Retained with an uncertainty marker; do not silently turn نور into طين. Muslim 2996 and original audio require comparison."
+    },
+    {
+      "source_segment_index": 75,
+      "text": "their origin is fire. But saying"
+    },
+    {
+      "source_segment_index": 76,
+      "text": "they were created from fire does not mean that all jinn today",
+      "review_notes": "ASR omits a negation, but the following comparison with human bodies makes the intended sense does not mean clear. Contextual repair, audio pending."
+    },
+    {
+      "source_segment_index": 77,
+      "text": "have the nature or appearance of fire,"
+    },
+    {
+      "source_segment_index": 78,
+      "text": "because even our bodies do not resemble earth."
+    },
+    {
+      "source_segment_index": 79,
+      "text": "Our father was created from earth at the beginning, and then we"
+    },
+    {
+      "source_segment_index": 80,
+      "text": "reproduce. There are contemporary interpretations that may not"
+    },
+    {
+      "source_segment_index": 81,
+      "text": "be necessary; let us mention them briefly. I have found some"
+    },
+    {
+      "source_segment_index": 82,
+      "text": "people attempting an explanation that perhaps"
+    },
+    {
+      "source_segment_index": 83,
+      "text": "the body of a jinni is plasma,",
+      "review_notes": "Plasma is a proposed analogy mentioned by the presenter, not an independently established composition of jinn. Simplified ionization explanation also requires a separate scientific check."
+    },
+    {
+      "source_segment_index": 84,
+      "text": "the fourth state of matter. Gas itself"
+    },
+    {
+      "source_segment_index": 85,
+      "text": "may become ionized under enormous pressure or energy,"
+    },
+    {
+      "source_segment_index": 86,
+      "text": "or intense heat, becoming ionized as atoms"
+    },
+    {
+      "source_segment_index": 87,
+      "text": "and electrons separate."
+    },
+    {
+      "source_segment_index": 88,
+      "text": "This is not essential. But we understand that they have"
+    },
+    {
+      "source_segment_index": 89,
+      "text": "bodies and souls, just as our bodies too"
+    },
+    {
+      "source_segment_index": 90,
+      "text": "are inhabited by souls. Their bodies likewise come from"
+    },
+    {
+      "source_segment_index": 91,
+      "text": "fire and contain souls. When a jinni dies,"
+    },
+    {
+      "source_segment_index": 92,
+      "text": "its soul goes to the world of barzakh, as ours does.",
+      "review_notes": "Barzakh and bodily fate are theological claims; no independently inspected passage for each detail in this translation pass."
+    },
+    {
+      "source_segment_index": 93,
+      "text": "There is also disagreement about what happens to its body."
+    },
+    {
+      "source_segment_index": 94,
+      "text": "Some scholars said it may be buried as"
+    },
+    {
+      "source_segment_index": 95,
+      "text": "we are buried. Some accounts support this,"
+    },
+    {
+      "source_segment_index": 96,
+      "text": "in books collecting many reports that may include plenty"
+    },
+    {
+      "source_segment_index": 97,
+      "text": "of fanciful stories and legends, such as al-Hawatif by Ibn",
+      "review_notes": "Al-Hawatif is the spoken short title; inherited registry identifies Hawatif al-Jinan. Exact funeral accounts and chains remain to be reviewed."
+    },
+    {
+      "source_segment_index": 98,
+      "text": "Abi al-Dunya,"
+    },
+    {
+      "source_segment_index": 99,
+      "text": "which collected many accounts, including, for example,"
+    },
+    {
+      "source_segment_index": 100,
+      "text": "people hearing jinn accompanying their dead"
+    },
+    {
+      "source_segment_index": 101,
+      "text": "to burial. Even if these accounts are authentic,"
+    },
+    {
+      "source_segment_index": 102,
+      "text": "a funeral procession does not necessarily mean it will be followed by"
+    },
+    {
+      "source_segment_index": 103,
+      "text": "burial. These are accounts, and this is one view. Another view"
+    },
+    {
+      "source_segment_index": 104,
+      "text": "is that when a jinni dies, its body, originally created from fire,"
+    },
+    {
+      "source_segment_index": 105,
+      "text": "evaporates,"
+    },
+    {
+      "source_segment_index": 106,
+      "text": "or dissolves away. I favour this view, and Allah knows",
+      "review_notes": "Body dissolution is explicitly his preferred view. Preserve Allah knows best and distinguish the alternative burial account."
+    },
+    {
+      "source_segment_index": 107,
+      "text": "best. Here, however, we should not forget what we said"
+    },
+    {
+      "source_segment_index": 108,
+      "text": "earlier in the Shasta episode, Mount Shasta: that they have",
+      "review_notes": "Mount Shasta reference, cities and other dimensions are the presenter’s account and model, not independently established geography or physics."
+    },
+    {
+      "source_segment_index": 109,
+      "text": "cities, and their cities are built. So in their world,"
+    },
+    {
+      "source_segment_index": 110,
+      "text": "which is in another dimension, there are buildings and"
+    },
+    {
+      "source_segment_index": 111,
+      "text": "cities and things that may be tangible to them"
+    },
+    {
+      "source_segment_index": 112,
+      "text": "but not to us."
+    },
+    {
+      "source_segment_index": 113,
+      "text": "So"
+    },
+    {
+      "source_segment_index": 114,
+      "text": "their bodies may be tangible to them but not"
+    },
+    {
+      "source_segment_index": 115,
+      "text": "to us. The point is to avoid the idea"
+    },
+    {
+      "source_segment_index": 116,
+      "text": "that their bodies are transparent"
+    },
+    {
+      "source_segment_index": 117,
+      "text": "and they live in our world,"
+    },
+    {
+      "source_segment_index": 118,
+      "text": "and that, being transparent, they cannot"
+    },
+    {
+      "source_segment_index": 119,
+      "text": "grasp things, and therefore cannot build"
+    },
+    {
+      "source_segment_index": 120,
+      "text": "a civilization, cities, or houses, so they live in crevices"
+    },
+    {
+      "source_segment_index": 121,
+      "text": "and holes, as many imagine. In"
+    },
+    {
+      "source_segment_index": 122,
+      "text": "my view, this is a common misconception. They can"
+    },
+    {
+      "source_segment_index": 123,
+      "text": "build. Some are like Bedouins, some live"
+    },
+    {
+      "source_segment_index": 124,
+      "text": "among us, and some, the ‘awamir, for example, may live",
+      "review_notes": "‘Awamir refers to inhabitants associated with homes. The alternate-dimensional-house explanation at 127–131 is explicitly conjectural."
+    },
+    {
+      "source_segment_index": 125,
+      "text": "in our homes,"
+    },
+    {
+      "source_segment_index": 126,
+      "text": "intruding upon us, and they may be Muslims."
+    },
+    {
+      "source_segment_index": 127,
+      "text": "Even the idea of ‘awamir, or inhabitants,"
+    },
+    {
+      "source_segment_index": 128,
+      "text": "may have another meaning. They do not necessarily live in"
+    },
+    {
+      "source_segment_index": 129,
+      "text": "our houses, but in houses of their own at the same location"
+    },
+    {
+      "source_segment_index": 130,
+      "text": "as ours, in another dimension. All these ideas"
+    },
+    {
+      "source_segment_index": 131,
+      "text": "may be right or wrong. Now we turn to the question of who"
+    },
+    {
+      "source_segment_index": 132,
+      "text": "the father from whom they descend is, having finished discussing"
+    },
+    {
+      "source_segment_index": 133,
+      "text": "their creation from fire. Even this idea"
+    },
+    {
+      "source_segment_index": 134,
+      "text": "is disputed; these are all interpretations. Again,"
+    },
+    {
+      "source_segment_index": 135,
+      "text": "these are questions with no practical action attached."
+    },
+    {
+      "source_segment_index": 136,
+      "text": "The most widespread view among our scholars"
+    },
+    {
+      "source_segment_index": 137,
+      "text": "is that jinn are the children of Iblis, who is like Adam."
+    },
+    {
+      "source_segment_index": 138,
+      "text": "This was transmitted from Ibn ‘Abbas, al-Hasan al-Basri, Mujahid, and Qatadah,"
+    },
+    {
+      "source_segment_index": 139,
+      "text": "and chosen by Shaykh al-Islam. The evidence is: will you take him",
+      "review_notes": "Shaykh al-Islam is retained as spoken; inherited source map identifies Ibn Taymiyyah. No new check of each early-authority attribution."
+    },
+    {
+      "source_segment_index": 140,
+      "text": "and his offspring as allies instead of Me? I do not consider this"
+    },
+    {
+      "source_segment_index": 141,
+      "text": "the stronger view, and Allah knows best. Others have said"
+    },
+    {
+      "source_segment_index": 142,
+      "text": "so too. There are several responses; I will summarize them"
+    },
+    {
+      "source_segment_index": 143,
+      "text": "in three points. First, yes, Iblis may have"
+    },
+    {
+      "source_segment_index": 144,
+      "text": "offspring, but this does not mean that all jinn",
+      "review_notes": "ASR reverses the relation, literally all his descendants are the jinn. Contextually rendered not all jinn are his descendants, consistent with the stated argument; audio needed."
+    },
+    {
+      "source_segment_index": 145,
+      "text": "are his offspring. That does not follow from the verse."
+    },
+    {
+      "source_segment_index": 146,
+      "text": "The verse is also an address to human beings:"
+    },
+    {
+      "source_segment_index": 147,
+      "text": "will you take Iblis and his offspring as allies instead of Allah?"
+    },
+    {
+      "source_segment_index": 148,
+      "text": "We know that some jinn are Muslims. If we say that"
+    },
+    {
+      "source_segment_index": 149,
+      "text": "all Iblis's children are those allies—that is,"
+    },
+    {
+      "source_segment_index": 150,
+      "text": "devils—then this is impossible. All"
+    },
+    {
+      "source_segment_index": 151,
+      "text": "his offspring would become devils, whereas we know that some"
+    },
+    {
+      "source_segment_index": 152,
+      "text": "jinn are Muslims. Third, if we understand"
+    },
+    {
+      "source_segment_index": 153,
+      "text": "offspring in the verse to mean a bloodline, this may",
+      "review_notes": "Distinguish his possible inference about lineage from what the verse necessarily entails; the speaker himself says not necessarily."
+    },
+    {
+      "source_segment_index": 154,
+      "text": "mean that devils can only be Iblis's children."
+    },
+    {
+      "source_segment_index": 155,
+      "text": "This may lead—not necessarily, of course—"
+    },
+    {
+      "source_segment_index": 156,
+      "text": "to the conclusion that devils are only his"
+    },
+    {
+      "source_segment_index": 157,
+      "text": "children, as though we were saying their conduct is predetermined."
+    },
+    {
+      "source_segment_index": 158,
+      "text": "Again, that meaning does not necessarily follow."
+    },
+    {
+      "source_segment_index": 159,
+      "text": "But one might infer here that devils"
+    },
+    {
+      "source_segment_index": 160,
+      "text": "can only come from his lineage, even if"
+    },
+    {
+      "source_segment_index": 161,
+      "text": "we say that not everyone in his lineage is a devil, but that devils"
+    },
+    {
+      "source_segment_index": 162,
+      "text": "come only from his lineage. Even if this does not"
+    },
+    {
+      "source_segment_index": 163,
+      "text": "make them compelled rather than free to choose, it still imposes"
+    },
+    {
+      "source_segment_index": 164,
+      "text": "a restriction: that devils can only come from"
+    },
+    {
+      "source_segment_index": 165,
+      "text": "his lineage. So I think, and Allah knows best, that to understand"
+    },
+    {
+      "source_segment_index": 166,
+      "text": "the verse we should return to its beginning: when We told the angels",
+      "review_notes": "Qur’an 18:50 paraphrase. The pre-existing-species inference and subsequent fairness argument are the presenter’s interpretation, not additional verse wording."
+    },
+    {
+      "source_segment_index": 167,
+      "text": "to prostrate before Adam, they prostrated except Iblis; he was of the jinn"
+    },
+    {
+      "source_segment_index": 168,
+      "text": "and disobeyed his Lord's command. Will you then take him and his offspring...?"
+    },
+    {
+      "source_segment_index": 169,
+      "text": "He was of the jinn, in the past tense: he belonged to a kind"
+    },
+    {
+      "source_segment_index": 170,
+      "text": "already in existence, the jinn. He was selected to attend"
+    },
+    {
+      "source_segment_index": 171,
+      "text": "this gathering and be charged with prostrating, like"
+    },
+    {
+      "source_segment_index": 172,
+      "text": "the angels. I ask here, and Allah knows best: is it reasonable"
+    },
+    {
+      "source_segment_index": 173,
+      "text": "that humans and jinn are both morally responsible kinds, yet"
+    },
+    {
+      "source_segment_index": 174,
+      "text": "humans are the children of an honoured prophet, Adam,"
+    },
+    {
+      "source_segment_index": 175,
+      "text": "while the other kind are the children of Satan? Even"
+    },
+    {
+      "source_segment_index": 176,
+      "text": "if we say Iblis was obedient and then disobeyed"
+    },
+    {
+      "source_segment_index": 177,
+      "text": "at this gathering, that is a possibility, not a certainty."
+    },
+    {
+      "source_segment_index": 178,
+      "text": "They were his children when he was obedient, and then he disobeyed"
+    },
+    {
+      "source_segment_index": 179,
+      "text": "later. Even here, you may find—"
+    },
+    {
+      "source_segment_index": 180,
+      "text": "I do not say a logical impossibility, but something reason finds"
+    },
+    {
+      "source_segment_index": 181,
+      "text": "hard to accept—that all morally responsible jinn are the children"
+    },
+    {
+      "source_segment_index": 182,
+      "text": "of a defiant devil, rebellious against Allah,"
+    },
+    {
+      "source_segment_index": 183,
+      "text": "glorified and exalted, the head of evil in existence"
+    },
+    {
+      "source_segment_index": 184,
+      "text": "among humans and jinn. I say here, and Allah knows best, perhaps"
+    },
+    {
+      "source_segment_index": 185,
+      "text": "what occurred to our great scholars who",
+      "review_notes": "ASR ما خطر can be read as negation or a relative construction in this fragment. Rendered what occurred to the scholars to fit the following proposal; audio check required."
+    },
+    {
+      "source_segment_index": 186,
+      "text": "held this view was that the story of jinn and humans"
+    },
+    {
+      "source_segment_index": 187,
+      "text": "began together, and then one was chosen to prostrate"
+    },
+    {
+      "source_segment_index": 188,
+      "text": "before the other. Even so, I find this difficult to accept."
+    },
+    {
+      "source_segment_index": 189,
+      "text": "If we ourselves were among the jinn, we would"
+    },
+    {
+      "source_segment_index": 190,
+      "text": "ask why our father was ordered to prostrate before their father."
+    },
+    {
+      "source_segment_index": 191,
+      "text": "There is a difficulty. Again, I do not say this"
+    },
+    {
+      "source_segment_index": 192,
+      "text": "contradicts reason and self-evident truths,"
+    },
+    {
+      "source_segment_index": 193,
+      "text": "but"
+    },
+    {
+      "source_segment_index": 194,
+      "text": "I find a problem with it. When both kinds are morally responsible,"
+    },
+    {
+      "source_segment_index": 195,
+      "text": "the starting point is that they should be equal in responsibility"
+    },
+    {
+      "source_segment_index": 196,
+      "text": "and honour, at least, so that the ancestor"
+    },
+    {
+      "source_segment_index": 197,
+      "text": "of one kind is not asked to prostrate before the ancestor of the other,"
+    },
+    {
+      "source_segment_index": 198,
+      "text": "even if they differ in other characteristics. Allah"
+    },
+    {
+      "source_segment_index": 199,
+      "text": "knows best. So the stronger view, in my opinion, and Allah knows best—"
+    },
+    {
+      "source_segment_index": 200,
+      "text": "again, this disagreement is not a serious matter—is that Iblis"
+    },
+    {
+      "source_segment_index": 201,
+      "text": "belongs to an ancient kind that already existed,"
+    },
+    {
+      "source_segment_index": 202,
+      "text": "and is not their father. He is the son of one of them. Perhaps their father"
+    },
+    {
+      "source_segment_index": 203,
+      "text": "existed thousands of years earlier. Some accounts even"
+    },
+    {
+      "source_segment_index": 204,
+      "text": "say that jinn existed two thousand years before Adam.",
+      "review_notes": "Two-thousand-year chronology is an attributed report, not a confirmed date. Other jinn attending/prostrating and Iblis already being rebellious are hypotheses."
+    },
+    {
+      "source_segment_index": 205,
+      "text": "Then Iblis was asked to attend. Perhaps other jinn,"
+    },
+    {
+      "source_segment_index": 206,
+      "text": "leaders among them, attended this gathering and prostrated,"
+    },
+    {
+      "source_segment_index": 207,
+      "text": "and only Iblis rebelled. Nor do I rule out"
+    },
+    {
+      "source_segment_index": 208,
+      "text": "that Iblis himself had already been rebellious"
+    },
+    {
+      "source_segment_index": 209,
+      "text": "beforehand,"
+    },
+    {
+      "source_segment_index": 210,
+      "text": "and was not brought there because he was honoured, as the accounts say."
+    },
+    {
+      "source_segment_index": 211,
+      "text": "I believe all these are Israelite traditions. Perhaps Iblis",
+      "review_notes": "Speculation that Iblis supplied stories to people altering scripture is the presenter’s unverified account, not established textual history."
+    },
+    {
+      "source_segment_index": 212,
+      "text": "himself even passed these fanciful stories"
+    },
+    {
+      "source_segment_index": 213,
+      "text": "to those who altered the Torah,"
+    },
+    {
+      "source_segment_index": 214,
+      "text": "to diminish the gravity of his sin. He was not necessarily"
+    },
+    {
+      "source_segment_index": 215,
+      "text": "obedient and then, at that moment, suddenly became"
+    },
+    {
+      "source_segment_index": 216,
+      "text": "a rebellious, arrogant devil. Especially since we also have"
+    },
+    {
+      "source_segment_index": 217,
+      "text": "accounts saying that jinn were on earth,"
+    },
+    {
+      "source_segment_index": 218,
+      "text": "disobeyed, and were replaced. Some scholars of"
+    },
+    {
+      "source_segment_index": 219,
+      "text": "tafsir said: jinn were created before Adam, peace be upon him,"
+    },
+    {
+      "source_segment_index": 220,
+      "text": "and before them on earth were the hinn and binn.",
+      "review_notes": "Hinn and binn names and pre-Adamic history are explicitly uncertain at 223–224. Do not upgrade them because inherited registry labels say verified."
+    },
+    {
+      "source_segment_index": 221,
+      "text": "Allah gave the jinn power over them; they fought them, drove them"
+    },
+    {
+      "source_segment_index": 222,
+      "text": "out, removed them, and settled there, and so on."
+    },
+    {
+      "source_segment_index": 223,
+      "text": "Allah knows best. These are all accounts whose truth"
+    },
+    {
+      "source_segment_index": 224,
+      "text": "we do not know, and there is no evidence. Perhaps we could say"
+    },
+    {
+      "source_segment_index": 225,
+      "text": "they were punished through another successor: the appearance of humanity."
+    },
+    {
+      "source_segment_index": 226,
+      "text": "Iblis's attendance was to witness this event, the existence of"
+    },
+    {
+      "source_segment_index": 227,
+      "text": "the successor whose kind would give rise to humans who would"
+    },
+    {
+      "source_segment_index": 228,
+      "text": "succeed them on this earth."
+    },
+    {
+      "source_segment_index": 229,
+      "text": "Perhaps he too was a leader of the wicked"
+    },
+    {
+      "source_segment_index": 230,
+      "text": "among jinn, and came not to be honoured but to witness"
+    },
+    {
+      "source_segment_index": 231,
+      "text": "this event."
+    },
+    {
+      "source_segment_index": 232,
+      "text": "His attendance was a punishment or humiliation,"
+    },
+    {
+      "source_segment_index": 233,
+      "text": "not an honour. So in my view, the stronger interpretation"
+    },
+    {
+      "source_segment_index": 234,
+      "text": "of the verse, will you take him and his offspring, is that “offspring”",
+      "review_notes": "Offspring as helpers is a proposed interpretive view. It should not replace the literal reading without attribution or a checked tafsir passage."
+    },
+    {
+      "source_segment_index": 235,
+      "text": "here, as scholars holding the other view said,"
+    },
+    {
+      "source_segment_index": 236,
+      "text": "means his helpers among the jinn, not his children. Even"
+    },
+    {
+      "source_segment_index": 237,
+      "text": "so, we do not say anything prevents Iblis himself having"
+    },
+    {
+      "source_segment_index": 238,
+      "text": "wives, not just one wife, and descendants and children."
+    },
+    {
+      "source_segment_index": 239,
+      "text": "But his own children too are not destined to be"
+    },
+    {
+      "source_segment_index": 240,
+      "text": "devils. Otherwise, they would be compelled, not"
+    },
+    {
+      "source_segment_index": 241,
+      "text": "free to choose. Al-Dahhak narrated from Ibn ‘Abbas:",
+      "review_notes": "Al-Dahhak / Ibn ‘Abbas report about Iblis’s children and lifespan; the presenter questions attribution. Original chain/grading not checked here."
+    },
+    {
+      "source_segment_index": 242,
+      "text": "the devils are Iblis's children and do not die except with"
+    },
+    {
+      "source_segment_index": 243,
+      "text": "Iblis."
+    },
+    {
+      "source_segment_index": 244,
+      "text": "This even conflicts with the other account,"
+    },
+    {
+      "source_segment_index": 245,
+      "text": "or at least partly conflicts with the idea that Iblis"
+    },
+    {
+      "source_segment_index": 246,
+      "text": "is the father of all jinn, also narrated from Ibn"
+    },
+    {
+      "source_segment_index": 247,
+      "text": "‘Abbas. All these accounts are transmitted without"
+    },
+    {
+      "source_segment_index": 248,
+      "text": "a chain of transmission,"
+    },
+    {
+      "source_segment_index": 249,
+      "text": "and their attribution to Ibn ‘Abbas, may Allah be pleased with him,",
+      "review_notes": "Sentence continues through the prayer at 250. English places the uncertainty predicate at 250 for readable continuity, without adding a claim."
+    },
+    {
+      "source_segment_index": 250,
+      "text": "is uncertain."
+    },
+    {
+      "source_segment_index": 251,
+      "text": "But we also cannot rule out that Iblis had"
+    },
+    {
+      "source_segment_index": 252,
+      "text": "other devils with him, of lesser rank,"
+    },
+    {
+      "source_segment_index": 253,
+      "text": "who were granted respite as he was, to remain until"
+    },
+    {
+      "source_segment_index": 254,
+      "text": "the end of time. They need not, however, be"
+    },
+    {
+      "source_segment_index": 255,
+      "text": "his children. The second view, also narrated from"
+    },
+    {
+      "source_segment_index": 256,
+      "text": "Ibn ‘Abbas, is that the father of jinn is not Iblis but someone"
+    },
+    {
+      "source_segment_index": 257,
+      "text": "else called Suma or Sumiya. You now find many",
+      "review_notes": "Suma/Sumiya are provisional transliterations of سوما / سوميا, not securely established names of a real ancestor. Speaker cautions against invented details."
+    },
+    {
+      "source_segment_index": 258,
+      "text": "rumours, and even YouTube channels publishing"
+    },
+    {
+      "source_segment_index": 259,
+      "text": "numerous details about him. We know nothing about him"
+    },
+    {
+      "source_segment_index": 260,
+      "text": "that would allow us to discuss such details. Perhaps"
+    },
+    {
+      "source_segment_index": 261,
+      "text": "all of this comes from Israelite traditions. Some also said"
+    },
+    {
+      "source_segment_index": 262,
+      "text": "the father of jinn is called al-Jann, because the verse says:"
+    },
+    {
+      "source_segment_index": 263,
+      "text": "And the jann We created before, from scorching fire.",
+      "review_notes": "Qur’an 15:27 and 55:15 allusions; interpreting al-jann as an ancestor’s proper name is distinct from the verses themselves."
+    },
+    {
+      "source_segment_index": 264,
+      "text": "And in Surat al-Rahman: He created the jann from a smokeless flame"
+    },
+    {
+      "source_segment_index": 265,
+      "text": "of fire. They said al-jann appears here in the singular,"
+    },
+    {
+      "source_segment_index": 266,
+      "text": "as an ancestor, so perhaps it is the father's name. Here,"
+    },
+    {
+      "source_segment_index": 267,
+      "text": "though, I suggest a third view, which may be mistaken.",
+      "review_notes": "Multiple ancestors is explicitly a proposal that may be mistaken; retain that qualification."
+    },
+    {
+      "source_segment_index": 268,
+      "text": "Again, interpretation here is not a grave matter. They may"
+    },
+    {
+      "source_segment_index": 269,
+      "text": "have several ancestors. Why? Because they belong to"
+    },
+    {
+      "source_segment_index": 270,
+      "text": "numerous, very different kinds. Here we recall"
+    },
+    {
+      "source_segment_index": 271,
+      "text": "the authentic hadith: jinn are of three kinds—one kind has",
+      "review_notes": "Three-kinds hadith rendered from caption. Authenticity is the speaker’s attribution; inherited primary locator and grading still require audit."
+    },
+    {
+      "source_segment_index": 272,
+      "text": "wings and flies in the air, one consists of snakes and dogs,"
+    },
+    {
+      "source_segment_index": 273,
+      "text": "and one settles and travels. We will explain this"
+    },
+    {
+      "source_segment_index": 274,
+      "text": "in another episode about their kinds. But"
+    },
+    {
+      "source_segment_index": 275,
+      "text": "they appear to be numerous and very different kinds."
+    },
+    {
+      "source_segment_index": 276,
+      "text": "We will also come to some scholars' statement that"
+    },
+    {
+      "source_segment_index": 277,
+      "text": "the differences between them resemble the differences between animals,",
+      "review_notes": "Ant/elephant comparison attributed to unnamed scholars. No exact author or original passage supplied here."
+    },
+    {
+      "source_segment_index": 278,
+      "text": "from an ant to an elephant. This is what I favour, and what"
+    },
+    {
+      "source_segment_index": 279,
+      "text": "also appears from newer accounts"
+    },
+    {
+      "source_segment_index": 280,
+      "text": "and sightings of aliens and others. The stronger possibility, Allah"
+    },
+    {
+      "source_segment_index": 281,
+      "text": "knows best, is that they also have different ancestors. Perhaps"
+    },
+    {
+      "source_segment_index": 282,
+      "text": "our scholars interpreted this hadith as meaning"
+    },
+    {
+      "source_segment_index": 283,
+      "text": "that the differences between these kinds are not great:"
+    },
+    {
+      "source_segment_index": 284,
+      "text": "they differ, but all descend from one father."
+    },
+    {
+      "source_segment_index": 285,
+      "text": "Ultimately, neither we nor they know the details,"
+    },
+    {
+      "source_segment_index": 286,
+      "text": "and disagreement on this point is not very serious."
+    },
+    {
+      "source_segment_index": 287,
+      "text": "Now we turn to a very important matter, more important than"
+    },
+    {
+      "source_segment_index": 288,
+      "text": "everything before it: jinn are morally responsible. The fundamental"
+    },
+    {
+      "source_segment_index": 289,
+      "text": "purpose of their creation is worship: I created",
+      "review_notes": "Qur’an 51:56 paraphrase; repeated later. Translation does not import wording from a named modern English edition."
+    },
+    {
+      "source_segment_index": 290,
+      "text": "jinn and humans only to worship Me. Allah also says,"
+    },
+    {
+      "source_segment_index": 291,
+      "text": "reporting their words in Surat al-Jinn: among us",
+      "review_notes": "Qur’an 72:11 and 72:14 paraphrases; Ibn al-Qayyim’s three-rank description at 294–297 is a separate source claim."
+    },
+    {
+      "source_segment_index": 292,
+      "text": "are the righteous and those otherwise; we follow different paths."
+    },
+    {
+      "source_segment_index": 293,
+      "text": "And in the same surah: among us are those who submit"
+    },
+    {
+      "source_segment_index": 294,
+      "text": "and those who deviate. Ibn al-Qayyim therefore said:"
+    },
+    {
+      "source_segment_index": 295,
+      "text": "they fall into three ranks, like humans—the righteous, those below"
+    },
+    {
+      "source_segment_index": 296,
+      "text": "the righteous, and unbelievers—just as humans include the devout,"
+    },
+    {
+      "source_segment_index": 297,
+      "text": "those taking a middle course, meaning Muslims of an intermediate rank, and unbelievers."
+    },
+    {
+      "source_segment_index": 298,
+      "text": "Unfortunately, in my view, you find a rare and anomalous"
+    },
+    {
+      "source_segment_index": 299,
+      "text": "opinion, but one that does exist: that some among them, the devils,"
+    },
+    {
+      "source_segment_index": 300,
+      "text": "were created that way, as angels were. Angels"
+    },
+    {
+      "source_segment_index": 301,
+      "text": "were created without such moral testing and do not disobey Allah's",
+      "review_notes": "Without taklif rendered without such moral testing in this comparison. Avoid implying angels have no divine commands or duties."
+    },
+    {
+      "source_segment_index": 302,
+      "text": "commands; so some devils too were created to be"
+    },
+    {
+      "source_segment_index": 303,
+      "text": "devils. This cannot be right. The principle is: I created"
+    },
+    {
+      "source_segment_index": 304,
+      "text": "jinn and humans only to worship Me. A devil"
+    },
+    {
+      "source_segment_index": 305,
+      "text": "chose disbelief and chose to become a devil."
+    },
+    {
+      "source_segment_index": 306,
+      "text": "We find this view, this anomalous view,"
+    },
+    {
+      "source_segment_index": 307,
+      "text": "for example, in a book by Shaykh ‘Ali"
+    },
+    {
+      "source_segment_index": 308,
+      "text": "al-Tantawi, may Allah have mercy on him, called A General Introduction",
+      "review_notes": "A General Introduction to Islam is a descriptive title translation for al-Tantawi’s book. The claimed error needs comparison with the exact edition and passage."
+    },
+    {
+      "source_segment_index": 309,
+      "text": "to Islam. Although he wrote it to introduce people,"
+    },
+    {
+      "source_segment_index": 310,
+      "text": "non-Muslims, to Islam, it contains this"
+    },
+    {
+      "source_segment_index": 311,
+      "text": "mistake. This, of course, does not negate his learning,"
+    },
+    {
+      "source_segment_index": 312,
+      "text": "or that of others who held this view. But I believe"
+    },
+    {
+      "source_segment_index": 313,
+      "text": "this is a genuinely serious idea, and I suspect"
+    },
+    {
+      "source_segment_index": 314,
+      "text": "it also reached us from the altered Torah and Jewish-Christian",
+      "review_notes": "Claim of Jewish-Christian influence is an unverified historical inference; neither doctrine nor popular culture is uniform across those traditions."
+    },
+    {
+      "source_segment_index": 315,
+      "text": "culture."
+    },
+    {
+      "source_segment_index": 316,
+      "text": "As we have mentioned more than once, they"
+    },
+    {
+      "source_segment_index": 317,
+      "text": "do not have something called jinn. They have"
+    },
+    {
+      "source_segment_index": 318,
+      "text": "angels in this unseen world, some of whom became"
+    },
+    {
+      "source_segment_index": 319,
+      "text": "devils, fallen angels: Iblis"
+    },
+    {
+      "source_segment_index": 320,
+      "text": "and his company. They also believe—and this is a serious idea"
+    },
+    {
+      "source_segment_index": 321,
+      "text": "you find in Hollywood films,"
+    },
+    {
+      "source_segment_index": 322,
+      "text": "games, and popular culture—"
+    },
+    {
+      "source_segment_index": 323,
+      "text": "that these devils, originally angels,"
+    },
+    {
+      "source_segment_index": 324,
+      "text": "are the kings of Hell. Hell is the kingdom"
+    },
+    {
+      "source_segment_index": 325,
+      "text": "in the underworld, and its kings"
+    },
+    {
+      "source_segment_index": 326,
+      "text": "are these beings. This closely resembles the angels of punishment"
+    },
+    {
+      "source_segment_index": 327,
+      "text": "in Islam and in revelation since Adam's time."
+    },
+    {
+      "source_segment_index": 328,
+      "text": "The angels of punishment too were created with a fearsome appearance,",
+      "review_notes": "Fearsome appearance and lack of feeling in angels are presenter claims; no direct scriptural citation for those details is supplied here."
+    },
+    {
+      "source_segment_index": 329,
+      "text": "created to punish people, but they themselves,"
+    },
+    {
+      "source_segment_index": 330,
+      "text": "although present in Hell, are not punished."
+    },
+    {
+      "source_segment_index": 331,
+      "text": "Their task is punishment and inflicting punishment, but they do not"
+    },
+    {
+      "source_segment_index": 332,
+      "text": "suffer it. They were created without feeling, and their task"
+    },
+    {
+      "source_segment_index": 333,
+      "text": "is to carry out these commands, Allah's commands."
+    },
+    {
+      "source_segment_index": 334,
+      "text": "You find the same idea in that culture:"
+    },
+    {
+      "source_segment_index": 335,
+      "text": "Satan and his company, although they disobeyed Allah,"
+    },
+    {
+      "source_segment_index": 336,
+      "text": "glorified and exalted, have the role in Hell of being"
+    },
+    {
+      "source_segment_index": 337,
+      "text": "its kings. They delight in this power,"
+    },
+    {
+      "source_segment_index": 338,
+      "text": "delight in misleading people, and bring them"
+    },
+    {
+      "source_segment_index": 339,
+      "text": "into their world to punish them, not to suffer punishment themselves."
+    },
+    {
+      "source_segment_index": 340,
+      "text": "This is a very serious idea. We find it in several"
+    },
+    {
+      "source_segment_index": 341,
+      "text": "films; I will mention only two examples. One film is called"
+    },
+    {
+      "source_segment_index": 342,
+      "text": "Little Nicky, a Hollywood film released in"
+    },
+    {
+      "source_segment_index": 343,
+      "text": "2000, starring Adam Sandler. Briefly, its story is that"
+    },
+    {
+      "source_segment_index": 344,
+      "text": "Satan, meaning Iblis himself, becomes involved in",
+      "review_notes": "Identifying a fictional Satan with Islamic Iblis is the presenter’s framing; the film is not religious evidence."
+    },
+    {
+      "source_segment_index": 345,
+      "text": "a conflict with his three sons. The eldest"
+    },
+    {
+      "source_segment_index": 346,
+      "text": "and youngest enter a conflict with their father,",
+      "review_notes": "Eldest and youngest retained as captioned; the next lines separately call Nicky the youngest. This internal inconsistency needs original audio/film-synopsis comparison."
+    },
+    {
+      "source_segment_index": 347,
+      "text": "disagreeing with him over power. They go out"
+    },
+    {
+      "source_segment_index": 348,
+      "text": "into the world, specifically to New York,"
+    },
+    {
+      "source_segment_index": 349,
+      "text": "and come into conflict with humans. They rebel. Then"
+    },
+    {
+      "source_segment_index": 350,
+      "text": "the youngest son, Nicky, who is kind,"
+    },
+    {
+      "source_segment_index": 351,
+      "text": "simple, and clumsy, wants to follow them"
+    },
+    {
+      "source_segment_index": 352,
+      "text": "and bring them back. He becomes involved in comic events"
+    },
+    {
+      "source_segment_index": 353,
+      "text": "and, as always in Hollywood, a love story with"
+    },
+    {
+      "source_segment_index": 354,
+      "text": "a human girl like us in New York, and so"
+    },
+    {
+      "source_segment_index": 355,
+      "text": "the story goes. It wants us to sympathize with him"
+    },
+    {
+      "source_segment_index": 356,
+      "text": "in the end. He is perfectly normal, but he descends"
+    },
+    {
+      "source_segment_index": 357,
+      "text": "from these jinn,"
+    },
+    {
+      "source_segment_index": 358,
+      "text": "these devils. The idea is that some"
+    },
+    {
+      "source_segment_index": 359,
+      "text": "devils may return to their angelic origin,"
+    },
+    {
+      "source_segment_index": 360,
+      "text": "while retaining a devil's appearance:"
+    },
+    {
+      "source_segment_index": 361,
+      "text": "red, with horns, long ears, a tail, and so on."
+    },
+    {
+      "source_segment_index": 362,
+      "text": "Another famous character is Hellboy. He began"
+    },
+    {
+      "source_segment_index": 363,
+      "text": "in comic books in 1993, and films based on them",
+      "review_notes": "Hellboy debut year and mixed comic/film plot remain the speaker’s summary; no new original comic or film inspection."
+    },
+    {
+      "source_segment_index": 364,
+      "text": "are still being released, very well known."
+    },
+    {
+      "source_segment_index": 365,
+      "text": "Briefly, the story is that toward the end of the Second"
+    },
+    {
+      "source_segment_index": 366,
+      "text": "World War, the Nazis, or a Russian sorcerer,"
+    },
+    {
+      "source_segment_index": 367,
+      "text": "wanted to open a gateway to Hell"
+    },
+    {
+      "source_segment_index": 368,
+      "text": "and obtain a weapon from it."
+    },
+    {
+      "source_segment_index": 369,
+      "text": "But the plan failed. The gateway opened for seconds,"
+    },
+    {
+      "source_segment_index": 370,
+      "text": "and in those seconds a baby came through,"
+    },
+    {
+      "source_segment_index": 371,
+      "text": "an infant,"
+    },
+    {
+      "source_segment_index": 372,
+      "text": "a little devil: Hellboy,"
+    },
+    {
+      "source_segment_index": 373,
+      "text": "meaning the son or child of Hell. His father was one"
+    },
+    {
+      "source_segment_index": 374,
+      "text": "of Hell's kings, a powerful devil,"
+    },
+    {
+      "source_segment_index": 375,
+      "text": "and his mother a witch. So he is half human and half devil."
+    },
+    {
+      "source_segment_index": 376,
+      "text": "A British scientist discovers him"
+    },
+    {
+      "source_segment_index": 377,
+      "text": "and raises him, so he grows up like us. He looks like a devil but is"
+    },
+    {
+      "source_segment_index": 378,
+      "text": "kind like us."
+    },
+    {
+      "source_segment_index": 379,
+      "text": "He also has extraordinary powers, being a devil or"
+    },
+    {
+      "source_segment_index": 380,
+      "text": "half devil, and helps people. We also have here"
+    },
+    {
+      "source_segment_index": 381,
+      "text": "a very weak hadith that I think is",
+      "review_notes": "Very weak report is distinguished from the earlier three-kinds report. Exact grading/number and comparison require original hadith-source audit."
+    },
+    {
+      "source_segment_index": 382,
+      "text": "problematic: Allah created jinn in three kinds,"
+    },
+    {
+      "source_segment_index": 383,
+      "text": "one consisting of snakes and scorpions, one like the wind in the air,"
+    },
+    {
+      "source_segment_index": 384,
+      "text": "and one subject to reckoning and punishment. Another version"
+    },
+    {
+      "source_segment_index": 385,
+      "text": "says a third are like the children of Adam. Even from its"
+    },
+    {
+      "source_segment_index": 386,
+      "text": "style, it is clear this is not the Prophet's speech, peace and blessings"
+    },
+    {
+      "source_segment_index": 387,
+      "text": "be upon him. It conflicts with the verse: I created jinn"
+    },
+    {
+      "source_segment_index": 388,
+      "text": "and humans only to worship Me. It is not that one third"
+    },
+    {
+      "source_segment_index": 389,
+      "text": "were created as devils and are subject to reckoning and punishment.",
+      "review_notes": "Speaker’s devils gloss is not identical to the report’s wording about accountability. Preserve the distinction when adapting this argument."
+    },
+    {
+      "source_segment_index": 390,
+      "text": "All are morally responsible. Al-Albani therefore classified this hadith"
+    },
+    {
+      "source_segment_index": 391,
+      "text": "in his series of weak"
+    },
+    {
+      "source_segment_index": 392,
+      "text": "and fabricated hadiths. It conflicts with the authentic hadith"
+    },
+    {
+      "source_segment_index": 393,
+      "text": "we mentioned earlier: they are three kinds,"
+    },
+    {
+      "source_segment_index": 394,
+      "text": "one with wings, one consisting of snakes and scorpions—or, in a version, dogs—",
+      "review_notes": "Snakes and scorpions, then or dogs, retained from caption. Compare original audio and report wording; do not silently unify the two narrations."
+    },
+    {
+      "source_segment_index": 395,
+      "text": "and one that settles and travels. All are morally responsible. Also,"
+    },
+    {
+      "source_segment_index": 396,
+      "text": "let us not forget this point: if we say a devil"
+    },
+    {
+      "source_segment_index": 397,
+      "text": "was created as a devil, then it should not be punished."
+    },
+    {
+      "source_segment_index": 398,
+      "text": "The verses clearly say it is punished. Allah said"
+    },
+    {
+      "source_segment_index": 399,
+      "text": "to Iblis: the truth—and the truth I speak—is that I will fill Hell",
+      "review_notes": "Qur’an 38:84–85 paraphrase. No modern translator’s verbatim wording copied."
+    },
+    {
+      "source_segment_index": 400,
+      "text": "with you and all those among them who follow you,"
+    },
+    {
+      "source_segment_index": 401,
+      "text": "meaning humans and jinn. An even clearer verse describes Iblis"
+    },
+    {
+      "source_segment_index": 402,
+      "text": "entering the Fire: Satan says, when the matter is decided,",
+      "review_notes": "Qur’an 14:22 paraphrase; the concluding we will all be punished is the speaker’s explanation, not presented as an additional ayah."
+    },
+    {
+      "source_segment_index": 403,
+      "text": "Allah made you a true promise; I promised you and failed you."
+    },
+    {
+      "source_segment_index": 404,
+      "text": "I had no authority over you except that I called you"
+    },
+    {
+      "source_segment_index": 405,
+      "text": "and you answered me. Do not blame me; blame yourselves."
+    },
+    {
+      "source_segment_index": 406,
+      "text": "I cannot come to your rescue, nor you to mine."
+    },
+    {
+      "source_segment_index": 407,
+      "text": "That means neither I will help you nor you help me. We will all"
+    },
+    {
+      "source_segment_index": 408,
+      "text": "be punished. These are Iblis's words. So Iblis himself"
+    },
+    {
+      "source_segment_index": 409,
+      "text": "will be punished, and everyone who follows him among the devils"
+    },
+    {
+      "source_segment_index": 410,
+      "text": "will be punished. They also said that, linguistically, “shaytan”"
+    },
+    {
+      "source_segment_index": 411,
+      "text": "means any arrogant rebel, from shatan,",
+      "review_notes": "Arabic etymological explanation is the speaker’s account; exact lexicon definitions and alternative derivations require checking."
+    },
+    {
+      "source_segment_index": 412,
+      "text": "meaning extreme rebellion."
+    },
+    {
+      "source_segment_index": 413,
+      "text": "That is why “shaytan” also describes human devils,"
+    },
+    {
+      "source_segment_index": 414,
+      "text": "as the verse says: thus We appointed for every prophet",
+      "review_notes": "Qur’an 6:112 allusion supports the description of human and jinn devils; it does not independently settle the etymology of Iblis."
+    },
+    {
+      "source_segment_index": 415,
+      "text": "an enemy, devils among humans and jinn. “Shaytan” is a description,"
+    },
+    {
+      "source_segment_index": 416,
+      "text": "a title applied to Iblis. His name was Iblis;"
+    },
+    {
+      "source_segment_index": 417,
+      "text": "when he rebelled and disbelieved, he became a devil. Some"
+    },
+    {
+      "source_segment_index": 418,
+      "text": "scholars, unfortunately, went to great lengths to find"
+    },
+    {
+      "source_segment_index": 419,
+      "text": "an Arabic meaning for the word “Iblis.” It is his name,"
+    },
+    {
+      "source_segment_index": 420,
+      "text": "not because he despaired of Allah's mercy,"
+    },
+    {
+      "source_segment_index": 421,
+      "text": "or lost hope in it. That is one view,"
+    },
+    {
+      "source_segment_index": 422,
+      "text": "but the stronger view is that this is his real name. Even"
+    },
+    {
+      "source_segment_index": 423,
+      "text": "al-‘Aqqad, in his book Iblis, said that he found",
+      "review_notes": "Al-‘Aqqad’s Iblis is the named linguistic source. Claimed cross-language occurrence and proposed original name require the book passage, not broad inference."
+    },
+    {
+      "source_segment_index": 424,
+      "text": "the word Iblis in all, or many,"
+    },
+    {
+      "source_segment_index": 425,
+      "text": "earlier languages and religions, because that is"
+    },
+    {
+      "source_segment_index": 426,
+      "text": "his real name. Allah knows best. Even if there are"
+    },
+    {
+      "source_segment_index": 427,
+      "text": "accounts saying his earlier name was ‘Azazil, for example,"
+    },
+    {
+      "source_segment_index": 428,
+      "text": "or Baal, or something else, the stronger view is that his real name"
+    },
+    {
+      "source_segment_index": 429,
+      "text": "is the one given in the Qur’an. We conclude this"
+    },
+    {
+      "source_segment_index": 430,
+      "text": "section by saying that Iblis and all devils chose"
+    },
+    {
+      "source_segment_index": 431,
+      "text": "disbelief and disobedience; they were not created that way."
+    },
+    {
+      "source_segment_index": 432,
+      "text": "Even so, although there are human devils,"
+    },
+    {
+      "source_segment_index": 433,
+      "text": "Iblis remains the head of evil in"
+    },
+    {
+      "source_segment_index": 434,
+      "text": "both worlds. Why? Because he is the oldest. He"
+    },
+    {
+      "source_segment_index": 435,
+      "text": "existed before Adam, before devils emerged"
+    },
+    {
+      "source_segment_index": 436,
+      "text": "from Adam's lineage: human devils. Also, Iblis"
+    },
+    {
+      "source_segment_index": 437,
+      "text": "rebelled against Allah, glorified and exalted, in"
+    },
+    {
+      "source_segment_index": 438,
+      "text": "His presence."
+    },
+    {
+      "source_segment_index": 439,
+      "text": "This is something no one would dare do. Indeed,"
+    },
+    {
+      "source_segment_index": 440,
+      "text": "Allah, glorified, speaks to no human except",
+      "review_notes": "Universal claim about divine speech is translated as speaker wording; its scope needs a separate theological source check."
+    },
+    {
+      "source_segment_index": 441,
+      "text": "the prophets. But Iblis"
+    },
+    {
+      "source_segment_index": 442,
+      "text": "had this opportunity and rebelled against Allah,"
+    },
+    {
+      "source_segment_index": 443,
+      "text": "glorified and exalted, before the angels, addressing Him with this rebellion"
+    },
+    {
+      "source_segment_index": 444,
+      "text": "and arrogance. Add to this that Iblis"
+    },
+    {
+      "source_segment_index": 445,
+      "text": "existed before all of us and will remain until the end."
+    },
+    {
+      "source_segment_index": 446,
+      "text": "He is the leader of evil throughout this story, from its beginning"
+    },
+    {
+      "source_segment_index": 447,
+      "text": "to its end. Even if some human devils"
+    },
+    {
+      "source_segment_index": 448,
+      "text": "rival Iblis, their influence,"
+    },
+    {
+      "source_segment_index": 449,
+      "text": "however far it reaches into later generations, remains limited"
+    },
+    {
+      "source_segment_index": 450,
+      "text": "in time and place and to particular peoples; it does not extend"
+    },
+    {
+      "source_segment_index": 451,
+      "text": "to every other people. Iblis himself, however,"
+    },
+    {
+      "source_segment_index": 452,
+      "text": "is the king of evil in both worlds, human"
+    },
+    {
+      "source_segment_index": 453,
+      "text": "and jinn. His lifespan extends beyond that of all"
+    },
+    {
+      "source_segment_index": 454,
+      "text": "human beings. He is also the only one who plays the role"
+    },
+    {
+      "source_segment_index": 455,
+      "text": "of a god. All the false gods",
+      "review_notes": "Identifying all false gods or chief evil gods with Iblis is the presenter’s comparative-religion theory, not an established historical identity."
+    },
+    {
+      "source_segment_index": 456,
+      "text": "worshipped in other religions,"
+    },
+    {
+      "source_segment_index": 457,
+      "text": "as we have mentioned in several episodes,"
+    },
+    {
+      "source_segment_index": 458,
+      "text": "particularly the chief of the evil gods, turn out"
+    },
+    {
+      "source_segment_index": 459,
+      "text": "to be Iblis himself. He is the one worshipped among all peoples"
+    },
+    {
+      "source_segment_index": 460,
+      "text": "who disbelieved, unlike Pharaoh or other human beings"
+    },
+    {
+      "source_segment_index": 461,
+      "text": "who claimed divinity and were worshipped only in a limited"
+    },
+    {
+      "source_segment_index": 462,
+      "text": "time and place."
+    },
+    {
+      "source_segment_index": 463,
+      "text": "Now we turn to the qarin,"
+    },
+    {
+      "source_segment_index": 464,
+      "text": "continuing the previous question. The companion is established in"
+    },
+    {
+      "source_segment_index": 465,
+      "text": "the Qur’an: his companion says, here is what I have ready;",
+      "review_notes": "Qur’an 50:23 and 50:27 use companion in different contexts. Do not assume both refer to the same kind of companion; tafsir must distinguish the recording/presenting angel from the misleading companion."
+    },
+    {
+      "source_segment_index": 466,
+      "text": "his companion says, our Lord, I did not cause him to transgress. We also have,"
+    },
+    {
+      "source_segment_index": 467,
+      "text": "in Surat al-Zukhruf: whoever turns away from remembrance of the Most Merciful,",
+      "review_notes": "Qur’an 43:36 allusion; assignment versus compulsion is the presenter’s subsequent theological explanation."
+    },
+    {
+      "source_segment_index": 468,
+      "text": "We assign him a devil who becomes his companion. This companion is also"
+    },
+    {
+      "source_segment_index": 469,
+      "text": "a jinni who chose disbelief and chose to dominate a person,"
+    },
+    {
+      "source_segment_index": 470,
+      "text": "perhaps spending its life misleading humans."
+    },
+    {
+      "source_segment_index": 471,
+      "text": "Since, in our estimation, jinn are very"
+    },
+    {
+      "source_segment_index": 472,
+      "text": "numerous, those who went astray among them,"
+    },
+    {
+      "source_segment_index": 473,
+      "text": "the devils, may even outnumber human beings.",
+      "review_notes": "Population estimates and proposed competition/motives among companions are conjectures, not quantified observations."
+    },
+    {
+      "source_segment_index": 474,
+      "text": "So"
+    },
+    {
+      "source_segment_index": 475,
+      "text": "you could find a devil imposing itself on every person."
+    },
+    {
+      "source_segment_index": 476,
+      "text": "Perhaps they compete to toy with us."
+    },
+    {
+      "source_segment_index": 477,
+      "text": "The question is: why? Why attach itself to us?"
+    },
+    {
+      "source_segment_index": 478,
+      "text": "First, perhaps for amusement, to amuse itself by toying with us,"
+    },
+    {
+      "source_segment_index": 479,
+      "text": "as human devils do. There is also the desire for power:"
+    },
+    {
+      "source_segment_index": 480,
+      "text": "seeing you disbelieve because of it, taking pleasure in controlling"
+    },
+    {
+      "source_segment_index": 481,
+      "text": "a person, especially when we cannot see it."
+    },
+    {
+      "source_segment_index": 482,
+      "text": "It also intrudes on the person it accompanies,"
+    },
+    {
+      "source_segment_index": 483,
+      "text": "sharing their food and drink, and sometimes even",
+      "review_notes": "Food, drink, sexual intrusion and watching a person are speaker claims; no diagnosis, individual threat assessment or practical treatment advice follows from them."
+    },
+    {
+      "source_segment_index": 484,
+      "text": "their wife if they do not seek refuge in Allah."
+    },
+    {
+      "source_segment_index": 485,
+      "text": "It may become a lover, falling in love with the person. We"
+    },
+    {
+      "source_segment_index": 486,
+      "text": "will discuss this in a separate episode, Allah willing."
+    },
+    {
+      "source_segment_index": 487,
+      "text": "It amuses itself by watching the person naked or in the bathroom."
+    },
+    {
+      "source_segment_index": 488,
+      "text": "It may also seek to please those stronger than itself,"
+    },
+    {
+      "source_segment_index": 489,
+      "text": "the powerful devils, up to Iblis. I believe, then,"
+    },
+    {
+      "source_segment_index": 490,
+      "text": "that the qarin is one of the lesser jinn, not the great ones,",
+      "review_notes": "Rank, size and abilities of ordinary companions versus rulers’ companions are explicitly his estimate."
+    },
+    {
+      "source_segment_index": 491,
+      "text": "unless it is"
+    },
+    {
+      "source_segment_index": 492,
+      "text": "the companion of a human king or one of the great"
+    },
+    {
+      "source_segment_index": 493,
+      "text": "human devils, in which case it may be one of the powerful"
+    },
+    {
+      "source_segment_index": 494,
+      "text": "rebels. But for an ordinary person, I imagine,"
+    },
+    {
+      "source_segment_index": 495,
+      "text": "in my estimation, the devil accompanying them is small in form,"
+    },
+    {
+      "source_segment_index": 496,
+      "text": "ability, and size. Another important"
+    },
+    {
+      "source_segment_index": 497,
+      "text": "point: it does not stay with us in every circumstance. When",
+      "review_notes": "Claims about when a companion withdraws are not independently checked here. Do not treat an individual experience as proof of the companion’s presence or absence."
+    },
+    {
+      "source_segment_index": 498,
+      "text": "we seek refuge in Allah,"
+    },
+    {
+      "source_segment_index": 499,
+      "text": "when we are in a spiritual state, the normal expectation is that it does not"
+    },
+    {
+      "source_segment_index": 500,
+      "text": "come near us. Even when we pray, when we say it"
+    },
+    {
+      "source_segment_index": 501,
+      "text": "whispers to us, if we seek refuge in Allah, it retreats and withdraws."
+    },
+    {
+      "source_segment_index": 502,
+      "text": "It is not with us in every circumstance,"
+    },
+    {
+      "source_segment_index": 503,
+      "text": "particularly when a Muslim enters the bathroom"
+    },
+    {
+      "source_segment_index": 504,
+      "text": "and seeks refuge in Allah from the accursed Satan. The normal expectation"
+    },
+    {
+      "source_segment_index": 505,
+      "text": "is that it is not with them then either."
+    },
+    {
+      "source_segment_index": 506,
+      "text": "Here we come to a noble hadith in Muslim: none",
+      "review_notes": "Muslim 2814a is the inherited lead for the assigned-companion report, and 2815 for ‘A’ishah’s report. No new original-source check in this pass."
+    },
+    {
+      "source_segment_index": 507,
+      "text": "of you is without an assigned companion from among the jinn."
+    },
+    {
+      "source_segment_index": 508,
+      "text": "They asked: even you, Messenger of Allah? He said: even me. Also,"
+    },
+    {
+      "source_segment_index": 509,
+      "text": "in ‘A’ishah's hadith, when she became jealous concerning him, he said:"
+    },
+    {
+      "source_segment_index": 510,
+      "text": "has your devil come to you? She said: Messenger of Allah, do I have a devil?"
+    },
+    {
+      "source_segment_index": 511,
+      "text": "He said yes. She asked: and does every person? He said"
+    },
+    {
+      "source_segment_index": 512,
+      "text": "yes."
+    },
+    {
+      "source_segment_index": 513,
+      "text": "And you, Messenger of Allah? And so the hadith continues. Perhaps"
+    },
+    {
+      "source_segment_index": 514,
+      "text": "this is where Shaykh al-Tantawi and others got their view:"
+    },
+    {
+      "source_segment_index": 515,
+      "text": "that every person has one assigned to them."
+    },
+    {
+      "source_segment_index": 516,
+      "text": "The verse also says We assign him one. Perhaps they inferred",
+      "review_notes": "ASR نقيد contextually repaired to نقيض from the earlier verse and argument; audio pending."
+    },
+    {
+      "source_segment_index": 517,
+      "text": "that every person has a devil, and so the devil"
+    },
+    {
+      "source_segment_index": 518,
+      "text": "was, as it were, created to be a devil. But we return"
+    },
+    {
+      "source_segment_index": 519,
+      "text": "to the principle: I created jinn and humans only"
+    },
+    {
+      "source_segment_index": 520,
+      "text": "to worship Me. The jinni freely chose to become"
+    },
+    {
+      "source_segment_index": 521,
+      "text": "a devil, and was assigned. This assignment is not compulsion"
+    },
+    {
+      "source_segment_index": 522,
+      "text": "from Allah. Allah, glorified and exalted, gave it this"
+    },
+    {
+      "source_segment_index": 523,
+      "text": "opportunity, and it imposed itself on us. We infer this"
+    },
+    {
+      "source_segment_index": 524,
+      "text": "from other verses too. Allah says concerning unbelievers:"
+    },
+    {
+      "source_segment_index": 525,
+      "text": "had Allah willed, He would have given them power over you, and they would have fought you.",
+      "review_notes": "Qur’an 4:90 allusion; permission/compulsion analogy is the presenter’s argument, not a new translation of the entire verse."
+    },
+    {
+      "source_segment_index": 526,
+      "text": "That is, He chose to give unbelievers power; He did not tell them:"
+    },
+    {
+      "source_segment_index": 527,
+      "text": "disbelieve and dominate."
+    },
+    {
+      "source_segment_index": 528,
+      "text": "He enabled them. Also: had Allah willed,"
+    },
+    {
+      "source_segment_index": 529,
+      "text": "He would have overcome them Himself, but He tests some of you through others.",
+      "review_notes": "Qur’an 47:4 allusion. Garbled يبلون الله بالكفار at 530 contextually rendered Allah tests us through unbelievers; confirm audio."
+    },
+    {
+      "source_segment_index": 530,
+      "text": "Allah tests us through unbelievers. Allah, glorified, did not order"
+    },
+    {
+      "source_segment_index": 531,
+      "text": "unbelievers to disbelieve. They chose disbelief,"
+    },
+    {
+      "source_segment_index": 532,
+      "text": "chose to fight Islam, and refused"
+    },
+    {
+      "source_segment_index": 533,
+      "text": "to accept its call, moving on to fight"
+    },
+    {
+      "source_segment_index": 534,
+      "text": "Muslims. Likewise, an unbelieving jinni"
+    },
+    {
+      "source_segment_index": 535,
+      "text": "chose disbelief. Allah, glorified, allowed"
+    },
+    {
+      "source_segment_index": 536,
+      "text": "it to impose itself on us; He did not command it"
+    },
+    {
+      "source_segment_index": 537,
+      "text": "to do so. Further evidence is that"
+    },
+    {
+      "source_segment_index": 538,
+      "text": "the companion itself will disown us. The verse says:"
+    },
+    {
+      "source_segment_index": 539,
+      "text": "his companion says, our Lord, I did not cause him to transgress; he was already",
+      "review_notes": "Qur’an 50:27 allusion; responsibility argument and comparison with angels are the presenter’s explanation."
+    },
+    {
+      "source_segment_index": 540,
+      "text": "far astray. It disowns him and is punished. If it were simply"
+    },
+    {
+      "source_segment_index": 541,
+      "text": "doing its job as an angel does,"
+    },
+    {
+      "source_segment_index": 542,
+      "text": "and an angel is not called to account, then the jinni would not be called to account,"
+    },
+    {
+      "source_segment_index": 543,
+      "text": "or this devilish companion should not be punished."
+    },
+    {
+      "source_segment_index": 544,
+      "text": "The decisive evidence with which we conclude this point"
+    },
+    {
+      "source_segment_index": 545,
+      "text": "is also that the Prophet, peace and blessings be upon him, was able"
+    },
+    {
+      "source_segment_index": 546,
+      "text": "to influence the companion assigned to him,"
+    },
+    {
+      "source_segment_index": 547,
+      "text": "and it accepted Islam. Nothing prevents the possibility",
+      "review_notes": "Fa-aslama / fa-aslamu has a known interpretive/vocalization issue requiring the original hadith commentary. The translation preserves his chosen accepted Islam reading without presenting it as the only reading."
+    },
+    {
+      "source_segment_index": 548,
+      "text": "that a companion attached to one of us might also become Muslim simply through"
+    },
+    {
+      "source_segment_index": 549,
+      "text": "accompanying us and hearing the Qur’an. Perhaps it becomes Muslim"
+    },
+    {
+      "source_segment_index": 550,
+      "text": "and leaves us, and another companion, another devil, comes",
+      "review_notes": "Replacement, death and succession of companions are speculative scenarios, not established by the cited hadith merely by analogy."
+    },
+    {
+      "source_segment_index": 551,
+      "text": "and attaches itself to us. So we should not take “companion”"
+    },
+    {
+      "source_segment_index": 552,
+      "text": "to mean this being has been set over us"
+    },
+    {
+      "source_segment_index": 553,
+      "text": "irrevocably, inevitably, and forever. It may even die before"
+    },
+    {
+      "source_segment_index": 554,
+      "text": "we do, and another comes and imposes itself on us."
+    },
+    {
+      "source_segment_index": 555,
+      "text": "We may also die while the companion remains alive,"
+    },
+    {
+      "source_segment_index": 556,
+      "text": "and it imposes itself on another person, and so on. It is simply"
+    },
+    {
+      "source_segment_index": 557,
+      "text": "a trial for us; Allah tests us through them. Perhaps there is also"
+    },
+    {
+      "source_segment_index": 558,
+      "text": "a jinn companion accompanying another jinni.",
+      "review_notes": "A jinni having another jinni as a companion is expressly hypothetical."
+    },
+    {
+      "source_segment_index": 559,
+      "text": "In their world too, there may be whispering"
+    },
+    {
+      "source_segment_index": 560,
+      "text": "and trials, because they too are morally responsible. What matters"
+    },
+    {
+      "source_segment_index": 561,
+      "text": "in this discussion is that they are morally responsible"
+    },
+    {
+      "source_segment_index": 562,
+      "text": "like us, and impose themselves on us only by their own choice."
+    },
+    {
+      "source_segment_index": 563,
+      "text": "Perhaps one repents and Allah accepts its repentance. Here"
+    },
+    {
+      "source_segment_index": 564,
+      "text": "other questions arise: are we better than them? Do"
+    },
+    {
+      "source_segment_index": 565,
+      "text": "they have prophets and messengers? And further questions:"
+    },
+    {
+      "source_segment_index": 566,
+      "text": "what are their characteristics and appearances? We will devote"
+    },
+    {
+      "source_segment_index": 567,
+      "text": "other episodes to all this, Allah willing. I hope"
+    },
+    {
+      "source_segment_index": 568,
+      "text": "you have benefited from this episode. If you have found it"
+    },
+    {
+      "source_segment_index": 569,
+      "text": "beneficial, try sharing it so that the benefit",
+      "review_notes": "Invitation to share is the original speaker’s closing request, not an instruction to tools or future agents."
+    },
+    {
+      "source_segment_index": 570,
+      "text": "spreads. We seek refuge in Allah from [incomplete phrase] the accursed. We ask",
+      "review_notes": "ASR repeats من and omits the noun before accursed. Explicit incomplete-phrase marker preserves uncertainty rather than silently supplying Satan."
+    },
+    {
+      "source_segment_index": 571,
+      "text": "Allah to help us against our devils and admit us"
+    },
+    {
+      "source_segment_index": 572,
+      "text": "to Paradise together. Thank you for listening, and goodbye."
+    }
+  ]
+}

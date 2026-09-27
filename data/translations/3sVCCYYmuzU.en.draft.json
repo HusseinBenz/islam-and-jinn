@@ -1,0 +1,4811 @@
+{
+  "schema_version": 1,
+  "episode_id": "3sVCCYYmuzU",
+  "language": "en",
+  "status": "complete-machine-assisted-draft",
+  "method": "Direct English translation of normalized Arabic auto-captions by the editing assistant. No external machine-translation service and no audiovisual review.",
+  "created_at": "2026-09-09",
+  "source_segments_file": "data/transcripts/3sVCCYYmuzU/segments.ar.json",
+  "source_segments_sha256": "3196bdee19a6550cdf6db0fbe528bcd7e0d23ed434a5a65130bba2de88a2a0bb",
+  "source_srt_sha256": "0732cba2eb13a66a7b8182f11588cf922d1cb07a41b48f558fe2ee4a86204641",
+  "complete": true,
+  "reviewed_at": null,
+  "segments": [
+    {
+      "source_segment_index": 0,
+      "text": "Peace be upon you. Emotional attachment may be"
+    },
+    {
+      "source_segment_index": 1,
+      "text": "the most dangerous way a jinn—whether a devil"
+    },
+    {
+      "source_segment_index": 2,
+      "text": "or a Muslim—enters people's lives. Such a"
+    },
+    {
+      "source_segment_index": 3,
+      "text": "relationship may also begin at a human's initiative."
+    },
+    {
+      "source_segment_index": 4,
+      "text": "This episode will examine that subject."
+    },
+    {
+      "source_segment_index": 5,
+      "text": "It is a very sensitive and serious one. First,"
+    },
+    {
+      "source_segment_index": 6,
+      "text": "can there be an emotional relationship between"
+    },
+    {
+      "source_segment_index": 7,
+      "text": "these two different kinds of beings? If so,"
+    },
+    {
+      "source_segment_index": 8,
+      "text": "what are its limits and possible consequences?"
+    },
+    {
+      "source_segment_index": 9,
+      "text": "Our first aim is to build awareness of important"
+    },
+    {
+      "source_segment_index": 10,
+      "text": "questions of belief that touch people's lives."
+    },
+    {
+      "source_segment_index": 11,
+      "text": "Awareness means prevention first, and perhaps"
+    },
+    {
+      "source_segment_index": 12,
+      "text": "also dealing with things that could happen"
+    },
+    {
+      "source_segment_index": 13,
+      "text": "to someone unprepared—even someone who does not believe in them."
+    },
+    {
+      "source_segment_index": 14,
+      "text": "We also want to answer questions from young people"
+    },
+    {
+      "source_segment_index": 15,
+      "text": "who are curious about other worlds, especially"
+    },
+    {
+      "source_segment_index": 16,
+      "text": "when they look into these subjects and find answers"
+    },
+    {
+      "source_segment_index": 17,
+      "text": "only within very different religious and intellectual traditions."
+    },
+    {
+      "source_segment_index": 18,
+      "text": "So this episode matters even to people"
+    },
+    {
+      "source_segment_index": 19,
+      "text": "who are not interested in the subject. Anyone"
+    },
+    {
+      "source_segment_index": 20,
+      "text": "could become a victim, or at least"
+    },
+    {
+      "source_segment_index": 21,
+      "text": "this could happen to someone we know and care about."
+    },
+    {
+      "source_segment_index": 22,
+      "text": "This particular subject also leaves considerable room"
+    },
+    {
+      "source_segment_index": 23,
+      "text": "for superstition and legend. There can be confusion"
+    },
+    {
+      "source_segment_index": 24,
+      "text": "even among some preachers. Let me stress at the outset:"
+    },
+    {
+      "source_segment_index": 25,
+      "text": "do [not] listen to this episode with your children present.",
+      "review_notes": "Provisional negation: the raw ASR lacks 'not' but the immediately following sentence explicitly says the episode is unsuitable for children. Brackets make the editorial repair visible; audio check required."
+    },
+    {
+      "source_segment_index": 26,
+      "text": "It is entirely unsuitable for children. I will discuss"
+    },
+    {
+      "source_segment_index": 27,
+      "text": "three questions in this episode: the possibility"
+    },
+    {
+      "source_segment_index": 28,
+      "text": "of affection and romantic attachment between"
+    },
+    {
+      "source_segment_index": 29,
+      "text": "humans and jinn; then the possibility"
+    },
+    {
+      "source_segment_index": 30,
+      "text": "of a physical, intimate relationship between them;"
+    },
+    {
+      "source_segment_index": 31,
+      "text": "and, if such a relationship is possible,"
+    },
+    {
+      "source_segment_index": 32,
+      "text": "the possibility of conception and birth."
+    },
+    {
+      "source_segment_index": 33,
+      "text": "I will discuss whether each of these can happen,"
+    },
+    {
+      "source_segment_index": 34,
+      "text": "then whether it is lawful or unlawful. This episode"
+    },
+    {
+      "source_segment_index": 35,
+      "text": "draws together several years of research. I will summarize"
+    },
+    {
+      "source_segment_index": 36,
+      "text": "the religious rulings, what scholars have said,"
+    },
+    {
+      "source_segment_index": 37,
+      "text": "and the evidence in our revealed texts. I will also cite"
+    },
+    {
+      "source_segment_index": 38,
+      "text": "views from other religions, peoples and cultures."
+    },
+    {
+      "source_segment_index": 39,
+      "text": "Another important source is testimony I receive"
+    },
+    {
+      "source_segment_index": 40,
+      "text": "from people I know and trust. We will also consider"
+    },
+    {
+      "source_segment_index": 41,
+      "text": "similar material from popular culture:"
+    },
+    {
+      "source_segment_index": 42,
+      "text": "films, anime and other works. But first,"
+    },
+    {
+      "source_segment_index": 43,
+      "text": "in the opening section, I will consider one example"
+    },
+    {
+      "source_segment_index": 44,
+      "text": "of the culture of denial found among a broad segment"
+    },
+    {
+      "source_segment_index": 45,
+      "text": "of Muslims today. Then we will begin"
+    },
+    {
+      "source_segment_index": 46,
+      "text": "examining the foundations of the subject."
+    },
+    {
+      "source_segment_index": 47,
+      "text": "First, let us consider an example of denial. Please"
+    },
+    {
+      "source_segment_index": 48,
+      "text": "listen with me to this short clip,"
+    },
+    {
+      "source_segment_index": 49,
+      "text": "less than a minute long, from Ahmad al-Shugairi."
+    },
+    {
+      "source_segment_index": 50,
+      "text": "It is from episode six of the third season"
+    },
+    {
+      "source_segment_index": 51,
+      "text": "of Khawatir, fourteen years ago. We will listen,"
+    },
+    {
+      "source_segment_index": 52,
+      "text": "then comment on it."
+    },
+    {
+      "source_segment_index": 53,
+      "text": "[Al-Shugairi:] Another example of charlatanism and superstition I came across",
+      "review_notes": "Embedded Khawatir excerpt begins; speaker label added for clarity. Original broadcast remains unverified."
+    },
+    {
+      "source_segment_index": 54,
+      "text": "was something astonishing. I was amazed to read it:"
+    },
+    {
+      "source_segment_index": 55,
+      "text": "the subject of jinn marrying humans. Unfortunately, there are books"
+    },
+    {
+      "source_segment_index": 56,
+      "text": "in our libraries across the Arab world, books printed"
+    },
+    {
+      "source_segment_index": 57,
+      "text": "recently. This book in front of me was printed in 2003,"
+    },
+    {
+      "source_segment_index": 58,
+      "text": "in the twenty-first century, yet it says: humans and jinn may intermarry"
+    },
+    {
+      "source_segment_index": 59,
+      "text": "and have children together. What is this backwardness?"
+    },
+    {
+      "source_segment_index": 60,
+      "text": "Have we reached such a level of intellectual decline"
+    },
+    {
+      "source_segment_index": 61,
+      "text": "that we now believe a jinn could marry"
+    },
+    {
+      "source_segment_index": 62,
+      "text": "a human?"
+    },
+    {
+      "source_segment_index": 63,
+      "text": "If we open the door to this kind of talk,"
+    },
+    {
+      "source_segment_index": 64,
+      "text": "we open the door to unlawful sex in the Muslim world. Any"
+    },
+    {
+      "source_segment_index": 65,
+      "text": "woman could turn up pregnant, and when her father asks,"
+    },
+    {
+      "source_segment_index": 66,
+      "text": "she could say, 'I am married to a jinn!' What is this"
+    },
+    {
+      "source_segment_index": 67,
+      "text": "backwardness?"
+    },
+    {
+      "source_segment_index": 68,
+      "text": "[Presenter:] As you saw, I showed the whole passage",
+      "review_notes": "Return to al-Sabeel presenter after embedded excerpt."
+    },
+    {
+      "source_segment_index": 69,
+      "text": "so as not to take his words out of context. He calls it charlatanism:"
+    },
+    {
+      "source_segment_index": 70,
+      "text": "a book printed in the twenty-first century mentions"
+    },
+    {
+      "source_segment_index": 71,
+      "text": "intermarriage and childbirth. Then he asks, 'What is this backwardness?"
+    },
+    {
+      "source_segment_index": 72,
+      "text": "What is this decline?' First, he does not name"
+    },
+    {
+      "source_segment_index": 73,
+      "text": "the book he is reading. Even in"
+    },
+    {
+      "source_segment_index": 74,
+      "text": "the editing, they covered its cover."
+    },
+    {
+      "source_segment_index": 75,
+      "text": "Giving him the benefit of the doubt, it also seems"
+    },
+    {
+      "source_segment_index": 76,
+      "text": "he does not know that the line he read was taken"
+    },
+    {
+      "source_segment_index": 77,
+      "text": "by the author of this book from Ibn"
+    },
+    {
+      "source_segment_index": 78,
+      "text": "Taymiyyah, may Allah have mercy on him. It is copied word for word"
+    },
+    {
+      "source_segment_index": 79,
+      "text": "from Ibn Taymiyyah. We will return to this quotation;"
+    },
+    {
+      "source_segment_index": 80,
+      "text": "it will come up again later. In Majmu Fatawa Ibn"
+    },
+    {
+      "source_segment_index": 81,
+      "text": "Taymiyyah, volume [unclear], page 40, he says that humans",
+      "review_notes": "ASR omits volume number. Independent research located Majmu al-fatawa 19:39–40; subtitle leaves spoken gap explicit."
+    },
+    {
+      "source_segment_index": 82,
+      "text": "and jinn may intermarry and have a child together; this is frequent"
+    },
+    {
+      "source_segment_index": 83,
+      "text": "and well known, and scholars have mentioned and discussed it,"
+    },
+    {
+      "source_segment_index": 84,
+      "text": "and so on. In any case, I suspect"
+    },
+    {
+      "source_segment_index": 85,
+      "text": "al-Shugairi had not actually read the book in his hands."
+    },
+    {
+      "source_segment_index": 86,
+      "text": "Perhaps he had not even read a whole page"
+    },
+    {
+      "source_segment_index": 87,
+      "text": "or noticed which source the passage was taken from,"
+    },
+    {
+      "source_segment_index": 88,
+      "text": "or whether there was a footnote. He did not notice any of that."
+    },
+    {
+      "source_segment_index": 89,
+      "text": "He was simply very angry, and responded to"
+    },
+    {
+      "source_segment_index": 90,
+      "text": "this author in this insulting manner. Then"
+    },
+    {
+      "source_segment_index": 91,
+      "text": "in the following passage, which you can"
+    },
+    {
+      "source_segment_index": 92,
+      "text": "check in the episode, he says that the result of"
+    },
+    {
+      "source_segment_index": 93,
+      "text": "all this thinking is not merely to justify unlawful sex."
+    },
+    {
+      "source_segment_index": 94,
+      "text": "His central idea is also that"
+    },
+    {
+      "source_segment_index": 95,
+      "text": "the influence of devils must be limited to whispering. He cites"
+    },
+    {
+      "source_segment_index": 96,
+      "text": "a clip of Sheikh Ali Gomaa. As you know, Sheikh Ali Gomaa",
+      "review_notes": "Following characterizations of Ali Gomaa, modernism and Mu'tazila are the presenter's claims, not independent editorial findings."
+    },
+    {
+      "source_segment_index": 97,
+      "text": "combines Sufism, including a degree of"
+    },
+    {
+      "source_segment_index": 98,
+      "text": "excess in Sufism, with its opposite:"
+    },
+    {
+      "source_segment_index": 99,
+      "text": "an excessive emphasis on material, scientific explanations,"
+    },
+    {
+      "source_segment_index": 100,
+      "text": "the school of Muhammad Abduh. We discussed this"
+    },
+    {
+      "source_segment_index": 101,
+      "text": "school before; some call it the modernist school,"
+    },
+    {
+      "source_segment_index": 102,
+      "text": "and discussed its role in promoting these ideas: denying everything"
+    },
+    {
+      "source_segment_index": 103,
+      "text": "to do with magic, reducing it to illusion and denying"
+    },
+    {
+      "source_segment_index": 104,
+      "text": "that it has any reality, and also limiting Satan's influence"
+    },
+    {
+      "source_segment_index": 105,
+      "text": "to whispering. Historically, this is the Mu'tazilite school."
+    },
+    {
+      "source_segment_index": 106,
+      "text": "The problem is that al-Shugairi, like the sheikhs of this"
+    },
+    {
+      "source_segment_index": 107,
+      "text": "age—or preachers, rather than scholars, of course—"
+    },
+    {
+      "source_segment_index": 108,
+      "text": "uses this logical fallacy: I feel something"
+    },
+    {
+      "source_segment_index": 109,
+      "text": "is a problem, namely justifying unlawful sex,"
+    },
+    {
+      "source_segment_index": 110,
+      "text": "so I reject it and deny its very existence. I deny the possibility"
+    },
+    {
+      "source_segment_index": 111,
+      "text": "of this relationship taking place because I dislike"
+    },
+    {
+      "source_segment_index": 112,
+      "text": "its consequences. You may find this logical fallacy"
+    },
+    {
+      "source_segment_index": 113,
+      "text": "in an atheist too. I am not equating them;"
+    },
+    {
+      "source_segment_index": 114,
+      "text": "I am discussing a mentality and an idea. An atheist, for example,"
+    },
+    {
+      "source_segment_index": 115,
+      "text": "dislikes the idea of [remaining eternally] in Hell, so he dislikes God",
+      "review_notes": "ASR reads الخروج (leaving); context appears to require الخلود (eternal remaining). Provisional bracketed repair; audio check required."
+    },
+    {
+      "source_segment_index": 116,
+      "text": "Himself and therefore denies His existence. He does not"
+    },
+    {
+      "source_segment_index": 117,
+      "text": "merely rebel against a God or religion he dislikes,"
+    },
+    {
+      "source_segment_index": 118,
+      "text": "or against all religions. Instead, he denies God's very existence,"
+    },
+    {
+      "source_segment_index": 119,
+      "text": "and with it the existence of all these religions,"
+    },
+    {
+      "source_segment_index": 120,
+      "text": "even though anything's objective existence is independent"
+    },
+    {
+      "source_segment_index": 121,
+      "text": "of whether I like it. North Korea"
+    },
+    {
+      "source_segment_index": 122,
+      "text": "has a backward system. I dislike that system,"
+    },
+    {
+      "source_segment_index": 123,
+      "text": "but I do not deny its existence. I say I dislike it,"
+    },
+    {
+      "source_segment_index": 124,
+      "text": "and that is that. Another problem is that"
+    },
+    {
+      "source_segment_index": 125,
+      "text": "throughout this programme, Ahmad al-Shugairi"
+    },
+    {
+      "source_segment_index": 126,
+      "text": "said in every opening, word for word, 'I am not a scholar,"
+    },
+    {
+      "source_segment_index": 127,
+      "text": "a sheikh or a mufti, but a student of knowledge.' Even"
+    },
+    {
+      "source_segment_index": 128,
+      "text": "the expression 'student of knowledge' is misunderstood by someone"
+    },
+    {
+      "source_segment_index": 129,
+      "text": "who is not one. It means you have entered"
+    },
+    {
+      "source_segment_index": 130,
+      "text": "a systematic course of seeking knowledge and begun studying,"
+    },
+    {
+      "source_segment_index": 131,
+      "text": "so you possess a student's tools. But someone making"
+    },
+    {
+      "source_segment_index": 132,
+      "text": "these mistakes cannot possibly have begun"
+    },
+    {
+      "source_segment_index": 133,
+      "text": "that process. The episode I mentioned"
+    },
+    {
+      "source_segment_index": 134,
+      "text": "is entitled Khuzabalat—'Nonsense'—and itself contained"
+    },
+    {
+      "source_segment_index": 135,
+      "text": "a great deal of nonsense. As we said, it was"
+    },
+    {
+      "source_segment_index": 136,
+      "text": "around fifteen years ago. People of my generation remember"
+    },
+    {
+      "source_segment_index": 137,
+      "text": "those days: satellite channels openly featured magic"
+    },
+    {
+      "source_segment_index": 138,
+      "text": "and charlatanism. He draws conclusions from the superstitions"
+    },
+    {
+      "source_segment_index": 139,
+      "text": "and nonsense he mentioned in the episode, which we agree"
+    },
+    {
+      "source_segment_index": 140,
+      "text": "were nonsense—not actual magic, but superstitions."
+    },
+    {
+      "source_segment_index": 141,
+      "text": "He groups those with other things, including this"
+    },
+    {
+      "source_segment_index": 142,
+      "text": "clip, and calls all of it nonsense. Incidentally,"
+    },
+    {
+      "source_segment_index": 143,
+      "text": "al-Shugairi was one of the few young people"
+    },
+    {
+      "source_segment_index": 144,
+      "text": "given a platform on which to present"
+    },
+    {
+      "source_segment_index": 145,
+      "text": "their opinions. In those days, there was no internet",
+      "review_notes": "ASR literally says there was no internet/YouTube, but immediately mentions online forums. Bracketed contextual qualification is provisional; do not treat as verified technology history."
+    },
+    {
+      "source_segment_index": 146,
+      "text": "or YouTube [as we know them]; there were forums"
+    },
+    {
+      "source_segment_index": 147,
+      "text": "read by thousands. But when MBC"
+    },
+    {
+      "source_segment_index": 148,
+      "text": "gives someone this platform—and it is a secular channel—"
+    },
+    {
+      "source_segment_index": 149,
+      "text": "it wants to present this model to influence young people"
+    },
+    {
+      "source_segment_index": 150,
+      "text": "and make him a thought leader for entire generations:"
+    },
+    {
+      "source_segment_index": 151,
+      "text": "a model combining 'civil Islam,' in the terminology"
+    },
+    {
+      "source_segment_index": 152,
+      "text": "of the RAND Corporation, with 'market Islam,'"
+    },
+    {
+      "source_segment_index": 153,
+      "text": "in Patrick Haenni's terminology. This Islamic model"
+    },
+    {
+      "source_segment_index": 154,
+      "text": "of civilization emphasizes"
+    },
+    {
+      "source_segment_index": 155,
+      "text": "personal development, economic development,"
+    },
+    {
+      "source_segment_index": 156,
+      "text": "and obedience to authority. At the same time, it is also"
+    },
+    {
+      "source_segment_index": 157,
+      "text": "a religious model, not a secular one. This was the prevailing approach,"
+    },
+    {
+      "source_segment_index": 158,
+      "text": "intended to empty Islam of its spirituality"
+    },
+    {
+      "source_segment_index": 159,
+      "text": "and its civilizational dimension too, because civilization here is reduced"
+    },
+    {
+      "source_segment_index": 160,
+      "text": "to economics and money. In any case,"
+    },
+    {
+      "source_segment_index": 161,
+      "text": "I previously devoted an entire episode to discussing whether"
+    },
+    {
+      "source_segment_index": 162,
+      "text": "Ahmad was a student of knowledge, when we discussed"
+    },
+    {
+      "source_segment_index": 163,
+      "text": "his book Forty. We showed that he made disastrous errors",
+      "review_notes": "Book title 40 rendered Forty; allegations about its author remain the presenter's opinion."
+    },
+    {
+      "source_segment_index": 164,
+      "text": "in creed and was not actually well read. We also"
+    },
+    {
+      "source_segment_index": 165,
+      "text": "made an episode discussing and reviewing his entire approach,"
+    },
+    {
+      "source_segment_index": 166,
+      "text": "so I recommend returning to it. We also devoted"
+    },
+    {
+      "source_segment_index": 167,
+      "text": "a full episode to 'The Reality of Magic.' I cited"
+    },
+    {
+      "source_segment_index": 168,
+      "text": "not only established revealed texts and scholars' statements,"
+    },
+    {
+      "source_segment_index": 169,
+      "text": "but also evidence from other peoples unfamiliar with these"
+    },
+    {
+      "source_segment_index": 170,
+      "text": "religions who were immersed in magic"
+    },
+    {
+      "source_segment_index": 171,
+      "text": "and dealings with devils. In another episode, we discussed"
+    },
+    {
+      "source_segment_index": 172,
+      "text": "jinn possession—more precisely, affliction,",
+      "review_notes": "Repeated مس in ASR reduced to meaningful repetition over two cues; audio needed to distinguish hesitation from caption artifact."
+    },
+    {
+      "source_segment_index": 173,
+      "text": "affliction by jinn—and examined the Mu'tazilite views"
+    },
+    {
+      "source_segment_index": 174,
+      "text": "being revived by this way of thinking, this so-called"
+    },
+    {
+      "source_segment_index": 175,
+      "text": "modernist school, from Muhammad Abduh's time"
+    },
+    {
+      "source_segment_index": 176,
+      "text": "to the present."
+    },
+    {
+      "source_segment_index": 177,
+      "text": "Let us now discuss the first question: is love"
+    },
+    {
+      "source_segment_index": 178,
+      "text": "or romantic attachment between a human and a jinn possible? If you watched"
+    },
+    {
+      "source_segment_index": 179,
+      "text": "the previous episodes, the answer will simply be yes,"
+    },
+    {
+      "source_segment_index": 180,
+      "text": "without even needing research or evidence from religion and revelation,"
+    },
+    {
+      "source_segment_index": 181,
+      "text": "or from elsewhere. This question, in itself,"
+    },
+    {
+      "source_segment_index": 182,
+      "text": "is not about religion and revelation here, even though"
+    },
+    {
+      "source_segment_index": 183,
+      "text": "revelation is, of course, the easiest and most reliable source"
+    },
+    {
+      "source_segment_index": 184,
+      "text": "of information about the world of jinn. But"
+    },
+    {
+      "source_segment_index": 185,
+      "text": "those who contact jinn through magic or other means,"
+    },
+    {
+      "source_segment_index": 186,
+      "text": "including meditation, also reach these"
+    },
+    {
+      "source_segment_index": 187,
+      "text": "conclusions and learn what can happen with this"
+    },
+    {
+      "source_segment_index": 188,
+      "text": "world. Of course, we are not discussing"
+    },
+    {
+      "source_segment_index": 189,
+      "text": "what is lawful or unlawful; that is a separate question. We are discussing"
+    },
+    {
+      "source_segment_index": 190,
+      "text": "possibility alone. Quite simply, if"
+    },
+    {
+      "source_segment_index": 191,
+      "text": "individuals from the two worlds can communicate,"
+    },
+    {
+      "source_segment_index": 192,
+      "text": "regardless of the means and whether it is lawful,"
+    },
+    {
+      "source_segment_index": 193,
+      "text": "then the outcomes of a social relationship between them"
+    },
+    {
+      "source_segment_index": 194,
+      "text": "are possible: friendship, for example, or enmity; harm and deception",
+      "review_notes": "Damaged ASR من اء provisionally read as harm in the contrast with assistance; audio check required."
+    },
+    {
+      "source_segment_index": 195,
+      "text": "by either party, or assistance and guidance"
+    },
+    {
+      "source_segment_index": 196,
+      "text": "from either side, including guidance to the truth. Love, hatred,"
+    },
+    {
+      "source_segment_index": 197,
+      "text": "romantic attachment and so on are all possible, as long as"
+    },
+    {
+      "source_segment_index": 198,
+      "text": "communication is possible. The expression"
+    },
+    {
+      "source_segment_index": 199,
+      "text": "'the enamoured jinn' is one of the most widely used terms"
+    },
+    {
+      "source_segment_index": 200,
+      "text": "today. This exact expression was not known in our heritage."
+    },
+    {
+      "source_segment_index": 201,
+      "text": "Even if the term itself was not"
+    },
+    {
+      "source_segment_index": 202,
+      "text": "in common use, the phenomenon was known, and there was no disagreement"
+    },
+    {
+      "source_segment_index": 203,
+      "text": "about its possibility. What is meant here",
+      "review_notes": "The no-disagreement claim is translated as the speaker states it, not certified consensus."
+    },
+    {
+      "source_segment_index": 204,
+      "text": "is a case of affliction: an enamoured jinn"
+    },
+    {
+      "source_segment_index": 205,
+      "text": "afflicts a human it has fallen in love with."
+    },
+    {
+      "source_segment_index": 206,
+      "text": "It is not simply ordinary love; the familiar symptoms"
+    },
+    {
+      "source_segment_index": 207,
+      "text": "of affliction are present. If anyone does not know what"
+    },
+    {
+      "source_segment_index": 208,
+      "text": "affliction is, or its symptoms, I again refer you to our episode"
+    },
+    {
+      "source_segment_index": 209,
+      "text": "on affliction and jinn possession of humans,"
+    },
+    {
+      "source_segment_index": 210,
+      "text": "which we made two years ago. Since the jinn is usually"
+    },
+    {
+      "source_segment_index": 211,
+      "text": "the one that sees the human, while humans can see"
+    },
+    {
+      "source_segment_index": 212,
+      "text": "jinn only in very rare circumstances, as discussed earlier,"
+    },
+    {
+      "source_segment_index": 213,
+      "text": "the relationship normally begins with the jinn."
+    },
+    {
+      "source_segment_index": 214,
+      "text": "I am speaking specifically about a relationship involving affliction,"
+    },
+    {
+      "source_segment_index": 215,
+      "text": "an enamoured jinn. In some cases—and usually,"
+    },
+    {
+      "source_segment_index": 216,
+      "text": "if not always, these do not involve Muslims; the afflicted person",
+      "review_notes": "ASR disfluent لم يكن دائما provisionally interpreted as إن لم يكن دائما, if not always. Audio review required; frequency and religious exclusions are speaker claims."
+    },
+    {
+      "source_segment_index": 217,
+      "text": "is not Muslim—someone a jinn falls in love with may return"
+    },
+    {
+      "source_segment_index": 218,
+      "text": "its feelings. The results are often disastrous."
+    },
+    {
+      "source_segment_index": 219,
+      "text": "Nevertheless, as I mentioned, there are cases where"
+    },
+    {
+      "source_segment_index": 220,
+      "text": "the human begins it by initiating contact with those"
+    },
+    {
+      "source_segment_index": 221,
+      "text": "worlds. This does not happen among Muslims,"
+    },
+    {
+      "source_segment_index": 222,
+      "text": "but someone exploring meditation and energy practices"
+    },
+    {
+      "source_segment_index": 223,
+      "text": "opens the door. Often, these things"
+    },
+    {
+      "source_segment_index": 224,
+      "text": "happen in conjunction with drug use,",
+      "review_notes": "ASR فقط amid the phrase is unclear; translated as conjunction without asserting an exclusive causal rule. Audio review required."
+    },
+    {
+      "source_segment_index": 225,
+      "text": "particular types of drugs. I may devote an episode entirely"
+    },
+    {
+      "source_segment_index": 226,
+      "text": "to the spiritual relationship between drugs,"
+    },
+    {
+      "source_segment_index": 227,
+      "text": "meditation and entering the worlds of jinn. This makes"
+    },
+    {
+      "source_segment_index": 228,
+      "text": "it much easier, even without training. Suppose"
+    },
+    {
+      "source_segment_index": 229,
+      "text": "a human—a man, for example—enters these worlds"
+    },
+    {
+      "source_segment_index": 230,
+      "text": "through drugs and meditation, or even ordinary yoga"
+    },
+    {
+      "source_segment_index": 231,
+      "text": "without any drugs. Once he enters that world,"
+    },
+    {
+      "source_segment_index": 232,
+      "text": "a jinn may appear to him. It could be a male jinn appearing"
+    },
+    {
+      "source_segment_index": 233,
+      "text": "as a woman, although that is rare; usually"
+    },
+    {
+      "source_segment_index": 234,
+      "text": "a female jinn appears. What we described may then happen:"
+    },
+    {
+      "source_segment_index": 235,
+      "text": "love and attachment. It may be seduction,"
+    },
+    {
+      "source_segment_index": 236,
+      "text": "rather than genuine love on the other side. Every"
+    },
+    {
+      "source_segment_index": 237,
+      "text": "possibility is open here. Imagine a relationship between"
+    },
+    {
+      "source_segment_index": 238,
+      "text": "a man and a woman: all sorts of things can happen,"
+    },
+    {
+      "source_segment_index": 239,
+      "text": "including deception, fraud, genuine love,"
+    },
+    {
+      "source_segment_index": 240,
+      "text": "or exploitation of any kind. All are possible. I will give"
+    },
+    {
+      "source_segment_index": 241,
+      "text": "just one example here. This image comes"
+    },
+    {
+      "source_segment_index": 242,
+      "text": "from a spiritual Facebook page specializing"
+    },
+    {
+      "source_segment_index": 243,
+      "text": "in drugs."
+    },
+    {
+      "source_segment_index": 244,
+      "text": "I will not name the page; I do not want to promote it."
+    },
+    {
+      "source_segment_index": 245,
+      "text": "If we make a separate episode about drugs,"
+    },
+    {
+      "source_segment_index": 246,
+      "text": "I will show many examples from it. The page uses"
+    },
+    {
+      "source_segment_index": 247,
+      "text": "humour, but it is based on realities:",
+      "review_notes": "Presenter calls the page factual; page and depicted image have not been independently inspected. Translation does not certify its claims."
+    },
+    {
+      "source_segment_index": 248,
+      "text": "it describes what happens to them during meditation"
+    },
+    {
+      "source_segment_index": 249,
+      "text": "combined with drugs. They call these 'trips,' journeys"
+    },
+    {
+      "source_segment_index": 250,
+      "text": "into the spiritual world, but present them"
+    },
+    {
+      "source_segment_index": 251,
+      "text": "as humorous memes. All the comments I see"
+    },
+    {
+      "source_segment_index": 252,
+      "text": "on that page agree, from people who are also"
+    },
+    {
+      "source_segment_index": 253,
+      "text": "addicted to these experiences: drugs and entering"
+    },
+    {
+      "source_segment_index": 254,
+      "text": "these worlds, not simply for recreation,"
+    },
+    {
+      "source_segment_index": 255,
+      "text": "but for a spiritual purpose. They see beings in all"
+    },
+    {
+      "source_segment_index": 256,
+      "text": "the forms of jinn we discussed earlier. We will discuss"
+    },
+    {
+      "source_segment_index": 257,
+      "text": "that later. For now, look at this example:"
+    },
+    {
+      "source_segment_index": 258,
+      "text": "the drawing shows a man who has entered this world,"
+    },
+    {
+      "source_segment_index": 259,
+      "text": "and these beings have come to him—'entities,'"
+    },
+    {
+      "source_segment_index": 260,
+      "text": "the term they always use. They do not use"
+    },
+    {
+      "source_segment_index": 261,
+      "text": "'demons' or 'devils'; they speak of entities."
+    },
+    {
+      "source_segment_index": 262,
+      "text": "These appear in different forms, including cases"
+    },
+    {
+      "source_segment_index": 263,
+      "text": "where a being appears as a beautiful woman"
+    },
+    {
+      "source_segment_index": 264,
+      "text": "and begins a romantic relationship with him. Here he says,"
+    },
+    {
+      "source_segment_index": 265,
+      "text": "jokingly, 'I am tired of this love."
+    },
+    {
+      "source_segment_index": 266,
+      "text": "I do not want love; I want, for example,"
+    },
+    {
+      "source_segment_index": 267,
+      "text": "some kind of spiritual relationship.' Let us return to affliction."
+    },
+    {
+      "source_segment_index": 268,
+      "text": "One of the best-known scholars to discuss affliction by"
+    },
+    {
+      "source_segment_index": 269,
+      "text": "an enamoured jinn, describing it in those terms, is Ibn Taymiyyah."
+    },
+    {
+      "source_segment_index": 270,
+      "text": "In the same text we mentioned in the previous"
+    },
+    {
+      "source_segment_index": 271,
+      "text": "section, Ibn Taymiyyah says that their affliction of humans"
+    },
+    {
+      "source_segment_index": 272,
+      "text": "may arise from lust, desire and love, as happens between",
+      "review_notes": "ASR collapses وهوى وعشق into وهواشق; reading supported by the Ibn Taymiyyah passage previously inspected. Translation is an original paraphrase of the embedded quotation."
+    },
+    {
+      "source_segment_index": 273,
+      "text": "humans. Then he mentions that humans"
+    },
+    {
+      "source_segment_index": 274,
+      "text": "and jinn may intermarry, and so on. We should recall that in"
+    },
+    {
+      "source_segment_index": 275,
+      "text": "a case of affliction, the jinn initiates it, whether male"
+    },
+    {
+      "source_segment_index": 276,
+      "text": "or female. Again, a jinn has choice;"
+    },
+    {
+      "source_segment_index": 277,
+      "text": "it is not compelled. It chooses disbelief, then chooses"
+    },
+    {
+      "source_segment_index": 278,
+      "text": "to become a devil. It may subsequently"
+    },
+    {
+      "source_segment_index": 279,
+      "text": "afflict someone, or be subjected through magic by a jinn sorcerer",
+      "review_notes": "ASR explicitly says جني ساحر (jinn sorcerer); retained despite possible intended human sorcerer. Check audio."
+    },
+    {
+      "source_segment_index": 280,
+      "text": "and sent against that person. After the magic"
+    },
+    {
+      "source_segment_index": 281,
+      "text": "and affliction, attachment may develop alongside the initial"
+    },
+    {
+      "source_segment_index": 282,
+      "text": "case of magic, which has its own treatment. There may be"
+    },
+    {
+      "source_segment_index": 283,
+      "text": "additional attachment—an additional problem. But in"
+    },
+    {
+      "source_segment_index": 284,
+      "text": "other cases, a Muslim male or female jinn may become attached"
+    },
+    {
+      "source_segment_index": 285,
+      "text": "to a Muslim man or woman. Even with faith,"
+    },
+    {
+      "source_segment_index": 286,
+      "text": "attachment can occur. To understand this, it also happens"
+    },
+    {
+      "source_segment_index": 287,
+      "text": "among Muslims: a Muslim human, even if sinful,"
+    },
+    {
+      "source_segment_index": 288,
+      "text": "falls in love with a woman and may harm her or even"
+    },
+    {
+      "source_segment_index": 289,
+      "text": "attempt rape or something else. So questions of faith",
+      "review_notes": "ASR فغطيه read contextually as فقضية, the question of. Audio check required."
+    },
+    {
+      "source_segment_index": 290,
+      "text": "and being a devil do not exhaust the possibilities of affliction"
+    },
+    {
+      "source_segment_index": 291,
+      "text": "and attachment. Practitioners of ruqyah also know that when"
+    },
+    {
+      "source_segment_index": 292,
+      "text": "ruqyah begins and a male or female jinn speaks,"
+    },
+    {
+      "source_segment_index": 293,
+      "text": "one of the first questions is, 'Are you Muslim?"
+    },
+    {
+      "source_segment_index": 294,
+      "text": "If not, what is your religion?' A jinn can thus"
+    },
+    {
+      "source_segment_index": 295,
+      "text": "be Muslim and still cause affliction and attachment. But"
+    },
+    {
+      "source_segment_index": 296,
+      "text": "of course, a Muslim male or female jinn would not",
+      "review_notes": "Blanket characterization of Muslim jinn is the speaker's claim; not a new legal or theological verification."
+    },
+    {
+      "source_segment_index": 297,
+      "text": "participate in magic. When there is possession through attachment,"
+    },
+    {
+      "source_segment_index": 298,
+      "text": "there is a possibility that the male"
+    },
+    {
+      "source_segment_index": 299,
+      "text": "or female jinn is Muslim. How do we recognize"
+    },
+    {
+      "source_segment_index": 300,
+      "text": "this attachment-related affliction? It has the usual symptoms. Of course,",
+      "review_notes": "Following alleged signs and treatment references are a faithful research translation of the presenter, not diagnostic guidance or an editorial recommendation. The article separates these claims from medical evidence."
+    },
+    {
+      "source_segment_index": 301,
+      "text": "an enamoured jinn appears to the person in dreams,"
+    },
+    {
+      "source_segment_index": 302,
+      "text": "trying to seduce them. It usually appears either"
+    },
+    {
+      "source_segment_index": 303,
+      "text": "as a handsome man to entice or seduce the targeted woman,"
+    },
+    {
+      "source_segment_index": 304,
+      "text": "or conversely, as a beautiful woman to seduce"
+    },
+    {
+      "source_segment_index": 305,
+      "text": "the targeted man. It may appear as someone"
+    },
+    {
+      "source_segment_index": 306,
+      "text": "the target loves, someone they know personally"
+    },
+    {
+      "source_segment_index": 307,
+      "text": "and are attached to, or as the target's husband or wife."
+    },
+    {
+      "source_segment_index": 308,
+      "text": "I know several cases, and will mention some accounts"
+    },
+    {
+      "source_segment_index": 309,
+      "text": "I have received myself. Here is one example; we will come"
+    },
+    {
+      "source_segment_index": 310,
+      "text": "to other stories later. One of my friends is a ruqyah practitioner,"
+    },
+    {
+      "source_segment_index": 311,
+      "text": "deeply involved in the world of jinn, with more knowledge of it"
+    },
+    {
+      "source_segment_index": 312,
+      "text": "than others. One day, a jinn appeared to him"
+    },
+    {
+      "source_segment_index": 313,
+      "text": "in a dream as a beautiful young woman and tried"
+    },
+    {
+      "source_segment_index": 314,
+      "text": "to seduce him. He was alert. Often, in these circumstances,"
+    },
+    {
+      "source_segment_index": 315,
+      "text": "someone involved in this world"
+    },
+    {
+      "source_segment_index": 316,
+      "text": "is in a state of partial awareness when these"
+    },
+    {
+      "source_segment_index": 317,
+      "text": "interactions between worlds occur, although not always."
+    },
+    {
+      "source_segment_index": 318,
+      "text": "When she came and tried to seduce him, he recognized her"
+    },
+    {
+      "source_segment_index": 319,
+      "text": "as a female jinn and refused her. She immediately changed"
+    },
+    {
+      "source_segment_index": 320,
+      "text": "into her true form. We discussed"
+    },
+    {
+      "source_segment_index": 321,
+      "text": "the various forms of jinn in an earlier episode. What is interesting—"
+    },
+    {
+      "source_segment_index": 322,
+      "text": "or rather, unfortunate—is that she also tried"
+    },
+    {
+      "source_segment_index": 323,
+      "text": "to hurt him: she gripped him tightly and tried to squeeze him,"
+    },
+    {
+      "source_segment_index": 324,
+      "text": "letting out a shrill, screeching cry. That sound"
+    },
+    {
+      "source_segment_index": 325,
+      "text": "has long been known, even among the Arabs"
+    },
+    {
+      "source_segment_index": 326,
+      "text": "before Islam, as one of the reported sounds of jinn."
+    },
+    {
+      "source_segment_index": 327,
+      "text": "It resembles the whistling of wind or the sound of insects."
+    },
+    {
+      "source_segment_index": 328,
+      "text": "Even the word sarsur comes from this,",
+      "review_notes": "Sarsur left transliterated because ASR may mean cricket/cockroach; etymology and species identification unverified."
+    },
+    {
+      "source_segment_index": 329,
+      "text": "because it makes a chirring sound. You also find this in some films"
+    },
+    {
+      "source_segment_index": 330,
+      "text": "and animated works that have nothing to do"
+    },
+    {
+      "source_segment_index": 331,
+      "text": "with religion or anything else. It is known as one"
+    },
+    {
+      "source_segment_index": 332,
+      "text": "of the sounds of jinn. Some people may fall into the trap"
+    },
+    {
+      "source_segment_index": 333,
+      "text": "in a dream and engage in forbidden acts, or they may not"
+    },
+    {
+      "source_segment_index": 334,
+      "text": "be aware, as we said. So the question of what is lawful",
+      "review_notes": "ASR الحلاوه الحرام interpreted as الحلال والحرام from context. The speaker explicitly separates involuntary dream awareness from legal accountability."
+    },
+    {
+      "source_segment_index": 335,
+      "text": "or unlawful is separate. But this often happens"
+    },
+    {
+      "source_segment_index": 336,
+      "text": "at the beginning. Suppose, for example,"
+    },
+    {
+      "source_segment_index": 337,
+      "text": "a beautiful woman appears to a young man and tries to seduce him,"
+    },
+    {
+      "source_segment_index": 338,
+      "text": "and he does not know she is a jinn. This happens"
+    },
+    {
+      "source_segment_index": 339,
+      "text": "in the early stages. But when someone becomes afflicted,"
+    },
+    {
+      "source_segment_index": 340,
+      "text": "the targeting is clear and the experience recurs, whether"
+    },
+    {
+      "source_segment_index": 341,
+      "text": "the female jinn appears in the same form each time or"
+    },
+    {
+      "source_segment_index": 342,
+      "text": "in different forms. The afflicted person knows."
+    },
+    {
+      "source_segment_index": 343,
+      "text": "It may be confusing at first, but"
+    },
+    {
+      "source_segment_index": 344,
+      "text": "almost always, as it continues, they eventually recognize it,"
+    },
+    {
+      "source_segment_index": 345,
+      "text": "because it is accompanied by the other symptoms"
+    },
+    {
+      "source_segment_index": 346,
+      "text": "of affliction: heaviness in the limbs,"
+    },
+    {
+      "source_segment_index": 347,
+      "text": "other experiences while awake, and difficulty"
+    },
+    {
+      "source_segment_index": 348,
+      "text": "reading the Qur'an or praying, and so on. There is"
+    },
+    {
+      "source_segment_index": 349,
+      "text": "another point before we finish this section:"
+    },
+    {
+      "source_segment_index": 350,
+      "text": "an enamoured jinn may remain attached to a victim for years"
+    },
+    {
+      "source_segment_index": 351,
+      "text": "and destroy their life. It may prevent marriages"
+    },
+    {
+      "source_segment_index": 352,
+      "text": "or cause an existing marriage"
+    },
+    {
+      "source_segment_index": 353,
+      "text": "to fail."
+    },
+    {
+      "source_segment_index": 354,
+      "text": "This leads to hatred between spouses."
+    },
+    {
+      "source_segment_index": 355,
+      "text": "As I said, it may initially arise from magic,"
+    },
+    {
+      "source_segment_index": 356,
+      "text": "magic intended to separate people, but it need not. A jinn"
+    },
+    {
+      "source_segment_index": 357,
+      "text": "may become attached to a married woman simply because it loves her,"
+    },
+    {
+      "source_segment_index": 358,
+      "text": "without any magic directed at her. To understand this better,"
+    },
+    {
+      "source_segment_index": 359,
+      "text": "imagine someone whose life is targeted by a spy from an"
+    },
+    {
+      "source_segment_index": 360,
+      "text": "intelligence agency, spying on them in order to"
+    },
+    {
+      "source_segment_index": 361,
+      "text": "destroy their personal and married life. Imagine how"
+    },
+    {
+      "source_segment_index": 362,
+      "text": "difficult that would be. Now imagine that"
+    },
+    {
+      "source_segment_index": 363,
+      "text": "a female spy is assigned to a man and also falls in love with him,"
+    },
+    {
+      "source_segment_index": 364,
+      "text": "wanting to take him away from his wife."
+    },
+    {
+      "source_segment_index": 365,
+      "text": "Imagine what that would be like in the human world."
+    },
+    {
+      "source_segment_index": 366,
+      "text": "What, then, of the world of jinn, when"
+    },
+    {
+      "source_segment_index": 367,
+      "text": "this female jinn can enter his private life,"
+    },
+    {
+      "source_segment_index": 368,
+      "text": "go into his bedroom with him, see him"
+    },
+    {
+      "source_segment_index": 369,
+      "text": "in intimate circumstances, and visit him in dreams when"
+    },
+    {
+      "source_segment_index": 370,
+      "text": "he is vulnerable and not fully conscious?"
+    },
+    {
+      "source_segment_index": 371,
+      "text": "That is why I say this episode is very important: to understand"
+    },
+    {
+      "source_segment_index": 372,
+      "text": "this subject and give everyone at least"
+    },
+    {
+      "source_segment_index": 373,
+      "text": "a basic degree of protection against it."
+    },
+    {
+      "source_segment_index": 374,
+      "text": "And if it happens, God forbid, they should also have"
+    },
+    {
+      "source_segment_index": 375,
+      "text": "enough knowledge of treatment."
+    },
+    {
+      "source_segment_index": 376,
+      "text": "Now for the episode's second question: if"
+    },
+    {
+      "source_segment_index": 377,
+      "text": "an emotional relationship between the two kinds is possible,",
+      "review_notes": "ASR الجنس سين interpreted as الجنسين, the two kinds (humans and jinn), not male/female sexes."
+    },
+    {
+      "source_segment_index": 378,
+      "text": "is a physical, intimate relationship possible? Once"
+    },
+    {
+      "source_segment_index": 379,
+      "text": "again, children must not listen to this episode."
+    },
+    {
+      "source_segment_index": 380,
+      "text": "We will speak"
+    },
+    {
+      "source_segment_index": 381,
+      "text": "with as little explicit detail as possible, while also"
+    },
+    {
+      "source_segment_index": 382,
+      "text": "being clear enough for people"
+    },
+    {
+      "source_segment_index": 383,
+      "text": "to understand. We all know that purely chaste love,"
+    },
+    {
+      "source_segment_index": 384,
+      "text": "even among us humans, is a myth. When a man",
+      "review_notes": "Presenter's generalization about chaste love preserved as speech, not editorial fact."
+    },
+    {
+      "source_segment_index": 385,
+      "text": "becomes attached to a woman and loves her, it is natural to think",
+      "review_notes": "ASR عرق interpreted contextually as تعلق/عرف; translation expresses attachment without asserting recovered audio wording."
+    },
+    {
+      "source_segment_index": 386,
+      "text": "beyond that, about a physical relationship. That is"
+    },
+    {
+      "source_segment_index": 387,
+      "text": "what we know between the sexes among humans."
+    },
+    {
+      "source_segment_index": 388,
+      "text": "So if love is possible between humans"
+    },
+    {
+      "source_segment_index": 389,
+      "text": "and jinn, it naturally leads to"
+    },
+    {
+      "source_segment_index": 390,
+      "text": "the possibility of an intimate relationship between them."
+    },
+    {
+      "source_segment_index": 391,
+      "text": "The main question is how this would happen. We are discussing"
+    },
+    {
+      "source_segment_index": 392,
+      "text": "two different worlds: humans are material beings, while jinn"
+    },
+    {
+      "source_segment_index": 393,
+      "text": "are from fire. In an earlier episode, I said"
+    },
+    {
+      "source_segment_index": 394,
+      "text": "we cannot understand precisely the nature"
+    },
+    {
+      "source_segment_index": 395,
+      "text": "of their bodies or how they were created from fire, and so on."
+    },
+    {
+      "source_segment_index": 396,
+      "text": "With two different worlds and natures, how could"
+    },
+    {
+      "source_segment_index": 397,
+      "text": "such a relationship occur? There are two ways. In the first,"
+    },
+    {
+      "source_segment_index": 398,
+      "text": "a male or female jinn takes bodily form"
+    },
+    {
+      "source_segment_index": 399,
+      "text": "as a human man or woman and enters our world"
+    },
+    {
+      "source_segment_index": 400,
+      "text": "to have this relationship with the targeted person."
+    },
+    {
+      "source_segment_index": 401,
+      "text": "Briefly, Imam al-Suyuti, in his book Laqt"
+    },
+    {
+      "source_segment_index": 402,
+      "text": "al-marjan fi ahkam al-jann, mentioned several stories of male"
+    },
+    {
+      "source_segment_index": 403,
+      "text": "jinn proposing to human women through"
+    },
+    {
+      "source_segment_index": 404,
+      "text": "their families. Questions were put to the sheikhs of that"
+    },
+    {
+      "source_segment_index": 405,
+      "text": "age, and all the rulings prohibited it.",
+      "review_notes": "Blanket claims about rulings and historical unanimity remain unverified; Laqt original edition is pending."
+    },
+    {
+      "source_segment_index": 406,
+      "text": "No one said it was impossible; they said"
+    },
+    {
+      "source_segment_index": 407,
+      "text": "the marriage was unlawful. The book also mentions"
+    },
+    {
+      "source_segment_index": 408,
+      "text": "female jinn appearing to men, followed by actual marriages."
+    },
+    {
+      "source_segment_index": 409,
+      "text": "But all these stories lack chains of transmission. They might"
+    },
+    {
+      "source_segment_index": 410,
+      "text": "be true, but appear to be legends. I also said earlier",
+      "review_notes": "Presenter qualifies the stories as lacking chains and apparently legendary; preserve alongside possibility claims."
+    },
+    {
+      "source_segment_index": 411,
+      "text": "that a jinn taking bodily form in our world requires",
+      "review_notes": "Embodiment-energy and duration claims are the speaker's hypothesis, not established physics."
+    },
+    {
+      "source_segment_index": 412,
+      "text": "a great deal of energy to enter"
+    },
+    {
+      "source_segment_index": 413,
+      "text": "this world, and does not last long: minutes or seconds,"
+    },
+    {
+      "source_segment_index": 414,
+      "text": "not hours. It consumes its energy and must"
+    },
+    {
+      "source_segment_index": 415,
+      "text": "return to its world. But in principle, nothing"
+    },
+    {
+      "source_segment_index": 416,
+      "text": "prevents this relationship from occurring, even if"
+    },
+    {
+      "source_segment_index": 417,
+      "text": "the bodily appearance lasts only minutes. In principle,"
+    },
+    {
+      "source_segment_index": 418,
+      "text": "nothing prevents a relationship during those minutes"
+    },
+    {
+      "source_segment_index": 419,
+      "text": "with a different kind of being that has taken"
+    },
+    {
+      "source_segment_index": 420,
+      "text": "our form. I have also heard stories"
+    },
+    {
+      "source_segment_index": 421,
+      "text": "from people I know about people they know,"
+    },
+    {
+      "source_segment_index": 422,
+      "text": "all trustworthy, God willing, describing"
+    },
+    {
+      "source_segment_index": 423,
+      "text": "physical contact between a human and a jinn that had taken"
+    },
+    {
+      "source_segment_index": 424,
+      "text": "human form, even embracing. Not a man"
+    },
+    {
+      "source_segment_index": 425,
+      "text": "embracing a woman: there was no question of love here. These"
+    },
+    {
+      "source_segment_index": 426,
+      "text": "are accounts I know and consider confirmed: when it takes bodily form,",
+      "review_notes": "Confirmed here translates the presenter's own confidence, not registry verification of testimony."
+    },
+    {
+      "source_segment_index": 427,
+      "text": "you can hold it,"
+    },
+    {
+      "source_segment_index": 428,
+      "text": "as though it were an ordinary person. But remember, this"
+    },
+    {
+      "source_segment_index": 429,
+      "text": "embodiment is very limited and consumes energy."
+    },
+    {
+      "source_segment_index": 430,
+      "text": "Could it lead to intercourse? It is possible"
+    },
+    {
+      "source_segment_index": 431,
+      "text": "in principle, but I have no account confirming",
+      "review_notes": "Essential negative testimony retained: presenter has no account confirming physical intercourse."
+    },
+    {
+      "source_segment_index": 432,
+      "text": "that it has happened. Now, suppose it appears"
+    },
+    {
+      "source_segment_index": 433,
+      "text": "to someone in its true form, or even"
+    },
+    {
+      "source_segment_index": 434,
+      "text": "in another form, visible only to the targeted"
+    },
+    {
+      "source_segment_index": 435,
+      "text": "person and resembling a shadow. We discussed this"
+    },
+    {
+      "source_segment_index": 436,
+      "text": "in detail in earlier episodes. In that case,"
+    },
+    {
+      "source_segment_index": 437,
+      "text": "physical contact does not occur. It is like a shadow, ghost"
+    },
+    {
+      "source_segment_index": 438,
+      "text": "or apparition, so intercourse cannot occur"
+    },
+    {
+      "source_segment_index": 439,
+      "text": "in that state; it must take bodily form. There is another question:"
+    },
+    {
+      "source_segment_index": 440,
+      "text": "can a jinn share in a man's intercourse"
+    },
+    {
+      "source_segment_index": 441,
+      "text": "with his wife? Some religious books mention this"
+    },
+    {
+      "source_segment_index": 442,
+      "text": "if the man does not invoke Allah's name—does not say 'Bismillah'—"
+    },
+    {
+      "source_segment_index": 443,
+      "text": "at intercourse. These are weak reports.",
+      "review_notes": "These unspecified weak reports must remain distinct from the sound protective supplication in Bukhari 141."
+    },
+    {
+      "source_segment_index": 444,
+      "text": "That is a separate subject; I mention it only"
+    },
+    {
+      "source_segment_index": 445,
+      "text": "as a reminder. The second possibility is that"
+    },
+    {
+      "source_segment_index": 446,
+      "text": "intercourse occurs in the world of spirits, either during"
+    },
+    {
+      "source_segment_index": 447,
+      "text": "meditation with drugs among people entering the world"
+    },
+    {
+      "source_segment_index": 448,
+      "text": "of energy practices, usually non-Muslims, or during"
+    },
+    {
+      "source_segment_index": 449,
+      "text": "dreams. These cases are confirmed [laughs]; there is no",
+      "review_notes": "Speaker calls these experiences confirmed; no independent clinical or supernatural-cause verification. Laughter marker retained from ASR."
+    },
+    {
+      "source_segment_index": 450,
+      "text": "disagreement about them. I also know people with accounts"
+    },
+    {
+      "source_segment_index": 451,
+      "text": "we will come to later. Can a person be"
+    },
+    {
+      "source_segment_index": 452,
+      "text": "raped by these beings, these jinn,"
+    },
+    {
+      "source_segment_index": 453,
+      "text": "in their dreams? Very briefly, the answer is that if"
+    },
+    {
+      "source_segment_index": 454,
+      "text": "they are non-Muslim and immersed in sin, they can be raped,",
+      "review_notes": "Speaker's claim concerning non-Muslims and sin; must not be adopted as editorial causation or victim blame."
+    },
+    {
+      "source_segment_index": 455,
+      "text": "yes; we will mention cases. If the person is Muslim,"
+    },
+    {
+      "source_segment_index": 456,
+      "text": "it is possible in principle, just as we say a Muslim woman may"
+    },
+    {
+      "source_segment_index": 457,
+      "text": "be raped by a wicked, immoral, unbelieving man."
+    },
+    {
+      "source_segment_index": 458,
+      "text": "Her Islam and faith do not necessarily protect her. A person can"
+    },
+    {
+      "source_segment_index": 459,
+      "text": "be killed, defrauded, robbed"
+    },
+    {
+      "source_segment_index": 460,
+      "text": "or raped even if devout, and be tested"
+    },
+    {
+      "source_segment_index": 461,
+      "text": "by that. It is a trial. So, in principle,"
+    },
+    {
+      "source_segment_index": 462,
+      "text": "and in real life, faith and Islam may not protect someone,"
+    },
+    {
+      "source_segment_index": 463,
+      "text": "although it may be more likely that Allah protects them"
+    },
+    {
+      "source_segment_index": 464,
+      "text": "and they are not harmed. But no text says faith"
+    },
+    {
+      "source_segment_index": 465,
+      "text": "will protect you. By the same reasoning, in principle,"
+    },
+    {
+      "source_segment_index": 466,
+      "text": "faith would not necessarily protect you against something",
+      "review_notes": "Disfluent ASR rendered as not necessarily protected, maintaining the preceding explicit statement that devout people can be assaulted."
+    },
+    {
+      "source_segment_index": 467,
+      "text": "like this in dreams. However, according to my information,"
+    },
+    {
+      "source_segment_index": 468,
+      "text": "the accounts I know from other people,"
+    },
+    {
+      "source_segment_index": 469,
+      "text": "specialists and ruqyah practitioners, there is not a single case"
+    },
+    {
+      "source_segment_index": 470,
+      "text": "happening in this way. A Muslim woman,"
+    },
+    {
+      "source_segment_index": 471,
+      "text": "even if she falls short in religious practice, simply by"
+    },
+    {
+      "source_segment_index": 472,
+      "text": "being Muslim has something protecting her in dreams",
+      "review_notes": "Protection claim is attributed speech based on contacts; it is not a scriptural guarantee. Article must preserve the prior limitation and avoid blaming victims."
+    },
+    {
+      "source_segment_index": 473,
+      "text": "from the enamoured jinn reaching the point of"
+    },
+    {
+      "source_segment_index": 474,
+      "text": "completed rape. But it will harass and hurt her, and so on."
+    },
+    {
+      "source_segment_index": 475,
+      "text": "Now I will tell some stories. Listen without"
+    },
+    {
+      "source_segment_index": 476,
+      "text": "being afraid; we listen only to understand and protect ourselves."
+    },
+    {
+      "source_segment_index": 477,
+      "text": "This is simply awareness. In the stories I mention,"
+    },
+    {
+      "source_segment_index": 478,
+      "text": "I will not reveal people's identities, of course, or disclose"
+    },
+    {
+      "source_segment_index": 479,
+      "text": "their secrets. The first concerns a widow. She is not"
+    },
+    {
+      "source_segment_index": 480,
+      "text": "young; she has children,"
+    },
+    {
+      "source_segment_index": 481,
+      "text": "but is not currently married. She comes from a respected"
+    },
+    {
+      "source_segment_index": 482,
+      "text": "family I know, and I know this is"
+    },
+    {
+      "source_segment_index": 483,
+      "text": "a trustworthy source. It is an older story, which I heard"
+    },
+    {
+      "source_segment_index": 484,
+      "text": "some time ago. For many years, she had nightmares."
+    },
+    {
+      "source_segment_index": 485,
+      "text": "She had not thought of seeking a sheikh's help because she believed"
+    },
+    {
+      "source_segment_index": 486,
+      "text": "it was not serious. Unfortunately, that is common."
+    },
+    {
+      "source_segment_index": 487,
+      "text": "Every few months she would have these dreams,"
+    },
+    {
+      "source_segment_index": 488,
+      "text": "and came to suspect that an enamoured jinn was targeting her."
+    },
+    {
+      "source_segment_index": 489,
+      "text": "But as I said, it did not trouble her much,"
+    },
+    {
+      "source_segment_index": 490,
+      "text": "so she tried to live with it, using Qur'an recitation, ruqyah,"
+    },
+    {
+      "source_segment_index": 491,
+      "text": "and so on. She did not approach a ruqyah practitioner"
+    },
+    {
+      "source_segment_index": 492,
+      "text": "to rid her of it permanently. I always say in"
+    },
+    {
+      "source_segment_index": 493,
+      "text": "my episodes that I am not a sheikh, counsellor or"
+    },
+    {
+      "source_segment_index": 494,
+      "text": "ruqyah practitioner, so I do not accept consultations"
+    },
+    {
+      "source_segment_index": 495,
+      "text": "about this. She knows that. But she said that after"
+    },
+    {
+      "source_segment_index": 496,
+      "text": "watching our episodes some months earlier about the world"
+    },
+    {
+      "source_segment_index": 497,
+      "text": "of jinn, affliction, the reality of magic and other subjects,"
+    },
+    {
+      "source_segment_index": 498,
+      "text": "she saw me in a dream, without intending or seeking"
+    },
+    {
+      "source_segment_index": 499,
+      "text": "to do so. In one dream, I appeared"
+    },
+    {
+      "source_segment_index": 500,
+      "text": "to her and tried to perform ruqyah for her. She said"
+    },
+    {
+      "source_segment_index": 501,
+      "text": "I began reciting it while she was aware,"
+    },
+    {
+      "source_segment_index": 502,
+      "text": "but did not finish. Then the devil that"
+    },
+    {
+      "source_segment_index": 503,
+      "text": "always targeted her appeared. That is why she contacted me,"
+    },
+    {
+      "source_segment_index": 504,
+      "text": "saying, 'I want you to finish the ruqyah"
+    },
+    {
+      "source_segment_index": 505,
+      "text": "you began in the dream.' I told her,"
+    },
+    {
+      "source_segment_index": 506,
+      "text": "'I do not know specific ruqyahs or practise them myself, but"
+    },
+    {
+      "source_segment_index": 507,
+      "text": "I have a collection of well-known ones available"
+    },
+    {
+      "source_segment_index": 508,
+      "text": "online. Search for them and you will find dozens"
+    },
+    {
+      "source_segment_index": 509,
+      "text": "of verses and remembrances everyone knows.'"
+    },
+    {
+      "source_segment_index": 510,
+      "text": "I told her to recite them and make sure to read Ayat"
+    },
+    {
+      "source_segment_index": 511,
+      "text": "al-Kursi before sleeping. We must bring reverence",
+      "review_notes": "Devotional advice in the narrated account is not proof of treatment efficacy. Energy terminology is the presenter's own self-correction."
+    },
+    {
+      "source_segment_index": 512,
+      "text": "and spiritual energy—or spiritual strength"
+    },
+    {
+      "source_segment_index": 513,
+      "text": "from faith—to its recitation. Not everyone"
+    },
+    {
+      "source_segment_index": 514,
+      "text": "who recites it receives its blessing with the same"
+    },
+    {
+      "source_segment_index": 515,
+      "text": "strength. You must be attentive and reflect on the verse"
+    },
+    {
+      "source_segment_index": 516,
+      "text": "while reading it, and sleep in a state of ablution, alongside ruqyah,"
+    },
+    {
+      "source_segment_index": 517,
+      "text": "reciting al-Baqarah, and so on. I also advised her"
+    },
+    {
+      "source_segment_index": 518,
+      "text": "to find a practitioner in her own country to perform ruqyah"
+    },
+    {
+      "source_segment_index": 519,
+      "text": "in person. Reading alone might not be enough."
+    },
+    {
+      "source_segment_index": 520,
+      "text": "It may suffice for some people, but not others. She said"
+    },
+    {
+      "source_segment_index": 521,
+      "text": "she knew no one in her country, so we needed"
+    },
+    {
+      "source_segment_index": 522,
+      "text": "a quick solution. Strikingly, immediately after"
+    },
+    {
+      "source_segment_index": 523,
+      "text": "I gave her these recitations, the devil's attacks"
+    },
+    {
+      "source_segment_index": 524,
+      "text": "intensified. Instead of coming every few"
+    },
+    {
+      "source_segment_index": 525,
+      "text": "months, it now came every day, targeting her"
+    },
+    {
+      "source_segment_index": 526,
+      "text": "in quick succession, even though she had already begun"
+    },
+    {
+      "source_segment_index": 527,
+      "text": "ruqyah, but only lightly. The next day she discovered,"
+    },
+    {
+      "source_segment_index": 528,
+      "text": "and told me, 'They are a gang.' One devil"
+    },
+    {
+      "source_segment_index": 529,
+      "text": "was targeting her personally, out of attachment, with a group"
+    },
+    {
+      "source_segment_index": 530,
+      "text": "of others. There was a definite number, the same each day,"
+    },
+    {
+      "source_segment_index": 531,
+      "text": "but they appeared in different forms: dogs, mice,"
+    },
+    {
+      "source_segment_index": 532,
+      "text": "and others, sometimes dwarf-like figures. She began reading"
+    },
+    {
+      "source_segment_index": 533,
+      "text": "more Qur'an. In a dream, it appeared in this"
+    },
+    {
+      "source_segment_index": 534,
+      "text": "way and tried to approach. She recited Qur'an"
+    },
+    {
+      "source_segment_index": 535,
+      "text": "in the dream and it fled. The following day,"
+    },
+    {
+      "source_segment_index": 536,
+      "text": "it appeared as an ugly dwarf-like figure. Here is the crucial point:"
+    },
+    {
+      "source_segment_index": 537,
+      "text": "that night, it actually tried to rape her. What happened"
+    },
+    {
+      "source_segment_index": 538,
+      "text": "was what people commonly experience during sleep paralysis",
+      "review_notes": "الجاثوم rendered sleep paralysis; this is translation of the described state, not diagnosis of this woman or proof of the presenter's explanation."
+    },
+    {
+      "source_segment_index": 539,
+      "text": "or a nightmare: a kind of numbness. The person is"
+    },
+    {
+      "source_segment_index": 540,
+      "text": "aware and feels everything as though it were real."
+    },
+    {
+      "source_segment_index": 541,
+      "text": "She could not move; unfortunately, she could not even"
+    },
+    {
+      "source_segment_index": 542,
+      "text": "recite Qur'an. It seems it sensed—or knew—that"
+    },
+    {
+      "source_segment_index": 543,
+      "text": "she had become alert to the threat and was reciting"
+    },
+    {
+      "source_segment_index": 544,
+      "text": "ruqyah. As we said, she had begun reading more than before."
+    },
+    {
+      "source_segment_index": 545,
+      "text": "So it wanted to seize the opportunity however it could,"
+    },
+    {
+      "source_segment_index": 546,
+      "text": "and do as much as possible after targeting her"
+    },
+    {
+      "source_segment_index": 547,
+      "text": "for years. She became rigid, unable"
+    },
+    {
+      "source_segment_index": 548,
+      "text": "to move. It tried to rape her but could not remove"
+    },
+    {
+      "source_segment_index": 549,
+      "text": "her clothes. This is faith, as we said:",
+      "review_notes": "Faith-protection inference is the presenter's interpretation of anonymous testimony, not an independently established outcome."
+    },
+    {
+      "source_segment_index": 550,
+      "text": "in this situation, it cannot get closer to"
+    },
+    {
+      "source_segment_index": 551,
+      "text": "a believing woman than that. So it tried to carry out the act while"
+    },
+    {
+      "source_segment_index": 552,
+      "text": "she remained clothed. The point is that she saw"
+    },
+    {
+      "source_segment_index": 553,
+      "text": "the fluid it discharged on her clothes, then"
+    },
+    {
+      "source_segment_index": 554,
+      "text": "woke up. There was no trace of the fluid, because"
+    },
+    {
+      "source_segment_index": 555,
+      "text": "this was in the world of spirits, but she felt"
+    },
+    {
+      "source_segment_index": 556,
+      "text": "the entire experience. At this point we intensified"
+    },
+    {
+      "source_segment_index": 557,
+      "text": "the treatment. Unfortunately, there was no sheikh to perform ruqyah.",
+      "review_notes": "ASR كانان unclear filler omitted after coherent clause; audio review required."
+    },
+    {
+      "source_segment_index": 558,
+      "text": "Of course, she was in a very difficult"
+    },
+    {
+      "source_segment_index": 559,
+      "text": "psychological state. The solution was to intensify"
+    },
+    {
+      "source_segment_index": 560,
+      "text": "our efforts. I was viewing the situation positively:"
+    },
+    {
+      "source_segment_index": 561,
+      "text": "this was the most the jinn,"
+    },
+    {
+      "source_segment_index": 562,
+      "text": "the devil, could do, and the spiritual strength of faith protected her"
+    },
+    {
+      "source_segment_index": 563,
+      "text": "from anything more."
+    },
+    {
+      "source_segment_index": 564,
+      "text": "I asked her to play a recitation of Surat",
+      "review_notes": "The forty-day oil/recording programme is translated as advice within the account. Its efficacy and exact religious basis are not independently established; do not publish as medical or guaranteed devotional treatment."
+    },
+    {
+      "source_segment_index": 565,
+      "text": "al-Baqarah in her bedroom throughout the night so that it could not"
+    },
+    {
+      "source_segment_index": 566,
+      "text": "approach, and to recite ruqyah over"
+    },
+    {
+      "source_segment_index": 567,
+      "text": "oil. You can look up the familiar oils online"
+    },
+    {
+      "source_segment_index": 568,
+      "text": "and ask practitioners. There is a specific programme:"
+    },
+    {
+      "source_segment_index": 569,
+      "text": "recitation over oil, then applying it to certain places"
+    },
+    {
+      "source_segment_index": 570,
+      "text": "on the body and continuing with that"
+    },
+    {
+      "source_segment_index": 571,
+      "text": "treatment programme for forty days. The next"
+    },
+    {
+      "source_segment_index": 572,
+      "text": "day, it did appear, although the Qur'an was playing,"
+    },
+    {
+      "source_segment_index": 573,
+      "text": "but at a distance, in the form of a dog, unable"
+    },
+    {
+      "source_segment_index": 574,
+      "text": "to touch her. The following day, it appeared"
+    },
+    {
+      "source_segment_index": 575,
+      "text": "again in its sinister form, far away,"
+    },
+    {
+      "source_segment_index": 576,
+      "text": "unable even to approach, let alone touch her. Then, according"
+    },
+    {
+      "source_segment_index": 577,
+      "text": "to what she told me, it stopped appearing altogether. She",
+      "review_notes": "Reported resolution is the woman's account relayed by the presenter, not an independent outcome assessment."
+    },
+    {
+      "source_segment_index": 578,
+      "text": "continued the treatment, and the matter ended,"
+    },
+    {
+      "source_segment_index": 579,
+      "text": "by Allah's grace. Now the second story: another sister,"
+    },
+    {
+      "source_segment_index": 580,
+      "text": "forty years old, told me that throughout"
+    },
+    {
+      "source_segment_index": 581,
+      "text": "her life, whenever an engagement was arranged, strange"
+    },
+    {
+      "source_segment_index": 582,
+      "text": "and extraordinary things happened and it did not work out. Only once"
+    },
+    {
+      "source_segment_index": 583,
+      "text": "did she marry, and that marriage lasted no more than a few"
+    },
+    {
+      "source_segment_index": 584,
+      "text": "months. She was certain there had been an enamoured jinn"
+    },
+    {
+      "source_segment_index": 585,
+      "text": "since her youth, around twenty years earlier. One of the strangest"
+    },
+    {
+      "source_segment_index": 586,
+      "text": "stories concerns an engagement that was close"
+    },
+    {
+      "source_segment_index": 587,
+      "text": "to being finalized. Someone appeared to her in human form,"
+    },
+    {
+      "source_segment_index": 588,
+      "text": "in a dream, and said that her intended fiancé"
+    },
+    {
+      "source_segment_index": 589,
+      "text": "had certain faults, describing them in detail. She said"
+    },
+    {
+      "source_segment_index": 590,
+      "text": "he disclosed very personal secrets about him. When"
+    },
+    {
+      "source_segment_index": 591,
+      "text": "she confronted her new fiancé, he was extremely surprised"
+    },
+    {
+      "source_segment_index": 592,
+      "text": "and said, 'No one knows these things about me.' How"
+    },
+    {
+      "source_segment_index": 593,
+      "text": "did it know? Devils know one another;",
+      "review_notes": "Following qarin/spying explanation is the presenter's proposed mechanism; no independent investigation of the secrets or cause."
+    },
+    {
+      "source_segment_index": 594,
+      "text": "spying may occur. This devil may"
+    },
+    {
+      "source_segment_index": 595,
+      "text": "have reached that man's qarin and learned"
+    },
+    {
+      "source_segment_index": 596,
+      "text": "things that could drive him away from her. The enamoured jinn's"
+    },
+    {
+      "source_segment_index": 597,
+      "text": "aim was for this woman to remain exclusively its own,"
+    },
+    {
+      "source_segment_index": 598,
+      "text": "never marrying a human. She told me she experienced"
+    },
+    {
+      "source_segment_index": 599,
+      "text": "the familiar symptoms of affliction and protected herself with the Qur'an,"
+    },
+    {
+      "source_segment_index": 600,
+      "text": "regularly remembering Allah. Consequently, it appeared"
+    },
+    {
+      "source_segment_index": 601,
+      "text": "only occasionally and tried to approach, but nothing"
+    },
+    {
+      "source_segment_index": 602,
+      "text": "serious happened, praise be to Allah. She said, however,"
+    },
+    {
+      "source_segment_index": 603,
+      "text": "that at one point she loved a man without"
+    },
+    {
+      "source_segment_index": 604,
+      "text": "him knowing it. The jinn appeared to her"
+    },
+    {
+      "source_segment_index": 605,
+      "text": "in that man's form to seduce her and get close."
+    },
+    {
+      "source_segment_index": 606,
+      "text": "The question is: how did it know? How did it know"
+    },
+    {
+      "source_segment_index": 607,
+      "text": "she loved that particular man? It does not know what is in",
+      "review_notes": "Claims about knowledge of hearts are translated as the speaker's argument; no new source verification in this translation pass."
+    },
+    {
+      "source_segment_index": 608,
+      "text": "a person's heart. Allah does not reveal what is in our hearts to jinn,"
+    },
+    {
+      "source_segment_index": 609,
+      "text": "even a qarin. Through spying"
+    },
+    {
+      "source_segment_index": 610,
+      "text": "and constantly accompanying someone,"
+    },
+    {
+      "source_segment_index": 611,
+      "text": "it can discover what they like through"
+    },
+    {
+      "source_segment_index": 612,
+      "text": "what they read. Perhaps this woman,"
+    },
+    {
+      "source_segment_index": 613,
+      "text": "for example, was following the young man and reading his posts"
+    },
+    {
+      "source_segment_index": 614,
+      "text": "on social media. It realized she was attached to him,"
+    },
+    {
+      "source_segment_index": 615,
+      "text": "interested in him, and tried to appear to her"
+    },
+    {
+      "source_segment_index": 616,
+      "text": "in his form. There is a third story, without an intimate"
+    },
+    {
+      "source_segment_index": 617,
+      "text": "relationship, but useful to mention. One of"
+    },
+    {
+      "source_segment_index": 618,
+      "text": "my friends called me one day,"
+    },
+    {
+      "source_segment_index": 619,
+      "text": "years ago, and said his married sister"
+    },
+    {
+      "source_segment_index": 620,
+      "text": "had suddenly become tense and irritable, unable"
+    },
+    {
+      "source_segment_index": 621,
+      "text": "to approach her husband or bear his approaching"
+    },
+    {
+      "source_segment_index": 622,
+      "text": "her. This is very familiar and is also accompanied"
+    },
+    {
+      "source_segment_index": 623,
+      "text": "by affliction and its symptoms: heaviness in the limbs,"
+    },
+    {
+      "source_segment_index": 624,
+      "text": "difficulty praying. I immediately recommended a practitioner.",
+      "review_notes": "Anecdotal single-session ruqyah result does not establish diagnosis or treatment efficacy. Advice at 626–629 is attributed speech, not editorial medical guidance."
+    },
+    {
+      "source_segment_index": 625,
+      "text": "In one day, one session, he recited over her and"
+    },
+    {
+      "source_segment_index": 626,
+      "text": "the matter ended. So I stress that anyone experiencing these"
+    },
+    {
+      "source_segment_index": 627,
+      "text": "symptoms should not delay, simply live with them, or despair,"
+    },
+    {
+      "source_segment_index": 628,
+      "text": "even after twenty years. Begin seeking a solution"
+    },
+    {
+      "source_segment_index": 629,
+      "text": "and treatment now. Let us turn to Islamic sources."
+    },
+    {
+      "source_segment_index": 630,
+      "text": "Can a marital union occur? As we know,"
+    },
+    {
+      "source_segment_index": 631,
+      "text": "an intimate relationship is lawful only within marriage. Some",
+      "review_notes": "Arabic says intimacy is only through marriage; lawful added to express the normative meaning without suggesting extra-marital acts cannot occur."
+    },
+    {
+      "source_segment_index": 632,
+      "text": "scholars have indeed mentioned the possibility of"
+    },
+    {
+      "source_segment_index": 633,
+      "text": "such a relationship between the two kinds. They cite the verse"
+    },
+    {
+      "source_segment_index": 634,
+      "text": "about sharing in their wealth and children.",
+      "review_notes": "Qur'an 17:64, original translation of the excerpt as spoken; independent locator already recorded in episode-05 registry."
+    },
+    {
+      "source_segment_index": 635,
+      "text": "These are Allah's words addressed to Iblis. Some"
+    },
+    {
+      "source_segment_index": 636,
+      "text": "infer that Satan can share with humans"
+    },
+    {
+      "source_segment_index": 637,
+      "text": "in their children, but I do not consider this conclusive"
+    },
+    {
+      "source_segment_index": 638,
+      "text": "evidence, and some scholars agree."
+    },
+    {
+      "source_segment_index": 639,
+      "text": "Others cite the verse describing those untouched by any human",
+      "review_notes": "Qur'an 55:56, also repeated clause in 55:74; no independent assertion here that Paradise permits earthly intermarriage."
+    },
+    {
+      "source_segment_index": 640,
+      "text": "or jinn before them. Ibn al-Jawzi says it indicates"
+    },
+    {
+      "source_segment_index": 641,
+      "text": "that a jinn may have intercourse with a human woman."
+    },
+    {
+      "source_segment_index": 642,
+      "text": "But the verse clearly concerns the companions of Paradise,"
+    },
+    {
+      "source_segment_index": 643,
+      "text": "who may be touched by humans or jinn. We"
+    },
+    {
+      "source_segment_index": 644,
+      "text": "also know—or consider it likely—that"
+    },
+    {
+      "source_segment_index": 645,
+      "text": "jinn and humans will see one another in Paradise.",
+      "review_notes": "Presenter starts confidently then qualifies as probable in cue 644; preserve that qualification."
+    },
+    {
+      "source_segment_index": 646,
+      "text": "They will be similar, if not in the same"
+    },
+    {
+      "source_segment_index": 647,
+      "text": "form; one kind will not be hidden from the other."
+    },
+    {
+      "source_segment_index": 648,
+      "text": "So, Allah knows best, this verse does not establish"
+    },
+    {
+      "source_segment_index": 649,
+      "text": "the intended point either. We also have the well-known ruling"
+    },
+    {
+      "source_segment_index": 650,
+      "text": "from Ibn Taymiyyah's fatawa, mentioned earlier:"
+    },
+    {
+      "source_segment_index": 651,
+      "text": "humans and jinn may intermarry and have children together;"
+    },
+    {
+      "source_segment_index": 652,
+      "text": "this is frequent and known, and scholars have mentioned"
+    },
+    {
+      "source_segment_index": 653,
+      "text": "and discussed it, and so on."
+    },
+    {
+      "source_segment_index": 654,
+      "text": "We will discuss childbirth. But Ibn Taymiyyah's statement here"
+    },
+    {
+      "source_segment_index": 655,
+      "text": "may derive not from revealed texts, but from scholars'"
+    },
+    {
+      "source_segment_index": 656,
+      "text": "accounts. Once again, we are discussing possibility,"
+    },
+    {
+      "source_segment_index": 657,
+      "text": "not the legal ruling. As for the Islamic ruling"
+    },
+    {
+      "source_segment_index": 658,
+      "text": "on marriage, there are further distinctions. From The World of Jinn"
+    },
+    {
+      "source_segment_index": 659,
+      "text": "by Sheikh Umar al-Ashqar, I quote Imam Malik, may Allah",
+      "review_notes": "Malik attribution is quoted through al-Ashqar; original transmission not independently checked. Book title follows the abbreviated title spoken here."
+    },
+    {
+      "source_segment_index": 660,
+      "text": "have mercy on him: there is no evidence prohibiting intermarriage with"
+    },
+    {
+      "source_segment_index": 661,
+      "text": "jinn, but I do not favour it, because I dislike the prospect"
+    },
+    {
+      "source_segment_index": 662,
+      "text": "of a woman being found pregnant and asked,"
+    },
+    {
+      "source_segment_index": 663,
+      "text": "'Who is your husband?' and replying, 'A jinn,' allowing corruption to spread."
+    },
+    {
+      "source_segment_index": 664,
+      "text": "He also says it was disliked by al-Hakam ibn Utaybah, Qatadah,"
+    },
+    {
+      "source_segment_index": 665,
+      "text": "al-Hasan, Uqbah al-Asamm, Ishaq ibn Rahawayh,",
+      "review_notes": "Early-authority names follow identified spellings in registry; Uqbah al-Asamm attribution and original passages remain pending."
+    },
+    {
+      "source_segment_index": 666,
+      "text": "and others. When these scholars say"
+    },
+    {
+      "source_segment_index": 667,
+      "text": "they dislike something, the term often means"
+    },
+    {
+      "source_segment_index": 668,
+      "text": "prohibition. Imam Ahmad explicitly prohibited it."
+    },
+    {
+      "source_segment_index": 669,
+      "text": "Al-Suyuti also has an entire chapter in Laqt al-marjan",
+      "review_notes": "Original Laqt chapter and specific rulings not yet inspected."
+    },
+    {
+      "source_segment_index": 670,
+      "text": "on the possibility of marriage and its legal"
+    },
+    {
+      "source_segment_index": 671,
+      "text": "ruling, quoting scholars who prohibited it. It includes"
+    },
+    {
+      "source_segment_index": 672,
+      "text": "several accounts of questions put to scholars,"
+    },
+    {
+      "source_segment_index": 673,
+      "text": "as we mentioned, about a male jinn proposing to"
+    },
+    {
+      "source_segment_index": 674,
+      "text": "a family's daughter. The scholars' rulings prohibit it."
+    },
+    {
+      "source_segment_index": 675,
+      "text": "Notice, as an aside, that when"
+    },
+    {
+      "source_segment_index": 676,
+      "text": "the Muslim community was psychologically and civilizationally at ease,"
+    },
+    {
+      "source_segment_index": 677,
+      "text": "it was perfectly normal to discuss these subjects in books and bring"
+    },
+    {
+      "source_segment_index": 678,
+      "text": "questions to scholars. Imam al-Suyuti himself"
+    },
+    {
+      "source_segment_index": 679,
+      "text": "felt no difficulty reporting these accounts,"
+    },
+    {
+      "source_segment_index": 680,
+      "text": "even legends and unconfirmed narratives."
+    },
+    {
+      "source_segment_index": 681,
+      "text": "Today, because we are in a state of civilizational weakness,"
+    },
+    {
+      "source_segment_index": 682,
+      "text": "with a dominant culture imported from"
+    },
+    {
+      "source_segment_index": 683,
+      "text": "the West and a sense of inferiority, even when"
+    },
+    {
+      "source_segment_index": 684,
+      "text": "we find these accounts and narratives in books,"
+    },
+    {
+      "source_segment_index": 685,
+      "text": "many preachers feel embarrassed to transmit or"
+    },
+    {
+      "source_segment_index": 686,
+      "text": "read them. If they are mentioned, someone immediately says,"
+    },
+    {
+      "source_segment_index": 687,
+      "text": "'These are legends! Satan's role is only"
+    },
+    {
+      "source_segment_index": 688,
+      "text": "whispering, and magic is merely illusion,' and so"
+    },
+    {
+      "source_segment_index": 689,
+      "text": "on. Back to the books: Sheikh Wali Zar ibn"
+    },
+    {
+      "source_segment_index": 690,
+      "text": "Shah al-Din, in al-Jinn fi al-Qur'an wa-l-Sunnah,"
+    },
+    {
+      "source_segment_index": 691,
+      "text": "which was his doctoral dissertation, says on page 206:",
+      "review_notes": "Dissertation origin and quoted p. 206 remain unverified against the original book; bibliographic identity alone does not certify quotation."
+    },
+    {
+      "source_segment_index": 692,
+      "text": "as a matter of actual possibility, everyone has allowed that"
+    },
+    {
+      "source_segment_index": 693,
+      "text": "it could occur, meaning marriage. Since"
+    },
+    {
+      "source_segment_index": 694,
+      "text": "the texts are not conclusive in permitting or prohibiting it,"
+    },
+    {
+      "source_segment_index": 695,
+      "text": "we incline to the view that it is not lawful. Sheikh"
+    },
+    {
+      "source_segment_index": 696,
+      "text": "al-Dedew, in the episode on jinn and magic mentioned"
+    },
+    {
+      "source_segment_index": 697,
+      "text": "earlier, said some scholars allowed marriage"
+    },
+    {
+      "source_segment_index": 698,
+      "text": "between a human man and a female jinn but prohibited the reverse. However,"
+    },
+    {
+      "source_segment_index": 699,
+      "text": "in my research, I found no one who permitted it. In summary,",
+      "review_notes": "Presenter explicitly could not locate the permissive authority; preserve this limit beside near-unanimity claims."
+    },
+    {
+      "source_segment_index": 700,
+      "text": "almost all the preceding opinions speak of"
+    },
+    {
+      "source_segment_index": 701,
+      "text": "prohibition. This, of course, confirms the possibility of intermarriage",
+      "review_notes": "Inference from prohibition to possibility is the presenter's reasoning, not independent proof of occurrence."
+    },
+    {
+      "source_segment_index": 702,
+      "text": "between jinn and humans. Those who prohibit it—almost"
+    },
+    {
+      "source_segment_index": 703,
+      "text": "all scholars—give four reasons, which I will summarize."
+    },
+    {
+      "source_segment_index": 704,
+      "text": "First, marriage was prescribed for humans to achieve"
+    },
+    {
+      "source_segment_index": 705,
+      "text": "companionship, affection and stability. That cannot be achieved"
+    },
+    {
+      "source_segment_index": 706,
+      "text": "in a marriage between a human and a jinn. Allah"
+    },
+    {
+      "source_segment_index": 707,
+      "text": "says He has made spouses for you from among yourselves;",
+      "review_notes": "Qur'an 16:72 followed by 30:21, original English rendering of excerpts as spoken."
+    },
+    {
+      "source_segment_index": 708,
+      "text": "and among His signs is that He created spouses for you from among yourselves"
+    },
+    {
+      "source_segment_index": 709,
+      "text": "so that you may find tranquillity with them. Second,"
+    },
+    {
+      "source_segment_index": 710,
+      "text": "a human man marrying a female jinn cannot establish"
+    },
+    {
+      "source_segment_index": 711,
+      "text": "that she is free of impediments to marriage; the details are familiar."
+    },
+    {
+      "source_segment_index": 712,
+      "text": "Third, even if we accept what"
+    },
+    {
+      "source_segment_index": 713,
+      "text": "Sheikh al-Dedew said about some permitting a human"
+    },
+    {
+      "source_segment_index": 714,
+      "text": "man to marry a female jinn, but not the reverse, they say"
+    },
+    {
+      "source_segment_index": 715,
+      "text": "a human man cannot exercise authority over his wife"
+    },
+    {
+      "source_segment_index": 716,
+      "text": "and fulfil his qiwamah toward her, nor can he see her in all",
+      "review_notes": "Qiwamah retained as a legal term for marital responsibility/authority. Exact application to this hypothetical case remains attributed argument."
+    },
+    {
+      "source_segment_index": 717,
+      "text": "her circumstances. Fourth, such"
+    },
+    {
+      "source_segment_index": 718,
+      "text": "a marriage between the two may lead to confusion"
+    },
+    {
+      "source_segment_index": 719,
+      "text": "of lineage, as we mentioned in the report from Imam Malik."
+    },
+    {
+      "source_segment_index": 720,
+      "text": "One final point in this section: there is another idea"
+    },
+    {
+      "source_segment_index": 721,
+      "text": "we must touch on. If intercourse"
+    },
+    {
+      "source_segment_index": 722,
+      "text": "occurs between beings of these two worlds, it involves one absorbing"
+    },
+    {
+      "source_segment_index": 723,
+      "text": "the other's energy, or spiritual strength."
+    },
+    {
+      "source_segment_index": 724,
+      "text": "A human may obtain energy from them, or"
+    },
+    {
+      "source_segment_index": 725,
+      "text": "the reverse may happen. This is very well known among"
+    },
+    {
+      "source_segment_index": 726,
+      "text": "devil-worshippers. Aleister Crowley, one of the best-known sorcerers",
+      "review_notes": "Crowley labels and following sexual-energy interpretation are the presenter's characterization. No exact Crowley title/page or named controlled experiment is supplied."
+    },
+    {
+      "source_segment_index": 727,
+      "text": "and devil-worshippers of the twentieth century, spoke openly"
+    },
+    {
+      "source_segment_index": 728,
+      "text": "in his books about the moment of climax during intercourse,"
+    },
+    {
+      "source_segment_index": 729,
+      "text": "the orgasm, also being a state of lost consciousness:"
+    },
+    {
+      "source_segment_index": 730,
+      "text": "a transition to another, different state"
+    },
+    {
+      "source_segment_index": 731,
+      "text": "of awareness, a moment of spiritual illumination,"
+    },
+    {
+      "source_segment_index": 732,
+      "text": "through union with devils, of course. Some groups of"
+    },
+    {
+      "source_segment_index": 733,
+      "text": "devil-worshippers say this explicitly too. I am sorry"
+    },
+    {
+      "source_segment_index": 734,
+      "text": "to speak so frankly about this subject: they practise"
+    },
+    {
+      "source_segment_index": 735,
+      "text": "group sex—Allah protect us—as"
+    },
+    {
+      "source_segment_index": 736,
+      "text": "a ritual. It also involves a kind of"
+    },
+    {
+      "source_segment_index": 737,
+      "text": "offering to devils and drawing on"
+    },
+    {
+      "source_segment_index": 738,
+      "text": "the vital energy arising at climax."
+    },
+    {
+      "source_segment_index": 739,
+      "text": "There are further details. Some also say—and this"
+    },
+    {
+      "source_segment_index": 740,
+      "text": "I have read often—that when they reach",
+      "review_notes": "Unnamed occult sources; these are translated claims, not independently checked reports or established mechanisms."
+    },
+    {
+      "source_segment_index": 741,
+      "text": "climax, they clearly feel a state of takeover."
+    },
+    {
+      "source_segment_index": 742,
+      "text": "I am not referring here simply to affliction or possession, but takeover:"
+    },
+    {
+      "source_segment_index": 743,
+      "text": "the devil takes control of a person's body,"
+    },
+    {
+      "source_segment_index": 744,
+      "text": "and the person feels it clearly. There are further details. Incidentally,"
+    },
+    {
+      "source_segment_index": 745,
+      "text": "devil-worshippers enjoy this takeover."
+    },
+    {
+      "source_segment_index": 746,
+      "text": "Why does it torment us Muslims? Someone afflicted"
+    },
+    {
+      "source_segment_index": 747,
+      "text": "goes to sheikhs for treatment, and their life becomes"
+    },
+    {
+      "source_segment_index": 748,
+      "text": "hell because they cannot pray, because they are Muslim,"
+    },
+    {
+      "source_segment_index": 749,
+      "text": "and a devil has taken over. But when the person is"
+    },
+    {
+      "source_segment_index": 750,
+      "text": "an unbeliever, a human devil taken over by a devil"
+    },
+    {
+      "source_segment_index": 751,
+      "text": "from the jinn, both enjoy one another."
+    },
+    {
+      "source_segment_index": 752,
+      "text": "There are also satanic rituals I do not want to name, found"
+    },
+    {
+      "source_segment_index": 753,
+      "text": "in pagan religions,"
+    },
+    {
+      "source_segment_index": 754,
+      "text": "which are still practised. Unfortunately, I have read",
+      "review_notes": "Presenter withholds names of rituals and references; no identities or additional practical steps supplied in translation."
+    },
+    {
+      "source_segment_index": 755,
+      "text": "in some references that some also exist in rural"
+    },
+    {
+      "source_segment_index": 756,
+      "text": "and working-class areas of Muslim countries. They have"
+    },
+    {
+      "source_segment_index": 757,
+      "text": "names I will not mention, so no one searches for them."
+    },
+    {
+      "source_segment_index": 758,
+      "text": "Unfortunately, Muslim women practise them, or women who identify"
+    },
+    {
+      "source_segment_index": 759,
+      "text": "with Islam but are ignorant, in an environment of religious ignorance."
+    },
+    {
+      "source_segment_index": 760,
+      "text": "Very briefly, the woman undresses and performs rituals"
+    },
+    {
+      "source_segment_index": 761,
+      "text": "resembling magic, although usually not reaching the point"
+    },
+    {
+      "source_segment_index": 762,
+      "text": "where she recognizes them as disbelief."
+    },
+    {
+      "source_segment_index": 763,
+      "text": "It is as though she gives spirits access to herself, drawing on"
+    },
+    {
+      "source_segment_index": 764,
+      "text": "the energy of the stars, as the 'spiritual healer'—actually"
+    },
+    {
+      "source_segment_index": 765,
+      "text": "a sorcerer—tells her. She does disastrous things. In other cases,"
+    },
+    {
+      "source_segment_index": 766,
+      "text": "as I have read, she does what a sorcerer does: desecrating"
+    },
+    {
+      "source_segment_index": 767,
+      "text": "the Qur'an, using menstrual blood, and these familiar, disgusting practices."
+    },
+    {
+      "source_segment_index": 768,
+      "text": "The point is that she may sometimes feel"
+    },
+    {
+      "source_segment_index": 769,
+      "text": "a spirit actually doing something to her, even if"
+    },
+    {
+      "source_segment_index": 770,
+      "text": "not full intercourse: sexual interference may occur."
+    },
+    {
+      "source_segment_index": 771,
+      "text": "She may feel nothing, but even then she has given"
+    },
+    {
+      "source_segment_index": 772,
+      "text": "the devil access to herself, allowing it to do as it wishes,"
+    },
+    {
+      "source_segment_index": 773,
+      "text": "while believing she is drawing energy from the stars"
+    },
+    {
+      "source_segment_index": 774,
+      "text": "and will become closer to her husband, as the so-called"
+    },
+    {
+      "source_segment_index": 775,
+      "text": "spiritual healer, the sorcerer, tells her, and so on. Allah"
+    },
+    {
+      "source_segment_index": 776,
+      "text": "protect us."
+    },
+    {
+      "source_segment_index": 777,
+      "text": "Now the third question: if love"
+    },
+    {
+      "source_segment_index": 778,
+      "text": "and intercourse are possible, can they lead to pregnancy"
+    },
+    {
+      "source_segment_index": 779,
+      "text": "and childbirth? The possibility has been disputed",
+      "review_notes": "ASR وبلاده read as وولادة, childbirth."
+    },
+    {
+      "source_segment_index": 780,
+      "text": "in our Islamic history. The first view says it"
+    },
+    {
+      "source_segment_index": 781,
+      "text": "is possible. This is Ibn Taymiyyah's view, quoted earlier:"
+    },
+    {
+      "source_segment_index": 782,
+      "text": "humans and jinn may intermarry and have children together;"
+    },
+    {
+      "source_segment_index": 783,
+      "text": "this is frequent and known, and scholars have mentioned"
+    },
+    {
+      "source_segment_index": 784,
+      "text": "and discussed it. I have not found which scholars"
+    },
+    {
+      "source_segment_index": 785,
+      "text": "mentioned it. We also have al-Suyuti, may Allah have mercy on him,"
+    },
+    {
+      "source_segment_index": 786,
+      "text": "saying in Laqt al-marjan that it is said—"
+    },
+    {
+      "source_segment_index": 787,
+      "text": "that is, some say—it is impossible, but the truth is that it is possible. He then"
+    },
+    {
+      "source_segment_index": 788,
+      "text": "quotes al-Tha'labi on the possibility of childbirth.",
+      "review_notes": "ASR الثعالبي rendered provisionally al-Tha'labi following prior research lead. Exact name/edition requires audiovisual and original-page confirmation."
+    },
+    {
+      "source_segment_index": 789,
+      "text": "I found only al-Suyuti and al-Tha'labi, and Allah knows best."
+    },
+    {
+      "source_segment_index": 790,
+      "text": "But the subsequent material he mentions is closer"
+    },
+    {
+      "source_segment_index": 791,
+      "text": "to legend. Everything he cites about possibility is either"
+    },
+    {
+      "source_segment_index": 792,
+      "text": "an unsound report about a devil sharing in"
+    },
+    {
+      "source_segment_index": 793,
+      "text": "a man's intercourse with his wife if he does not invoke Allah's name,"
+    },
+    {
+      "source_segment_index": 794,
+      "text": "or concerns intercourse rather than pregnancy and childbirth."
+    },
+    {
+      "source_segment_index": 795,
+      "text": "There is also a hadith attributed to Aishah in which the Prophet,"
+    },
+    {
+      "source_segment_index": 796,
+      "text": "peace and blessings be upon him, asks whether al-mugharribun have been seen among them.",
+      "review_notes": "Report identified previously as Abu Dawud 5107, with displayed weak-chain grading; translation does not authenticate the report."
+    },
+    {
+      "source_segment_index": 797,
+      "text": "She asks, may Allah be pleased with her, 'Who are al-mugharribun?'"
+    },
+    {
+      "source_segment_index": 798,
+      "text": "He replies that they are those in whom the jinn have a share. This hadith is weak,"
+    },
+    {
+      "source_segment_index": 799,
+      "text": "not established. There is also an account about Dhu al-Thudayyah,"
+    },
+    {
+      "source_segment_index": 800,
+      "text": "whom the Prophet, peace and blessings be upon him, described as later being among"
+    },
+    {
+      "source_segment_index": 801,
+      "text": "the Kharijites who fought Ali ibn Abi"
+    },
+    {
+      "source_segment_index": 802,
+      "text": "Talib, may Allah be pleased with him, and whom Ali killed. He had a physical deformity.",
+      "review_notes": "ASR assigns killing to Ali; retain speaker's shorthand, not a verified claim of personally killing the man."
+    },
+    {
+      "source_segment_index": 803,
+      "text": "The unestablished, very weak account says"
+    },
+    {
+      "source_segment_index": 804,
+      "text": "his mother was asked who his father was, because he looked transformed,",
+      "review_notes": "ASR says من هذا, who is this; contextual rendering asks parentage. Weak narrative, audio and original chain remain pending."
+    },
+    {
+      "source_segment_index": 805,
+      "text": "or simply had a deformity in his hand. She said a devil"
+    },
+    {
+      "source_segment_index": 806,
+      "text": "had intercourse with her and she became pregnant by it. This too is clearly"
+    },
+    {
+      "source_segment_index": 807,
+      "text": "a legendary account. Al-Suyuti also mentions the story"
+    },
+    {
+      "source_segment_index": 808,
+      "text": "widely circulated in Qur'anic commentaries that Bilqis,"
+    },
+    {
+      "source_segment_index": 809,
+      "text": "the Queen of Sheba in Sulayman's time, peace be upon him,"
+    },
+    {
+      "source_segment_index": 810,
+      "text": "had a father who was a king of Sheba and a mother who was a female jinn. You find it"
+    },
+    {
+      "source_segment_index": 811,
+      "text": "in the commentaries of Ibn Kathir, al-Qurtubi,",
+      "review_notes": "Presenter's generalization about commentators retained; previous independent check found al-Qurtubi quotes al-Mawardi and then disagrees. Article already represents the distinction."
+    },
+    {
+      "source_segment_index": 812,
+      "text": "al-Tabari and others. But they mention it simply"
+    },
+    {
+      "source_segment_index": 813,
+      "text": "as a report; almost no one authenticates it. Those who"
+    },
+    {
+      "source_segment_index": 814,
+      "text": "examined it said it clearly consisted of narratives"
+    },
+    {
+      "source_segment_index": 815,
+      "text": "from Israelite traditions or Yemeni legends."
+    },
+    {
+      "source_segment_index": 816,
+      "text": "The second view is that reproduction between humans"
+    },
+    {
+      "source_segment_index": 817,
+      "text": "and jinn is impossible. Al-Mawardi says reason rejects it",
+      "review_notes": "Al-Mawardi quotation transmitted in this episode; original attribution not independently inspected, though al-Qurtubi's quotation was read previously."
+    },
+    {
+      "source_segment_index": 818,
+      "text": "because the two kinds and natures differ:"
+    },
+    {
+      "source_segment_index": 819,
+      "text": "the human is bodily and the jinn spiritual; one is from clay"
+    },
+    {
+      "source_segment_index": 820,
+      "text": "like pottery, the other from smokeless fire. With this difference,"
+    },
+    {
+      "source_segment_index": 821,
+      "text": "their mingling is ruled out, and reproduction"
+    },
+    {
+      "source_segment_index": 822,
+      "text": "is precluded. But al-Mawardi, may Allah have mercy on him,"
+    },
+    {
+      "source_segment_index": 823,
+      "text": "is speaking of each remaining in its own world. If"
+    },
+    {
+      "source_segment_index": 824,
+      "text": "a male or female jinn took the form"
+    },
+    {
+      "source_segment_index": 825,
+      "text": "of a human and entered the human world,"
+    },
+    {
+      "source_segment_index": 826,
+      "text": "intercourse, as we said, might be possible;"
+    },
+    {
+      "source_segment_index": 827,
+      "text": "it might occur. I have no confirmed evidence, as stated"
+    },
+    {
+      "source_segment_index": 828,
+      "text": "earlier. But would it lead to reproduction? There is"
+    },
+    {
+      "source_segment_index": 829,
+      "text": "no evidence of that, supporting what al-Mawardi said."
+    },
+    {
+      "source_segment_index": 830,
+      "text": "Also, as we said, if intercourse occurs in the world"
+    },
+    {
+      "source_segment_index": 831,
+      "text": "of spirits, in dreams or meditation, it is almost certain"
+    },
+    {
+      "source_segment_index": 832,
+      "text": "that it would not lead to pregnancy either, to my knowledge."
+    },
+    {
+      "source_segment_index": 833,
+      "text": "Here is another story. A woman who had not been religious"
+    },
+    {
+      "source_segment_index": 834,
+      "text": "told me this herself. Previously she knew nothing"
+    },
+    {
+      "source_segment_index": 835,
+      "text": "about jinn or affliction. When she was not religious,"
+    },
+    {
+      "source_segment_index": 836,
+      "text": "she was involved in meditation and energy practices."
+    },
+    {
+      "source_segment_index": 837,
+      "text": "She told me that one of the entities that sometimes appeared"
+    },
+    {
+      "source_segment_index": 838,
+      "text": "during meditation also appeared in her dreams,"
+    },
+    {
+      "source_segment_index": 839,
+      "text": "because there was clearly affliction. One day it tried",
+      "review_notes": "Clearly afflicted is the presenter's inference, not an editorial diagnosis."
+    },
+    {
+      "source_segment_index": 840,
+      "text": "to seduce her in a dream, in the form"
+    },
+    {
+      "source_segment_index": 841,
+      "text": "of her husband. A relationship occurred by mutual agreement,",
+      "review_notes": "Mutual agreement describes the dream as narrated, where she believed the figure was her husband; not informed consent to a real-world encounter."
+    },
+    {
+      "source_segment_index": 842,
+      "text": "because she thought it was her husband and she was dreaming."
+    },
+    {
+      "source_segment_index": 843,
+      "text": "As for whether a person is accountable"
+    },
+    {
+      "source_segment_index": 844,
+      "text": "in a dream, we know that a sleeping person"
+    },
+    {
+      "source_segment_index": 845,
+      "text": "is not held accountable until waking. I will not",
+      "review_notes": "Sleep-accountability allusion previously linked to Abu Dawud 4403; translation preserves exemption rather than assigning guilt for dreams."
+    },
+    {
+      "source_segment_index": 846,
+      "text": "go into the legal question here. The point"
+    },
+    {
+      "source_segment_index": 847,
+      "text": "is that a consensual relationship occurred between them in"
+    },
+    {
+      "source_segment_index": 848,
+      "text": "the dream. Did fertilization occur? It did not."
+    },
+    {
+      "source_segment_index": 849,
+      "text": "I consider it very unlikely that this could happen."
+    },
+    {
+      "source_segment_index": 850,
+      "text": "Remember also the sister whose story I mentioned"
+    },
+    {
+      "source_segment_index": 851,
+      "text": "in the previous section:"
+    },
+    {
+      "source_segment_index": 852,
+      "text": "when the devil assaulted her and she saw fluid on"
+    },
+    {
+      "source_segment_index": 853,
+      "text": "her clothes, there was nothing when she woke. This happens"
+    },
+    {
+      "source_segment_index": 854,
+      "text": "in the world of spirits, but the fluid does not pass over.",
+      "review_notes": "Claim about movement of reproductive material between worlds remains speculation."
+    },
+    {
+      "source_segment_index": 855,
+      "text": "Likewise, an egg, in the case of a female, would not pass"
+    },
+    {
+      "source_segment_index": 856,
+      "text": "from one world to another. Allah knows best. I will also touch"
+    },
+    {
+      "source_segment_index": 857,
+      "text": "on a theory circulated among some ruqyah practitioners, with"
+    },
+    {
+      "source_segment_index": 858,
+      "text": "supporting ideas in other cultures, such as Theosophy:"
+    },
+    {
+      "source_segment_index": 859,
+      "text": "humans and jinn once lived in overlapping worlds"
+    },
+    {
+      "source_segment_index": 860,
+      "text": "and saw one another at the beginning of human creation,"
+    },
+    {
+      "source_segment_index": 861,
+      "text": "from Adam's time, peace be upon him, until"
+    },
+    {
+      "source_segment_index": 862,
+      "text": "before the Flood. After the Flood, everything changed,"
+    },
+    {
+      "source_segment_index": 863,
+      "text": "even human lifespan, appearance and height. Allah"
+    },
+    {
+      "source_segment_index": 864,
+      "text": "knows best. There was only one exception after"
+    },
+    {
+      "source_segment_index": 865,
+      "text": "that period: Sulayman's time, peace be upon him, when"
+    },
+    {
+      "source_segment_index": 866,
+      "text": "people saw jinn. That is why they said the Queen of Sheba"
+    },
+    {
+      "source_segment_index": 867,
+      "text": "might have had a female jinn as her mother. I am reporting this theory;"
+    },
+    {
+      "source_segment_index": 868,
+      "text": "I do not know how sound it is. In Christianity, the possibility",
+      "review_notes": "Explicit uncertainty retained for the pre-Flood/Theosophy theory; no original text identified."
+    },
+    {
+      "source_segment_index": 869,
+      "text": "of intermarriage between devils—which they consider"
+    },
+    {
+      "source_segment_index": 870,
+      "text": "fallen angels—and humans is discussed"
+    },
+    {
+      "source_segment_index": 871,
+      "text": "in their books. I will give just one example: Malleus"
+    },
+    {
+      "source_segment_index": 872,
+      "text": "maleficarum, usually translated as The Hammer of Witches."
+    },
+    {
+      "source_segment_index": 873,
+      "text": "The book appeared in the fifteenth century and was considered"
+    },
+    {
+      "source_segment_index": 874,
+      "text": "the foremost reference on the world of devils at that time. Briefly, it says"
+    },
+    {
+      "source_segment_index": 875,
+      "text": "that the male nightmare-spirit,",
+      "review_notes": "الجاثوم here denotes a folkloric nightmare being, not a medical diagnosis. Translation distinguishes it from earlier use for sleep paralysis."
+    },
+    {
+      "source_segment_index": 876,
+      "text": "the male devil that approaches human women"
+    },
+    {
+      "source_segment_index": 877,
+      "text": "in dreams, is called an incubus. We will return to"
+    },
+    {
+      "source_segment_index": 878,
+      "text": "this term. The female counterpart is called"
+    },
+    {
+      "source_segment_index": 879,
+      "text": "a succubus. What happens? A succubus"
+    },
+    {
+      "source_segment_index": 880,
+      "text": "may target a man in his dreams, causing a nocturnal emission."
+    },
+    {
+      "source_segment_index": 881,
+      "text": "She takes his semen and transfers it to her companion"
+    },
+    {
+      "source_segment_index": 882,
+      "text": "and partner, the incubus. It then"
+    },
+    {
+      "source_segment_index": 883,
+      "text": "damages that semen, tampering with it somehow,",
+      "review_notes": "Semen alteration is the presenter's account of Malleus; the inspected opening of Part I Question III supports transfer theory, not genetic alteration."
+    },
+    {
+      "source_segment_index": 884,
+      "text": "and in turn transfers the altered semen when"
+    },
+    {
+      "source_segment_index": 885,
+      "text": "it has intercourse with a targeted human"
+    },
+    {
+      "source_segment_index": 886,
+      "text": "woman in her dream. Fertilization occurs,"
+    },
+    {
+      "source_segment_index": 887,
+      "text": "producing the hybrid human called"
+    },
+    {
+      "source_segment_index": 888,
+      "text": "a cambion, which we will discuss shortly. The book therefore says"
+    },
+    {
+      "source_segment_index": 889,
+      "text": "that accounts from those times"
+    },
+    {
+      "source_segment_index": 890,
+      "text": "and earlier of actual intercourse and childbirth"
+    },
+    {
+      "source_segment_index": 891,
+      "text": "in an unmarried woman, whose chastity might be questioned,"
+    },
+    {
+      "source_segment_index": 892,
+      "text": "would happen in this way:"
+    },
+    {
+      "source_segment_index": 893,
+      "text": "the semen came from another man she did not know,"
+    },
+    {
+      "source_segment_index": 894,
+      "text": "transferred by devils. Incidentally, the book presents"
+    },
+    {
+      "source_segment_index": 895,
+      "text": "Christian religious arguments and the opinions of"
+    },
+    {
+      "source_segment_index": 896,
+      "text": "Christian theologians who justified this. In principle,"
+    },
+    {
+      "source_segment_index": 897,
+      "text": "I say this is possible: it closely resembles",
+      "review_notes": "Presenter says this is possible in principle, then explicitly declines to assert that devils can perform it at 901–903. Preserve both statements rather than silently harmonizing the tension; audio review remains pending."
+    },
+    {
+      "source_segment_index": 898,
+      "text": "in vitro fertilization: sperm and egg are taken,"
+    },
+    {
+      "source_segment_index": 899,
+      "text": "fertilization occurs outside the body, and then"
+    },
+    {
+      "source_segment_index": 900,
+      "text": "the fertilized egg is returned to the womb, leading to birth."
+    },
+    {
+      "source_segment_index": 901,
+      "text": "But even if this can happen in principle, can"
+    },
+    {
+      "source_segment_index": 902,
+      "text": "devils do it? I am not justifying or"
+    },
+    {
+      "source_segment_index": 903,
+      "text": "explaining it, or saying it is possible. Allah knows best. Also,"
+    },
+    {
+      "source_segment_index": 904,
+      "text": "this Christian account says the devil can"
+    },
+    {
+      "source_segment_index": 905,
+      "text": "tamper with the embryo or semen, as though",
+      "review_notes": "Chromosome comparison belongs to the presenter, not a verified fifteenth-century scientific statement."
+    },
+    {
+      "source_segment_index": 906,
+      "text": "altering chromosomes. This was before"
+    },
+    {
+      "source_segment_index": 907,
+      "text": "genetic engineering or knowledge of chromosomes,"
+    },
+    {
+      "source_segment_index": 908,
+      "text": "in the fifteenth century. The idea of intermarriage producing"
+    },
+    {
+      "source_segment_index": 909,
+      "text": "a hybrid being is also found in almost every culture"
+    },
+    {
+      "source_segment_index": 910,
+      "text": "and throughout mythology. We even find it"
+    },
+    {
+      "source_segment_index": 911,
+      "text": "in anime today, which we will discuss. Here"
+    },
+    {
+      "source_segment_index": 912,
+      "text": "they describe a hybrid being with a human body,"
+    },
+    {
+      "source_segment_index": 913,
+      "text": "just like ours, and spiritual power from jinn,"
+    },
+    {
+      "source_segment_index": 914,
+      "text": "the supernatural beings of those"
+    },
+    {
+      "source_segment_index": 915,
+      "text": "cultures. It can see jinn as though they were humans."
+    },
+    {
+      "source_segment_index": 916,
+      "text": "We will come to examples. The conclusion"
+    },
+    {
+      "source_segment_index": 917,
+      "text": "of this section is that I can neither establish"
+    },
+    {
+      "source_segment_index": 918,
+      "text": "nor deny the possibility of childbirth, but consider it unlikely."
+    },
+    {
+      "source_segment_index": 919,
+      "text": "There is also a difficulty I must raise:"
+    },
+    {
+      "source_segment_index": 920,
+      "text": "suppose a female jinn took the form"
+    },
+    {
+      "source_segment_index": 921,
+      "text": "of a human woman and had intercourse with a human"
+    },
+    {
+      "source_segment_index": 922,
+      "text": "man. His semen would then be in her womb. If"
+    },
+    {
+      "source_segment_index": 923,
+      "text": "she subsequently returned to her spiritual world,"
+    },
+    {
+      "source_segment_index": 924,
+      "text": "what would become of it? How would it develop into"
+    },
+    {
+      "source_segment_index": 925,
+      "text": "an embryo in that spiritual world? Especially since all the stories"
+    },
+    {
+      "source_segment_index": 926,
+      "text": "of hybrids describe the subsequent birth"
+    },
+    {
+      "source_segment_index": 927,
+      "text": "of a hybrid human: human in bodily",
+      "review_notes": "Hybrid descriptions are fictional/speculative traditions, not confirmed biology."
+    },
+    {
+      "source_segment_index": 928,
+      "text": "form, but with a jinn's spirit, or spiritually closer"
+    },
+    {
+      "source_segment_index": 929,
+      "text": "to the world of jinn. This could only happen"
+    },
+    {
+      "source_segment_index": 930,
+      "text": "the other way around: a devil impregnating"
+    },
+    {
+      "source_segment_index": 931,
+      "text": "a human woman, who then gives birth. I am only"
+    },
+    {
+      "source_segment_index": 932,
+      "text": "setting out possibilities to examine them. There cannot"
+    },
+    {
+      "source_segment_index": 933,
+      "text": "be a human embryo in her world, after which she comes"
+    },
+    {
+      "source_segment_index": 934,
+      "text": "to ours and delivers it in human form. That is"
+    },
+    {
+      "source_segment_index": 935,
+      "text": "very unlikely. To consider every aspect,"
+    },
+    {
+      "source_segment_index": 936,
+      "text": "the nearest analogy for understanding this is that intercourse"
+    },
+    {
+      "source_segment_index": 937,
+      "text": "between a human and an animal can occur, because animals have an earthly nature,",
+      "review_notes": "Speculative reproductive analogy, not a named study. Non-graphic translation preserves the argument; scientific generalizations require separate review."
+    },
+    {
+      "source_segment_index": 938,
+      "text": "like humans. Setting aside how terrible"
+    },
+    {
+      "source_segment_index": 939,
+      "text": "and religiously forbidden it is, it is possible and happens"
+    },
+    {
+      "source_segment_index": 940,
+      "text": "among some people, Allah protect us. But fertilization,"
+    },
+    {
+      "source_segment_index": 941,
+      "text": "pregnancy and birth are impossible. Why? Scientists"
+    },
+    {
+      "source_segment_index": 942,
+      "text": "first point to chromosomal differences between"
+    },
+    {
+      "source_segment_index": 943,
+      "text": "humans and animals. Hybrids can arise"
+    },
+    {
+      "source_segment_index": 944,
+      "text": "between closely related kinds in the animal"
+    },
+    {
+      "source_segment_index": 945,
+      "text": "world: a dog and a wolf, for example,"
+    },
+    {
+      "source_segment_index": 946,
+      "text": "but not a dog and a horse."
+    },
+    {
+      "source_segment_index": 947,
+      "text": "Also, the eggs of any living organism are covered,",
+      "review_notes": "Universal egg/protein-lock claim is the speaker's simplified analogy, not independently verified biology."
+    },
+    {
+      "source_segment_index": 948,
+      "text": "surrounded by a special protein layer like a lock."
+    },
+    {
+      "source_segment_index": 949,
+      "text": "In Allah's wisdom, that lock opens only"
+    },
+    {
+      "source_segment_index": 950,
+      "text": "with the key: sperm from a very closely related"
+    },
+    {
+      "source_segment_index": 951,
+      "text": "kind. Fertilization therefore cannot occur merely because"
+    },
+    {
+      "source_segment_index": 952,
+      "text": "intercourse occurs."
+    },
+    {
+      "source_segment_index": 953,
+      "text": "We now turn to accounts and stories from other cultures"
+    },
+    {
+      "source_segment_index": 954,
+      "text": "and peoples about the possibility of physical relationships"
+    },
+    {
+      "source_segment_index": 955,
+      "text": "and reproduction. I said earlier that jinn appear in",
+      "review_notes": "ASR والتناسب read contextually as والتناسل, reproduction."
+    },
+    {
+      "source_segment_index": 956,
+      "text": "every culture, even those that do not believe in Allah's existence."
+    },
+    {
+      "source_segment_index": 957,
+      "text": "We also find stories of love, marriage and childbirth between"
+    },
+    {
+      "source_segment_index": 958,
+      "text": "humans and those worlds almost everywhere."
+    },
+    {
+      "source_segment_index": 959,
+      "text": "I will begin with Japanese mythology. The figure of"
+    },
+    {
+      "source_segment_index": 960,
+      "text": "the kitsune is familiar to people who watch anime"
+    },
+    {
+      "source_segment_index": 961,
+      "text": "today: a spiritual fox, usually"
+    },
+    {
+      "source_segment_index": 962,
+      "text": "female. In one story,"
+    },
+    {
+      "source_segment_index": 963,
+      "text": "a legend from the eighth century that has become",
+      "review_notes": "Eighth-century dating and unnamed adaptation links remain unverified against original tale."
+    },
+    {
+      "source_segment_index": 964,
+      "text": "manga and anime in our time, she takes"
+    },
+    {
+      "source_segment_index": 965,
+      "text": "human form, marries a human and bears"
+    },
+    {
+      "source_segment_index": 966,
+      "text": "his children. There are many such stories. There is also"
+    },
+    {
+      "source_segment_index": 967,
+      "text": "the figure of yokai-onna. Yokai are the kind of beings we call jinn,",
+      "review_notes": "ASR يوكاى اونا retained as yokai-onna; likely intended Yuki-onna. Audio/on-screen check required. Equating yokai with jinn is the presenter's interpretation."
+    },
+    {
+      "source_segment_index": 968,
+      "text": "described there as spirits. Another"
+    },
+    {
+      "source_segment_index": 969,
+      "text": "story concerns a beautiful, pale woman who takes bodily form"
+    },
+    {
+      "source_segment_index": 970,
+      "text": "from among the yokai, appears to a human and marries him."
+    },
+    {
+      "source_segment_index": 971,
+      "text": "He is a Japanese warrior, and she bears his children,",
+      "review_notes": "Speaker says Japanese warrior; inspected Hearn Yuki-onna has a woodcutter. Exact variant unknown; translate speaker faithfully, retain article correction."
+    },
+    {
+      "source_segment_index": 972,
+      "text": "and so on. There are therefore countless examples in manga and anime"
+    },
+    {
+      "source_segment_index": 973,
+      "text": "of intermarriage, childbirth and the emergence of"
+    },
+    {
+      "source_segment_index": 974,
+      "text": "hybrid beings. I invite"
+    },
+    {
+      "source_segment_index": 975,
+      "text": "young viewers who know examples to mention them in"
+    },
+    {
+      "source_segment_index": 976,
+      "text": "the comments. Europe also has very many legends"
+    },
+    {
+      "source_segment_index": 977,
+      "text": "about intermarriage between different kinds"
+    },
+    {
+      "source_segment_index": 978,
+      "text": "of beings. One example is a French legend from"
+    },
+    {
+      "source_segment_index": 979,
+      "text": "the fourteenth century about a figure called Melusine,"
+    },
+    {
+      "source_segment_index": 980,
+      "text": "a female jinn, half human and half serpent. She marries a European",
+      "review_notes": "Melusine called a female jinn by presenter; BnF identifies a fairy/serpent legend, not Islamic taxonomy."
+    },
+    {
+      "source_segment_index": 981,
+      "text": "knight and bears him powerful children."
+    },
+    {
+      "source_segment_index": 982,
+      "text": "Further events follow in the story, which has also"
+    },
+    {
+      "source_segment_index": 983,
+      "text": "become films in our time. There is also the legend"
+    },
+    {
+      "source_segment_index": 984,
+      "text": "of the Lake Maidens, from Welsh"
+    },
+    {
+      "source_segment_index": 985,
+      "text": "tradition, about beautiful beings living"
+    },
+    {
+      "source_segment_index": 986,
+      "text": "underwater, in entire underwater cities"
+    },
+    {
+      "source_segment_index": 987,
+      "text": "at the bottoms of lakes and oceans. They are beautiful women,"
+    },
+    {
+      "source_segment_index": 988,
+      "text": "but half fish and half human, like",
+      "review_notes": "Fish-tailed description not verified for the Welsh lake-maiden variant; do not silently correct the spoken claim or use it as established folklore detail."
+    },
+    {
+      "source_segment_index": 989,
+      "text": "the mermaid figure we know across cultures,"
+    },
+    {
+      "source_segment_index": 990,
+      "text": "including among the Arabs. In one story, one of them"
+    },
+    {
+      "source_segment_index": 991,
+      "text": "comes into our world and marries a human man."
+    },
+    {
+      "source_segment_index": 992,
+      "text": "That story too has become films. Greek myths"
+    },
+    {
+      "source_segment_index": 993,
+      "text": "contain many similar stories, most famously"
+    },
+    {
+      "source_segment_index": 994,
+      "text": "Zeus, chief and greatest of the gods, the god"
+    },
+    {
+      "source_segment_index": 995,
+      "text": "of the sky—Iblis himself. The story, or myth,",
+      "review_notes": "Zeus=Iblis is the speaker's interpretation, not established scriptural identification."
+    },
+    {
+      "source_segment_index": 996,
+      "text": "says he married and seduced dozens of human women,"
+    },
+    {
+      "source_segment_index": 997,
+      "text": "who bore him beings described as demigods,"
+    },
+    {
+      "source_segment_index": 998,
+      "text": "including Heracles—Hercules—and Helen,"
+    },
+    {
+      "source_segment_index": 999,
+      "text": "among others. In medieval Europe,"
+    },
+    {
+      "source_segment_index": 1000,
+      "text": "we also have the incubus and succubus, as discussed."
+    },
+    {
+      "source_segment_index": 1001,
+      "text": "The incubus in particular is a devil"
+    },
+    {
+      "source_segment_index": 1002,
+      "text": "that feeds on the sexual energy of the woman"
+    },
+    {
+      "source_segment_index": 1003,
+      "text": "it targets in her dreams. What is striking in all these"
+    },
+    {
+      "source_segment_index": 1004,
+      "text": "legends is that this devil does not merely feed"
+    },
+    {
+      "source_segment_index": 1005,
+      "text": "on her energy; it drains her. So"
+    },
+    {
+      "source_segment_index": 1006,
+      "text": "a woman experiencing this kind of affliction—"
+    },
+    {
+      "source_segment_index": 1007,
+      "text": "these are not legends; they are mentioned in their religious",
+      "review_notes": "Speaker shifts from legends to religious-book claims; both statements retained."
+    },
+    {
+      "source_segment_index": 1008,
+      "text": "books, Christian books, as I said—"
+    },
+    {
+      "source_segment_index": 1009,
+      "text": "if a woman actually experiences this targeting"
+    },
+    {
+      "source_segment_index": 1010,
+      "text": "and takeover over a period of"
+    },
+    {
+      "source_segment_index": 1011,
+      "text": "years, or even months, it drains her mental,"
+    },
+    {
+      "source_segment_index": 1012,
+      "text": "psychological and physical energy, and she often dies afterward.",
+      "review_notes": "No mortality rate or clinical evidence is supplied. This is the presenter's unverified prognosis claim, not medical guidance."
+    },
+    {
+      "source_segment_index": 1013,
+      "text": "This is also what we know in our own world. I"
+    },
+    {
+      "source_segment_index": 1014,
+      "text": "recently heard a very painful story,"
+    },
+    {
+      "source_segment_index": 1015,
+      "text": "told by a sister about a woman she knew, a friend,"
+    },
+    {
+      "source_segment_index": 1016,
+      "text": "who died by suicide after prolonged affliction by an enamoured jinn.",
+      "review_notes": "Anonymous third-hand report; suicide causation not independently established. Kept in full research translation but omitted from condensed article; no method described."
+    },
+    {
+      "source_segment_index": 1017,
+      "text": "So I repeat: this subject deserves attention and calls for"
+    },
+    {
+      "source_segment_index": 1018,
+      "text": "treatment for anyone affected, God forbid. Also,"
+    },
+    {
+      "source_segment_index": 1019,
+      "text": "the hybrid figure, the cambion, appears frequently"
+    },
+    {
+      "source_segment_index": 1020,
+      "text": "in anime and comics, and unfortunately"
+    },
+    {
+      "source_segment_index": 1021,
+      "text": "in popular culture today. Many"
+    },
+    {
+      "source_segment_index": 1022,
+      "text": "young people follow these without knowing their danger. Let us turn"
+    },
+    {
+      "source_segment_index": 1023,
+      "text": "to some modern films about"
+    },
+    {
+      "source_segment_index": 1024,
+      "text": "similar accounts. There is a well-known documentary entitled"
+    },
+    {
+      "source_segment_index": 1025,
+      "text": "The Nightmare, which I cited in several"
+    },
+    {
+      "source_segment_index": 1026,
+      "text": "earlier episodes. Its American director, Rodney Ascher,"
+    },
+    {
+      "source_segment_index": 1027,
+      "text": "said he made it because he himself"
+    },
+    {
+      "source_segment_index": 1028,
+      "text": "had experienced nightmares for several years. He is of"
+    },
+    {
+      "source_segment_index": 1029,
+      "text": "Jewish origin and non-religious; he always says he is agnostic,",
+      "review_notes": "Claims about Ascher's ancestry/religion are unverified. Inspected Sundance interview expresses uncertainty about experiences' origin, not proof of these biographical claims."
+    },
+    {
+      "source_segment_index": 1030,
+      "text": "non-religious, uncertain. He says, 'I want to believe,'"
+    },
+    {
+      "source_segment_index": 1031,
+      "text": "but has no belief in anything. He says"
+    },
+    {
+      "source_segment_index": 1032,
+      "text": "he experienced nightmares and made this film, interviewing"
+    },
+    {
+      "source_segment_index": 1033,
+      "text": "eight Americans without belief",
+      "review_notes": "Claim that all eight participants were American and non-religious is not independently checked; original film review pending."
+    },
+    {
+      "source_segment_index": 1034,
+      "text": "in any religion, all experiencing affliction."
+    },
+    {
+      "source_segment_index": 1035,
+      "text": "Some came to believe. For example, a man named Chris said"
+    },
+    {
+      "source_segment_index": 1036,
+      "text": "that this spiritual experience"
+    },
+    {
+      "source_segment_index": 1037,
+      "text": "of nightmares and possession led him"
+    },
+    {
+      "source_segment_index": 1038,
+      "text": "to abandon atheism and believe in God's existence."
+    },
+    {
+      "source_segment_index": 1039,
+      "text": "Another participant, Connie,",
+      "review_notes": "Chris/Connie religious-change accounts require original film timestamps and attribution checks."
+    },
+    {
+      "source_segment_index": 1040,
+      "text": "said her years of experiences with"
+    },
+    {
+      "source_segment_index": 1041,
+      "text": "sleep paralysis led her back"
+    },
+    {
+      "source_segment_index": 1042,
+      "text": "to Christianity and away from atheism, because Christian"
+    },
+    {
+      "source_segment_index": 1043,
+      "text": "treatment was what healed her. An important question"
+    },
+    {
+      "source_segment_index": 1044,
+      "text": "may arise here, which I may have discussed more than once:"
+    },
+    {
+      "source_segment_index": 1045,
+      "text": "how can a Christian priest heal or treat someone"
+    },
+    {
+      "source_segment_index": 1046,
+      "text": "and free them from a devil? Very briefly,"
+    },
+    {
+      "source_segment_index": 1047,
+      "text": "first, this is a religion that has been altered. A Christian believes"
+    },
+    {
+      "source_segment_index": 1048,
+      "text": "in Allah, but associates Jesus, peace be upon him, with Him."
+    },
+    {
+      "source_segment_index": 1049,
+      "text": "Some Gospel passages contain true revelation,"
+    },
+    {
+      "source_segment_index": 1050,
+      "text": "while others have been altered. Also, any spiritual treatment,"
+    },
+    {
+      "source_segment_index": 1051,
+      "text": "even within a religion that is fundamentally false, contains spiritual strength.",
+      "review_notes": "Cross-religious efficacy and spiritual-strength explanation are presenter's claims, not clinical findings."
+    },
+    {
+      "source_segment_index": 1052,
+      "text": "That strength may actually produce treatment,"
+    },
+    {
+      "source_segment_index": 1053,
+      "text": "even without Qur'an or Gospel. Thus, even in"
+    },
+    {
+      "source_segment_index": 1054,
+      "text": "Hinduism and Buddhism, magical incantations are used"
+    },
+    {
+      "source_segment_index": 1055,
+      "text": "to treat magic. We also have nushrah,",
+      "review_notes": "Nushrah is undoing alleged sorcery; types, conditions and legal disagreement require separate sources. Do not render as blanket permission for magical treatment."
+    },
+    {
+      "source_segment_index": 1056,
+      "text": "which may use recitations"
+    },
+    {
+      "source_segment_index": 1057,
+      "text": "not drawn from the Qur'an, yet achieve the result,"
+    },
+    {
+      "source_segment_index": 1058,
+      "text": "treatment, and may be lawful. The point is that participants"
+    },
+    {
+      "source_segment_index": 1059,
+      "text": "in this film literally say the beings appearing"
+    },
+    {
+      "source_segment_index": 1060,
+      "text": "in their dreams are 'shadow people.'"
+    },
+    {
+      "source_segment_index": 1061,
+      "text": "As I said earlier, when a devil appears to us"
+    },
+    {
+      "source_segment_index": 1062,
+      "text": "without full embodiment, it is like a ghost, apparition or shadow."
+    },
+    {
+      "source_segment_index": 1063,
+      "text": "What matters here is that one woman in the film says",
+      "review_notes": "This participant is unnamed in transcript; do not merge her with Connie without checking original film."
+    },
+    {
+      "source_segment_index": 1064,
+      "text": "an evil being raped her. She does not"
+    },
+    {
+      "source_segment_index": 1065,
+      "text": "use the terms jinn or devils. She felt"
+    },
+    {
+      "source_segment_index": 1066,
+      "text": "every detail of the assault and remembers"
+    },
+    {
+      "source_segment_index": 1067,
+      "text": "everything. She was rigid and helpless,"
+    },
+    {
+      "source_segment_index": 1068,
+      "text": "unable to move any part of her body, while it could"
+    },
+    {
+      "source_segment_index": 1069,
+      "text": "do whatever it wanted. Similar stories appear in many"
+    },
+    {
+      "source_segment_index": 1070,
+      "text": "Hollywood films. One example is"
+    },
+    {
+      "source_segment_index": 1071,
+      "text": "The Entity, reportedly based on a true story.",
+      "review_notes": "ASR film name damaged; The Entity identified from context and existing registry. True-story claim means reportedly based on an account, not independently verified assault causation."
+    },
+    {
+      "source_segment_index": 1072,
+      "text": "It concerns a woman named Doris Bither, who said"
+    },
+    {
+      "source_segment_index": 1073,
+      "text": "she suffered assaults by ghosts in"
+    },
+    {
+      "source_segment_index": 1074,
+      "text": "California in 1974. Four years later,"
+    },
+    {
+      "source_segment_index": 1075,
+      "text": "it became a novel of the same title; another"
+    },
+    {
+      "source_segment_index": 1076,
+      "text": "four years later, in 1982, the film appeared,",
+      "review_notes": "1982 retained as spoken. AFI records US release 4 February 1983; production/territorial dates require distinction."
+    },
+    {
+      "source_segment_index": 1077,
+      "text": "also under that title. Again, 'entity'"
+    },
+    {
+      "source_segment_index": 1078,
+      "text": "is the term constantly used in this culture."
+    },
+    {
+      "source_segment_index": 1079,
+      "text": "They do not know the term jinn; they speak of spiritual beings"
+    },
+    {
+      "source_segment_index": 1080,
+      "text": "that appear and may be good or evil. The film's story"
+    },
+    {
+      "source_segment_index": 1081,
+      "text": "is similar: a single mother of three children"
+    },
+    {
+      "source_segment_index": 1082,
+      "text": "is taken over by this entity, which rapes her,"
+    },
+    {
+      "source_segment_index": 1083,
+      "text": "and the story continues. A new version of this film"
+    },
+    {
+      "source_segment_index": 1084,
+      "text": "was also supposed to be made in 2025, but the director",
+      "review_notes": "Alleged failed 2025 remake remains unverified; not resolved by older remake-development references."
+    },
+    {
+      "source_segment_index": 1085,
+      "text": "did not succeed. Another film is"
+    },
+    {
+      "source_segment_index": 1086,
+      "text": "Satan's Mistress, released in 1982. It has",
+      "review_notes": "Satan's Mistress identified, original synopsis not yet inspected; detailed plot remains speaker's recollection."
+    },
+    {
+      "source_segment_index": 1087,
+      "text": "a similar story: a woman lives with her husband"
+    },
+    {
+      "source_segment_index": 1088,
+      "text": "and children, but they are estranged and no longer have intercourse."
+    },
+    {
+      "source_segment_index": 1089,
+      "text": "She sleeps alone in her room. A devil takes over,"
+    },
+    {
+      "source_segment_index": 1090,
+      "text": "initially appearing"
+    },
+    {
+      "source_segment_index": 1091,
+      "text": "as a blue light, a ghost. When she signals"
+    },
+    {
+      "source_segment_index": 1092,
+      "text": "that she welcomes its appearance, it later takes the form"
+    },
+    {
+      "source_segment_index": 1093,
+      "text": "of a handsome man and has a full sexual relationship with her in her room."
+    },
+    {
+      "source_segment_index": 1094,
+      "text": "The story then develops further. There is also"
+    },
+    {
+      "source_segment_index": 1095,
+      "text": "a film released in 1985, Lifeforce."
+    },
+    {
+      "source_segment_index": 1096,
+      "text": "A space mission discovers a spacecraft"
+    },
+    {
+      "source_segment_index": 1097,
+      "text": "containing frozen alien beings and brings them"
+    },
+    {
+      "source_segment_index": 1098,
+      "text": "to Earth. One is female. When she"
+    },
+    {
+      "source_segment_index": 1099,
+      "text": "awakens, she becomes a vampire and begins"
+    },
+    {
+      "source_segment_index": 1100,
+      "text": "physical relationships with humans to absorb their energy."
+    },
+    {
+      "source_segment_index": 1101,
+      "text": "The same idea, but with aliens. As we said"
+    },
+    {
+      "source_segment_index": 1102,
+      "text": "earlier, aliens are jinn. There is also",
+      "review_notes": "Equating aliens with jinn is the speaker's interpretation, not independent identification of fictional beings."
+    },
+    {
+      "source_segment_index": 1103,
+      "text": "a 2017 film, The Black Room,"
+    },
+    {
+      "source_segment_index": 1104,
+      "text": "which draws on the same incubus,"
+    },
+    {
+      "source_segment_index": 1105,
+      "text": "the nightmare-spirit. Briefly, a couple moves",
+      "review_notes": "ASR الحاضم likely الجاثوم; rendered nightmare-spirit in folkloric context."
+    },
+    {
+      "source_segment_index": 1106,
+      "text": "into a luxurious new house in New York and discovers",
+      "review_notes": "New York setting unverified. Distributor synopsis describes husband Paul's possession; subsequent spoken synopsis differs. Article already records this limitation."
+    },
+    {
+      "source_segment_index": 1107,
+      "text": "it is haunted. The incubus takes over"
+    },
+    {
+      "source_segment_index": 1108,
+      "text": "the woman whenever someone lives there,"
+    },
+    {
+      "source_segment_index": 1109,
+      "text": "raping her in her sleep, then taking over"
+    },
+    {
+      "source_segment_index": 1110,
+      "text": "other women and feeding on their energy"
+    },
+    {
+      "source_segment_index": 1111,
+      "text": "through assault. Many such stories appear"
+    },
+    {
+      "source_segment_index": 1112,
+      "text": "in countless films, especially those released"
+    },
+    {
+      "source_segment_index": 1113,
+      "text": "in the 1980s. I will finish with a very famous horror film,"
+    },
+    {
+      "source_segment_index": 1114,
+      "text": "released in 1968: Rosemary's Baby. It is still"
+    },
+    {
+      "source_segment_index": 1115,
+      "text": "considered a horror classic. Its story"
+    },
+    {
+      "source_segment_index": 1116,
+      "text": "is different, but briefly, a couple moves"
+    },
+    {
+      "source_segment_index": 1117,
+      "text": "into an apartment in a New York building"
+    },
+    {
+      "source_segment_index": 1118,
+      "text": "with a recurring reputation for being haunted."
+    },
+    {
+      "source_segment_index": 1119,
+      "text": "An elderly couple lives next door; they belong"
+    },
+    {
+      "source_segment_index": 1120,
+      "text": "to a secret satanic sect. This sect"
+    },
+    {
+      "source_segment_index": 1121,
+      "text": "looks for a woman meeting certain conditions"
+    },
+    {
+      "source_segment_index": 1122,
+      "text": "required by Satan himself, Iblis, so he can rape her"
+    },
+    {
+      "source_segment_index": 1123,
+      "text": "or have intercourse with her without her awareness. She then becomes pregnant and bears him"
+    },
+    {
+      "source_segment_index": 1124,
+      "text": "the Antichrist, who will lead humanity at the end",
+      "review_notes": "Speaker says المسيح الدجال. Antichrist renders his description in this Western-fiction context; this does not equate the fictional child with Islam's Dajjal. Film-source record does not establish that identification."
+    },
+    {
+      "source_segment_index": 1125,
+      "text": "of time. The whole story revolves around this, ending"
+    },
+    {
+      "source_segment_index": 1126,
+      "text": "with his success: she gives birth to"
+    },
+    {
+      "source_segment_index": 1127,
+      "text": "the Antichrist. What is striking about all these films"
+    },
+    {
+      "source_segment_index": 1128,
+      "text": "is their agreement on the possibility of sex and intercourse between"
+    },
+    {
+      "source_segment_index": 1129,
+      "text": "humans and jinn, even though, as we said, the Christian"
+    },
+    {
+      "source_segment_index": 1130,
+      "text": "and Jewish West does not recognize jinn as this distinct kind"
+    },
+    {
+      "source_segment_index": 1131,
+      "text": "of being, instead considering them fallen angels. Also,"
+    },
+    {
+      "source_segment_index": 1132,
+      "text": "people who do not accept Judaism or Christianity speak of"
+    },
+    {
+      "source_segment_index": 1133,
+      "text": "'entities,' beings capable of having",
+      "review_notes": "Damaged ASR وكانات ذديز interpreted as repeated English entities and Arabic beings; audio review required."
+    },
+    {
+      "source_segment_index": 1134,
+      "text": "these relationships with humans, with or without"
+    },
+    {
+      "source_segment_index": 1135,
+      "text": "their consent. People who enter the world of jinn try"
+    },
+    {
+      "source_segment_index": 1136,
+      "text": "to do this with them to draw"
+    },
+    {
+      "source_segment_index": 1137,
+      "text": "energy from them. As we said, this is also familiar among"
+    },
+    {
+      "source_segment_index": 1138,
+      "text": "devil-worshippers. One last piece of advice for young people"
+    },
+    {
+      "source_segment_index": 1139,
+      "text": "exploring this world through energy practices and entering"
+    },
+    {
+      "source_segment_index": 1140,
+      "text": "other worlds to expand their awareness:"
+    },
+    {
+      "source_segment_index": 1141,
+      "text": "if you are Muslim, you must know these are jinn and devils,"
+    },
+    {
+      "source_segment_index": 1142,
+      "text": "and no lawful relationship can be established with them."
+    },
+    {
+      "source_segment_index": 1143,
+      "text": "If it reaches intercourse, that is zina,",
+      "review_notes": "Closing prohibition addresses deliberate pursuit of contact; earlier sleeping-person exemption (844–845) and assault accounts must not be erased or converted into blame."
+    },
+    {
+      "source_segment_index": 1144,
+      "text": "even in another world: unlawful sex, a grave indecency."
+    },
+    {
+      "source_segment_index": 1145,
+      "text": "So be extremely cautious about entering this world,"
+    },
+    {
+      "source_segment_index": 1146,
+      "text": "even out of curiosity. Anyone who, God forbid,"
+    },
+    {
+      "source_segment_index": 1147,
+      "text": "has been afflicted in this way should heed the advice"
+    },
+    {
+      "source_segment_index": 1148,
+      "text": "I have repeated throughout this episode: go immediately"
+    },
+    {
+      "source_segment_index": 1149,
+      "text": "to a sheikh and begin treatment and ruqyah. If you cannot",
+      "review_notes": "Presenter's advice preserved in research translation; no independent treatment efficacy, diagnosis, or recommendation to discontinue professional care."
+    },
+    {
+      "source_segment_index": 1150,
+      "text": "find a trustworthy sheikh in your country,"
+    },
+    {
+      "source_segment_index": 1151,
+      "text": "begin reciting ruqyah while you keep looking. Search"
+    },
+    {
+      "source_segment_index": 1152,
+      "text": "online; you will find many recitations and the methods"
+    },
+    {
+      "source_segment_index": 1153,
+      "text": "I mentioned, including applying oil, and so on. The point is"
+    },
+    {
+      "source_segment_index": 1154,
+      "text": "not to postpone or underestimate this matter."
+    },
+    {
+      "source_segment_index": 1155,
+      "text": "I ask Allah to protect us all and preserve us from"
+    },
+    {
+      "source_segment_index": 1156,
+      "text": "every harm. Thank you for listening. Peace be upon you,"
+    },
+    {
+      "source_segment_index": 1157,
+      "text": "and [Allah's] mercy.",
+      "review_notes": "ASR ends ورحمه followed by English No. Allah's is a bracketed contextual completion of greeting; No treated as an apparent ASR artifact. Audio ending requires review."
+    }
+  ],
+  "updated_at": "2026-09-10",
+  "translation_batches": [
+    {
+      "start_source_segment_index": 0,
+      "end_source_segment_index": 46,
+      "start_seconds": 0.24,
+      "end_seconds": 138.03,
+      "drafted_at": "2026-09-09",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    },
+    {
+      "start_source_segment_index": 47,
+      "end_source_segment_index": 199,
+      "start_seconds": 138.04,
+      "end_seconds": 559.31,
+      "drafted_at": "2026-09-10",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    },
+    {
+      "start_source_segment_index": 200,
+      "end_source_segment_index": 379,
+      "start_seconds": 559.32,
+      "end_seconds": 1081.669,
+      "drafted_at": "2026-09-10",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    },
+    {
+      "start_source_segment_index": 380,
+      "end_source_segment_index": 559,
+      "start_seconds": 1081.679,
+      "end_seconds": 1603.31,
+      "drafted_at": "2026-09-10",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    },
+    {
+      "start_source_segment_index": 560,
+      "end_source_segment_index": 739,
+      "start_seconds": 1603.32,
+      "end_seconds": 2125.069,
+      "drafted_at": "2026-09-10",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    },
+    {
+      "start_source_segment_index": 740,
+      "end_source_segment_index": 949,
+      "start_seconds": 2125.079,
+      "end_seconds": 2739.19,
+      "drafted_at": "2026-09-10",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    },
+    {
+      "start_source_segment_index": 950,
+      "end_source_segment_index": 1157,
+      "start_seconds": 2739.2,
+      "end_seconds": 3338.119,
+      "drafted_at": "2026-09-10",
+      "method": "Direct English drafting against every normalized Arabic segment in this interval; audiovisual and independent editorial review pending."
+    }
+  ]
+}

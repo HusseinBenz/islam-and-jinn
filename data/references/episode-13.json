@@ -1,0 +1,2908 @@
+[
+  {
+    "id": "e13-scope",
+    "type": "presenter-opinion",
+    "title": "Why some Muslim doctors reject spiritual explanations",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=0s",
+    "locator": "Normalized Arabic indices 0–45; 0.24–139.99 seconds",
+    "claim": "Dadoosh responds to reactions to his Marzinsky episode but explicitly defers a full evidential argument for possession.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 0.24,
+        "end_seconds": 139.99,
+        "normalized_segment_indices": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ],
+        "raw_excerpt_ar": "السلام عليكم مؤخرا عرضت حلقه اعرض فيها تجربه المعالج النفسي الامريكي المتقاعد جريمه مارزنسكي والتي ذكر فيها بالتفصيل بعد اكثر من 35 عاما في العلاج النفسي ان",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Article retains methodological scope; clinical claims are not established by this framing."
+  },
+  {
+    "id": "e13-support-letters",
+    "type": "private-testimony",
+    "title": "Supportive messages from clinicians and patients",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=30s",
+    "locator": "Normalized Arabic indices 10–17; 30.08–54.229 seconds",
+    "claim": "Presenter reports support from doctors, some anonymously, and people with lived experience.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 30.08,
+        "end_seconds": 54.229,
+        "normalized_segment_indices": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ],
+        "raw_excerpt_ar": "فوجئت بعد عرض الحلقه بكميه تاييد لم اتوقعها من اطباء ممارسين بانفسهم والكثير منهم لا يريد ان يعرض اسمه وان يعلن تاييده لهذه الحقيقه على الملا وايضا من",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Messages not inspected; names, diagnoses, consent and outcomes not independently established."
+  },
+  {
+    "id": "e13-critical-responses",
+    "type": "opinion-allusion",
+    "title": "Critical comments and posts",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=54s",
+    "locator": "Normalized Arabic indices 18–30; 54.239–89.99 seconds",
+    "claim": "Presenter says Muslim critics called the earlier argument superstition.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 54.239,
+        "end_seconds": 89.99,
+        "normalized_segment_indices": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "raw_excerpt_ar": "لنعرض اهم ما فيها وفي المقابل ايضا كما هو متوقع كانت هناك كميه من التعليقات والرسائل المهاجمه بل بعضهم ايضا شن هجوما في منشورات على صفحاتهم لانهم يرون ما",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Specific posts and full discussions not located in this unit; do not infer critics’ motives or beliefs."
+  },
+  {
+    "id": "e13-siddiq-article",
+    "type": "interview-report",
+    "title": "Al Jazeera Clinic report featuring Muhammad Ali Siddiq",
+    "creators": [
+      "Osama Abu al-Rub",
+      "Al Jazeera",
+      "Muhammad Ali Siddiq"
+    ],
+    "url": "https://www.aljazeera.net/health/2018/4/26/هل-صديقك-يتلبسه-الجن-كيف-تساعده",
+    "locator": "هل صديقك \"يتلبسه الجن\".. كيف تساعده؟; programme date, biographical introduction, possession question and closing causes paragraph",
+    "claim": "Article attributes schizophrenia symptoms to illness, warns about delay from possession interpretation, and advises clinical assessment.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 140.0,
+        "end_seconds": 326.469,
+        "normalized_segment_indices": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110
+        ],
+        "raw_excerpt_ar": "حتى نفهم المشكله المنهجيه قبل ان نتحدث على المنهج ناخذ مثال وهو منشور على الاعلام ليس رساله جاءتنا ولا تعليق منشور على الاعلام لام في موقع الجزيره هذا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Original article read, including causes paragraph. Programme date 25 April 2018; article URL 26 April. Page last updated 11 June 2023. Full audiovisual interview not viewed; news report verifies wording attributed in print, not every clinical proposition."
+  },
+  {
+    "id": "e13-credentials",
+    "type": "presenter-argument",
+    "title": "Inferring a doctor’s familiarity with ruqyah",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=200s",
+    "locator": "Normalized Arabic indices 68–86; 200.4–255.67 seconds",
+    "claim": "Dadoosh infers from Siddiq’s conventional qualifications that he has not studied ruqyah and objects to the article’s framing.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 200.4,
+        "end_seconds": 255.67,
+        "normalized_segment_indices": [
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          80,
+          81,
+          82,
+          83,
+          84,
+          85,
+          86
+        ],
+        "raw_excerpt_ar": "هل هو مختص في الرقيه في العلاج الروحي حتى لو كان شامانيه او سحر؟ طبعا لا. سيرته الذاتيه هي انه عضو الكليه الملكيه للطب النفسي في لندن دراسته من دبلين في",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "A professional biography is not an exhaustive history of religious learning. Article does not assert lack of training or personal unbelief."
+  },
+  {
+    "id": "e13-strength",
+    "type": "case-allusion",
+    "title": "Reported extraordinary strength in distressed patients",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 97–106; 284.15999999999997–315.909 seconds",
+    "claim": "Presenter cites unnamed elderly or weak people allegedly displaying extraordinary force.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 284.15999999999997,
+        "end_seconds": 315.909,
+        "normalized_segment_indices": [
+          97,
+          98,
+          99,
+          100,
+          101,
+          102,
+          103,
+          104,
+          105,
+          106
+        ],
+        "raw_excerpt_ar": "يتصرف بعنف شديد وكما ذكرت في الحلقه السابقه هل عندك دليل يفسر لماذا يصبح كائن خارق لماذا نرى ونسمع بحالات بالاله الاف لاشخاص مرضى وهم اصلا عاجزين وهم",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No individual records, witnesses or measurements. Not diagnostic evidence."
+  },
+  {
+    "id": "e13-later-article",
+    "type": "reporting",
+    "title": "Al Jazeera’s expanded schizophrenia explainer",
+    "creators": [
+      "Osama Abu al-Rub",
+      "Al Jazeera"
+    ],
+    "url": "https://www.aljazeera.net/health/2022/10/31/الفصام-فصام-الشيزوفرينيا",
+    "locator": "Sections on control experiences, jinn, voices and visual hallucinations; updated 19 April 2023",
+    "claim": "A later article repeats Siddiq and discusses control experiences, voices and unusual visual perceptions.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 326.479,
+        "end_seconds": 497.189,
+        "normalized_segment_indices": [
+          111,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          124,
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136,
+          137,
+          138,
+          139,
+          140,
+          141,
+          142,
+          143,
+          144,
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176
+        ],
+        "raw_excerpt_ar": "زملائي السابقين في الجزيره ايضا عرضوا تقريرا اخر في تاريخ 19/4/2023 عن نفس الموضوع وعنوانه الفصام والشيزوفرينيا وانفصام الشخصيه هل لها",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Original relevant sections read. Updated 19 April 2023; URL is under 31 October 2022, so 19 April should not be asserted as first publication. Article explicitly acknowledges voices feel real; do not summarize it as accusing patients of fabrication. Not every medical paragraph audited."
+  },
+  {
+    "id": "e13-shamanic-cures",
+    "type": "historical-testimony",
+    "title": "Worldwide and prehistoric spiritual healing claims",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 125–136; 363.96–396.029 seconds",
+    "claim": "Dadoosh invokes oral traditions and alleged healing by shamans across cultures.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 363.96,
+        "end_seconds": 396.029,
+        "normalized_segment_indices": [
+          125,
+          126,
+          127,
+          128,
+          129,
+          130,
+          131,
+          132,
+          133,
+          134,
+          135,
+          136
+        ],
+        "raw_excerpt_ar": "جسمه مسيطر عليه مثل الرجل الالي هذه الاعراض التي نعرفها مليون بالم انها اعراض المس والتي تكررت في كل تاريخ البشريه ومما قبل التاريخ ونقل لنا شفويا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No named ethnography, community-specific account or clinical record in this discussion. No universal historical success claim adopted."
+  },
+  {
+    "id": "e13-hallucination-review",
+    "type": "review-article",
+    "title": "Hallucinations: Clinical aspects and management",
+    "creators": [
+      "Suprakash Chaudhury"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21694785/",
+    "locator": "2010; complete abstract and bibliographic record",
+    "claim": "The 2010 source behind the explainer is a literature review of hallucinations in different settings.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 402.919,
+        "end_seconds": 417.95,
+        "normalized_segment_indices": [
+          140,
+          141,
+          142,
+          143,
+          144,
+          145
+        ],
+        "raw_excerpt_ar": "يفسرها بالسحر والارواح والشيطان ثم اجريت ابحاث على ان العديد من الاشخاص يرون اشياء غريبه مثل اشخاص مشوهين او اجزاء جسم او اشياء غريبه وغير عاديه مثل وحوش",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Traced Al Jazeera → Healthline link 2010 research → PMC3105559 → PubMed21694785. Complete abstract and metadata read through indexed PubMed after PMC browser challenge and direct PubMed empty body. Full review and cited case descriptions unread. Abstract establishes scope, not externally existing beings. DOI 10.4103/0972-6748.77625; Industrial Psychiatry Journal 19(1):5–12."
+  },
+  {
+    "id": "e13-healthline-chain",
+    "type": "web-locator",
+    "title": "Intermediate link for the 2010 hallucination review",
+    "creators": [
+      "Crystal Raypole",
+      "Healthline"
+    ],
+    "url": "https://www.healthline.com/health/schizophrenia-hallucinations",
+    "locator": "Hallucinations as a symptom of schizophrenia; 2010 research link",
+    "claim": "Al Jazeera links to Healthline, whose 2010 research link leads to Chaudhury’s review.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 402.919,
+        "end_seconds": 417.95,
+        "normalized_segment_indices": [
+          140,
+          141,
+          142,
+          143,
+          144,
+          145
+        ],
+        "raw_excerpt_ar": "يفسرها بالسحر والارواح والشيطان ثم اجريت ابحاث على ان العديد من الاشخاص يرون اشياء غريبه مثل اشخاص مشوهين او اجزاء جسم او اشياء غريبه وغير عاديه مثل وحوش",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Current page read, updated 15 February 2026; original 2023 version not recovered. Used as a locator only, not final medical authority. No assumption that current wording is identical to the 2023 page."
+  },
+  {
+    "id": "e13-shared-entities",
+    "type": "presenter-interpretation",
+    "title": "Similar entities across altered experiences",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=415s",
+    "locator": "Normalized Arabic indices 145–155; 415.8–443.51 seconds",
+    "claim": "Presenter interprets recurring reports across psychosis, psychedelics and shamanism as the same external beings.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 415.8,
+        "end_seconds": 443.51,
+        "normalized_segment_indices": [
+          145,
+          146,
+          147,
+          148,
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155
+        ],
+        "raw_excerpt_ar": "الكلام الذي يؤكد تماما انها كائنات غير متخيله في العقل البشري العادي وانها كائنات خارجيه يراها ايضا من يمارس الشامانيه ويراها ايضا من ياخذ عقاقير",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Similarity alone does not independently establish cause or identity; no controlled comparison supplied."
+  },
+  {
+    "id": "e13-et-analogy",
+    "type": "illustration",
+    "title": "E.T. and remembered imagery",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=443s",
+    "locator": "Normalized Arabic indices 156–163; 443.52–463.07 seconds",
+    "claim": "Presenter caricatures a memory-based explanation using a childhood viewing of E.T.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 443.52,
+        "end_seconds": 463.07,
+        "normalized_segment_indices": [
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163
+        ],
+        "raw_excerpt_ar": "وهم هذا مجرد خيال انت صنعته في نفسك طب ما ايش الدليل؟ لا انت سمعت في طفولتك والله انه في كائن فضائي شكله كذا فانت لما صرت مريض بالذهان وكيمياء الدماغ",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Illustrative example; no specific clinician’s study or original film scene asserted or inspected."
+  },
+  {
+    "id": "e13-medication-qualification",
+    "type": "presenter-advice",
+    "title": "Explicit qualification about continuing medical care",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=463s",
+    "locator": "Normalized Arabic indices 164–176; 463.08–497.189 seconds",
+    "claim": "Dadoosh says not to stop medication or avoid clinicians, while advocating spiritual care.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 463.08,
+        "end_seconds": 497.189,
+        "normalized_segment_indices": [
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176
+        ],
+        "raw_excerpt_ar": "النفسي يقول هذا الكلام ما هي النتيجه؟ سياخذ اي مريض عنده في العائله الى الطب النفسي او هو نفسه اذا كان من يقرا هو من يتعرض لهذه الهلوسات سيذهب اليهم ويسلمهم",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Preserve qualification; no endorsement of his proposed drug–spirit mechanism."
+  },
+  {
+    "id": "e13-method",
+    "type": "philosophical-argument",
+    "title": "Mechanism, purpose and rain",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=497s",
+    "locator": "Normalized Arabic indices 177–223; 497.199–634.43 seconds",
+    "claim": "Presenter distinguishes empirical mechanisms from purpose and a philosophy claiming only matter exists.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 497.199,
+        "end_seconds": 634.43,
+        "normalized_segment_indices": [
+          177,
+          178,
+          179,
+          180,
+          181,
+          182,
+          183,
+          184,
+          185,
+          186,
+          187,
+          188,
+          189,
+          190,
+          191,
+          192,
+          193,
+          194,
+          195,
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212,
+          213,
+          214,
+          215,
+          216,
+          217,
+          218,
+          219,
+          220,
+          221,
+          222,
+          223
+        ],
+        "raw_excerpt_ar": "المنهجيه التي سنناقشها في الحلقه عندنا العلم التجريبي اللي اسمه ساينس ومصطلح العلم التجريبي هنا كلمه ساينس لا تقال الا على العلم التجريبي في الثقافه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Philosophical argument, not proof that every scientist adopts metaphysical materialism. Rain is an illustration."
+  },
+  {
+    "id": "e13-early-method-history",
+    "type": "historical-claim",
+    "title": "Bacon, Descartes, Newton and the history of experiment",
+    "creators": [
+      "Ahmad Dadoosh",
+      "Francis Bacon",
+      "René Descartes",
+      "Isaac Newton"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 196–212; 555.279–602.509 seconds",
+    "claim": "Presenter compresses the emergence of empirical methods into a Renaissance/early-modern narrative.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 555.279,
+        "end_seconds": 602.509,
+        "normalized_segment_indices": [
+          196,
+          197,
+          198,
+          199,
+          200,
+          201,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209,
+          210,
+          211,
+          212
+        ],
+        "raw_excerpt_ar": "للتفصيل لاحقا بدات في عصر النهضه على يد كارت وفرانسيس بيكن ونيوتن وهذا المنهج التجريبي كان قد عرفه رفه المسلمون للبحث في الطريقه التي تستطيع ان تفهم منها",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No comprehensive primary history inspected. Do not label all named figures Renaissance materialists or credit one sole inventor."
+  },
+  {
+    "id": "e13-aristotle",
+    "type": "philosopher-allusion",
+    "title": "Aristotle and final causes",
+    "creators": [
+      "Aristotle"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 203–208; 575.64–591.389 seconds",
+    "claim": "Aristotle is invoked as a thinker who did not exclude final causes.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 575.64,
+        "end_seconds": 591.389,
+        "normalized_segment_indices": [
+          203,
+          204,
+          205,
+          206,
+          207,
+          208
+        ],
+        "raw_excerpt_ar": "انه الوجود هو الماده فقط فارسطو مثلا ما كان يستبعد الاسباب الغائيه والحسب من الهيثم الذي ينسب له المنهج التجريبي نفسه ايضا هو ما كان يستبعد ابدا الجانب الروحي",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No named work/passage inspected in this unit."
+  },
+  {
+    "id": "e13-ibn-al-haytham",
+    "type": "historical-allusion",
+    "title": "Ibn al-Haytham and experimental method",
+    "creators": [
+      "Ibn al-Haytham"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 205–208; 581.16–591.389 seconds",
+    "claim": "Ibn al-Haytham is associated with experiment and a wider philosophical outlook.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 581.16,
+        "end_seconds": 591.389,
+        "normalized_segment_indices": [
+          205,
+          206,
+          207,
+          208
+        ],
+        "raw_excerpt_ar": "الهيثم الذي ينسب له المنهج التجريبي نفسه ايضا هو ما كان يستبعد ابدا الجانب الروحي والفلسفي عن الطبيعه فطوال التاريخ كانت هناك اسباب غائيه فقط هذا المنهج التجريبي",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "ASR الحسب من الهيثم resolved contextually to al-Hasan ibn al-Haytham; no exact source for sole-inventor claim or metaphysical commitments inspected."
+  },
+  {
+    "id": "e13-hawking",
+    "type": "broadcast-transcript",
+    "title": "Genius: Why Are We Here?",
+    "creators": [
+      "Stephen Hawking",
+      "PBS"
+    ],
+    "url": "https://www.pbs.org/video/genius-stephen-hawking-episode-3-why-are-we-here-full-episode/",
+    "locator": "Episode 3 transcript, determinism and button-experiment passages",
+    "claim": "Hawking’s programme discusses determinism, brain activity and free will.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 634.44,
+        "end_seconds": 672.55,
+        "normalized_segment_indices": [
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238
+        ],
+        "raw_excerpt_ar": "اكثر قبل حوالي 10 سنوات لما كنت اتحدث بالتفصيل اكثر عن الالحاد في حلقه كانت بعنوان حريه الملحدين الرد على برنامج ستيفن هوكينج مع العباقره في هذه الحلقه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Indexed original PBS transcript passages on Laplace, Libet, the button experiment, Hawking’s stated opinion and participant objections read. Not full programme or study papers. Qualifications matter: conditional arguments and objections appear in the original."
+  },
+  {
+    "id": "e13-hawking-response-video",
+    "type": "video-allusion",
+    "title": "Earlier al-Sabeel response on atheists and freedom",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 224–238; 634.44–672.55 seconds",
+    "claim": "Dadoosh recalls his earlier response to Hawking’s programme.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 634.44,
+        "end_seconds": 672.55,
+        "normalized_segment_indices": [
+          224,
+          225,
+          226,
+          227,
+          228,
+          229,
+          230,
+          231,
+          232,
+          233,
+          234,
+          235,
+          236,
+          237,
+          238
+        ],
+        "raw_excerpt_ar": "اكثر قبل حوالي 10 سنوات لما كنت اتحدث بالتفصيل اكثر عن الالحاد في حلقه كانت بعنوان حريه الملحدين الرد على برنامج ستيفن هوكينج مع العباقره في هذه الحلقه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Arabic title حرية الملحدين الرد على برنامج ستيفن هوكينج مع العباقرة; exact older channel upload not inspected."
+  },
+  {
+    "id": "e13-philosophy-dead",
+    "type": "quotation-attribution",
+    "title": "Hawking’s alleged declaration that philosophy is dead",
+    "creators": [
+      "Stephen Hawking"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 234–238; 660.399–672.55 seconds",
+    "claim": "Presenter attributes a sweeping rejection of philosophy to Hawking.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 660.399,
+        "end_seconds": 672.55,
+        "normalized_segment_indices": [
+          234,
+          235,
+          236,
+          237,
+          238
+        ],
+        "raw_excerpt_ar": "انه ستيفن هوكينغ اقتحم الفلسفه من اوسع ابوابها مع انه يصر على انه الفلسفه ما عاد لها دور وهذا ما يقوله حرفيا فيقول الان العلم هو الذي يجيب على كل الاسئله",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "The cited programme passages do not independently locate this exact declaration; primary book/interview passage still needed."
+  },
+  {
+    "id": "e13-scientific-revolutions-video",
+    "type": "video-allusion",
+    "title": "Earlier episode on scientific revolutions",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 239–245; 672.56–689.35 seconds",
+    "claim": "Presenter refers to a September episode on the decline of Muslim science and rise of Western science.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 672.56,
+        "end_seconds": 689.35,
+        "normalized_segment_indices": [
+          239,
+          240,
+          241,
+          242,
+          243,
+          244,
+          245
+        ],
+        "raw_excerpt_ar": "التفصيل اكثر في المنهج المادي وكيف نشا هذا المنهج التجريبي العلمي تحدثت في حلقه نشرناها في سبتمبر الماضي بعنوان قصه الثورات العلميه كيف تراجع المسلمون وتقدم",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Arabic title قصة الثورات العلمية كيف تراجع المسلمون وتقدم الغرب; exact upload and full contents uninspected."
+  },
+  {
+    "id": "e13-religion-origins-video",
+    "type": "video-allusion",
+    "title": "Earlier episode on materialist theories of religion",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 246–278; 689.36–776.949 seconds",
+    "claim": "An earlier al-Sabeel programme discusses theories about the origins of religion.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 689.36,
+        "end_seconds": 776.949,
+        "normalized_segment_indices": [
+          246,
+          247,
+          248,
+          249,
+          250,
+          251,
+          252,
+          253,
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278
+        ],
+        "raw_excerpt_ar": "وايضا لمن يريد ان يفهم اكثر كيف كانت نتائج تطبيق هذه الفلسفه الماديه وليس فقط المنهج التجريبي المادي على الوجود بشكل عام فلا شيء افضل من التعرف على نظريات",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Arabic title الدين بعيون إلحادية قصة فشل للنظريات المادية في فهم الأديان; exact upload/full reading unreviewed."
+  },
+  {
+    "id": "e13-religion-theories",
+    "type": "presenter-argument",
+    "title": "Broad claim that materialist theories of religion collapsed",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=710s",
+    "locator": "Normalized Arabic indices 254–301; 710.48–837.829 seconds",
+    "claim": "Presenter argues that attempts to explain religion entirely through material causes failed.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 710.48,
+        "end_seconds": 837.829,
+        "normalized_segment_indices": [
+          254,
+          255,
+          256,
+          257,
+          258,
+          259,
+          260,
+          261,
+          262,
+          263,
+          264,
+          265,
+          266,
+          267,
+          268,
+          269,
+          270,
+          271,
+          272,
+          273,
+          274,
+          275,
+          276,
+          277,
+          278,
+          279,
+          280,
+          281,
+          282,
+          283,
+          284,
+          285,
+          286,
+          287,
+          288,
+          289,
+          290,
+          291,
+          292,
+          293,
+          294,
+          295,
+          296,
+          297,
+          298,
+          299,
+          300,
+          301
+        ],
+        "raw_excerpt_ar": "للنظريات الماديه في فهم الاديان ذكرت فيها بالتفصيل وهذا هو اختصاصي اصلا كيف تناول العلماء الاوروبيون من القرن الثام عشر وحتى لنقول منتصف القرن العشر نظريات",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No full history-of-religions survey supplied or inspected; article attributes and narrows this claim."
+  },
+  {
+    "id": "e13-unconscious",
+    "type": "philosophical-argument",
+    "title": "Whether the unconscious can be observed",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=790s",
+    "locator": "Normalized Arabic indices 284–288; 790.36–804.03 seconds",
+    "claim": "Presenter challenges use of the unconscious in supposedly purely observational explanation.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 790.36,
+        "end_seconds": 804.03,
+        "normalized_segment_indices": [
+          284,
+          285,
+          286,
+          287,
+          288
+        ],
+        "raw_excerpt_ar": "لك ظهور الدين ويفسر لك ايضا الظواهر النفسيه المتعلقه بالعقل الباطن العقل الباطن نفسه هل تستطيع ان ترصده اصلا هل تستطيع ان تثبت وجوده في اي عضو مادي في",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "His question does not establish that psychological constructs are invalid merely because not a discrete organ."
+  },
+  {
+    "id": "e13-embryo-analogy",
+    "type": "analogy",
+    "title": "Gestation and explanations before an observed process",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=837s",
+    "locator": "Normalized Arabic indices 302–318; 837.8389999999999–883.269 seconds",
+    "claim": "An acknowledged imperfect gestation analogy questions extending a method beyond its chosen scope.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 837.8389999999999,
+        "end_seconds": 883.269,
+        "normalized_segment_indices": [
+          302,
+          303,
+          304,
+          305,
+          306,
+          307,
+          308,
+          309,
+          310,
+          311,
+          312,
+          313,
+          314,
+          315,
+          316,
+          317,
+          318
+        ],
+        "raw_excerpt_ar": "مثال مع انه لا ينطبق تماما لو افترضنا هناك انسان يقول لك انا اختصاصي هو دراسه كيف يتشكل الجنين في الرحم ثم كيف يتطور حتى يولد",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Presenter explicitly says example does not fully fit; omitted to keep article concise without turning analogy into evidence."
+  },
+  {
+    "id": "e13-evolution-mechanism",
+    "type": "scientific-description",
+    "title": "Adaptation, mutations and medical applications",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=883s",
+    "locator": "Normalized Arabic indices 319–349; 883.279–969.389 seconds",
+    "claim": "Presenter accepts observed adaptation and antibiotic resistance but criticizes extrapolation to life’s origins.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 883.279,
+        "end_seconds": 969.389,
+        "normalized_segment_indices": [
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349
+        ],
+        "raw_excerpt_ar": "ايضا هذا يقودنا الى مثال التطور التطور كما نعرف هو نموذج تفسيري لفهم كيف تتكيف الكائنات ومن تكيفها مع الطبيعه تحدث لديها طفرات جينيه فتتطور وترتقي اكثر",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Episode blurs mutation, selection, common descent and origin of life. Article avoids purposeful mutation or stronger-always-survive shorthand."
+  },
+  {
+    "id": "e13-evolution-context",
+    "type": "scientific-context",
+    "title": "Science, Evolution, and Creationism: randomness",
+    "creators": [
+      "National Academy of Sciences",
+      "Institute of Medicine"
+    ],
+    "url": "https://nap.nationalacademies.org/skim.php?chap=49-54&record_id=11876",
+    "locator": "FAQ page 50 displayed excerpt",
+    "claim": "Undirected variation is different from evolution being entirely random.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 883.279,
+        "end_seconds": 969.389,
+        "normalized_segment_indices": [
+          319,
+          320,
+          321,
+          322,
+          323,
+          324,
+          325,
+          326,
+          327,
+          328,
+          329,
+          330,
+          331,
+          332,
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349
+        ],
+        "raw_excerpt_ar": "ايضا هذا يقودنا الى مثال التطور التطور كما نعرف هو نموذج تفسيري لفهم كيف تتكيف الكائنات ومن تكيفها مع الطبيعه تحدث لديها طفرات جينيه فتتطور وترتقي اكثر",
+        "mention_kind": "editorial-context",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Publisher’s page-50 excerpt in chapter-skim interface independently read; full page not inspected. Original read/chapter/6 returned internal error, chapter/5 showed interface without body. Added clarification, not named by channel. DOI 10.17226/11876."
+  },
+  {
+    "id": "e13-purpose",
+    "type": "philosophical-argument",
+    "title": "Survival, reproduction and ultimate purpose",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=923s",
+    "locator": "Normalized Arabic indices 333–377; 923.36–1039.829 seconds",
+    "claim": "Presenter asks who established life’s order and why survival should be an ultimate good.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 923.36,
+        "end_seconds": 1039.829,
+        "normalized_segment_indices": [
+          333,
+          334,
+          335,
+          336,
+          337,
+          338,
+          339,
+          340,
+          341,
+          342,
+          343,
+          344,
+          345,
+          346,
+          347,
+          348,
+          349,
+          350,
+          351,
+          352,
+          353,
+          354,
+          355,
+          356,
+          357,
+          358,
+          359,
+          360,
+          361,
+          362,
+          363,
+          364,
+          365,
+          366,
+          367,
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377
+        ],
+        "raw_excerpt_ar": "وغيرها الان هذه العلوم لو اقتصرت فقط على فهم اليه التكيف ونشوء طفرات جينيه مثلا ما في مشكله نحن نتحدث هنا عن علم مرصود يمكن ان ترصده بالملاحظه وتثبته بالتجربه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Theological/philosophical questions; not claims that a biological process itself evaluates moral goods."
+  },
+  {
+    "id": "e13-dawkins",
+    "type": "attribution",
+    "title": "Dawkins and atheist advocacy",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 368–377; 1015.8–1039.829 seconds",
+    "claim": "Presenter invokes an evolutionary biologist as an example of atheist advocacy.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1015.8,
+        "end_seconds": 1039.829,
+        "normalized_segment_indices": [
+          368,
+          369,
+          370,
+          371,
+          372,
+          373,
+          374,
+          375,
+          376,
+          377
+        ],
+        "raw_excerpt_ar": "الفلاسفه بل ايضا بعض التطورين البيولوجيين اصلا وليسوا فلاسفه المتطرفين مثل تشارلز دوكنز هو نفسه يقول لك نحن لسنا مضطرين الايمان لسنا مضطرين نقول من",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "ASR says تشارلز دوكنز, probably Richard Dawkins but audio not checked. No exact quotation/book located; name and alleged everything-by-chance quotation omitted."
+  },
+  {
+    "id": "e13-trauma",
+    "type": "clinical-interpretation",
+    "title": "Trauma as a precursor to psychosis",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1039s",
+    "locator": "Normalized Arabic indices 378–398; 1039.839–1095.07 seconds",
+    "claim": "Presenter describes trauma followed by psychosis and objects to treating correlation as a complete account.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1039.839,
+        "end_seconds": 1095.07,
+        "normalized_segment_indices": [
+          378,
+          379,
+          380,
+          381,
+          382,
+          383,
+          384,
+          385,
+          386,
+          387,
+          388,
+          389,
+          390,
+          391,
+          392,
+          393,
+          394,
+          395,
+          396,
+          397,
+          398
+        ],
+        "raw_excerpt_ar": "هذا المبدا على الاعراض اعراض الامراض الطبيب هو الذي يصنف ويشخص ويصف الدواء للعلاج ويفترض انه لا يبحث عن الاسباب ولا في الغائيه لانه لا يملك الادوات اصلا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "His غالبا إن لم يكن دائما wording is not an established rate; no inevitability claim retained. NIMH context reused separately."
+  },
+  {
+    "id": "e13-burden",
+    "type": "philosophical-argument",
+    "title": "Can a method exclude an unseen cause?",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1095s",
+    "locator": "Normalized Arabic indices 399–419; 1095.08–1154.07 seconds",
+    "claim": "Presenter asks whether material instruments can rule out an unobserved cause and acknowledges burden of proof.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1095.08,
+        "end_seconds": 1154.07,
+        "normalized_segment_indices": [
+          399,
+          400,
+          401,
+          402,
+          403,
+          404,
+          405,
+          406,
+          407,
+          408,
+          409,
+          410,
+          411,
+          412,
+          413,
+          414,
+          415,
+          416,
+          417,
+          418,
+          419
+        ],
+        "raw_excerpt_ar": "الذي اطرحه هنا انت اذا كنت تكتشف ان الجسم لديه ادوات واليات للتطور وللبقاء وان العقل الباطن او الدماغ لديه ايضا اليات للبقاء والتطور او معالجه بعض",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Inability to exclude is not positive evidence of a particular diagnosis; article states that distinction."
+  },
+  {
+    "id": "e13-marzinsky-return",
+    "type": "testimony-interpretation",
+    "title": "Returning to Marzinsky’s pattern of voices",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1154s",
+    "locator": "Normalized Arabic indices 420–454; 1154.08–1252.11 seconds",
+    "claim": "Presenter cites allegedly hostile voices, external information and response to spiritual treatment.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1154.08,
+        "end_seconds": 1252.11,
+        "normalized_segment_indices": [
+          420,
+          421,
+          422,
+          423,
+          424,
+          425,
+          426,
+          427,
+          428,
+          429,
+          430,
+          431,
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454
+        ],
+        "raw_excerpt_ar": "شواهد د وقرائن وادله يقينيه على وجود الشياطين طبعا لا اتحدث الان عن قضيه وجود الله سبحانه وتعالى في موضوع التطور موضوعنا الان هو الهلوسات والجن فلما اقول",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Episode 11 handles original interview excerpts; this is repetition and interpretation, not new independently examined case records."
+  },
+  {
+    "id": "e13-energy-feeding",
+    "type": "spiritual-mechanism-claim",
+    "title": "Concealed beings feeding on emotional energy",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 443–454; 1217.48–1252.11 seconds",
+    "claim": "Presenter proposes concealment and feeding on negative emotional energy.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1217.48,
+        "end_seconds": 1252.11,
+        "normalized_segment_indices": [
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454
+        ],
+        "raw_excerpt_ar": "التفكير الطفولي هؤلاء الاطباء الذين هم اكبر مني في العمر وفي القدر يظنون انهم لما يعالجوا المريض بالادويه فهنا الشيطان سينطق كما ينطق لما نحن نعالجه بالرقيه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No measured entity, mechanism or independent experiment; not adopted as established fact."
+  },
+  {
+    "id": "e13-baudelaire",
+    "type": "literature",
+    "title": "Le Joueur généreux",
+    "creators": [
+      "Charles Baudelaire"
+    ],
+    "url": "https://fr.wikisource.org/wiki/Le_Joueur_généreux",
+    "locator": "Paragraph beginning Elle m’expliqua; preacher quotation",
+    "claim": "A literary passage describes the devil recalling a preacher’s warning about denial of his existence.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1252.12,
+        "end_seconds": 1275.47,
+        "normalized_segment_indices": [
+          455,
+          456,
+          457,
+          458,
+          459,
+          460,
+          461,
+          462,
+          463
+        ],
+        "raw_excerpt_ar": "بودلير اعظم خدعه اخترعها الشيطان في هذا العصر هي اقناع العالم بانه غير موجود بل اقول ايضا كما ان هذه الشياطين توسوس للمريض بانها غير موجوده وانها تاتيه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "French passage independently read through the original literary text transcription. Displayed 1869 edition, Petits Poèmes en prose XXIX, pp.87–91. No claim to earliest publication research; fictional narrator/dialogue, not a hadith or clinical experiment."
+  },
+  {
+    "id": "e13-expertise",
+    "type": "philosophical-argument",
+    "title": "Clinical expertise and criticism of philosophical assumptions",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1275s",
+    "locator": "Normalized Arabic indices 464–491; 1275.48–1351.789 seconds",
+    "claim": "Dadoosh distinguishes developing treatment from evaluating a method’s philosophical assumptions.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1275.48,
+        "end_seconds": 1351.789,
+        "normalized_segment_indices": [
+          464,
+          465,
+          466,
+          467,
+          468,
+          469,
+          470,
+          471,
+          472,
+          473,
+          474,
+          475,
+          476,
+          477,
+          478,
+          479,
+          480,
+          481,
+          482,
+          483,
+          484,
+          485,
+          486,
+          487,
+          488,
+          489,
+          490,
+          491
+        ],
+        "raw_excerpt_ar": "وجدتها لبعض الاطباء نحن اهل الخبره ومن انتم لتصححوا لنا بغض النظر عن الاستعلاء هنا والسبب النفسي فانا ايضا لا اريد ان اقع في نفس الفخ ادافع عن نفسي نحن هنا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "His assertion that a few pages suffice to critique a whole field is not adopted. Criticism requires accurate understanding of actual positions."
+  },
+  {
+    "id": "e13-waswasah",
+    "type": "religious-interpretation",
+    "title": "Extending waswasah across psychiatric conditions",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1351s",
+    "locator": "Normalized Arabic indices 492–513; 1351.799–1411.63 seconds",
+    "claim": "Presenter interprets several distinct diagnoses and troubling thoughts as whispering.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1351.799,
+        "end_seconds": 1411.63,
+        "normalized_segment_indices": [
+          492,
+          493,
+          494,
+          495,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503,
+          504,
+          505,
+          506,
+          507,
+          508,
+          509,
+          510,
+          511,
+          512,
+          513
+        ],
+        "raw_excerpt_ar": "اخرى كل ما يذكر عن عالم الشياطين والجن والسحر فورا للاسف حتى عند بعض يرفع رايه الوسوسه حتى صارت هستيريا الشيطان لا يؤثر الا بالوسوسه ورددنا على",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Do not equate clinical conditions or tell readers their symptoms prove possession; episode 12 OCD context remains available."
+  },
+  {
+    "id": "e13-belief-series",
+    "type": "video-allusion",
+    "title": "Why I believed in Allah series",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 514–523; 1411.64–1439.87 seconds",
+    "claim": "Presenter recalls discussing his period of doubt in an early channel series.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1411.64,
+        "end_seconds": 1439.87,
+        "normalized_segment_indices": [
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523
+        ],
+        "raw_excerpt_ar": "فقط في الصلاه وفي امور عياديه حياتيه لما تشعر بانه في صوت يزن عليك حتى يبطل عليك حياتك اول سلسله نزلتها على هذه القناه كانت لماذا امنت بالله وذكرت فيها",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "لماذا آمنت بالله; exact episodes and full prior accounts not inspected."
+  },
+  {
+    "id": "e13-personal-doubt",
+    "type": "personal-testimony",
+    "title": "Religious doubt and prayer in the presenter’s twenties",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1411s",
+    "locator": "Normalized Arabic indices 514–542; 1411.64–1488.11 seconds",
+    "claim": "Presenter recalls doubts intensifying in prayer and credits Allah’s help with recovery.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1411.64,
+        "end_seconds": 1488.11,
+        "normalized_segment_indices": [
+          514,
+          515,
+          516,
+          517,
+          518,
+          519,
+          520,
+          521,
+          522,
+          523,
+          524,
+          525,
+          526,
+          527,
+          528,
+          529,
+          530,
+          531,
+          532,
+          533,
+          534,
+          535,
+          536,
+          537,
+          538,
+          539,
+          540,
+          541,
+          542
+        ],
+        "raw_excerpt_ar": "فقط في الصلاه وفي امور عياديه حياتيه لما تشعر بانه في صوت يزن عليك حتى يبطل عليك حياتك اول سلسله نزلتها على هذه القناه كانت لماذا امنت بالله وذكرت فيها",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Retrospective personal interpretation, no clinical diagnosis. Do not convert hypothetical depression classification into a confirmed diagnosis."
+  },
+  {
+    "id": "e13-hidden-allegiance",
+    "type": "historical-allegation",
+    "title": "Bacon and Newton allegedly concealed satanic allegiance",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 543–565; 1488.12–1548.11 seconds",
+    "claim": "Presenter connects early modern science, esotericism and an alleged satanic strategy.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1488.12,
+        "end_seconds": 1548.11,
+        "normalized_segment_indices": [
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565
+        ],
+        "raw_excerpt_ar": "ننتقل الى نقطه اخرى ما رايك عزيزي المستمع واخبرتك ان من وضعوا المنهج التجريبي تحديدا بيكن ونيوتن وغيرهم هم انفسهم لم يكونوا ماديين ولا ملحدين تخيل",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No primary evidence supplied for the allegation. Newton’s own text does not support it; esoteric or alchemical interests do not establish satanic allegiance. Bacon claim likewise unresolved; omitted as fact."
+  },
+  {
+    "id": "e13-newton",
+    "type": "primary-text",
+    "title": "Newton’s General Scholium",
+    "creators": [
+      "Isaac Newton"
+    ],
+    "url": "https://www.newtonproject.ox.ac.uk/view/texts/normalized/NATP00056",
+    "locator": "Divine ruler/final causes and experimental philosophy passages",
+    "claim": "Newton explicitly discusses divine government and empirical restraint in the same work.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1488.12,
+        "end_seconds": 1548.11,
+        "normalized_segment_indices": [
+          543,
+          544,
+          545,
+          546,
+          547,
+          548,
+          549,
+          550,
+          551,
+          552,
+          553,
+          554,
+          555,
+          556,
+          557,
+          558,
+          559,
+          560,
+          561,
+          562,
+          563,
+          564,
+          565
+        ],
+        "raw_excerpt_ar": "ننتقل الى نقطه اخرى ما رايك عزيزي المستمع واخبرتك ان من وضعوا المنهج التجريبي تحديدا بيكن ونيوتن وغيرهم هم انفسهم لم يكونوا ماديين ولا ملحدين تخيل",
+        "mention_kind": "editorial-context",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Normalized Newton Project transcription of 1729 English edition, vol.2 pp.387–393 read. Supports distinction from blanket atheism; not proof of secret allegiance, a history of all science or endorsement of his theology."
+  },
+  {
+    "id": "e13-comte",
+    "type": "primary-text",
+    "title": "Cours de philosophie positive: first lecture",
+    "creators": [
+      "Auguste Comte"
+    ],
+    "url": "https://www.gutenberg.org/files/31881/31881-h/31881-h.htm",
+    "locator": "1830, vol.1, Première leçon, Cette loi consiste…",
+    "claim": "Comte names theological, metaphysical and positive stages.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1548.12,
+        "end_seconds": 1559.23,
+        "normalized_segment_indices": [
+          566,
+          567,
+          568,
+          569
+        ],
+        "raw_excerpt_ar": "والمنهج الذي فصلناه في حلقه قصه العلم الحديث منهج اوجست كونت والذي راى البشريه تتطور من ديني الى سحري الى طبيعي بنفس المعنى ايضا بل ايضا ماكس فيبر لاحقا قال",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Opening French passage stating three stages independently read in Gutenberg vol.1. Corrects episode’s religious–magical–natural shorthand; no validation of universal historical law."
+  },
+  {
+    "id": "e13-weber",
+    "type": "scholarly-attribution",
+    "title": "Max Weber and disenchantment",
+    "creators": [
+      "Max Weber"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 569–574; 1556.24–1572.35 seconds",
+    "claim": "Presenter describes disenchantment as a great modern achievement attributed to Weber.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1556.24,
+        "end_seconds": 1572.35,
+        "normalized_segment_indices": [
+          569,
+          570,
+          571,
+          572,
+          573,
+          574
+        ],
+        "raw_excerpt_ar": "المعنى ايضا بل ايضا ماكس فيبر لاحقا قال انه من اكبر انجازات البشريه في هذا العصر الحديث هي نزع السحر عن العالم وهذا هو المنهج الذي نعيش فيه اليوم وهذا هو الذي",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Named concept identified but exact work, passage and approving evaluation not independently checked. Do not make his evaluative wording an authenticated quotation."
+  },
+  {
+    "id": "e13-training-duration",
+    "type": "professional-claim",
+    "title": "Length and demands of psychiatric training",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 581–608; 1587.36–1664.47 seconds",
+    "claim": "Presenter gives several possible sequences totaling roughly ten to twelve years.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1587.36,
+        "end_seconds": 1664.47,
+        "normalized_segment_indices": [
+          581,
+          582,
+          583,
+          584,
+          585,
+          586,
+          587,
+          588,
+          589,
+          590,
+          591,
+          592,
+          593,
+          594,
+          595,
+          596,
+          597,
+          598,
+          599,
+          600,
+          601,
+          602,
+          603,
+          604,
+          605,
+          606,
+          607,
+          608
+        ],
+        "raw_excerpt_ar": "الطبيب تحديدا الطبيب النفسي خصوصا في العالم العربي يجب ان يدرس ما بين سته الى سبع سنوات في البدايه في كليه الطب البشري ثم سنه او سنتين للتدريب حسب الدوله ثم",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No jurisdiction-specific curriculum checked. Avoid presenting one total as universal."
+  },
+  {
+    "id": "e13-professional-culture",
+    "type": "presenter-opinion",
+    "title": "Investment in training, belonging and reluctance to reconsider",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1572s",
+    "locator": "Normalized Arabic indices 575–651; 1572.36–1774.19 seconds",
+    "claim": "Presenter proposes training investment, social identity and limited time as sources of resistance.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1572.36,
+        "end_seconds": 1774.19,
+        "normalized_segment_indices": [
+          575,
+          576,
+          577,
+          578,
+          579,
+          580,
+          581,
+          582,
+          583,
+          584,
+          585,
+          586,
+          587,
+          588,
+          589,
+          590,
+          591,
+          592,
+          593,
+          594,
+          595,
+          596,
+          597,
+          598,
+          599,
+          600,
+          601,
+          602,
+          603,
+          604,
+          605,
+          606,
+          607,
+          608,
+          609,
+          610,
+          611,
+          612,
+          613,
+          614,
+          615,
+          616,
+          617,
+          618,
+          619,
+          620,
+          621,
+          622,
+          623,
+          624,
+          625,
+          626,
+          627,
+          628,
+          629,
+          630,
+          631,
+          632,
+          633,
+          634,
+          635,
+          636,
+          637,
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647,
+          648,
+          649,
+          650,
+          651
+        ],
+        "raw_excerpt_ar": "ناتي الان الى الجانب النفسي ولا اعمم ما ساقوله الان على كل طبيب حتى لو كان من المنكرين والذين يهاجمون ما نقول بكل اختصار وتواضع اقول الطبيب هو ابن بيئته",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "He explicitly avoids generalizing to every doctor. No survey or assessment of named practitioners’ motives."
+  },
+  {
+    "id": "e13-religious-socialization",
+    "type": "analogy",
+    "title": "Religious communities and inherited assumptions",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1678s",
+    "locator": "Normalized Arabic indices 615–634; 1678.12–1728.389 seconds",
+    "claim": "Presenter compares professional belonging with attachment to inherited religious schools.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1678.12,
+        "end_seconds": 1728.389,
+        "normalized_segment_indices": [
+          615,
+          616,
+          617,
+          618,
+          619,
+          620,
+          621,
+          622,
+          623,
+          624,
+          625,
+          626,
+          627,
+          628,
+          629,
+          630,
+          631,
+          632,
+          633,
+          634
+        ],
+        "raw_excerpt_ar": "لا يفكر فيه لماذا لا يخرج من هذا الصندوق لانه البشريه عموم الناس لا يفكرون خارج الصندوق حتى الشيخ ايضا لن يخرج من منظومته الفقهيه والعقديه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Country/sect examples are illustrations, not demographic research. Article avoids universal identity claims."
+  },
+  {
+    "id": "e13-critical-thinking-training",
+    "type": "education-claim",
+    "title": "Claim that critical thinking is absent from training",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 634–647; 1726.36–1762.669 seconds",
+    "claim": "Presenter says some health-science students have no training outside the empirical framework.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1726.36,
+        "end_seconds": 1762.669,
+        "normalized_segment_indices": [
+          634,
+          635,
+          636,
+          637,
+          638,
+          639,
+          640,
+          641,
+          642,
+          643,
+          644,
+          645,
+          646,
+          647
+        ],
+        "raw_excerpt_ar": "والكلام السابق الذي كنت اقوله عن المنهج العلمي ينطبق هنا على من درس الطب النفسي وحتى على كل الكليات الطبيه والصحيه يعني معالج نفسي درس في كليه علم النفس وليس في",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No curricula surveyed; blanket absence of critical thinking not established or repeated."
+  },
+  {
+    "id": "e13-medication-recovery",
+    "type": "clinical-claim",
+    "title": "Medication as suppression and alleged lifelong dependence",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1774s",
+    "locator": "Normalized Arabic indices 652–670; 1774.2–1826.789 seconds",
+    "claim": "Presenter characterizes drugs as shutting down symptoms and medical care as partial or temporary.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1774.2,
+        "end_seconds": 1826.789,
+        "normalized_segment_indices": [
+          652,
+          653,
+          654,
+          655,
+          656,
+          657,
+          658,
+          659,
+          660,
+          661,
+          662,
+          663,
+          664,
+          665,
+          666,
+          667,
+          668,
+          669,
+          670
+        ],
+        "raw_excerpt_ar": "الى ذلك ايضا هو يعمل في منظومه ناجحه عمليا هو يرى النتائج يرى انه هؤلاء المرضى عنده لما ياخذوا هذا الدواء وهذا الدواء يطفئ العقل اصلا ويطفئ الاسباب",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Universal no-recovery/lifelong-medication claim is not supported; article adds NIMH recovery and multi-component care context."
+  },
+  {
+    "id": "e13-spiritual-vulnerability",
+    "type": "spiritual-interpretation",
+    "title": "Spirits allegedly exploiting an existing vulnerability",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1797s",
+    "locator": "Normalized Arabic indices 661–670; 1797.12–1826.789 seconds",
+    "claim": "Presenter says devils exploit rather than create certain brain, genetic or trauma-related vulnerabilities.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1797.12,
+        "end_seconds": 1826.789,
+        "normalized_segment_indices": [
+          661,
+          662,
+          663,
+          664,
+          665,
+          666,
+          667,
+          668,
+          669,
+          670
+        ],
+        "raw_excerpt_ar": "الشياطين هي لا تخلق هذا السبب الدماغي هي ترى انه في سبب دماغي في خلل كيميائي في تروما في جينات تستغل هذا الامر وتوسوس له اكثر مما توسوس للناس العاديين فتتلبس به",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "A proposed spiritual model, not verified pathophysiology; avoid asserting every illness has a jinn cause."
+  },
+  {
+    "id": "e13-intelligence-community",
+    "type": "social-interpretation",
+    "title": "Intellectual ability and social belonging",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1826s",
+    "locator": "Normalized Arabic indices 671–690; 1826.799–1880.269 seconds",
+    "claim": "Presenter argues expertise in one field does not remove attachment to inherited beliefs.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1826.799,
+        "end_seconds": 1880.269,
+        "normalized_segment_indices": [
+          671,
+          672,
+          673,
+          674,
+          675,
+          676,
+          677,
+          678,
+          679,
+          680,
+          681,
+          682,
+          683,
+          684,
+          685,
+          686,
+          687,
+          688,
+          689,
+          690
+        ],
+        "raw_excerpt_ar": "لك لماذا هناك عباقر ايضا لا يتمردون على منظوماتهم الايديولوجيه لماذا ترى هناك طبيب او عبقري في الفيزياء ما زال مؤمنا بدين خرافي ما زال يضع القرابين مثلا لبعض",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Generic illustrations only; no evidence that any particular religious community’s doctors lack critical thought."
+  },
+  {
+    "id": "e13-medical-contribution",
+    "type": "presenter-opinion",
+    "title": "Acknowledging medical institutions and their benefits",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1880s",
+    "locator": "Normalized Arabic indices 691–705; 1880.279–1916.95 seconds",
+    "claim": "Presenter acknowledges the scale, accumulated knowledge and benefits of modern medicine.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1880.279,
+        "end_seconds": 1916.95,
+        "normalized_segment_indices": [
+          691,
+          692,
+          693,
+          694,
+          695,
+          696,
+          697,
+          698,
+          699,
+          700,
+          701,
+          702,
+          703,
+          704,
+          705
+        ],
+        "raw_excerpt_ar": "مشاكل اخرى اضف ايضا الى ذلك ان المنظومه الطبيه لها مؤسسات ولها هياكل ولها جامعات ولها خبرات ولها قدر كبير من الفضل على البشريه هذا لا ينكر نهائيا فلذلك هو لا",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Retain qualification; do not turn critique into a claim that medicine has no value."
+  },
+  {
+    "id": "e13-spiritual-care",
+    "type": "clinical-guidance",
+    "title": "Spirituality and mental health",
+    "creators": [
+      "Royal College of Psychiatrists"
+    ],
+    "url": "https://www.rcpsych.ac.uk/mental-health/treatments-and-wellbeing/spirituality-and-mental-health",
+    "locator": "What is spiritual health care?; Involving your faith leader; Chaplaincy",
+    "claim": "Professional psychiatric guidance includes respect for faith, prayer and patient-chosen spiritual support.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-21",
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1880.279,
+        "end_seconds": 1916.95,
+        "normalized_segment_indices": [
+          691,
+          692,
+          693,
+          694,
+          695,
+          696,
+          697,
+          698,
+          699,
+          700,
+          701,
+          702,
+          703,
+          704,
+          705
+        ],
+        "raw_excerpt_ar": "مشاكل اخرى اضف ايضا الى ذلك ان المنظومه الطبيه لها مؤسسات ولها هياكل ولها جامعات ولها خبرات ولها قدر كبير من الفضل على البشريه هذا لا ينكر نهائيا فلذلك هو لا",
+        "mention_kind": "editorial-context",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "RCPsych original public leaflet read, spiritual care/faith leader/chaplaincy sections. June2021, revised by Chris Cook and Lucy Grimwade. Supports room for religion in care, not possession diagnosis or efficacy of a specific ruqyah method."
+  },
+  {
+    "id": "e13-fraud-conversation",
+    "type": "private-testimony",
+    "title": "Unnamed therapist’s estimate of fraudulent practitioners",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1916s",
+    "locator": "Normalized Arabic indices 706–726; 1916.96–1972.43 seconds",
+    "claim": "Presenter reports a therapist saying 99 percent of healers are fraudulent and questions the statistic.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1916.96,
+        "end_seconds": 1972.43,
+        "normalized_segment_indices": [
+          706,
+          707,
+          708,
+          709,
+          710,
+          711,
+          712,
+          713,
+          714,
+          715,
+          716,
+          717,
+          718,
+          719,
+          720,
+          721,
+          722,
+          723,
+          724,
+          725,
+          726
+        ],
+        "raw_excerpt_ar": "كل ما سبق ايضا ما لا ننكره من وجود الكثير من الدجالين ايضا في الطرف الاخر طرف الرقيه والع العلاج الروحي فربما لا تكون لدى الطبيب النفسي مشكله مع الشيخ",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No survey or recording; also mentions hypothetical 90/10 and 1-percent alternatives. None is a measured prevalence."
+  },
+  {
+    "id": "e13-prior-practitioners",
+    "type": "video-allusion",
+    "title": "Earlier discussion of two ruqyah practitioners",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1972s",
+    "locator": "Normalized Arabic indices 727–729; 1972.44–1979.59 seconds",
+    "claim": "Presenter refers to the previous episode criticizing two experienced practitioners.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1972.44,
+        "end_seconds": 1979.59,
+        "normalized_segment_indices": [
+          727,
+          728,
+          729
+        ],
+        "raw_excerpt_ar": "وذكرنا في حلقه سابقه كيف انه اثنين من كبار من عملوا في الرقيه صار عندهم خلل وعندهم نقص في المعلومات وفي التصور لانه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Episode12 mnl6N1wSUxI covers al-Umari and Bali; article cross-context without a new factual claim about them."
+  },
+  {
+    "id": "e13-practice-experience",
+    "type": "religious-practice-interpretation",
+    "title": "Scripture, oral experience and spiritual strength",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=1979s",
+    "locator": "Normalized Arabic indices 730–763; 1979.6–2068.23 seconds",
+    "claim": "Presenter distinguishes scriptural examples from later oral experience and emphasizes faith and readiness.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 1979.6,
+        "end_seconds": 2068.23,
+        "normalized_segment_indices": [
+          730,
+          731,
+          732,
+          733,
+          734,
+          735,
+          736,
+          737,
+          738,
+          739,
+          740,
+          741,
+          742,
+          743,
+          744,
+          745,
+          746,
+          747,
+          748,
+          749,
+          750,
+          751,
+          752,
+          753,
+          754,
+          755,
+          756,
+          757,
+          758,
+          759,
+          760,
+          761,
+          762,
+          763
+        ],
+        "raw_excerpt_ar": "هذه النقطه المهمه علم الرقيه هذا علم الرقيه ليس علما مكتوبا يستند في جزء منه الى النصوص في الوحي لكن النبي صلى الله عليه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Hadith locators separately reused. Do not infer a suffering patient has weak faith or that all practice is exclusively oral."
+  },
+  {
+    "id": "e13-nonmuslim-cures",
+    "type": "testimony",
+    "title": "Unspecified Christians and atheists reportedly benefiting",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=2054s",
+    "locator": "Normalized Arabic indices 759–763; 2054.399–2068.23 seconds",
+    "claim": "Presenter cites unnamed people of other beliefs who allegedly benefited from ruqyah.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2054.399,
+        "end_seconds": 2068.23,
+        "normalized_segment_indices": [
+          759,
+          760,
+          761,
+          762,
+          763
+        ],
+        "raw_excerpt_ar": "موجوده عند كل الناس قران نعرفه ثم ايضا ايمان المرقي وقوته الروحيه ايضا واستعداده للتلقي وقد لا يكون مسلما نعرف حالات كثيره لمسيحيين وملحدين ذهبوا الى",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No patient records, outcomes or concurrent treatments independently inspected."
+  },
+  {
+    "id": "e13-combined-care",
+    "type": "presenter-proposal",
+    "title": "Muslim scholarship and combined spiritual/medical care",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=2068s",
+    "locator": "Normalized Arabic indices 764–800; 2068.24–2170.19 seconds",
+    "claim": "Presenter calls for a stronger research tradition and recommends ruqyah alongside medical treatment.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2068.24,
+        "end_seconds": 2170.19,
+        "normalized_segment_indices": [
+          764,
+          765,
+          766,
+          767,
+          768,
+          769,
+          770,
+          771,
+          772,
+          773,
+          774,
+          775,
+          776,
+          777,
+          778,
+          779,
+          780,
+          781,
+          782,
+          783,
+          784,
+          785,
+          786,
+          787,
+          788,
+          789,
+          790,
+          791,
+          792,
+          793,
+          794,
+          795,
+          796,
+          797,
+          798,
+          799,
+          800
+        ],
+        "raw_excerpt_ar": "السؤال الان ما هو الحل اختصار هذه مشكله حضاره مشكله امه نحن امه منهاره منهزمه ضعيفه امه تستورد هذا العلم التجريبي احنا ما نستطيع للاسف ما عندنا القابليه الان",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No prescription to delay assessment; article preserves simultaneous care while distinguishing spiritual mechanism claims."
+  },
+  {
+    "id": "e13-licensing",
+    "type": "regulatory-claim",
+    "title": "Alleged loss of licence for departing from the framework",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 778–782; 2106.72–2119.95 seconds",
+    "claim": "Presenter suggests a physician could lose licensing for departing from the required approach.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2106.72,
+        "end_seconds": 2119.95,
+        "normalized_segment_indices": [
+          778,
+          779,
+          780,
+          781,
+          782
+        ],
+        "raw_excerpt_ar": "لابس جلابيه لذلك سيقول لك انا ماذا افعل انا سابقى ملتزم بهذا المنهج التجريبي الذي احصل على الرخصه عليه واذا خالفته ستصحب الرخصه مني فلذلك حتى تنهض هذه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No country, regulation or disciplinary decision identified; not presented as current law."
+  },
+  {
+    "id": "e13-scholars-percentage",
+    "type": "opinion-statistic",
+    "title": "Claim that most scholars advise medical assessment first",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 783–795; 2119.96–2155.71 seconds",
+    "claim": "Presenter estimates 90 percent of scholars/muftis recommend a physician before a raqi.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2119.96,
+        "end_seconds": 2155.71,
+        "normalized_segment_indices": [
+          783,
+          784,
+          785,
+          786,
+          787,
+          788,
+          789,
+          790,
+          791,
+          792,
+          793,
+          794,
+          795
+        ],
+        "raw_excerpt_ar": "هنا يمكن ان تجد الفارق وعندها ستجد ان الكثير من المشايخ والعلماء الكبار والذين يحترمهم علماء الدين والعقيده الكبار ولن اذكر اسماء الان هؤلاء هم ايضا دافع عقده",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No survey or named fatwa corpus; unsupported estimate not repeated."
+  },
+  {
+    "id": "e13-commercial-allegations",
+    "type": "institutional-allegation",
+    "title": "Commercial incentives and alleged suppression",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Normalized Arabic indices 801–829; 2170.2–2244.75 seconds",
+    "claim": "Presenter alleges some practitioners and companies resist spiritual care for financial reasons.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2170.2,
+        "end_seconds": 2244.75,
+        "normalized_segment_indices": [
+          801,
+          802,
+          803,
+          804,
+          805,
+          806,
+          807,
+          808,
+          809,
+          810,
+          811,
+          812,
+          813,
+          814,
+          815,
+          816,
+          817,
+          818,
+          819,
+          820,
+          821,
+          822,
+          823,
+          824,
+          825,
+          826,
+          827,
+          828,
+          829
+        ],
+        "raw_excerpt_ar": "اخر فيما نقوله هو كما يقول الاخوه في مصر سبوبه ومره اخرى انا هنا لا اعمم الطبيب النفسي يعرف انه لو قالمريض اذهب الى الشيخ والراقي سيبقى هو بلا عمل واضف الى",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No named documentary case supporting a coordinated campaign, criminal conduct or prosecution inspected. His no-generalization qualification retained."
+  },
+  {
+    "id": "e13-protective-motive",
+    "type": "presenter-interpretation",
+    "title": "Clinicians who fear exposing patients to fraud",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=2244s",
+    "locator": "Normalized Arabic indices 830–837; 2244.76–2264.95 seconds",
+    "claim": "Presenter allows that a sincere doctor might intend to protect a patient from charlatans.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2244.76,
+        "end_seconds": 2264.95,
+        "normalized_segment_indices": [
+          830,
+          831,
+          832,
+          833,
+          834,
+          835,
+          836,
+          837
+        ],
+        "raw_excerpt_ar": "حتى لو كان الطبيب يؤمن بكل ما ذكرناه ويعترف بوجود مس وهو يخاف الله وليس مجرما وليس متواطئا مع مافيات الادويه هو قد يبرر لنفسه بانه لما ياتيه مريض ويعرف انه",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "Retain this non-malicious alternative; no individual motive established."
+  },
+  {
+    "id": "e13-closing",
+    "type": "presenter-opinion",
+    "title": "Closing qualifications and hoped-for recovery",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=VGFfbluWmEo&t=2264s",
+    "locator": "Normalized Arabic indices 838–852; 2264.96–2305.839 seconds",
+    "claim": "Presenter repeats his concealment interpretation, disclaims generalization and wishes patients recovery.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "VGFfbluWmEo",
+        "start_seconds": 2264.96,
+        "end_seconds": 2305.839,
+        "normalized_segment_indices": [
+          838,
+          839,
+          840,
+          841,
+          842,
+          843,
+          844,
+          845,
+          846,
+          847,
+          848,
+          849,
+          850,
+          851,
+          852
+        ],
+        "raw_excerpt_ar": "نفينا كل ما سبق كما ان الشياطين توسوس للمريض وتاتيه بهذه الهواجس والهلوسات وتقنعه بان هذا صوته الداخلي هي ايضا توسوس للطبيب وتريد ان تقنعه بانه ما في",
+        "mention_kind": "spoken-or-alluded",
+        "excerpt_note": "Exact first up to four normalized Arabic ASR segments in discussion window; not quotation from an external source. Editorial context is independently added, not necessarily named in episode."
+      }
+    ],
+    "notes": "No inference that disagreement proves satanic influence. Final cue overhang is 1.839 seconds."
+  }
+]

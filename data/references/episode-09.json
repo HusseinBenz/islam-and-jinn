@@ -1,0 +1,1719 @@
+[
+  {
+    "id": "e09-film",
+    "type": "film",
+    "title": "Fireball: Visitors From Darker Worlds",
+    "creators": [
+      "Werner Herzog",
+      "Clive Oppenheimer",
+      "Apple TV Press"
+    ],
+    "url": "https://www.apple.com/tv-pr/originals/fireball-visitors-from-darker-worlds/",
+    "locator": "Apple TV Press synopsis, directors and release date: 13 November 2020",
+    "claim": "Documentary discussed in the episode is the 2020 Herzog/Oppenheimer film.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 60,
+        "end_seconds": 90,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الحلقه سنتحدث فيها عن كل ما يتعلق بملف النيازك والشهب والرؤيه الاسلاميه رؤيه الوحي الصحيحه لهذا الموضوع وايضا سنمر على هذه الاساطير والابعاد الروحيه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Publisher page inspected for identification. Film itself, subtitles and exact scene wording not independently reviewed; every scene claim below remains separately attributed."
+  },
+  {
+    "id": "e09-shared-myths",
+    "type": "presenter-opinion",
+    "title": "Similarities between celestial traditions",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=0s",
+    "locator": "Complete normalized Arabic captions, discussion 0–90 seconds",
+    "claim": "Presenter interprets similarities between distant traditions as demonic deception.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 0,
+        "end_seconds": 90,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم. الكواكب والنجوم ارتبطت تاريخيا بعلم التنجيد والشياطين استطاعت ان تضلل الكثير من الناس بربط عقائدهم بالنجوم والكواكب فعبدت الشياطين نفسها من",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No comparative dataset establishes a single causal origin or absence of cultural contact. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-meteor-terms",
+    "type": "astronomy",
+    "title": "Meteors and Meteorites",
+    "creators": [
+      "NASA"
+    ],
+    "url": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "locator": "What is the difference between a meteoroid, a meteor, and a meteorite?",
+    "claim": "Meteoroid in space, meteor atmospheric phenomenon, meteorite surviving material reaching the ground.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 90,
+        "end_seconds": 205,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في البدايه نميز بين المذنبات والشهب والنيازك المذنب هو جرم سماوي ضخم يكون يعني اصغر من الكويكب وطبعا اكبر من النيزك ويدور في مدار ثابت هو مثل الكواكب",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Definitions read. A meteor need not be defined as an object that completely burns up; a surviving fragment can become a meteorite."
+  },
+  {
+    "id": "e09-halley",
+    "type": "astronomy",
+    "title": "1P/Halley",
+    "creators": [
+      "NASA"
+    ],
+    "url": "https://science.nasa.gov/solar-system/comets/1p-halley/",
+    "locator": "Orbit and Lifetime sections",
+    "claim": "Halley is a periodic comet; caption reads about eight years.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 90,
+        "end_seconds": 125,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في البدايه نميز بين المذنبات والشهب والنيازك المذنب هو جرم سماوي ضخم يكون يعني اصغر من الكويكب وطبعا اكبر من النيزك ويدور في مدار ثابت هو مثل الكواكب",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "NASA gives average orbital period 76 years, not eight. Caption error or spoken slip needs audio review; do not assume which. No universal comet/asteroid size hierarchy accepted."
+  },
+  {
+    "id": "e09-comet-tail",
+    "type": "astronomy-claim",
+    "title": "Comet speed, tails and size comparison",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 90–135 seconds; original source locator pending",
+    "claim": "Presenter describes a rocket-like speed and a trailing tail and compares sizes with asteroids.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 90,
+        "end_seconds": 135,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في البدايه نميز بين المذنبات والشهب والنيازك المذنب هو جرم سماوي ضخم يكون يعني اصغر من الكويكب وطبعا اكبر من النيزك ويدور في مدار ثابت هو مثل الكواكب",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Simplified mechanism and universal size ordering not verified. Not reproduced as established astronomy."
+  },
+  {
+    "id": "e09-meteoroid-orbits",
+    "type": "astronomy-claim",
+    "title": "Random motion and absence of fixed orbits",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 120–155 seconds; original source locator pending",
+    "claim": "Presenter describes meteoroids as moving randomly without fixed orbits.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 120,
+        "end_seconds": 155,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وهو الذي يميزه وهناك ايضا الشضايا النيزكيه وهي التي تدور في الفضاء الخارجي في كل مكان وتكون ايضا بابعاد متفاوته وهذه ليس لها مدار ثابت هي عباره عن حطام",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Not a reliable physical definition. Article uses location/phenomenon terminology without this claim."
+  },
+  {
+    "id": "e09-dust",
+    "type": "astronomy",
+    "title": "Daily meteoritic influx and meteor showers",
+    "creators": [
+      "NASA"
+    ],
+    "url": "https://science.nasa.gov/solar-system/meteors-meteorites/",
+    "locator": "What is a Meteor Shower?",
+    "claim": "Episode gives a 14–100 tonne daily range and mentions dust collection.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 175,
+        "end_seconds": 205,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الكوارث ولكنها محدوده ونادره جدا. يقول العلماء ايضا ان كوكب الارض يتلقى كميه تتراوح بين 14 الى 100 طن يوميا من غبار الكواكب والمدنبات. بعض العلماء ممكن اذا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Page estimates 44 metric tonnes daily and explains recurring showers from comet debris. It does not validate the provenance of the entire 14–100 range or magnet-only identification methods."
+  },
+  {
+    "id": "e09-dust-collection",
+    "type": "experiment-lead",
+    "title": "Magnet and microscope searches for cosmic dust",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 185–205 seconds; original source locator pending",
+    "claim": "Presenter describes hobbyists identifying cosmic dust.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 185,
+        "end_seconds": 205,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الكواكب والمدنبات. بعض العلماء ممكن اذا بحثتم على الانترنت ستجدوا انهم يبحثون احيانا بادوات بسيطه بالمغناطيسات مثلا ويكتشفون هذا الغبار ولما يرصد تحت",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No named collector, protocol or original microscopy study supplied."
+  },
+  {
+    "id": "e09-quran-saffat",
+    "type": "Quran",
+    "title": "Quran 37:6–10",
+    "creators": [
+      "Quran"
+    ],
+    "url": "https://quran.com/as-saffat/6-10",
+    "locator": "Arabic verses 6–10 and displayed English rendering",
+    "claim": "Lowest heaven adorned and guarded; eavesdropper pursued by a piercing flame.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 235,
+        "end_seconds": 290,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السمع من السماء فلدينا ايات مؤكده في القران الكريم تؤكد هذه الوظيفه منها في سوره الصافات انا زينا السماء الدنيا بزينه الكوا كواكب يعني السماء الدنيا في",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Original paraphrase in article. Does not equate lowest heaven with Earth’s atmosphere or identify the purpose of every observed meteor."
+  },
+  {
+    "id": "e09-quran-jinn",
+    "type": "Quran",
+    "title": "Quran 72:8–9",
+    "creators": [
+      "Quran"
+    ],
+    "url": "https://quran.com/al-jinn/8-9",
+    "locator": "Arabic verses 8–9 and displayed English rendering",
+    "claim": "Jinn report finding the heaven guarded and an awaiting flame for eavesdroppers.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 290,
+        "end_seconds": 345,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يتجرون بالفعل على استراق السمع لانه قد يغلب على ظنه انه قد ينجو وانه حتى اذا اصيب فلن تكون اصابه قاتله ايضا في سوره الجن لما الجن اكتشفوا انه السماء فيها",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      },
+      {
+        "episode_id": "GZRckyIXMBc",
+        "start_seconds": 2607.48,
+        "end_seconds": 2612.95,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وانا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبه الى اخر الايات قال المفسرون",
+        "excerpt_note": "Exact normalized Arabic ASR segments 937–938; caption context includes the transition to commentary, not an edited scripture quotation.",
+        "normalized_segment_indices": [
+          937,
+          938
+        ],
+        "verification_note": "Qur’an 72:8 Arabic and displayed English independently read 18 September 2026 at https://quran.com/al-jinn/8; adjacent 72:9 meaning displayed in context. Scope: guarded heaven/eavesdropping, not all travel or a modern atmospheric mechanism."
+      }
+    ],
+    "notes": "Numeric URL failed; named-surah URL succeeded. Details about duration of intensified guarding require separate hadith/tafsir checks."
+  },
+  {
+    "id": "e09-quran-hijr",
+    "type": "Quran",
+    "title": "Quran 15:18",
+    "creators": [
+      "Quran"
+    ],
+    "url": "https://quran.com/al-hijr/18",
+    "locator": "Arabic verse 18 and immediate context",
+    "claim": "An eavesdropper is pursued by a visible flame.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 330,
+        "end_seconds": 360,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عاد في اي امكانيه لاي شيطان ان يسترق السمع وهذا في كل الكوكب وليس فقط في المدينه المنوره او حتى قبلها في مكه المكرمه وهذا لنضمن ان الوحي لا يمكن",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Numeric URL failed, named-surah URL succeeded; verse directly read."
+  },
+  {
+    "id": "e09-lowest-heaven",
+    "type": "tafsir-claim",
+    "title": "Lowest heaven identified with atmosphere",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 245–270 seconds; original source locator pending",
+    "claim": "Presenter mentions a reading equating the lowest heaven with Earth’s atmosphere.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 245,
+        "end_seconds": 270,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بزينه الكوا كواكب يعني السماء الدنيا في سبع سماوات السماء الدنيا في بعض التاويلات هي الغلاف الجوي للارض وحفظ من كل شيطان مارد فهي زينه وحفظ ايضا لا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Unnamed interpretation, no authority or passage supplied; not accepted as a Quranic definition."
+  },
+  {
+    "id": "e09-ibn-abbas-injury",
+    "type": "tafsir",
+    "title": "Ibn Abbas on a devil being injured rather than killed",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 270–305 seconds; original source locator pending",
+    "claim": "Reported wording says the flame may injure or derange without killing.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 270,
+        "end_seconds": 305,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التي ذكرت بالتفصيل هذا الموضوع سناتي للاحاديث ابن عباس رضي الله عنه كان يقول ان هذا شهاب قد لا يقتل الشيطان ولكنها قد تحرقه من غير قتل وتخبل وتخدج من غير قتل",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Exact report and chain unresolved. KSU Qurtubi 37:10 returned verse/navigation only, not the required commentary; searches for تخبل / تخدج did not identify an inspected original passage."
+  },
+  {
+    "id": "e09-guarding-duration",
+    "type": "presenter-opinion",
+    "title": "Guarding throughout the revelation period",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=300s",
+    "locator": "Complete normalized Arabic captions, discussion 300–355 seconds",
+    "claim": "Presenter describes intensified guarding throughout the Prophet’s revelation and until his death.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 300,
+        "end_seconds": 355,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "شيء جديد فبداوا يبحثون حتى اكتشفوا ان النبي عليه الصلاه والسلام قد بعث فقالوا وانا لمسنا السماء فوجدناها ملئت حرسا شديدا وشهبه فقال المفسرون قبل ذلك كان",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Quran directly checked; full duration and worldwide exclusivity claims not established by the cited verse alone. Bukhari 773 located but original body not yet read. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-not-every-meteor",
+    "type": "presenter-opinion",
+    "title": "Not every meteor is a strike against a devil",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=345s",
+    "locator": "Complete normalized Arabic captions, discussion 345–385 seconds",
+    "claim": "Presenter explicitly distinguishes the scriptural function from assigning that function to every visible meteor.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 345,
+        "end_seconds": 385,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الكريم ايضا في سوره الحجر الا من استرق السمع فاتبعه شهاب مبين اذا هذه الشهب لها وظيفه وهي منع الشياطين من استراق السمع ولكن ايضا ليس كل شهاب نرصده بالعين",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Preserve this qualification; observing a shower does not disclose every unseen purpose. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-muslim-2229",
+    "type": "hadith",
+    "title": "Sahih Muslim 2229a",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2229a",
+    "locator": "Book 39, Hadith 171; Arabic and English report",
+    "claim": "Prophet rejects birth/death omens and explains eavesdropping and false additions.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 390,
+        "end_seconds": 480,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في العصر الجاهلي قبل ان يعود الوحي اليهم على يد النبي صلى الله عليه وسلم فصحح النبي هذا المفهوم كما فعل كل الانبياء من قبله في الحديث الصحيح في صحيح مسلم كان",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Direct text inspected, including transmission and added lies. Do not silently transfer all additions to only one actor when paraphrasing the report."
+  },
+  {
+    "id": "e09-nawawi",
+    "type": "hadith-commentary",
+    "title": "Al-Nawawi on Muslim 2229",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 450–500 seconds; original source locator pending",
+    "claim": "Presenter glosses يقرفون and additions to overheard words.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 450,
+        "end_seconds": 500,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الجن فيلقونه الى اولياء يائهم يعني من كان تحتهم ويرمون فما جاؤوا به على وجهه فهو حق ولكنهم الذين هم الكهنه من البشر يقرفون فيه او يزيدون يقرفون اي هؤلاء",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "ASR says صحيح النووي; likely شرح النووي. Exact edition/page and full original commentary pending."
+  },
+  {
+    "id": "e09-film-kaaba",
+    "type": "presenter-opinion",
+    "title": "Criticism of the film’s account of the Black Stone",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=497s",
+    "locator": "Complete normalized Arabic captions, discussion 497–580 seconds",
+    "claim": "Presenter reports an Adam/Eve altar story and meteorite certainty in the film, and rejects both.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 497,
+        "end_seconds": 580,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نبدا الان بعرض المراجعه للفيلم الوثائقي فايرول وهو من انتاج عام 2020 فيلم وثائقي ممتاز تجولوا فيه في عده اماكن حول العالم حتى يرصدوا اخبار واساطير الناس وايضا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Film scene not independently inspected. Attribute its alleged wording to the review; do not claim film transcription completed. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-adam-comfort",
+    "type": "historical-tradition",
+    "title": "Stone sent to comfort Adam",
+    "creators": [],
+    "url": "https://islamweb.net/ar/fatwa/39913/",
+    "locator": "Secondary source lead; original historical text uninspected",
+    "claim": "Presenter mentions a tradition about Adam finding companionship in the stone.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 540,
+        "end_seconds": 590,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ما وجدت اثر لذلك بعض المفسر في روايه واحده فقط انه ادم لما استوحش ما كان في غيره على الارض فارسل الله له الحجر الاسود حتى يبني به الكعبه ثم يستانس به",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Search found a matching secondary discussion. Status identified only; exact primary transmission and grading unresolved."
+  },
+  {
+    "id": "e09-quran-bakkah",
+    "type": "Quran",
+    "title": "Quran 3:96",
+    "creators": [
+      "Quran"
+    ],
+    "url": "https://quran.com/ali-imran/96",
+    "locator": "Arabic verse 96 and displayed English rendering",
+    "claim": "The first House established for humanity is at Bakkah.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 580,
+        "end_seconds": 620,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مسجد وضع في الارض اولا؟ قال المسجد الحرام ثم ساله ما الذي جاء بعده المسجد الاقصى الى اخره وهذا في صحيح البخاري ومسلم وعندنا ايضا في القران الكريم ان",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Does not independently establish every chronology of Adam or creation narrated in later traditions."
+  },
+  {
+    "id": "e09-bukhari-first-mosque",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 3366",
+    "creators": [
+      "al-Bukhari"
+    ],
+    "url": "https://sunnah.com/bukhari:3366",
+    "locator": "Book of Prophets, hadith 3366",
+    "claim": "Abu Dharr asks which mosque was established first; al-Masjid al-Haram then al-Aqsa.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 570,
+        "end_seconds": 610,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ابحاث علميه لن تجدوا اي شيء يؤكد ذلك وهذا سناتي له لاحقا الرد عندنا من الوحي ابو ذر رضي الله عنه قال يا رسول الله اي مسجد وضع في الارض اولا؟ قال المسجد",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Arabic/English report inspected. Parallel Muslim reference located separately but not silently counted as read."
+  },
+  {
+    "id": "e09-muslim-first-mosque",
+    "type": "hadith",
+    "title": "Sahih Muslim 520a parallel report",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:520a",
+    "locator": "Report page located; body not inspected this pass",
+    "claim": "Episode also cites Muslim for the first mosque report.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 575,
+        "end_seconds": 610,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وهذا سناتي له لاحقا الرد عندنا من الوحي ابو ذر رضي الله عنه قال يا رسول الله اي مسجد وضع في الارض اولا؟ قال المسجد الحرام ثم ساله ما الذي جاء بعده المسجد",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "id": "e09-kaaba-before-earth",
+    "type": "historical-tradition",
+    "title": "Kaaba two thousand years before the earth",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 585–630 seconds; original source locator pending",
+    "claim": "Presenter recounts a tradition and explicitly allows uncertainty.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 585,
+        "end_seconds": 630,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الحرام ثم ساله ما الذي جاء بعده المسجد الاقصى الى اخره وهذا في صحيح البخاري ومسلم وعندنا ايضا في القران الكريم ان اول بيت وضع للناس للذي بمكه وهنا ايضا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No primary text or chain checked; uncertainty preserved, omitted from factual narrative."
+  },
+  {
+    "id": "e09-ali-husayn-house",
+    "type": "historical-tradition",
+    "title": "Ali ibn al-Husayn on the heavenly and earthly House",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 605–640 seconds; original source locator pending",
+    "claim": "Angelic circumambulation and an earthly counterpart before Adam.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 605,
+        "end_seconds": 640,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الارض منه يعني هو اول ما نشا في الارض هناك ايضا روايه عن علي بن الحسين ان الله تعالى وضع تحت العرش بيتا وهو البيت المعمور وامر الملائكه بان يطوفوا حوله ثم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Exact source and chain unresolved; not a direct Quranic statement."
+  },
+  {
+    "id": "e09-stone-tirmidhi",
+    "type": "hadith",
+    "title": "Jami at-Tirmidhi 877",
+    "creators": [
+      "al-Tirmidhi"
+    ],
+    "url": "https://sunnah.com/tirmidhi:877",
+    "locator": "Book 9, Hadith 70; Arabic report and displayed grade",
+    "claim": "The Black Stone came from Paradise, originally white, darkened by human sins.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 630,
+        "end_seconds": 665,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "والاحاديث المؤكده لدينا منها مثلا ما رواه الترمذي عن ابن عباس ان النبي صلى الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Arabic includes al-Tirmidhi’s hasan sahih assessment; displayed Darussalam grade Hasan. These are distinct grading attributions. Article paraphrases without turning religious provenance into a mineralogical test."
+  },
+  {
+    "id": "e09-corner-maqam",
+    "type": "hadith",
+    "title": "Jami at-Tirmidhi 878",
+    "creators": [
+      "al-Tirmidhi"
+    ],
+    "url": "https://sunnah.com/tirmidhi:878",
+    "locator": "Book 9, Hadith 71; Arabic closing note and displayed grade",
+    "claim": "Corner and Maqam as jewels of Paradise with light removed.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 665,
+        "end_seconds": 715,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاسود والمقام هو مقام ابراهيم عليه السلام الحجر الذي اعتلى عليه ليبني الكعبه وما زال محفوظا وعليه اثار النبي ابراهيم عليه الصلاه والسلام الحديث رواه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Displayed Darussalam grade Daif. Al-Tirmidhi calls it gharib and notes a mawquf transmission from Abdullah ibn Amr. Presenter’s other authenticating attributions not checked; do not report one unanimous sound grade."
+  },
+  {
+    "id": "e09-nasai-stone",
+    "type": "hadith-reference",
+    "title": "Al-Nasai: whiter-than-snow stone variant",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-ahmad-stone",
+    "type": "hadith-reference",
+    "title": "Ahmad: Black Stone and Corner/Maqam variants",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-khuzayma-stone",
+    "type": "hadith-reference",
+    "title": "Ibn Khuzayma: Black Stone and Corner/Maqam variants",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-tabarani-stone",
+    "type": "hadith-reference",
+    "title": "Al-Tabarani: stone from Paradise",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-bayhaqi-stone",
+    "type": "hadith-reference",
+    "title": "Al-Bayhaqi: Paradise and Corner/Maqam reports",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-hakim-stone",
+    "type": "hadith-reference",
+    "title": "Al-Hakim: Corner and Maqam jewels",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-hibban-stone",
+    "type": "hadith-reference",
+    "title": "Ibn Hibban: Corner and Maqam jewels",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-albani-grades",
+    "type": "hadith-reference",
+    "title": "Al-Albani grading attributions for stone reports",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-nawawi-stone-grade",
+    "type": "hadith-reference",
+    "title": "Al-Nawawi grading attribution for stone report",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 635–720 seconds; original source locator pending",
+    "claim": "Presenter names this collection or grader for related Black Stone reports.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 635,
+        "end_seconds": 720,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله عليه وسلم قال نزل الحجر الاسود من الجنه وهو اشد بياضا من اللبن فسودته خطايا بني ادم وفي روايه اخرى الحجر الاسود من الجنه وكان اشد بياضا من الثلج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Separate lead; precise report variant, edition, chain and/or grading passage not inspected. Tirmidhi 877/878 checks do not verify this separate attribution."
+  },
+  {
+    "id": "e09-gabriel-return",
+    "type": "companion-report",
+    "title": "Gabriel bringing and later returning the stone",
+    "creators": [],
+    "url": "https://islamweb.net/ar/fatwa/39913/",
+    "locator": "Secondary lead to al-Azraqi; al-Tabarani 14160 search lead",
+    "claim": "Caption names Ibn Umar; source leads instead name Abdullah ibn Amr.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 700,
+        "end_seconds": 740,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مشابهه ايضا والبيهقي رواها وصحح اسنادها النووي وايضا الالباني وفي روايه ايضا عن ابن عمر نزل جبريل عليه السلام بالحجر من الجنه فوضعه حيث رايتم وانكم لن تزالوا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Original text/chain uninspected; narrator ambiguity flagged. Presenter treats companion speech as having prophetic force; that reasoning needs independent scholarly review."
+  },
+  {
+    "id": "e09-partsch",
+    "type": "historical-paper",
+    "title": "Paul Maria Partsch, 1857, on the Black Stone",
+    "creators": [],
+    "url": null,
+    "locator": "Title lead: Über den schwarzen Stein der Kaaba zu Mekka; 1857",
+    "claim": "Presenter calls this the first meteorite proposal.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 730,
+        "end_seconds": 755,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تحدث بهذا المعنى هو بول باتريتش هو احد علماء الامبراطوريه النمساويه المجليه والذي كتب تقريرا بهذا المعنى في عام 1857.",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Name corrected provisionally from bibliographic discovery, original publication not inspected; priority claim unverified."
+  },
+  {
+    "id": "e09-thomsen",
+    "type": "study",
+    "title": "New Light on the Origin of the Holy Black Stone of the Ka’ba",
+    "creators": [
+      "Elsebeth Thomsen"
+    ],
+    "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1945-5100.1980.tb00176.x",
+    "locator": "Abstract; Meteoritics 15(1), 87–91, March 1980; DOI 10.1111/j.1945-5100.1980.tb00176.x",
+    "claim": "1980 paper discusses a possible Wabar connection.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 740,
+        "end_seconds": 790,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "1857. ثم جاءت عده ابحاث من بعده تحاول ان تحلل ما لديها من اثار من هذا الحجر ولكن ما في اي دليل قطعي. اخرها مثلا في عام 1980",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Abstract inspected, not full paper. Proposal is impactite glass, not a confirmed meteoritic composition. Claimed 6000-year date and later Wabar redating not independently audited."
+  },
+  {
+    "id": "e09-stone-certainty",
+    "type": "presenter-opinion",
+    "title": "Religious origin and geological classification",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=750s",
+    "locator": "Complete normalized Arabic captions, discussion 750–795 seconds",
+    "claim": "Presenter rejects meteorite origin and argues a compositional resemblance would not override revelation.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 750,
+        "end_seconds": 795,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "احدى الدراسات تقول ترجح انه قد يكون حجرا نيزكيا من احجار موجوده في الربع الخالي ويعتقد انها سقطت هناك قبل 6000 سنه تقريبا وبعضهم ربط هذه الاثار او هذه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Article distinguishes hadith provenance from unproven mineralogical hypotheses; neither a laboratory analysis nor an exhaustive negative literature review has been performed. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-aad-wabar",
+    "type": "historical-claim",
+    "title": "Proposed association of Wabar with Ad",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 750–785 seconds; original source locator pending",
+    "claim": "Presenter rejects linking Wabar meteorites to Ad without evidence.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 750,
+        "end_seconds": 785,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "احدى الدراسات تقول ترجح انه قد يكون حجرا نيزكيا من احجار موجوده في الربع الخالي ويعتقد انها سقطت هناك قبل 6000 سنه تقريبا وبعضهم ربط هذه الاثار او هذه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No independent historical/geographical source identified. Preserve his caution; do not assert the association."
+  },
+  {
+    "id": "e09-wolfe-age",
+    "type": "geochronology",
+    "title": "Wolfe Creek Crater younger than previously thought",
+    "creators": [
+      "University of Portsmouth",
+      "Tim Barrows"
+    ],
+    "url": "https://www.port.ac.uk/news-events-and-blogs/news/wolfe-creek-crater-younger-than-previously-thought",
+    "locator": "18 November 2019; dating-method and age paragraphs",
+    "claim": "Episode gives approximately 150,000 years for Wolfe Creek.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 795,
+        "end_seconds": 835,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نعود ايضا الى الفيلم الوثائقي يذهب بعد ذلك الى استراليا ليبدا بعرض اهم المواقع التي سقطت فيها نيازك وعبدت او ربطت بمفاهيم روحيه في استراليا هناك مكان يسمى",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Research team’s institutional account read: most likely about 120,000 years; exposure dating and optically stimulated luminescence. Full paper not read; 150,000 not repeated as settled age."
+  },
+  {
+    "id": "e09-kandimalal",
+    "type": "cultural-history",
+    "title": "Wolfe Creek Crater: Traditional Owners",
+    "creators": [
+      "Western Australia Department of Biodiversity, Conservation and Attractions"
+    ],
+    "url": "https://exploreparks.dbca.wa.gov.au/site/wolfe-creek-crater",
+    "locator": "Traditional Owners section",
+    "claim": "Jaru traditions connect Kandimalal with rainbow snakes and other accounts.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 795,
+        "end_seconds": 870,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نعود ايضا الى الفيلم الوثائقي يذهب بعد ذلك الى استراليا ليبدا بعرض اهم المواقع التي سقطت فيها نيازك وعبدت او ربطت بمفاهيم روحيه في استراليا هناك مكان يسمى",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Agency text describes several traditions, including an emerging snake and a falling star. Do not reduce all local accounts to one story or call 1947 the first human discovery. Exact film artist interview uninspected."
+  },
+  {
+    "id": "e09-wolfe-artist",
+    "type": "presenter-opinion",
+    "title": "Artist interview and ancestral presence",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=815s",
+    "locator": "Complete normalized Arabic captions, discussion 815–875 seconds",
+    "claim": "Presenter recounts a film artist’s testimony and interprets ancestors as jinn.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 815,
+        "end_seconds": 875,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بالطائرات في عام 1947 المهم ان السكان الاصليين في المنطقه ربطوا هذه الحادثه باساطير واللافت عن احفادهم ممن يسكنون في المنطقه المجاوره وهم في الصحراء يسترزقون",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Speaker’s original interview/name pending. Claim art is residents’ only livelihood not verified and omitted. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-ensisheim",
+    "type": "museum-history",
+    "title": "The Ensisheim Meteorite (1492)",
+    "creators": [
+      "Natural History Museum Vienna"
+    ],
+    "url": "https://www.nhm.at/en/the_ensisheim_meteorite__la_meteorite_densisheim_",
+    "locator": "Curatorial exhibition description, paragraphs on 7 and 26 November 1492 and Sebastian Brant",
+    "claim": "Meteorite fall became a political/religious omen for Maximilian.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 870,
+        "end_seconds": 1009,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفيلم الى فرنسا تحديدا الى بلده انسايشها في هذه البلده في يوم 7 نوفمبر عام 1492 وهي نفس المرحله التي تعتبر المرحله",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Museum text inspected: fall 7 November; Brant pamphlets; Maximilian ordered preservation in church 26 November. Does not support every claimed threat, military outcome, Ottoman target or Columbus chronology."
+  },
+  {
+    "id": "e09-ensisheim-extras",
+    "type": "historical-claim",
+    "title": "Ensisheim chronology and later political effects",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 885–1009 seconds; original source locator pending",
+    "claim": "Presenter relates fall to Columbus, military victory and threats against opponents.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 885,
+        "end_seconds": 1009,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وبينما كانت المسيحيه هي السائده سقطت كره ناريه ضخمه في الحقول وراها الناس باعينهم اللافت في هذه القصه انه هذا كان قبل ايام فقط من وصول لكولومبوس الى الارض الجديده",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Individual primary documents and chronology not checked; no unsupported before-Columbus or universal Christian-doctrine assertion in article."
+  },
+  {
+    "id": "e09-bhand-devra",
+    "type": "heritage",
+    "title": "Ramgarh Bhand Devra Temple",
+    "creators": [
+      "Rajasthan Department of Tourism"
+    ],
+    "url": "https://www.tourism.rajasthan.gov.in/religious-places.html",
+    "locator": "Ramgarh Bhand Devra Temple entry",
+    "claim": "Shiva temple at Ramgarh is described as tenth century.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1009,
+        "end_seconds": 1060,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الى الهند ونرى مثلا معبد اقيم على فوهه نيزك بني في القرن العاشر الميلادي المعبد يسمى بهان ديفا تمبل وهو بني تحديدا لعباده الالهي الذي يعبدونه شيفا وزوجته",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Official temple identification/dating statement read. Does not establish the crater’s age, original builders’ knowledge of impacts, Tantra classification or the film scientist’s claims."
+  },
+  {
+    "id": "e09-tantra-cycle",
+    "type": "presenter-opinion",
+    "title": "Shiva, Parvati and destruction/renewal",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1020s",
+    "locator": "Complete normalized Arabic captions, discussion 1020–1118 seconds",
+    "claim": "Presenter interprets the temple’s setting through death/rebirth and demonic deception.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1020,
+        "end_seconds": 1118,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لعباده الالهي الذي يعبدونه شيفا وزوجته بارفاتي هذا معبد من معابد المذهب الذي يسمى تانترا اللافت ايضا لما اجرى مقابله مع احدى العالمات قالت ان هناك رمزيه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Original film scientist unconfirmed; exact theology/source not independently checked. No generalized claim that Hindu adherents knowingly worship demons. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-organics",
+    "type": "study-claim",
+    "title": "Organic molecules and reseeding life after impact",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1030–1090 seconds; original source locator pending",
+    "claim": "Presenter links impact destruction and organic molecules to renewal of life.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1030,
+        "end_seconds": 1090,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مع احدى العالمات قالت ان هناك رمزيه لدورات الخلق والتدمير في الكون باختيار هذا المكان لانه التانترا قائم على فكره اعاده الخلق في دورات الحياه وشيفا",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No named experiment checked. Organic compounds are not proof of living organisms or that this impact generated later life."
+  },
+  {
+    "id": "e09-chicxulub",
+    "type": "astronomy-geology",
+    "title": "Sediment Swirls Off the Yucatán",
+    "creators": [
+      "Sara E. Pratt",
+      "NASA Earth Observatory"
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/sediment-swirls-off-the-yucatan-149114/",
+    "locator": "Main text; 22 November 2021 (image acquired 31 October)",
+    "claim": "Chicxulub dimensions, age and extinction context.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1118,
+        "end_seconds": 1210,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعد ذلك الى المكسيك وهنا لدينا فوهه كبيره ومشهوره على مستوى العالم ولها دور كبير في تغيير مسار الكره الارضيه كلها كما يقول بعض العلماء هي فوهه تشيك شلوب",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Direct body read: ~66 million years, ~180 km crater; kilometre-scale impactor and ~75% extinction. Caption gives metres and half of life; do not reproduce those figures. Impact/aftermath distinguished from a demonstrated months-long meteor shower."
+  },
+  {
+    "id": "e09-cenotes",
+    "type": "geology",
+    "title": "Chicxulub, cenotes and limestone dissolution",
+    "creators": [
+      "Sara E. Pratt",
+      "NASA Earth Observatory"
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/sediment-swirls-off-the-yucatan-149114/",
+    "locator": "Paragraphs on buried crater, 250-km sinkhole arc and soluble limestone",
+    "claim": "Cenotes provided water and are associated with the buried impact structure.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1180,
+        "end_seconds": 1275,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ضخمه تشكلت حول الفوها التي تشكلت بفعل هذا النيزك جزء من هذه الدائره موجود على شبه جزيره في المكسيك الدائره ايضا التي تشكلت هناك تشكلت فيها اما بعض الحفر",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Cenotes are later karst features, not each a separate direct impact hole. Same source as e09-chicxulub; word budget shared."
+  },
+  {
+    "id": "e09-multiple-impacts",
+    "type": "study-claim",
+    "title": "Additional impacts and mass extinction",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1140–1195 seconds; original source locator pending",
+    "claim": "Presenter mentions alternative or multiple-impact studies.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1140,
+        "end_seconds": 1195,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مليون سنه نيزك ضخم جدا قطره 10 م تقريبا اصطدم بهذا المكان والنتيجه كانت تسونامي هائل وزلازل ضخمه ادت الى موت الكثير من الكائنات الحيه هذا قبل وجود البشر في",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No named authors/papers located; omitted as an established competing result."
+  },
+  {
+    "id": "e09-maya-astronomy",
+    "type": "presenter-opinion",
+    "title": "Origin of Maya calendrical knowledge",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1200s",
+    "locator": "Complete normalized Arabic captions, discussion 1200–1270 seconds",
+    "claim": "Presenter attributes astronomical knowledge to spirits and assumes prophetic origins before distortion.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1200,
+        "end_seconds": 1270,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مياه عذبه بما انه هذه المنطقه ايضا ما فيها بحيرات ولا انهار فكان هذا يشجع الكثير من الناس وهنا تحديدا شعب المايا على التجمع في هذا المكان واستيطاني ومع",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No evidence that human astronomy required supernatural instruction. Exact calendrical comparison and 9/13 cosmology sources pending. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-maya-cosmology",
+    "type": "religious-history",
+    "title": "Maya nine underworlds and thirteen heavens",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1220–1300 seconds; original source locator pending",
+    "claim": "Presenter reports a structured Maya afterlife.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1220,
+        "end_seconds": 1300,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفيلم ان التقويم الفلكي لشعب المايا كان دقيقا وبشكل لافت وهذا حسب تفسيرنا لانه ارتبط بالتنجيم الذي جاءت به الشياطين وليس اختراعا ارضيا بشريا يتحدث المنتج",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Specific textual tradition, period and translation not checked; avoid treating Maya traditions as uniform."
+  },
+  {
+    "id": "e09-maya-remains",
+    "type": "presenter-opinion",
+    "title": "Human remains, sacrifices and caves",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1250s",
+    "locator": "Complete normalized Arabic captions, discussion 1250–1350 seconds",
+    "claim": "Presenter describes remains and explicitly leaves sacrifice versus burial uncertain.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1250,
+        "end_seconds": 1350,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ولكن الشياطين دائما كانوا يسارعنا لتحريف هذه المبادئ والعقائد فبنيت الاهرام لعباده هذه الشياطين وكانت قمه الهرم هي المكان الذي يذبح عليه البشر يقدمون",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Original footage, excavation provenance and ritual interpretation uninspected. Preserve uncertainty; do not infer cause of death from bones alone. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-pyramids",
+    "type": "presenter-opinion",
+    "title": "Age and function of Egyptian pyramids",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1320s",
+    "locator": "Complete normalized Arabic captions, discussion 1320–1410 seconds",
+    "claim": "Presenter questions conventional funerary explanations and suggests older construction.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1320,
+        "end_seconds": 1410,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فيتقربون حتى للشياطين الشريره حتى لا يضروهم ولا يؤذوهم يقول ايضا في الفيلم كان المايا مهوسين بالموت فملوا جدران المعبد بالجماجم هذا نفس ما يقال ايضا عن",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No primary archaeological evidence inspected. Tangential speculation omitted; not accepted as established archaeology. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-day-dead-history",
+    "type": "cultural-history",
+    "title": "Day of the Dead, Halloween and All Saints chronology",
+    "creators": [],
+    "url": "https://ich.unesco.org/en/RL/indigenous-festivity-dedicated-to-the-dead-00054",
+    "locator": "UNESCO heritage page lead",
+    "claim": "Presenter merges dates and proposes a 3000-year continuous origin.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1390,
+        "end_seconds": 1470,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المهم انه ليس هوسا بالموت بل الانسان عموما يفكر بالدنيا اكثر من الاخره وخصوصا لو كان وثنيا وهذه كلها اوامر من الشياطين حتى يعبدوهم. يقول منتج الفيلم ايضا انهم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Page failed to return its body on two URL forms; only search metadata available. Separate UNESCO Huastec account checked, not proof of one uniform Maya origin or exact Gregorian chronology."
+  },
+  {
+    "id": "e09-huastec-calendar",
+    "type": "cultural-context",
+    "title": "Huehues, an identity of the Huastec People festivity dedicated to the dead",
+    "creators": [
+      "UNESCO",
+      "Jorge Cervera Méndez"
+    ],
+    "url": "https://www.unesco.org/en/articles/huehues-identity-huastec-people-festivity-dedicated-dead",
+    "locator": "8 November 2024; opening paragraphs and 31 October–4 November dates",
+    "claim": "Independent context for diverse local commemorations spanning several dates.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1390,
+        "end_seconds": 1495,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "المهم انه ليس هوسا بالموت بل الانسان عموما يفكر بالدنيا اكثر من الاخره وخصوصا لو كان وثنيا وهذه كلها اوامر من الشياطين حتى يعبدوهم. يقول منتج الفيلم ايضا انهم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Added context, not the film community or a claim that Huastec traditions represent all Maya practices."
+  },
+  {
+    "id": "e09-offering-food",
+    "type": "presenter-opinion",
+    "title": "Offerings, skulls and alleged spiritual nourishment",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1440s",
+    "locator": "Complete normalized Arabic captions, discussion 1440–1560 seconds",
+    "claim": "Presenter describes film ritual food and links it with jinn provision; adds observations at restaurant shrines.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1440,
+        "end_seconds": 1560,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جمعوا كل هذه الاعياد في يوم واحد فحتى الان المكسيكيون يحتفلون في نفس هذا اليوم في الاول من نوفمبر فنجد الان ايضا احفاد المايه يحتفظون احيانا بجماجم الموتى من",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Original community/interview uninspected. Hadith Muslim 450a does not establish loss of nutritional value in ritual food. Claimed observation not a controlled measurement. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-north-america",
+    "type": "ethnography-lead",
+    "title": "North American meteor, medicine-stone and sacred-water traditions",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1550–1626 seconds; original source locator pending",
+    "claim": "Presenter supplements documentary with unnamed traditions about meteors and weapon blessing.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1550,
+        "end_seconds": 1626,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "صغير على هيئه معبد في مقدمه المطعم هذا رايته بعيني ويتركونه طوال النهار ثم هذا الطعام قد يؤكل ولا يرمى ولكن يعتقد ان ارواح الاسلاف التي يعبدونها ستاتي وتتغذى",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No named nation, elder, ethnography or exact text. Do not generalize to all Indigenous North Americans."
+  },
+  {
+    "id": "e09-mer-testimony",
+    "type": "presenter-opinion",
+    "title": "Mer elder’s reported account and dance",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1626s",
+    "locator": "Complete normalized Arabic captions, discussion 1626–1706 seconds",
+    "claim": "Presenter recounts meteor/ancestor beliefs, apparitions and a dance at sunset.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1626,
+        "end_seconds": 1706,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "استراليا مره اخرى يذهبون الى جزيره تسمى مير جزيره صغيره جدا سكانها 400 شخص وكلهم من السكان الاصليين يعتقدون ايضا ان الشهب والنيازك تحمل ارواح الاسلاف الذي لفت",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Film speaker and exact words not inspected. Meriam source below supports a scoped cultural connection, not all scene details or supernatural cause; population count unverified. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-mer-study",
+    "type": "ethnography",
+    "title": "Death and Maier: meteors and mortuary rites in the eastern Torres Strait",
+    "creators": [
+      "Carla B. Guedes",
+      "Duane W. Hamacher",
+      "John Barsa",
+      "Elsa Day",
+      "Ron Day",
+      "Segar Passi",
+      "Alo Tapim"
+    ],
+    "url": "https://arxiv.org/abs/1810.11276",
+    "locator": "Abstract and bibliography; Australian Journal of Indigenous Issues 21(3), 39–59 (2018)",
+    "claim": "Meriam Mir traditions associate bright meteors with death and mortuary practices.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1626,
+        "end_seconds": 1706,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "استراليا مره اخرى يذهبون الى جزيره تسمى مير جزيره صغيره جدا سكانها 400 شخص وكلهم من السكان الاصليين يعتقدون ايضا ان الشهب والنيازك تحمل ارواح الاسلاف الذي لفت",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Abstract directly read, not full paper. Draws on ethnohistorical work and interviews with Meriam elders. Does not identify the film speaker, prove apparitions or supply a universal account of Aboriginal beliefs."
+  },
+  {
+    "id": "e09-consolmagno",
+    "type": "filmmaker-interview",
+    "title": "Fireball Q&A: Werner Herzog and Clive Oppenheimer",
+    "creators": [
+      "Werner Herzog",
+      "Clive Oppenheimer",
+      "National Board of Review"
+    ],
+    "url": "https://nationalboardofreview.org/2020/12/qa-with-werner-herzog-and-clive-oppenheimer/",
+    "locator": "9 December 2020; final Q&A paragraphs on Consolmagno and scientific wonder",
+    "claim": "Film includes Guy Consolmagno and the filmmakers discuss awe, science and faith.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1706,
+        "end_seconds": 1760,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعدما ينتهي الفيلم من عرض كل هذه الافكار يذهب الى مرصد الفاتيكان وهو مرصد قديم يعتبر ايضا متحف علمي تابع للفاتيكان فيه بعض النيازك القديمه يجري منتج الفيلم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Original Q&A text read at scoped paragraphs. Identifies Consolmagno as a Jesuit lay brother; avoid converting him into an ordained priest. Full film dialogue and the wider institutional collection history not checked."
+  },
+  {
+    "id": "e09-christian-reflection",
+    "type": "presenter-opinion",
+    "title": "Appreciation of reflection on creation",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1706s",
+    "locator": "Complete normalized Arabic captions, discussion 1706–1770 seconds",
+    "claim": "Dadoosh appreciates the astronomer’s wonder while distinguishing Islamic tawhid from Christian doctrine.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1706,
+        "end_seconds": 1770,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعدما ينتهي الفيلم من عرض كل هذه الافكار يذهب الى مرصد الفاتيكان وهو مرصد قديم يعتبر ايضا متحف علمي تابع للفاتيكان فيه بعض النيازك القديمه يجري منتج الفيلم",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Retain positive assessment without accepting an unsupported claim that all Christian texts lack celestial symbolism. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-deep-impact",
+    "type": "film",
+    "title": "Deep Impact (1998)",
+    "creators": [],
+    "url": null,
+    "locator": "Film title/year from episode; original scene and distributor source uninspected",
+    "claim": "Presenter invokes disaster-film imagery and rejects its wave scale.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1760,
+        "end_seconds": 1815,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفيلم ايضا عن الاخطار المتوقعه اصطدام نيازك ضخمه بكوكب الارض وتكرار الكارثه التي حدثت كما قلنا حسب النظريه قبل 66 مليون سنه لما سقط النيزك الضخم في",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "A cinematic comparison, not an impact simulation. Neither a film nor an unsupported dismissal establishes real maximum tsunami heights."
+  },
+  {
+    "id": "e09-hawaii-observatory",
+    "type": "interview-lead",
+    "title": "Hawaii observer on future impact risk",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1790–1830 seconds; original source locator pending",
+    "claim": "Presenter recounts a low-probability eventual collision statement.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1790,
+        "end_seconds": 1830,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الضخمه تسقط وكانها احجار دومينو طبعا هذا خيال واسع وحتى لو سقط نيزك بهذا الحجم لن تكون الامواج بهذا الحجم يذهب بعدها المنتج الى مرصد هوائي من اكبر المراصد",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Observatory/speaker not identified in reviewed film; exact risk claim and conditions unverified."
+  },
+  {
+    "id": "e09-tunguska",
+    "type": "impact-research",
+    "title": "Tunguska Revisited: 111-Year-Old Mystery Impact Inspires New, More Optimistic Asteroid Predictions",
+    "creators": [
+      "NASA Ames"
+    ],
+    "url": "https://www.nasa.gov/solar-system/tunguska-revisited-111-year-old-mystery-impact-inspires-new-more-optimistic-asteroid-predictions/",
+    "locator": "Extrapolating Clues and Profiling a Perpetrator sections, 2019",
+    "claim": "Tunguska was a major 1908 atmospheric event; source episode questions the impact explanation.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1810,
+        "end_seconds": 1860,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مذنب وليس فقط نيزك ولكن يقول عاجلا ام اجلا سياتي مذنب او نيزك ضخم جدا ويصطدم بالارض ولكن ليس كما كان يعتقد او بالصوره التي قدمتها لنا هوليود واشهر مثال",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Agency research account read: models and observations support a stony-body airburst; uncertainty is not equal evidence for an exploded spacecraft. Full underlying papers not read."
+  },
+  {
+    "id": "e09-tunguska-ufo",
+    "type": "claim",
+    "title": "Alleged spacecraft and two unusual stones at Tunguska",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1825–1865 seconds; original source locator pending",
+    "claim": "Presenter mentions alternative UFO speculation and expressly says no confirmed study.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1825,
+        "end_seconds": 1865,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لانفجار ضخم في عصرنا الحديث هو النيزك الضخم الذي يعتقد انه ضرب سيبيريا في روسيا في غابات ما فيها سكان وهذا كان في عام 1908 ولكن حتى الان هناك من يشكك",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "No inspectable supporting evidence identified; omitted from factual account."
+  },
+  {
+    "id": "e09-end-times",
+    "type": "presenter-opinion",
+    "title": "End-time sequence and impact scenarios",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1850s",
+    "locator": "Complete normalized Arabic captions, discussion 1850–1935 seconds",
+    "claim": "Presenter distinguishes extinction from regional catastrophes and invokes Jesus, Dajjal and last generations.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1850,
+        "end_seconds": 1935,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الان بان هذا حدث بفعل ني نيزك ضخم اصطدم في المنطقه والسؤال هنا هل يمكن ان يحدث هذا في الاسلام؟ هل الاسلام يجيز ان يضرب نيزك ضخم الارض فتنقرض البشريه؟ ما نعرفه",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Precise scriptural sources and sequence not independently checked here. No current impact forecast, guarantee of safety, or reason to stop hazard research inferred. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-representation",
+    "type": "presenter-opinion",
+    "title": "Critique of Islamic representation in the film",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": "https://www.youtube.com/watch?v=TZEpUvKGTAo&t=1920s",
+    "locator": "Complete normalized Arabic captions, discussion 1920–2016 seconds",
+    "claim": "Presenter wants comparable space for Muslim scholars and rejects embarrassment about revelation.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1920,
+        "end_seconds": 2016,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ليست مجديه ممكن يضرب نيزك اقل من ذلك ويؤدي الى كوارث نعم ولكن ليس انقراض البشريه ولا كل اشكال الحياه التي يتوقعونها بهذا السيناريو",
+        "excerpt_note": "Exact first up to four normalized ASR segments in a broad discussion interval, not an exact source quotation. Editorial-context anchors locate the related discussion; they do not imply the presenter named the added source."
+      }
+    ],
+    "notes": "Film not fully inspected; do not infer filmmakers’ private intent. Closing UFO/Congress-to-jinn identification is an unproved inference, not confirmation from science. Extracted attribution, not independent confirmation of the interpretation."
+  },
+  {
+    "id": "e09-prophets-nations",
+    "type": "Quran",
+    "title": "Quran 35:24: a warner for every community",
+    "creators": [
+      "Quran"
+    ],
+    "url": "https://quran.com/fatir/24",
+    "locator": "Arabic verse 35:24 and displayed English meaning",
+    "claim": "Presenter alludes to every nation receiving prophetic warning while discussing Maya religion.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-16",
+    "mentions": [
+      {
+        "episode_id": "TZEpUvKGTAo",
+        "start_seconds": 1244.76,
+        "end_seconds": 1251.11,
+        "mention_kind": "scriptural-allusion",
+        "raw_excerpt_ar": "اخترعه الجن حتى لو كان هناك انبياء وهذا هو الارجح فما في امه الا وانزل اليها انبياء ورسل",
+        "excerpt_note": "Exact normalized Arabic segments 429–431; implicit allusion, not an explicit verse-number citation."
+      }
+    ],
+    "notes": "Arabic/meaning directly inspected 16 September. General warning principle supported; no specific Maya prophet, date, named tradition or mechanism identified by the verse."
+  }
+]

@@ -1,0 +1,4848 @@
+{
+  "schema_version": 1,
+  "episode_id": "GZRckyIXMBc",
+  "language": "en",
+  "status": "complete-machine-assisted-draft",
+  "method": "Direct assistant translation of each normalized Arabic automatic-caption segment. Presenter assertions retained as speech, not independent findings. No external translation service or audiovisual review.",
+  "created_at": "2026-09-16",
+  "updated_at": "2026-09-18",
+  "source_segments_file": "data/transcripts/GZRckyIXMBc/segments.ar.json",
+  "source_segments_sha256": "ded2db1127760f26c1881f5a7a5c786e4706adf280ab2cdc84e700b06f21b435",
+  "source_srt_sha256": "4287008c65f3a352a3d6ba83882671fc520961de18042070bc2cea62b30849f6",
+  "complete": true,
+  "reviewed_at": null,
+  "segments": [
+    {
+      "source_segment_index": 0,
+      "text": "Peace be upon you. This is another episode about the world of jinn,"
+    },
+    {
+      "source_segment_index": 1,
+      "text": "in which we will correct some common ideas and misconceptions."
+    },
+    {
+      "source_segment_index": 2,
+      "text": "What are jinn really? Can they be seen?"
+    },
+    {
+      "source_segment_index": 3,
+      "text": "Why do Muslim jinn not help us? And why"
+    },
+    {
+      "source_segment_index": 4,
+      "text": "do unbelievers not cooperate with devils? Also,"
+    },
+    {
+      "source_segment_index": 5,
+      "text": "in an earlier episode we said that"
+    },
+    {
+      "source_segment_index": 6,
+      "text": "most sightings of extraterrestrials are connected with the world of jinn,",
+      "review_notes": "Presenter’s proposed jinn explanation for sightings, not an independently established cause. Preserve the qualification in index 7."
+    },
+    {
+      "source_segment_index": 7,
+      "text": "or at least those sightings that are genuine."
+    },
+    {
+      "source_segment_index": 8,
+      "text": "Why, then, do these sightings appear only in"
+    },
+    {
+      "source_segment_index": 9,
+      "text": "America, as some people ask? In any case,"
+    },
+    {
+      "source_segment_index": 10,
+      "text": "this episode will answer those questions and correct"
+    },
+    {
+      "source_segment_index": 11,
+      "text": "some common misconceptions. God willing, we will devote other episodes"
+    },
+    {
+      "source_segment_index": 12,
+      "text": "to further details and to the characteristics"
+    },
+    {
+      "source_segment_index": 13,
+      "text": "of jinn more precisely. But I should make something clear"
+    },
+    {
+      "source_segment_index": 14,
+      "text": "at the outset: please do not watch this episode"
+    },
+    {
+      "source_segment_index": 15,
+      "text": "with your children, because some may find it frightening."
+    },
+    {
+      "source_segment_index": 16,
+      "text": "[Bell]",
+      "review_notes": "Non-speech cue retained from ASR; no audio checked."
+    },
+    {
+      "source_segment_index": 17,
+      "text": "First, a few points about our approach,"
+    },
+    {
+      "source_segment_index": 18,
+      "text": "so that I am not misunderstood. Of course, everyone is welcome"
+    },
+    {
+      "source_segment_index": 19,
+      "text": "to watch and follow us. But anyone"
+    },
+    {
+      "source_segment_index": 20,
+      "text": "watching us for the first time should know that we begin",
+      "review_notes": "ASR splits منطلقات across indices 20–21; combined sense translated without changing source."
+    },
+    {
+      "source_segment_index": 21,
+      "text": "with the premises of revelation. We are Muslims and think"
+    },
+    {
+      "source_segment_index": 22,
+      "text": "within the framework of Islamic revelation. We therefore believe"
+    },
+    {
+      "source_segment_index": 23,
+      "text": "in the unseen and in the Hereafter, and that we were created"
+    },
+    {
+      "source_segment_index": 24,
+      "text": "in this world for a purpose. Nor is one of the purposes"
+    },
+    {
+      "source_segment_index": 25,
+      "text": "of this life to pursue every possible"
+    },
+    {
+      "source_segment_index": 26,
+      "text": "detail that may be unimportant. Once again,"
+    },
+    {
+      "source_segment_index": 27,
+      "text": "everyone is welcome. But if someone"
+    },
+    {
+      "source_segment_index": 28,
+      "text": "watching me is not Muslim, for example, they should understand"
+    },
+    {
+      "source_segment_index": 29,
+      "text": "from the beginning that we proceed from the premises of revelation."
+    },
+    {
+      "source_segment_index": 30,
+      "text": "For us, it has already been established that"
+    },
+    {
+      "source_segment_index": 31,
+      "text": "Islamic revelation—the Qur'an and Sunnah—is absolute truth."
+    },
+    {
+      "source_segment_index": 32,
+      "text": "We are not here to debate that point. Also, for anyone"
+    },
+    {
+      "source_segment_index": 33,
+      "text": "watching for the first time, let me introduce myself: I research comparative"
+    },
+    {
+      "source_segment_index": 34,
+      "text": "religion and have long been interested in the unseen,"
+    },
+    {
+      "source_segment_index": 35,
+      "text": "jinn, and secretive or closed religious groups. My more specific"
+    },
+    {
+      "source_segment_index": 36,
+      "text": "research at present concerns topics connected"
+    },
+    {
+      "source_segment_index": 37,
+      "text": "with shamanism, magic and groups that have this",
+      "review_notes": "Shamanism/paganism terms translated contextually; these broad religious characterizations are the presenter’s, not an ethnographic finding."
+    },
+    {
+      "source_segment_index": 38,
+      "text": "aspect, whether ancient pagan traditions or ones with"
+    },
+    {
+      "source_segment_index": 39,
+      "text": "present-day continuations. I have presented findings from my research"
+    },
+    {
+      "source_segment_index": 40,
+      "text": "on this subject in several episodes available"
+    },
+    {
+      "source_segment_index": 41,
+      "text": "on this channel, including the episode on shamanism.",
+      "review_notes": "ASR الشام يه contextually repaired to shamanism; audio pending."
+    },
+    {
+      "source_segment_index": 42,
+      "text": "The research itself has not yet been published. Perhaps"
+    },
+    {
+      "source_segment_index": 43,
+      "text": "I will not publish even the master's research until I finish",
+      "review_notes": "Presenter describes unpublished academic work; no degree or manuscript independently checked in this translation pass."
+    },
+    {
+      "source_segment_index": 44,
+      "text": "the doctorate, so that it may become one extended study."
+    },
+    {
+      "source_segment_index": 45,
+      "text": "That is therefore postponed. There is also the book Map of Sects,",
+      "review_notes": "خارطة الطوائف translated descriptively as Map of Sects; an official English title, edition and chapter page remain unconfirmed."
+    },
+    {
+      "source_segment_index": 46,
+      "text": "published about a year ago, which includes material related to"
+    },
+    {
+      "source_segment_index": 47,
+      "text": "our discussion, particularly a chapter on the Theosophical movement.",
+      "review_notes": "ASR الثيوسوفي rendered as the Theosophical movement; named entity requires final audio check."
+    },
+    {
+      "source_segment_index": 48,
+      "text": "I should also make clear from the outset that many"
+    },
+    {
+      "source_segment_index": 49,
+      "text": "common opinions, even within the Muslim world,"
+    },
+    {
+      "source_segment_index": 50,
+      "text": "contain misconceptions, including perhaps those held by some"
+    },
+    {
+      "source_segment_index": 51,
+      "text": "scholars and religious teachers. Even some familiar ideas"
+    },
+    {
+      "source_segment_index": 52,
+      "text": "about jinn in our Islamic heritage"
+    },
+    {
+      "source_segment_index": 53,
+      "text": "contain mistakes. These are, in the first place,"
+    },
+    {
+      "source_segment_index": 54,
+      "text": "disputed questions. Moreover, many of the sources"
+    },
+    {
+      "source_segment_index": 55,
+      "text": "on this subject are not drawn"
+    },
+    {
+      "source_segment_index": 56,
+      "text": "only from revelation. There was contact"
+    },
+    {
+      "source_segment_index": 57,
+      "text": "between the Muslim world and other peoples,"
+    },
+    {
+      "source_segment_index": 58,
+      "text": "many of whom were deeply involved"
+    },
+    {
+      "source_segment_index": 59,
+      "text": "in paganism and devil worship. The sources themselves"
+    },
+    {
+      "source_segment_index": 60,
+      "text": "therefore contain this mixture. Even books of Qur'anic commentary"
+    },
+    {
+      "source_segment_index": 61,
+      "text": "include Israelite traditions on other matters; how much more so"
+    },
+    {
+      "source_segment_index": 62,
+      "text": "on subjects such as jinn and devils? Historically,"
+    },
+    {
+      "source_segment_index": 63,
+      "text": "as we will explain in this episode, the boundaries between",
+      "review_notes": "Historical claims about changing boundaries between humans and jinn remain the presenter’s interpretation."
+    },
+    {
+      "source_segment_index": 64,
+      "text": "the human and jinn worlds were not as they are"
+    },
+    {
+      "source_segment_index": 65,
+      "text": "today. There was some interaction, and in certain"
+    },
+    {
+      "source_segment_index": 66,
+      "text": "periods, such as the time of Solomon, peace be upon him,"
+    },
+    {
+      "source_segment_index": 67,
+      "text": "those boundaries were almost absent in some cases,"
+    },
+    {
+      "source_segment_index": 68,
+      "text": "at least. We will come to that. So most people"
+    },
+    {
+      "source_segment_index": 69,
+      "text": "in some earlier periods of history"
+    },
+    {
+      "source_segment_index": 70,
+      "text": "knew much more about jinn than we do",
+      "review_notes": "Comparative claim that earlier people knew more about jinn is retained, not measured historical evidence."
+    },
+    {
+      "source_segment_index": 71,
+      "text": "today, or than is commonly known, at"
+    },
+    {
+      "source_segment_index": 72,
+      "text": "least. When we return to our Islamic heritage, we therefore find"
+    },
+    {
+      "source_segment_index": 73,
+      "text": "that scholars' opinions vary considerably. As I said,"
+    },
+    {
+      "source_segment_index": 74,
+      "text": "many of them did not know what we know"
+    },
+    {
+      "source_segment_index": 75,
+      "text": "today, particularly now that we have greater access to those"
+    },
+    {
+      "source_segment_index": 76,
+      "text": "pagan peoples and some of their cultures have been translated for us,"
+    },
+    {
+      "source_segment_index": 77,
+      "text": "especially very old cultures,"
+    },
+    {
+      "source_segment_index": 78,
+      "text": "such as Indigenous shamanic traditions. Nevertheless,",
+      "review_notes": "ASR الشاميه understood as shamanic in context, not the Levant; confirm audio."
+    },
+    {
+      "source_segment_index": 79,
+      "text": "some scholars were more open to the subject,"
+    },
+    {
+      "source_segment_index": 80,
+      "text": "more knowledgeable, and had more contact and experience. I think"
+    },
+    {
+      "source_segment_index": 81,
+      "text": "Ibn Taymiyyah, may Allah have mercy on him, was the most",
+      "review_notes": "Comparative assessment of Ibn Taymiyyah is an opinion, not scholarly consensus."
+    },
+    {
+      "source_segment_index": 82,
+      "text": "open in this respect. You find bold legal opinions from him,"
+    },
+    {
+      "source_segment_index": 83,
+      "text": "and in some of his books he even says",
+      "review_notes": "Exact Ibn Taymiyyah works/passages for this cluster remain unresolved in the registry."
+    },
+    {
+      "source_segment_index": 84,
+      "text": "that he does not disclose everything he knows from his contacts"
+    },
+    {
+      "source_segment_index": 85,
+      "text": "and experience. He himself knew jinn",
+      "review_notes": "Alleged personal contact with jinn is a claim about Ibn Taymiyyah, not independently verified here."
+    },
+    {
+      "source_segment_index": 86,
+      "text": "who communicated with him, and he described some of their circumstances,"
+    },
+    {
+      "source_segment_index": 87,
+      "text": "as well as those of sorcerers and people who claimed"
+    },
+    {
+      "source_segment_index": 88,
+      "text": "to possess saintly gifts while cooperating with"
+    },
+    {
+      "source_segment_index": 89,
+      "text": "devils. He discussed all these matters, including what was claimed"
+    },
+    {
+      "source_segment_index": 90,
+      "text": "to be miraculous gifts of Sufis but was actually",
+      "review_notes": "Theological attribution of purported saintly gifts; do not generalize to every Sufi or every reported experience."
+    },
+    {
+      "source_segment_index": 91,
+      "text": "demonic activity. He also said that he could not tell"
+    },
+    {
+      "source_segment_index": 92,
+      "text": "everything he knew, because people might disbelieve him, or ordinary people"
+    },
+    {
+      "source_segment_index": 93,
+      "text": "did not need to know it in the first place. There was no reason"
+    },
+    {
+      "source_segment_index": 94,
+      "text": "to spread some of that knowledge. But once again,"
+    },
+    {
+      "source_segment_index": 95,
+      "text": "in our time we have become more exposed to these matters,"
+    },
+    {
+      "source_segment_index": 96,
+      "text": "with greater access to cultures whose"
+    },
+    {
+      "source_segment_index": 97,
+      "text": "myths, stories and devil-worshipping practices have been translated,"
+    },
+    {
+      "source_segment_index": 98,
+      "text": "including traditions passed down orally for thousands of years,"
+    },
+    {
+      "source_segment_index": 99,
+      "text": "recorded later in the eighteenth and nineteenth centuries,",
+      "review_notes": "ASR الثام عشر التاس عشر normalized to eighteenth/nineteenth centuries; no particular record or edition identified."
+    },
+    {
+      "source_segment_index": 100,
+      "text": "and then translated for us. We therefore know more"
+    },
+    {
+      "source_segment_index": 101,
+      "text": "than some of our Muslim scholars knew,"
+    },
+    {
+      "source_segment_index": 102,
+      "text": "because their knowledge was limited to what revelation provided,"
+    },
+    {
+      "source_segment_index": 103,
+      "text": "which did not address every detail—we will come to this—"
+    },
+    {
+      "source_segment_index": 104,
+      "text": "and to what the Arabs knew about jinn"
+    },
+    {
+      "source_segment_index": 105,
+      "text": "before Islam. But when you compare the accounts,"
+    },
+    {
+      "source_segment_index": 106,
+      "text": "you find that they correspond, and that the world of jinn is",
+      "review_notes": "Claim of cross-cultural correspondence, including the qualifying some differences, retained as speaker interpretation."
+    },
+    {
+      "source_segment_index": 107,
+      "text": "similar everywhere, with some differences. I should also"
+    },
+    {
+      "source_segment_index": 108,
+      "text": "add that, about ten years ago, when I began"
+    },
+    {
+      "source_segment_index": 109,
+      "text": "taking an interest—ten years, or a little more or less—"
+    },
+    {
+      "source_segment_index": 110,
+      "text": "in magic and jinn, and also"
+    },
+    {
+      "source_segment_index": 111,
+      "text": "in secretive, closed groups, cults,"
+    },
+    {
+      "source_segment_index": 112,
+      "text": "Freemasonry and other esoteric"
+    },
+    {
+      "source_segment_index": 113,
+      "text": "and satanic groups, these connections"
+    },
+    {
+      "source_segment_index": 114,
+      "text": "only emerged later. At first,"
+    },
+    {
+      "source_segment_index": 115,
+      "text": "the picture was not as it is now. For example, when we read about"
+    },
+    {
+      "source_segment_index": 116,
+      "text": "energy healing, I did not connect it with the world",
+      "review_notes": "Presenter’s energy-healing interpretation, not a diagnosis or tested causal mechanism."
+    },
+    {
+      "source_segment_index": 117,
+      "text": "of jinn as I discovered later. Then, when I began discussing"
+    },
+    {
+      "source_segment_index": 118,
+      "text": "this subject a few years ago on this"
+    },
+    {
+      "source_segment_index": 119,
+      "text": "channel, even most preachers",
+      "review_notes": "ASR الدعاء contextually interpreted as preachers (الدعاة), not prayers."
+    },
+    {
+      "source_segment_index": 120,
+      "text": "and religious teachers warning against these practices"
+    },
+    {
+      "source_segment_index": 121,
+      "text": "had not connected the two spheres:"
+    },
+    {
+      "source_segment_index": 122,
+      "text": "magic and devils, on the one hand, and energy healing, meditation"
+    },
+    {
+      "source_segment_index": 123,
+      "text": "and similar practices, on the other. They saw that these were borrowed"
+    },
+    {
+      "source_segment_index": 124,
+      "text": "from Eastern, pagan and polytheistic philosophies, so they warned against them.",
+      "review_notes": "ASR بثنيه repaired to pagan (وثنية); check audio."
+    },
+    {
+      "source_segment_index": 125,
+      "text": "But this connection was not clear. Praise be to Allah,"
+    },
+    {
+      "source_segment_index": 126,
+      "text": "in recent years we have begun discussing it more"
+    },
+    {
+      "source_segment_index": 127,
+      "text": "and citing Muslim people's experiences, as I have presented"
+    },
+    {
+      "source_segment_index": 128,
+      "text": "on this channel. One episode, for example,"
+    },
+    {
+      "source_segment_index": 129,
+      "text": "was an interview with a woman from the Gulf who spent three years",
+      "review_notes": "Gulf woman’s interview and three-year duration are reported by the presenter; original recording not checked in this pass."
+    },
+    {
+      "source_segment_index": 130,
+      "text": "involved in this subject. She had not considered"
+    },
+    {
+      "source_segment_index": 131,
+      "text": "the possibility, because, as I said, warnings about it were not widespread."
+    },
+    {
+      "source_segment_index": 132,
+      "text": "She would see jinn and communicate with them, believing",
+      "review_notes": "Translator preserves the speaker’s identification of perceived entities as jinn; this does not independently establish their nature."
+    },
+    {
+      "source_segment_index": 133,
+      "text": "they were entities from other worlds. That was what"
+    },
+    {
+      "source_segment_index": 134,
+      "text": "the teachers and so-called sages told her."
+    },
+    {
+      "source_segment_index": 135,
+      "text": "She later began to discover, and to hear from these episodes,"
+    },
+    {
+      "source_segment_index": 136,
+      "text": "that this was the world of jinn, until she became aware of it."
+    },
+    {
+      "source_segment_index": 137,
+      "text": "That understanding has now become widespread. Almost everyone,"
+    },
+    {
+      "source_segment_index": 138,
+      "text": "or many people in the Muslim world, can now"
+    },
+    {
+      "source_segment_index": 139,
+      "text": "connect these spheres. I also want to explain"
+    },
+    {
+      "source_segment_index": 140,
+      "text": "that, even before publishing my research into"
+    },
+    {
+      "source_segment_index": 141,
+      "text": "some Indigenous beliefs, I discovered"
+    },
+    {
+      "source_segment_index": 142,
+      "text": "that Dr Ibrahim al-Abrashi also",
+      "review_notes": "Literal ASR name Ibrahim al-Abrashi retained provisionally; index 158 says Hisham. Existing e01-ibrashi registry identifies Hisham Sidqi al-Ibrashi. Resolve by audio/original thesis, not a silent change to the raw caption."
+    },
+    {
+      "source_segment_index": 143,
+      "text": "had published research and a doctoral study on the same"
+    },
+    {
+      "source_segment_index": 144,
+      "text": "subject, but in Africa. He was more"
+    },
+    {
+      "source_segment_index": 145,
+      "text": "explicit than all the religious teachers who discuss"
+    },
+    {
+      "source_segment_index": 146,
+      "text": "paganism and idols, for example. The common account"
+    },
+    {
+      "source_segment_index": 147,
+      "text": "in our heritage is that these idols are statues"
+    },
+    {
+      "source_segment_index": 148,
+      "text": "made of wood or stone, which a person worships"
+    },
+    {
+      "source_segment_index": 149,
+      "text": "as partners alongside Allah, glorified and exalted is He,"
+    },
+    {
+      "source_segment_index": 150,
+      "text": "and that is where the discussion ends. But someone who studies the subject deeply,"
+    },
+    {
+      "source_segment_index": 151,
+      "text": "visits these communities in Africa or"
+    },
+    {
+      "source_segment_index": 152,
+      "text": "elsewhere, and learns about the close connection between"
+    },
+    {
+      "source_segment_index": 153,
+      "text": "these forms of worship, magic and sacrificial offerings,"
+    },
+    {
+      "source_segment_index": 154,
+      "text": "also encounters reported sightings: the sorcerer or shaman",
+      "review_notes": "ASR الشام understood as shaman, not Syria; context repair."
+    },
+    {
+      "source_segment_index": 155,
+      "text": "sees certain things personally, and unusual events"
+    },
+    {
+      "source_segment_index": 156,
+      "text": "occur around him, as happens with magic. Here,"
+    },
+    {
+      "source_segment_index": 157,
+      "text": "the connection between the world of jinn"
+    },
+    {
+      "source_segment_index": 158,
+      "text": "and these practices was clear. So Dr Hisham connected them in",
+      "review_notes": "Name shifts to Hisham in ASR; compare index 142. Fieldwork description and spiritual interpretation need separate source checks."
+    },
+    {
+      "source_segment_index": 159,
+      "text": "his field research,"
+    },
+    {
+      "source_segment_index": 160,
+      "text": "a descriptive field study of pagan worship",
+      "review_notes": "Study title here is a descriptive rendering of the spoken words; does not certify exact Arabic title or methods."
+    },
+    {
+      "source_segment_index": 161,
+      "text": "in West Africa. He connected those practices with jinn and said"
+    },
+    {
+      "source_segment_index": 162,
+      "text": "plainly that a particular tribe worships a jinni"
+    },
+    {
+      "source_segment_index": 163,
+      "text": "with a particular name—the idol's name—and has an idol"
+    },
+    {
+      "source_segment_index": 164,
+      "text": "in that being's form, or something close to it, which is worshipped"
+    },
+    {
+      "source_segment_index": 165,
+      "text": "and receives offerings, and so on. I found the same thing"
+    },
+    {
+      "source_segment_index": 166,
+      "text": "among other peoples and tribes too. They practised these forms of worship"
+    },
+    {
+      "source_segment_index": 167,
+      "text": "thousands of years ago and continue to do so today."
+    },
+    {
+      "source_segment_index": 168,
+      "text": "Ultimately, then, they worship jinn and devils, rather than following mere",
+      "review_notes": "Categorical identification of other religious beings as jinn is the presenter’s theological conclusion."
+    },
+    {
+      "source_segment_index": 169,
+      "text": "imaginary religions or fantasizing about nonexistent spirits,"
+    },
+    {
+      "source_segment_index": 170,
+      "text": "or simply making an idol from stone or wood"
+    },
+    {
+      "source_segment_index": 171,
+      "text": "and worshipping it for some arbitrary reason. Instead, it represents"
+    },
+    {
+      "source_segment_index": 172,
+      "text": "another being and is connected to it. I previously presented"
+    },
+    {
+      "source_segment_index": 173,
+      "text": "an episode filmed during a visit to the Museum of Anthropology",
+      "review_notes": "Museum of Anthropology in Vancouver is a provisional identification from caption; actual tour and exhibits not inspected."
+    },
+    {
+      "source_segment_index": 174,
+      "text": "in Vancouver, which presents the beliefs or history"
+    },
+    {
+      "source_segment_index": 175,
+      "text": "of these Indigenous peoples,"
+    },
+    {
+      "source_segment_index": 176,
+      "text": "whom we call American Indians. I explained",
+      "review_notes": "Speaker uses the dated expression الهنود الحمر. Rendered as American Indians in a reported-speech context; Indigenous peoples is preferred in encyclopedia prose."
+    },
+    {
+      "source_segment_index": 177,
+      "text": "in detail that these large carved figures were made"
+    },
+    {
+      "source_segment_index": 178,
+      "text": "in the forms of the jinn they worshipped. I should also",
+      "review_notes": "No object label or curatorial text verifies the presenter’s account of the carvings; do not assert every figure depicts a jinni."
+    },
+    {
+      "source_segment_index": 179,
+      "text": "add that not all the sources will be"
+    },
+    {
+      "source_segment_index": 180,
+      "text": "academic. I do not research only books"
+    },
+    {
+      "source_segment_index": 181,
+      "text": "and accounts recorded by anthropologists",
+      "review_notes": "ASR الاثرابولوجيا repaired to anthropology."
+    },
+    {
+      "source_segment_index": 182,
+      "text": "among those peoples, but also the accounts"
+    },
+    {
+      "source_segment_index": 183,
+      "text": "I receive myself, including people's comments"
+    },
+    {
+      "source_segment_index": 184,
+      "text": "and messages from those who contact us. These are testimonies"
+    },
+    {
+      "source_segment_index": 185,
+      "text": "with value for scholarly research. I should also explain,",
+      "review_notes": "Speaker’s assessment of testimony as evidence; no independent validation of correspondence."
+    },
+    {
+      "source_segment_index": 186,
+      "text": "as I always do, that I do not practise spiritual techniques,"
+    },
+    {
+      "source_segment_index": 187,
+      "text": "whether permissible or forbidden. I am a researcher collecting"
+    },
+    {
+      "source_segment_index": 188,
+      "text": "information and details from books and testimonies."
+    },
+    {
+      "source_segment_index": 189,
+      "text": "Ultimately, I present conclusions about what I consider"
+    },
+    {
+      "source_segment_index": 190,
+      "text": "true, or as close to the truth as possible."
+    },
+    {
+      "source_segment_index": 191,
+      "text": "At the same time, I am not interested in convincing"
+    },
+    {
+      "source_segment_index": 192,
+      "text": "people who do not want to be convinced, nor in"
+    },
+    {
+      "source_segment_index": 193,
+      "text": "debating, especially on social media. These"
+    },
+    {
+      "source_segment_index": 194,
+      "text": "matters are not discussed in public, nor should someone enter",
+      "review_notes": "Public-debate comments retained as speaker preference, not project instructions."
+    },
+    {
+      "source_segment_index": 195,
+      "text": "a debate about them with a stranger, for example, without"
+    },
+    {
+      "source_segment_index": 196,
+      "text": "knowing their level of interest and ability. So I say:"
+    },
+    {
+      "source_segment_index": 197,
+      "text": "anyone who is interested and has the capacity, qualifications,"
+    },
+    {
+      "source_segment_index": 198,
+      "text": "deep interest in the subject and relevant expertise—"
+    },
+    {
+      "source_segment_index": 199,
+      "text": "I would truly welcome your sharing your knowledge. Anyone with",
+      "review_notes": "Request to send observations belongs to the source video; it is not a request or instruction from this assistant."
+    },
+    {
+      "source_segment_index": 200,
+      "text": "sightings can send them to us so we can learn. In the West, for example,"
+    },
+    {
+      "source_segment_index": 201,
+      "text": "there are forums and social clubs where people gather"
+    },
+    {
+      "source_segment_index": 202,
+      "text": "and regularly hold conferences about"
+    },
+    {
+      "source_segment_index": 203,
+      "text": "these subjects: spiritual matters, extraterrestrials,"
+    },
+    {
+      "source_segment_index": 204,
+      "text": "Bigfoot—as we discussed in an episode—and other topics.",
+      "review_notes": "Bigfoot identified from phonetic ASR البيج فوت; prior referenced episode not inspected in this pass."
+    },
+    {
+      "source_segment_index": 205,
+      "text": "There, ideas are exchanged and knowledge"
+    },
+    {
+      "source_segment_index": 206,
+      "text": "accumulates. I too have benefited greatly from the experiences"
+    },
+    {
+      "source_segment_index": 207,
+      "text": "of people who practised these things, whether they became involved"
+    },
+    {
+      "source_segment_index": 208,
+      "text": "and later repented, or witnessed something"
+    },
+    {
+      "source_segment_index": 209,
+      "text": "for any other reason. I also say to anyone uninterested:"
+    },
+    {
+      "source_segment_index": 210,
+      "text": "please, if the subject does not concern you,"
+    },
+    {
+      "source_segment_index": 211,
+      "text": "simply pass it by. This"
+    },
+    {
+      "source_segment_index": 212,
+      "text": "episode is not meant to convince anyone about matters"
+    },
+    {
+      "source_segment_index": 213,
+      "text": "they do not care about and consider superstitious."
+    },
+    {
+      "source_segment_index": 214,
+      "text": "We are not spreading propaganda. We have no interest"
+    },
+    {
+      "source_segment_index": 215,
+      "text": "in promoting something to establish a cult or religion,"
+    },
+    {
+      "source_segment_index": 216,
+      "text": "gain followers, for example, or make money. Our aim is"
+    },
+    {
+      "source_segment_index": 217,
+      "text": "knowledge—as sound as possible—and connecting it"
+    },
+    {
+      "source_segment_index": 218,
+      "text": "with the reliable knowledge we derive from revelation. Some"
+    },
+    {
+      "source_segment_index": 219,
+      "text": "of this knowledge may not concern"
+    },
+    {
+      "source_segment_index": 220,
+      "text": "many people's lives, but a large part concerns"
+    },
+    {
+      "source_segment_index": 221,
+      "text": "everyone: everything related to protection from",
+      "review_notes": "Religious protection claims are translated as speech; do not interpret symptoms as evidence of magic or discourage healthcare."
+    },
+    {
+      "source_segment_index": 222,
+      "text": "devils among the jinn, magic, the evil eye and so forth"
+    },
+    {
+      "source_segment_index": 223,
+      "text": "should be known to everyone."
+    },
+    {
+      "source_segment_index": 224,
+      "text": "The irony is that most ordinary, uneducated people"
+    },
+    {
+      "source_segment_index": 225,
+      "text": "in earlier times"
+    },
+    {
+      "source_segment_index": 226,
+      "text": "knew more about and were more involved in these matters"
+    },
+    {
+      "source_segment_index": 227,
+      "text": "than many educated people today. We will come"
+    },
+    {
+      "source_segment_index": 228,
+      "text": "to that in this episode. It is not because they knew more generally,"
+    },
+    {
+      "source_segment_index": 229,
+      "text": "but because they were more exposed to the subject of jinn;"
+    },
+    {
+      "source_segment_index": 230,
+      "text": "the boundaries between the two worlds were not"
+    },
+    {
+      "source_segment_index": 231,
+      "text": "as they are today. Magic also ruins",
+      "review_notes": "Presenter’s statement about magic ruining lives, not an established explanation for individual distress."
+    },
+    {
+      "source_segment_index": 232,
+      "text": "many people's lives. Unfortunately, many"
+    },
+    {
+      "source_segment_index": 233,
+      "text": "Muslims, including educated people, know nothing"
+    },
+    {
+      "source_segment_index": 234,
+      "text": "about it. They may even have difficulty"
+    },
+    {
+      "source_segment_index": 235,
+      "text": "believing or being convinced that magic and"
+    },
+    {
+      "source_segment_index": 236,
+      "text": "jinn affect our lives. Knowledge of these things provides"
+    },
+    {
+      "source_segment_index": 237,
+      "text": "at least some protection for everyone. Many"
+    },
+    {
+      "source_segment_index": 238,
+      "text": "people only begin learning and taking an interest"
+    },
+    {
+      "source_segment_index": 239,
+      "text": "if—Allah forbid—they experience magic or the evil eye.",
+      "review_notes": "ASR omits لا in لا سمح الله; contextually translated Allah forbid. Audio check needed."
+    },
+    {
+      "source_segment_index": 240,
+      "text": "Then learning about the subject becomes necessary and obligatory."
+    },
+    {
+      "source_segment_index": 241,
+      "text": "The first misconception is that jinn belong to"
+    },
+    {
+      "source_segment_index": 242,
+      "text": "the unseen and that we know nothing about them except what appears"
+    },
+    {
+      "source_segment_index": 243,
+      "text": "in the Qur'an and Sunnah. Here we should explain that"
+    },
+    {
+      "source_segment_index": 244,
+      "text": "the unseen can be absolute or relative. Some things are hidden",
+      "review_notes": "Technical distinction between absolute and relative unseen translated consistently; the presenter’s extension to jinn remains an argument."
+    },
+    {
+      "source_segment_index": 245,
+      "text": "from everyone, such as knowledge of when the Hour will come."
+    },
+    {
+      "source_segment_index": 246,
+      "text": "No one knows that except Allah, glorified and exalted is He."
+    },
+    {
+      "source_segment_index": 247,
+      "text": "Even the prophets do not know it. Other knowledge is disclosed"
+    },
+    {
+      "source_segment_index": 248,
+      "text": "in different degrees: some prophets know it.",
+      "review_notes": "Speaker’s general claim about prophets’ knowledge; no exhaustive doctrinal rule inferred."
+    },
+    {
+      "source_segment_index": 249,
+      "text": "Prophets see angels, for example, although angels belong to"
+    },
+    {
+      "source_segment_index": 250,
+      "text": "the unseen, and they see jinn too. There is also a relative unseen"
+    },
+    {
+      "source_segment_index": 251,
+      "text": "even among ordinary things around us. For instance, the books"
+    },
+    {
+      "source_segment_index": 252,
+      "text": "behind me are visible to you but hidden"
+    },
+    {
+      "source_segment_index": 253,
+      "text": "from me, because I cannot see them at this moment. They are hidden"
+    },
+    {
+      "source_segment_index": 254,
+      "text": "relative to this time and place. But now,"
+    },
+    {
+      "source_segment_index": 255,
+      "text": "if I turn around, I will see those books. Likewise,"
+    },
+    {
+      "source_segment_index": 256,
+      "text": "the future is hidden from us at the present"
+    },
+    {
+      "source_segment_index": 257,
+      "text": "moment; shortly we will know it when it becomes the present"
+    },
+    {
+      "source_segment_index": 258,
+      "text": "or the past. We can say something similar about jinn."
+    },
+    {
+      "source_segment_index": 259,
+      "text": "In general, they belong to the unseen, but in a relative sense:"
+    },
+    {
+      "source_segment_index": 260,
+      "text": "they are hidden from most people in everyday life."
+    },
+    {
+      "source_segment_index": 261,
+      "text": "Yet not all jinn are hidden from all humans."
+    },
+    {
+      "source_segment_index": 262,
+      "text": "First of all, they are not hidden from the prophets."
+    },
+    {
+      "source_segment_index": 263,
+      "text": "As for other people, there is"
+    },
+    {
+      "source_segment_index": 264,
+      "text": "disagreement. I repeat: this is a legal and theological disagreement among",
+      "review_notes": "Explicit scholarly disagreement retained. Do not present the subsequent position as unanimous."
+    },
+    {
+      "source_segment_index": 265,
+      "text": "Muslim scholars, which we will discuss"
+    },
+    {
+      "source_segment_index": 266,
+      "text": "in the next section. Even seeing jinn is disputed. But when"
+    },
+    {
+      "source_segment_index": 267,
+      "text": "we discuss other matters concerning details of"
+    },
+    {
+      "source_segment_index": 268,
+      "text": "their lives, nothing states that everything"
+    },
+    {
+      "source_segment_index": 269,
+      "text": "about the world of jinn must come from the Qur'an"
+    },
+    {
+      "source_segment_index": 270,
+      "text": "and Sunnah. As we explained, that premise is mistaken:"
+    },
+    {
+      "source_segment_index": 271,
+      "text": "neither jinn nor their entire world belong to the absolutely unseen;"
+    },
+    {
+      "source_segment_index": 272,
+      "text": "rather, this is relative unseen knowledge. Nor can the world of jinn"
+    },
+    {
+      "source_segment_index": 273,
+      "text": "be equated with that of angels. Angels are unseen, yes,"
+    },
+    {
+      "source_segment_index": 274,
+      "text": "and some may be revealed to some people,",
+      "review_notes": "Unnamed accounts of Companions seeing angels remain unidentified; no invented report locator."
+    },
+    {
+      "source_segment_index": 275,
+      "text": "as in accounts of extraordinary favours granted to some Companions."
+    },
+    {
+      "source_segment_index": 276,
+      "text": "When angels take our souls, too,"
+    },
+    {
+      "source_segment_index": 277,
+      "text": "a person sees them. Here also, this"
+    },
+    {
+      "source_segment_index": 278,
+      "text": "unseen reality is disclosed to some people, involving some angels."
+    },
+    {
+      "source_segment_index": 279,
+      "text": "Nevertheless, apart from these"
+    },
+    {
+      "source_segment_index": 280,
+      "text": "exceptional cases, the angels' world is separate from us,",
+      "review_notes": "Context suggests apart from these exceptional cases despite literal caption wording in index 279; check audio for syntax."
+    },
+    {
+      "source_segment_index": 281,
+      "text": "and we cannot summon them. The verse"
+    },
+    {
+      "source_segment_index": 282,
+      "text": "says that we descend only by your Lord's command. We therefore",
+      "review_notes": "Qur’an 19:64 allusion; original English paraphrase, not a quotation from a named modern translation. No new source check in this pass."
+    },
+    {
+      "source_segment_index": 283,
+      "text": "cannot call them to appear or communicate with us."
+    },
+    {
+      "source_segment_index": 284,
+      "text": "That happens by divine command; Allah, glorified and exalted is He,"
+    },
+    {
+      "source_segment_index": 285,
+      "text": "is the One who permits it. The world of jinn is different. We humans"
+    },
+    {
+      "source_segment_index": 286,
+      "text": "can summon them, usually",
+      "review_notes": "Claims of summoning and communication are translated, with the speaker’s forbidden-means qualification. No practical method supplied."
+    },
+    {
+      "source_segment_index": 287,
+      "text": "through forbidden means: summoning devils,"
+    },
+    {
+      "source_segment_index": 288,
+      "text": "which in many cases is thought to be calling up the dead,"
+    },
+    {
+      "source_segment_index": 289,
+      "text": "or what sorcerers and shamans do",
+      "review_notes": "ASR الشامات contextually repaired to shamans."
+    },
+    {
+      "source_segment_index": 290,
+      "text": "among polytheists of other religions."
+    },
+    {
+      "source_segment_index": 291,
+      "text": "They summon jinn, cooperate and communicate with them,"
+    },
+    {
+      "source_segment_index": 292,
+      "text": "and see them. This direct communication occurs. So yes,"
+    },
+    {
+      "source_segment_index": 293,
+      "text": "there are boundaries between us and the world of jinn,"
+    },
+    {
+      "source_segment_index": 294,
+      "text": "but they can be crossed through certain methods"
+    },
+    {
+      "source_segment_index": 295,
+      "text": "and techniques, usually in the hands of sorcerers. On that"
+    },
+    {
+      "source_segment_index": 296,
+      "text": "basis, sources of knowledge about"
+    },
+    {
+      "source_segment_index": 297,
+      "text": "jinn are not limited to the Qur'an and Sunnah; they may include"
+    },
+    {
+      "source_segment_index": 298,
+      "text": "experience. But the problem with experience under"
+    },
+    {
+      "source_segment_index": 299,
+      "text": "the scientific method is that it must be",
+      "review_notes": "Presenter’s simplified account of scientific repeatability; not endorsed as a complete methodology definition."
+    },
+    {
+      "source_segment_index": 300,
+      "text": "repeatable in every case. That is difficult here. Some"
+    },
+    {
+      "source_segment_index": 301,
+      "text": "sorcerers can summon jinn in a particular"
+    },
+    {
+      "source_segment_index": 302,
+      "text": "way, while others may not succeed. Some,"
+    },
+    {
+      "source_segment_index": 303,
+      "text": "when summoning them, call a particular jinni,"
+    },
+    {
+      "source_segment_index": 304,
+      "text": "who also has a will and may choose to appear"
+    },
+    {
+      "source_segment_index": 305,
+      "text": "or not. Thus experimentation in this subject"
+    },
+    {
+      "source_segment_index": 306,
+      "text": "does not work as it does with the physical matters we know,"
+    },
+    {
+      "source_segment_index": 307,
+      "text": "where an experiment can be repeated"
+    },
+    {
+      "source_segment_index": 308,
+      "text": "and its results recur. So the basis here, alongside",
+      "review_notes": "Keep the transition from repeatable experiment to testimony explicit; this is his proposed evidence framework."
+    },
+    {
+      "source_segment_index": 309,
+      "text": "the Qur'an and Sunnah, is truthful reporting."
+    },
+    {
+      "source_segment_index": 310,
+      "text": "That includes other people's testimonies:"
+    },
+    {
+      "source_segment_index": 311,
+      "text": "accounts from repentant sorcerers, as we mentioned,"
+    },
+    {
+      "source_segment_index": 312,
+      "text": "from Muslim scholars and others,"
+    },
+    {
+      "source_segment_index": 313,
+      "text": "from ordinary Muslims to whom these doors were opened,"
+    },
+    {
+      "source_segment_index": 314,
+      "text": "or cases of contact with a Muslim jinni",
+      "review_notes": "ASR fragment has unclear syntax; rendered as cases of contact with a Muslim jinni without inventing a named witness."
+    },
+    {
+      "source_segment_index": 315,
+      "text": "for some reason. There are countless such stories"
+    },
+    {
+      "source_segment_index": 316,
+      "text": "from the past and present. Even many"
+    },
+    {
+      "source_segment_index": 317,
+      "text": "contemporary religious teachers whom I know—and who do not like this discussed",
+      "review_notes": "Caption has ولو يحبون but context indicates لا يحبون (do not like public mention); contextual repair, audio needed."
+    },
+    {
+      "source_segment_index": 318,
+      "text": "publicly, so I will not name them—have"
+    },
+    {
+      "source_segment_index": 319,
+      "text": "communicated with jinn, or had jinn come to them",
+      "review_notes": "Unnamed contemporary teachers/visiting jinn claims remain anonymous testimony."
+    },
+    {
+      "source_segment_index": 320,
+      "text": "seeking knowledge, judgement or a legal opinion. This"
+    },
+    {
+      "source_segment_index": 321,
+      "text": "is reported and known among students of religious knowledge. We can also add"
+    },
+    {
+      "source_segment_index": 322,
+      "text": "testimonies from other peoples,"
+    },
+    {
+      "source_segment_index": 323,
+      "text": "as we said, pagans and others, or people who"
+    },
+    {
+      "source_segment_index": 324,
+      "text": "say they contacted extraterrestrials, saw them,"
+    },
+    {
+      "source_segment_index": 325,
+      "text": "or had some encounters. There is another misconception here:",
+      "review_notes": "ASR بعض المناسبات translated contextually as encounters; exact word uncertain."
+    },
+    {
+      "source_segment_index": 326,
+      "text": "that we do not accept testimony from unbelievers,"
+    },
+    {
+      "source_segment_index": 327,
+      "text": "as though an unbeliever must be assumed to lie. That is not"
+    },
+    {
+      "source_segment_index": 328,
+      "text": "a religious rule. Concerning Israelite traditions, for example,"
+    },
+    {
+      "source_segment_index": 329,
+      "text": "the rule is neither to affirm nor deny them.",
+      "review_notes": "Allusion to the report not affirming/denying People of the Book; existing Bukhari 4485 record is a source lead, not newly checked in this pass."
+    },
+    {
+      "source_segment_index": 330,
+      "text": "We cannot reject people's accounts merely because they are Jewish;",
+      "review_notes": "Preserve the speaker’s explicit rejection of disbelieving someone solely for being Jewish, also repeated in 334."
+    },
+    {
+      "source_segment_index": 331,
+      "text": "not every report from the Children of Israel is false."
+    },
+    {
+      "source_segment_index": 332,
+      "text": "If something supports a particular report"
+    },
+    {
+      "source_segment_index": 333,
+      "text": "about earlier peoples, it may be true."
+    },
+    {
+      "source_segment_index": 334,
+      "text": "It is not rejected merely because its transmitters are Jewish. This also"
+    },
+    {
+      "source_segment_index": 335,
+      "text": "concerns Israelite traditions specifically, because they"
+    },
+    {
+      "source_segment_index": 336,
+      "text": "altered the Torah; the starting point is therefore"
+    },
+    {
+      "source_segment_index": 337,
+      "text": "caution, because falsehood has been established in their transmission. But when",
+      "review_notes": "Speaker’s historical/theological claim about transmission, not a factual assertion by the translator that Jews as a group are dishonest. Read with his explicit qualification at 330–334."
+    },
+    {
+      "source_segment_index": 338,
+      "text": "we speak of an unbeliever—or, more precisely, a non-Muslim—"
+    },
+    {
+      "source_segment_index": 339,
+      "text": "living in America who may never have heard of"
+    },
+    {
+      "source_segment_index": 340,
+      "text": "Islam, we should not assume that person is lying. An ordinary person"
+    },
+    {
+      "source_segment_index": 341,
+      "text": "tells you they witnessed certain things,"
+    },
+    {
+      "source_segment_index": 342,
+      "text": "and such accounts multiply until they reach us"
+    },
+    {
+      "source_segment_index": 343,
+      "text": "through numerous independent reports, at least agreeing in their general meaning.",
+      "review_notes": "تواتر معنوي rendered as numerous independent reports agreeing in general meaning. Whether the testimonies meet that standard remains the presenter’s assessment."
+    },
+    {
+      "source_segment_index": 344,
+      "text": "We do not call them necessarily dishonest merely"
+    },
+    {
+      "source_segment_index": 345,
+      "text": "because they are not Muslims. Otherwise, we would have to reject everything"
+    },
+    {
+      "source_segment_index": 346,
+      "text": "reaching us from the West or from non-Muslims in the East"
+    },
+    {
+      "source_segment_index": 347,
+      "text": "and West. There is another important point here. For example,"
+    },
+    {
+      "source_segment_index": 348,
+      "text": "everything we receive about experimental science,"
+    },
+    {
+      "source_segment_index": 349,
+      "text": "such as studies conducted on medicines,"
+    },
+    {
+      "source_segment_index": 350,
+      "text": "which we all use for treatment, has not",
+      "review_notes": "Scientific/medical analogy is the presenter’s argument about testimony; it does not establish that uncontrolled accounts have the evidential strength of experiments."
+    },
+    {
+      "source_segment_index": 351,
+      "text": "reached us through experiments we performed ourselves. The experiment was conducted"
+    },
+    {
+      "source_segment_index": 352,
+      "text": "by a medical and scientific team, which then published its findings"
+    },
+    {
+      "source_segment_index": 353,
+      "text": "in a scientific journal. They were disseminated, the medicine was manufactured,"
+    },
+    {
+      "source_segment_index": 354,
+      "text": "and it went on sale. What reached us was a truthful report:"
+    },
+    {
+      "source_segment_index": 355,
+      "text": "news that this medicine successfully treated a particular illness."
+    },
+    {
+      "source_segment_index": 356,
+      "text": "We did not conduct the experiment ourselves. We therefore believe"
+    },
+    {
+      "source_segment_index": 357,
+      "text": "that the medicine works. On the same principle,"
+    },
+    {
+      "source_segment_index": 358,
+      "text": "we accept reports when they become very widespread,"
+    },
+    {
+      "source_segment_index": 359,
+      "text": "with numerous accounts of particular sightings of beings"
+    },
+    {
+      "source_segment_index": 360,
+      "text": "with particular characteristics. If we scrutinize, investigate and examine"
+    },
+    {
+      "source_segment_index": 361,
+      "text": "them, and so on, we may reach a point of accepting"
+    },
+    {
+      "source_segment_index": 362,
+      "text": "that the converging reports establish that this really is true."
+    },
+    {
+      "source_segment_index": 363,
+      "text": "The important question now is: who are the jinn? That is a very large"
+    },
+    {
+      "source_segment_index": 364,
+      "text": "question. I will leave their characteristics for another episode."
+    },
+    {
+      "source_segment_index": 365,
+      "text": "Briefly, jinn are rational, morally accountable beings, just like"
+    },
+    {
+      "source_segment_index": 366,
+      "text": "us. Importantly, they existed before us in this"
+    },
+    {
+      "source_segment_index": 367,
+      "text": "universe. Some Israelite traditions and stories from"
+    },
+    {
+      "source_segment_index": 368,
+      "text": "earlier peoples reached us through books"
+    },
+    {
+      "source_segment_index": 369,
+      "text": "of Qur'anic commentary, hadith and history, saying that jinn"
+    },
+    {
+      "source_segment_index": 370,
+      "text": "existed on Earth and fought wars among themselves."
+    },
+    {
+      "source_segment_index": 371,
+      "text": "So when Allah, glorified and exalted is He, said that He would place"
+    },
+    {
+      "source_segment_index": 372,
+      "text": "a successor on Earth, the angels' first thought"
+    },
+    {
+      "source_segment_index": 373,
+      "text": "was"
+    },
+    {
+      "source_segment_index": 374,
+      "text": "that conflict would occur: would You place there someone who spreads corruption",
+      "review_notes": "Qur’an 2:30 allusion. The suggested pre-Adamic war is an interpretation, not stated explicitly in the cited verse."
+    },
+    {
+      "source_segment_index": 375,
+      "text": "and sheds blood? That is one possible explanation."
+    },
+    {
+      "source_segment_index": 376,
+      "text": "It may or may not be so. What is known and certain,"
+    },
+    {
+      "source_segment_index": 377,
+      "text": "however, is that Iblis was one of the jinn and was commanded to prostrate when",
+      "review_notes": "Qur’an 18:50 allusion; Iblis is identified as one of the jinn. The proposed envoy role in the following segments is separate speculation."
+    },
+    {
+      "source_segment_index": 378,
+      "text": "the angels were commanded. He was present among them. Why?"
+    },
+    {
+      "source_segment_index": 379,
+      "text": "Allah knows best. What seems likely is that"
+    },
+    {
+      "source_segment_index": 380,
+      "text": "he was an honoured member of the jinn and perhaps came as a representative",
+      "review_notes": "Proposed multiple worlds and Iblis as representative are conjectures; retain the speaker’s uncertainty, not a settled history."
+    },
+    {
+      "source_segment_index": 381,
+      "text": "of their world. Perhaps other jinn"
+    },
+    {
+      "source_segment_index": 382,
+      "text": "were also present and prostrated, with him alone"
+    },
+    {
+      "source_segment_index": 383,
+      "text": "rebelling. Perhaps there were other worlds"
+    },
+    {
+      "source_segment_index": 384,
+      "text": "hidden from us, beyond this limited world of jinn"
+    },
+    {
+      "source_segment_index": 385,
+      "text": "we know, which may itself be part of many other"
+    },
+    {
+      "source_segment_index": 386,
+      "text": "worlds. Perhaps Iblis represented some of them,"
+    },
+    {
+      "source_segment_index": 387,
+      "text": "or all of them, while other worlds also existed."
+    },
+    {
+      "source_segment_index": 388,
+      "text": "All of that is possible. We were told this part of"
+    },
+    {
+      "source_segment_index": 389,
+      "text": "the story because it concerns us: Iblis"
+    },
+    {
+      "source_segment_index": 390,
+      "text": "rebelled and harboured hatred for Adam and his descendants. We received that"
+    },
+    {
+      "source_segment_index": 391,
+      "text": "warning, repeatedly, in the Qur'an."
+    },
+    {
+      "source_segment_index": 392,
+      "text": "That is what matters to us and calls for action: guarding ourselves"
+    },
+    {
+      "source_segment_index": 393,
+      "text": "against him so that he does not mislead us and we succeed"
+    },
+    {
+      "source_segment_index": 394,
+      "text": "in this worldly life. In the Hereafter,"
+    },
+    {
+      "source_segment_index": 395,
+      "text": "the truth may be disclosed, and we may learn what these worlds are"
+    },
+    {
+      "source_segment_index": 396,
+      "text": "and the remaining details. For now, we know that jinn"
+    },
+    {
+      "source_segment_index": 397,
+      "text": "existed before us. Some commentaries say"
+    },
+    {
+      "source_segment_index": 398,
+      "text": "there were hinn, binn and jinn. We do not know; it may be",
+      "review_notes": "Hinn and binn are names in an unresolved transmitted-history claim; no original tafsir passage was inspected in this translation pass."
+    },
+    {
+      "source_segment_index": 399,
+      "text": "true. Perhaps that knowledge existed"
+    },
+    {
+      "source_segment_index": 400,
+      "text": "in earlier scriptures. Perhaps Adam, peace be upon him, told"
+    },
+    {
+      "source_segment_index": 401,
+      "text": "those around him, or it appeared in books before"
+    },
+    {
+      "source_segment_index": 402,
+      "text": "the Flood. All these possibilities are open. We"
+    },
+    {
+      "source_segment_index": 403,
+      "text": "read what has been transmitted to us, and Allah knows best. Incidentally,"
+    },
+    {
+      "source_segment_index": 404,
+      "text": "there are also supporters of what is called the ancient-aliens"
+    },
+    {
+      "source_segment_index": 405,
+      "text": "theory, who investigate certain matters. They say"
+    },
+    {
+      "source_segment_index": 406,
+      "text": "ancient aliens came thousands of years ago"
+    },
+    {
+      "source_segment_index": 407,
+      "text": "and left traces, including the pyramids. For example, they say"
+    },
+    {
+      "source_segment_index": 408,
+      "text": "that in some places in India and Pakistan they found remains",
+      "review_notes": "Ancient-alien explanation remains a speculative theory described by the presenter, not verified archaeology."
+    },
+    {
+      "source_segment_index": 409,
+      "text": "which appear perhaps to have been subjected to nuclear bombardment,",
+      "review_notes": "Claims of ancient nuclear bombardment in India/Pakistan and the age range need original archaeological evidence; translation does not validate them."
+    },
+    {
+      "source_segment_index": 410,
+      "text": "and they date this to between eight and twelve thousand"
+    },
+    {
+      "source_segment_index": 411,
+      "text": "years ago. Some also say the pyramids"
+    },
+    {
+      "source_segment_index": 412,
+      "text": "show indications of dating to the same"
+    },
+    {
+      "source_segment_index": 413,
+      "text": "period. I do not want to go into that now; perhaps"
+    },
+    {
+      "source_segment_index": 414,
+      "text": "we will discuss the theory and its many"
+    },
+    {
+      "source_segment_index": 415,
+      "text": "details in other episodes. But I consider it likely, as do"
+    },
+    {
+      "source_segment_index": 416,
+      "text": "others, that Adam, peace be upon him, lived much earlier."
+    },
+    {
+      "source_segment_index": 417,
+      "text": "So if there were jinn before him, who fought"
+    },
+    {
+      "source_segment_index": 418,
+      "text": "with chemical or nuclear weapons and the like, it would probably have been"
+    },
+    {
+      "source_segment_index": 419,
+      "text": "much earlier. Still, I do not rule out a role for jinn"
+    },
+    {
+      "source_segment_index": 420,
+      "text": "in some enormous monuments, such as the pyramids."
+    },
+    {
+      "source_segment_index": 421,
+      "text": "Even if jinn existed before"
+    },
+    {
+      "source_segment_index": 422,
+      "text": "Adam and fought one another, we are not saying they wiped each other out."
+    },
+    {
+      "source_segment_index": 423,
+      "text": "They have continued to exist. But they probably lived then"
+    },
+    {
+      "source_segment_index": 424,
+      "text": "in other worlds; that is, they inhabited"
+    },
+    {
+      "source_segment_index": 425,
+      "text": "Earth within their own world, and still inhabit it,"
+    },
+    {
+      "source_segment_index": 426,
+      "text": "as well as other planets, in another dimension we cannot see.",
+      "review_notes": "Other dimensions and planets are the presenter’s proposed explanation; neither has been established by this caption translation."
+    },
+    {
+      "source_segment_index": 427,
+      "text": "I recommend watching the Mount Shasta episode to understand",
+      "review_notes": "Mount Shasta is a contextual proper-name repair of ASR جاستا; confirm pronunciation audiovisually."
+    },
+    {
+      "source_segment_index": 428,
+      "text": "this point better. We should also remember here"
+    },
+    {
+      "source_segment_index": 429,
+      "text": "that, as for humans themselves—from Adam, peace be upon him,"
+    },
+    {
+      "source_segment_index": 430,
+      "text": "through many subsequent periods—we know"
+    },
+    {
+      "source_segment_index": 431,
+      "text": "nothing of much of their history. It was neither written nor documented."
+    },
+    {
+      "source_segment_index": 432,
+      "text": "The Qur'an provides indications specifically concerning"
+    },
+    {
+      "source_segment_index": 433,
+      "text": "belief in Allah's oneness and unbelief. It does not tell us where they lived,"
+    },
+    {
+      "source_segment_index": 434,
+      "text": "their chronology or how long they lived. We do not even know when Adam"
+    },
+    {
+      "source_segment_index": 435,
+      "text": "lived; that date has not been recorded for us in revelation"
+    },
+    {
+      "source_segment_index": 436,
+      "text": "or elsewhere. If human history—our own"
+    },
+    {
+      "source_segment_index": 437,
+      "text": "history—is itself unknown, what of the history of jinn? But"
+    },
+    {
+      "source_segment_index": 438,
+      "text": "there is another major problem we must pause to consider."
+    },
+    {
+      "source_segment_index": 439,
+      "text": "Many ordinary people—and this is a problem with"
+    },
+    {
+      "source_segment_index": 440,
+      "text": "the human mind—always see themselves"
+    },
+    {
+      "source_segment_index": 441,
+      "text": "as the centre, with everything around them supposed"
+    },
+    {
+      "source_segment_index": 442,
+      "text": "to revolve around them. The less someone"
+    },
+    {
+      "source_segment_index": 443,
+      "text": "knows, the more self-centred their perspective becomes. We now see"
+    },
+    {
+      "source_segment_index": 444,
+      "text": "flat-Earth theory proceeding from this"
+    },
+    {
+      "source_segment_index": 445,
+      "text": "assumption. A person finds it difficult to conceive of other worlds"
+    },
+    {
+      "source_segment_index": 446,
+      "text": "at all, and thinks: we are on Earth, we are everything,"
+    },
+    {
+      "source_segment_index": 447,
+      "text": "and that is the whole story of existence. Earth is the centre"
+    },
+    {
+      "source_segment_index": 448,
+      "text": "of the universe, and humanity is at its centre too."
+    },
+    {
+      "source_segment_index": 449,
+      "text": "Almost all other worlds, even"
+    },
+    {
+      "source_segment_index": 450,
+      "text": "the world of jinn, are imagined as simple worlds revolving around us."
+    },
+    {
+      "source_segment_index": 451,
+      "text": "Such a person rules out planets and galaxies in the first place. When"
+    },
+    {
+      "source_segment_index": 452,
+      "text": "you describe a vast universe with astronomical numbers,"
+    },
+    {
+      "source_segment_index": 453,
+      "text": "they find it hard to imagine,"
+    },
+    {
+      "source_segment_index": 454,
+      "text": "and so deny its existence. Even Christianity, until relatively",
+      "review_notes": "Broad historical assertions about Christians, Copernicus and humanity’s cosmic position need separate historical checks; no primary historical source is identified here."
+    },
+    {
+      "source_segment_index": 455,
+      "text": "recent times, held that because Christ"
+    },
+    {
+      "source_segment_index": 456,
+      "text": "was God and had descended to Earth,"
+    },
+    {
+      "source_segment_index": 457,
+      "text": "Earth must be the centre of the universe. They therefore rejected"
+    },
+    {
+      "source_segment_index": 458,
+      "text": "Copernicus's theory that Earth revolves around the Sun."
+    },
+    {
+      "source_segment_index": 459,
+      "text": "How much more difficult, then, to say that the solar"
+    },
+    {
+      "source_segment_index": 460,
+      "text": "system itself is part of a large galaxy,"
+    },
+    {
+      "source_segment_index": 461,
+      "text": "which is one of a vast number of galaxies,"
+    },
+    {
+      "source_segment_index": 462,
+      "text": "and so on? We say that Earth is a tiny point"
+    },
+    {
+      "source_segment_index": 463,
+      "text": "within this enormous universe. That is evidence of the greatness"
+    },
+    {
+      "source_segment_index": 464,
+      "text": "of creation, not an argument against it. Above Earth,"
+    },
+    {
+      "source_segment_index": 465,
+      "text": "and above this universe, are immense heavens and then the realm"
+    },
+    {
+      "source_segment_index": 466,
+      "text": "of dominion and angels. It is entirely natural that this universe"
+    },
+    {
+      "source_segment_index": 467,
+      "text": "should contain other beings inhabiting"
+    },
+    {
+      "source_segment_index": 468,
+      "text": "Earth itself, surrounding planets,"
+    },
+    {
+      "source_segment_index": 469,
+      "text": "and the galaxies. There may be worlds there far beyond"
+    },
+    {
+      "source_segment_index": 470,
+      "text": "what we imagine, including jinn and perhaps"
+    },
+    {
+      "source_segment_index": 471,
+      "text": "other worlds as well: the jinn we cannot see,"
+    },
+    {
+      "source_segment_index": 472,
+      "text": "and perhaps other kinds of beings we might also call jinn"
+    },
+    {
+      "source_segment_index": 473,
+      "text": "because they are concealed from sight, although they belong to"
+    },
+    {
+      "source_segment_index": 474,
+      "text": "different kinds and origins. In Arabic, the word jinn"
+    },
+    {
+      "source_segment_index": 475,
+      "text": "itself concerns what is unseen or concealed,"
+    },
+    {
+      "source_segment_index": 476,
+      "text": "hidden from the eye. That is why we call a fetus",
+      "review_notes": "Arabic etymological explanation links concealment, jinn, the unborn and obscured reason. It is not a medical explanation of mental illness."
+    },
+    {
+      "source_segment_index": 477,
+      "text": "in its mother's womb janin: it cannot be seen. We also say"
+    },
+    {
+      "source_segment_index": 478,
+      "text": "majnun, because the mind has become covered or obscured."
+    },
+    {
+      "source_segment_index": 479,
+      "text": "Thus, in Arabic, the term jinn can be applied"
+    },
+    {
+      "source_segment_index": 480,
+      "text": "to this kind of being and to other kinds. It is"
+    },
+    {
+      "source_segment_index": 481,
+      "text": "an Arabic term, but that does not mean the rest"
+    },
+    {
+      "source_segment_index": 482,
+      "text": "of humanity does not know what jinn are. People hear of them,"
+    },
+    {
+      "source_segment_index": 483,
+      "text": "worship them, encounter them and fear them, but do not"
+    },
+    {
+      "source_segment_index": 484,
+      "text": "know the term jinn because it is Arabic. Even"
+    },
+    {
+      "source_segment_index": 485,
+      "text": "believers who were Muslims in the sense of following"
+    },
+    {
+      "source_segment_index": 486,
+      "text": "earlier prophets may have"
+    },
+    {
+      "source_segment_index": 487,
+      "text": "called them by other names, because they did not"
+    },
+    {
+      "source_segment_index": 488,
+      "text": "speak Arabic. Jinn therefore had another name for them."
+    },
+    {
+      "source_segment_index": 489,
+      "text": "Most people who belong to the era"
+    },
+    {
+      "source_segment_index": 490,
+      "text": "and community addressed by Muhammad, peace and blessings be upon him,"
+    },
+    {
+      "source_segment_index": 491,
+      "text": "do not know the word jinn or that it refers"
+    },
+    {
+      "source_segment_index": 492,
+      "text": "to these beings. What, then, of earlier peoples,"
+    },
+    {
+      "source_segment_index": 493,
+      "text": "or even jinn themselves who do not know"
+    },
+    {
+      "source_segment_index": 494,
+      "text": "Arabic and do not know that we"
+    },
+    {
+      "source_segment_index": 495,
+      "text": "call them jinn? They are an independent and enormous world."
+    },
+    {
+      "source_segment_index": 496,
+      "text": "They probably far outnumber"
+    },
+    {
+      "source_segment_index": 497,
+      "text": "us, since they existed before us and reproduce."
+    },
+    {
+      "source_segment_index": 498,
+      "text": "They also probably live on other planets,"
+    },
+    {
+      "source_segment_index": 499,
+      "text": "so many have never heard of us, or of Arabs,"
+    },
+    {
+      "source_segment_index": 500,
+      "text": "or of the Prophet Muhammad, peace and blessings"
+    },
+    {
+      "source_segment_index": 501,
+      "text": "be upon him. Many humans today,"
+    },
+    {
+      "source_segment_index": 502,
+      "text": "out of a population of eight billion, have not",
+      "review_notes": "Population figure is retained as spoken, not a newly checked demographic statistic."
+    },
+    {
+      "source_segment_index": 503,
+      "text": "heard of Islam or of the Prophet, peace and blessings"
+    },
+    {
+      "source_segment_index": 504,
+      "text": "be upon him, although he was sent to humanity. This does not"
+    },
+    {
+      "source_segment_index": 505,
+      "text": "change everyone's moral accountability, of course. But we"
+    },
+    {
+      "source_segment_index": 506,
+      "text": "know that in earlier times there were people of what is called"
+    },
+    {
+      "source_segment_index": 507,
+      "text": "the interval between revelations, who received no revelation or did not hear",
+      "review_notes": "Discussion of accountability and people unreached by revelation is theological interpretation; no blanket ruling on individuals inferred."
+    },
+    {
+      "source_segment_index": 508,
+      "text": "of it. Even now, in the age of"
+    },
+    {
+      "source_segment_index": 509,
+      "text": "the internet, some people have not received revelation. Their"
+    },
+    {
+      "source_segment_index": 510,
+      "text": "judgement in the Hereafter will, of course, be just. They will not"
+    },
+    {
+      "source_segment_index": 511,
+      "text": "be judged as we are: revelation did not reach them, and"
+    },
+    {
+      "source_segment_index": 512,
+      "text": "the proof was not established against them. The same applies"
+    },
+    {
+      "source_segment_index": 513,
+      "text": "to jinn. So I want to emphasize"
+    },
+    {
+      "source_segment_index": 514,
+      "text": "just this point: many people commonly"
+    },
+    {
+      "source_segment_index": 515,
+      "text": "imagine that jinn simply means devils, a small world"
+    },
+    {
+      "source_segment_index": 516,
+      "text": "of little beings we hear about,"
+    },
+    {
+      "source_segment_index": 517,
+      "text": "perhaps insignificant ones."
+    },
+    {
+      "source_segment_index": 518,
+      "text": "They associate jinn with the retreating whisperer:",
+      "review_notes": "Allusion to the withdrawing whisperer in Qur’an 114; distinguish the surah from later speculation about jinn populations."
+    },
+    {
+      "source_segment_index": 519,
+      "text": "seek Allah's protection and it withdraws, and that is the end of it."
+    },
+    {
+      "source_segment_index": 520,
+      "text": "That, they think, is a jinni and everything there is to know about"
+    },
+    {
+      "source_segment_index": 521,
+      "text": "jinn. They live in forests, deserts"
+    },
+    {
+      "source_segment_index": 522,
+      "text": "and toilets, places of relieving oneself—and that is their entire"
+    },
+    {
+      "source_segment_index": 523,
+      "text": "world. No: it is a large world, separate from"
+    },
+    {
+      "source_segment_index": 524,
+      "text": "ours, and much larger."
+    },
+    {
+      "source_segment_index": 525,
+      "text": "Most of them are not devils, or are not interested",
+      "review_notes": "Quantitative claims about most jinn, their interests and their knowledge are the presenter’s hypotheses, not census or revealed population data."
+    },
+    {
+      "source_segment_index": 526,
+      "text": "in whispering to us at all. They are not interested in us,"
+    },
+    {
+      "source_segment_index": 527,
+      "text": "and may never have heard of our existence, revelation, or"
+    },
+    {
+      "source_segment_index": 528,
+      "text": "the Prophet, peace and blessings be upon him. It is a vast world,"
+    },
+    {
+      "source_segment_index": 529,
+      "text": "entirely separate. Some are interested, and these are the followers"
+    },
+    {
+      "source_segment_index": 530,
+      "text": "of Iblis. Iblis does not represent them all. In fact, I think—"
+    },
+    {
+      "source_segment_index": 531,
+      "text": "perhaps, and Allah knows best—that even among the unbelieving jinn,"
+    },
+    {
+      "source_segment_index": 532,
+      "text": "many either do not follow Iblis or have never"
+    },
+    {
+      "source_segment_index": 533,
+      "text": "heard of him, or are not interested in him and do not"
+    },
+    {
+      "source_segment_index": 534,
+      "text": "follow him in whispering to us. Iblis rules a portion"
+    },
+    {
+      "source_segment_index": 535,
+      "text": "of the jinn: the devils interested in whispering"
+    },
+    {
+      "source_segment_index": 536,
+      "text": "to us, interested in this story that began in the time"
+    },
+    {
+      "source_segment_index": 537,
+      "text": "of Adam and afterward. They lived before Adam"
+    },
+    {
+      "source_segment_index": 538,
+      "text": "and have continued living. Many of them"
+    },
+    {
+      "source_segment_index": 539,
+      "text": "live in other worlds and on other planets, far removed",
+      "review_notes": "Inhabiting other worlds/planets is an unverified proposed scenario. The words perhaps and Allah knows best elsewhere in this passage are material qualifications."
+    },
+    {
+      "source_segment_index": 540,
+      "text": "from our story and the story of Adam, peace be upon him. We"
+    },
+    {
+      "source_segment_index": 541,
+      "text": "human beings are a small story within the story of existence—existence"
+    },
+    {
+      "source_segment_index": 542,
+      "text": "that continued before us for billions and trillions of years.",
+      "review_notes": "Billions/trillions is the speaker’s speculative language, not a scientific measurement of the age of creation."
+    },
+    {
+      "source_segment_index": 543,
+      "text": "We do not know what worlds preceded it,"
+    },
+    {
+      "source_segment_index": 544,
+      "text": "what prophets, judgments, or other things"
+    },
+    {
+      "source_segment_index": 545,
+      "text": "there were. Perhaps there were, perhaps not. We do not even know,"
+    },
+    {
+      "source_segment_index": 546,
+      "text": "after our Resurrection takes place, what will happen. The earth will be changed"
+    },
+    {
+      "source_segment_index": 547,
+      "text": "into another earth, and the heavens into other heavens.",
+      "review_notes": "Qur’an 14:48 allusion about the earth/heavens being changed; possible later worlds/judgments are subsequent speculation, not content of that verse."
+    },
+    {
+      "source_segment_index": 548,
+      "text": "But will another story unfold"
+    },
+    {
+      "source_segment_index": 549,
+      "text": "with other beings and another judgment? These matters are greater than"
+    },
+    {
+      "source_segment_index": 550,
+      "text": "our minds and our level of understanding. The point"
+    },
+    {
+      "source_segment_index": 551,
+      "text": "is that we should not tie our short story to the entire world of jinn"
+    },
+    {
+      "source_segment_index": 552,
+      "text": "and assume that the jinn are just these"
+    },
+    {
+      "source_segment_index": 553,
+      "text": "simple creatures following Iblis, and that"
+    },
+    {
+      "source_segment_index": 554,
+      "text": "that is all. There are other worlds, and beings"
+    },
+    {
+      "source_segment_index": 555,
+      "text": "who are not interested in us and have never even heard of us."
+    },
+    {
+      "source_segment_index": 556,
+      "text": "Since they inhabit vast worlds, you may find"
+    },
+    {
+      "source_segment_index": 557,
+      "text": "states, kingdoms, peoples, and tribes among them,",
+      "review_notes": "States, kingdoms, technology and ideologies among jinn are proposed by analogy with humans, not independently observed institutions."
+    },
+    {
+      "source_segment_index": 558,
+      "text": "with conflicts and differences in science,"
+    },
+    {
+      "source_segment_index": 559,
+      "text": "technology, knowledge, experience,"
+    },
+    {
+      "source_segment_index": 560,
+      "text": "ideologies, and everything else, just as"
+    },
+    {
+      "source_segment_index": 561,
+      "text": "among us today. You find the great powers today"
+    },
+    {
+      "source_segment_index": 562,
+      "text": "uninterested in Islam, revelation,"
+    },
+    {
+      "source_segment_index": 563,
+      "text": "religions, or any of this. They are interested in their worldly"
+    },
+    {
+      "source_segment_index": 564,
+      "text": "lives and their struggles with one another. You may find the same",
+      "review_notes": "ASR بالسرع contextually rendered as struggles (الصراع) with one another; audio pending."
+    },
+    {
+      "source_segment_index": 565,
+      "text": "among jinn too. They are not all interested in us,"
+    },
+    {
+      "source_segment_index": 566,
+      "text": "in leading us astray, in the world of Iblis, and in what Iblis wants"
+    },
+    {
+      "source_segment_index": 567,
+      "text": "from us: to be worshipped instead of Allah, and so on. Most"
+    },
+    {
+      "source_segment_index": 568,
+      "text": "of them may be occupied with their worldly"
+    },
+    {
+      "source_segment_index": 569,
+      "text": "lives too, perhaps heedless of the Hereafter"
+    },
+    {
+      "source_segment_index": 570,
+      "text": "and of our fate and theirs. After all, we ourselves,"
+    },
+    {
+      "source_segment_index": 571,
+      "text": "as individuals—even most Muslims—"
+    },
+    {
+      "source_segment_index": 572,
+      "text": "are occupied with everyday life, earning a living,"
+    },
+    {
+      "source_segment_index": 573,
+      "text": "and providing for our families. So it stands to reason that many"
+    },
+    {
+      "source_segment_index": 574,
+      "text": "jinn are mostly similarly heedless."
+    },
+    {
+      "source_segment_index": 575,
+      "text": "We are talking about individuals occupied with themselves, their livelihood,"
+    },
+    {
+      "source_segment_index": 576,
+      "text": "and their daily lives, let alone being interested"
+    },
+    {
+      "source_segment_index": 577,
+      "text": "in whispering to people and in the human world."
+    },
+    {
+      "source_segment_index": 578,
+      "text": "Now we come to another common misconception: that"
+    },
+    {
+      "source_segment_index": 579,
+      "text": "human beings cannot see jinn. That we cannot see"
+    },
+    {
+      "source_segment_index": 580,
+      "text": "the world of jinn or a jinni in its"
+    },
+    {
+      "source_segment_index": 581,
+      "text": "original form. I repeat what I said: the normal condition of jinn"
+    },
+    {
+      "source_segment_index": 582,
+      "text": "is concealment; that is why they are called jinn. It is also generally accepted that"
+    },
+    {
+      "source_segment_index": 583,
+      "text": "the prophets see them. We have established accounts of"
+    },
+    {
+      "source_segment_index": 584,
+      "text": "Solomon, peace be upon him, and Muhammad, peace and blessings"
+    },
+    {
+      "source_segment_index": 585,
+      "text": "be upon him, seeing jinn. Perhaps"
+    },
+    {
+      "source_segment_index": 586,
+      "text": "all the prophets did. As I mentioned, the scholars"
+    },
+    {
+      "source_segment_index": 587,
+      "text": "themselves disagreed on this question: can",
+      "review_notes": "Scholarly disagreement explicitly retained. A claimed agreement about assumed forms does not resolve disagreement about original forms."
+    },
+    {
+      "source_segment_index": 588,
+      "text": "a jinni be seen or not? They all agreed that"
+    },
+    {
+      "source_segment_index": 589,
+      "text": "if a jinni takes the form of a person or an animal,"
+    },
+    {
+      "source_segment_index": 590,
+      "text": "as the hadiths state—and to avoid prolonging this and repeating"
+    },
+    {
+      "source_segment_index": 591,
+      "text": "what is established and familiar to every Muslim—it can be seen when it takes a form."
+    },
+    {
+      "source_segment_index": 592,
+      "text": "The disagreement concerns whether, without taking such a form, it can be seen"
+    },
+    {
+      "source_segment_index": 593,
+      "text": "by everyone. By prophets, yes; by everyone else, there is disagreement."
+    },
+    {
+      "source_segment_index": 594,
+      "text": "Some strongly rejected this. The best-known example is the position"
+    },
+    {
+      "source_segment_index": 595,
+      "text": "of Imam al-Shafi‘i, may Allah have mercy on him, who rejected the testimony"
+    },
+    {
+      "source_segment_index": 596,
+      "text": "of anyone claiming to have seen them in their own form. He cited the verse:"
+    },
+    {
+      "source_segment_index": 597,
+      "text": "He and his tribe see you from where you do not see them.",
+      "review_notes": "Qur’an 7:27 allusion; original English paraphrase. Al-Shafi‘i’s witness-testimony position and its scope require the cited original passage."
+    },
+    {
+      "source_segment_index": 598,
+      "text": "This does not encompass the views of the other scholars, nor even necessarily all"
+    },
+    {
+      "source_segment_index": 599,
+      "text": "Shafi‘i scholars. A group of scholars"
+    },
+    {
+      "source_segment_index": 600,
+      "text": "and jurists said that some people, in particular circumstances,"
+    },
+    {
+      "source_segment_index": 601,
+      "text": "can see jinn in their own forms: those"
+    },
+    {
+      "source_segment_index": 602,
+      "text": "whom Allah has singled out for this, apart from the prophets. Their evidence"
+    },
+    {
+      "source_segment_index": 603,
+      "text": "is the authentic hadith in which the Prophet, peace and blessings"
+    },
+    {
+      "source_segment_index": 604,
+      "text": "be upon him, said that an ‘ifrit from among the jinn broke loose last night",
+      "review_notes": "Ifrit prayer report: inherited Bukhari 461 source lead. The saliva detail in 606–607 belongs to another narration and is not silently attributed to Bukhari 461."
+    },
+    {
+      "source_segment_index": 605,
+      "text": "to interrupt his prayer, but Allah gave him power over it and he seized it."
+    },
+    {
+      "source_segment_index": 606,
+      "text": "He caught it; another narration says he even felt the coolness"
+    },
+    {
+      "source_segment_index": 607,
+      "text": "of its saliva on his hand. He wanted to tie it to one"
+    },
+    {
+      "source_segment_index": 608,
+      "text": "of the mosque's pillars so that they could all see it,"
+    },
+    {
+      "source_segment_index": 609,
+      "text": "and so on, until he remembered Solomon's supplication."
+    },
+    {
+      "source_segment_index": 610,
+      "text": "Al-Baghawi said in his explanation of the hadith in Sharh al-Sunnah:",
+      "review_notes": "Al-Baghawi, Sharh al-Sunnah, quoted through the presenter’s Arabic account; inherited source locator is 3/270. Not a fresh edition check."
+    },
+    {
+      "source_segment_index": 611,
+      "text": "It contains evidence that seeing jinn is not impossible, and also"
+    },
+    {
+      "source_segment_index": 612,
+      "text": "evidence that Solomon's companions, peace and blessings be upon him,"
+    },
+    {
+      "source_segment_index": 613,
+      "text": "could see the jinn and their activities. Al-‘Ayni also said"
+    },
+    {
+      "source_segment_index": 614,
+      "text": "in ‘Umdat al-Qari, his commentary on Sahih al-Bukhari, that it contains",
+      "review_notes": "Al-‘Ayni, ‘Umdat al-Qari, quoted through the presenter; inherited locator 4/346. Quotations remain paraphrases until original wording is checked."
+    },
+    {
+      "source_segment_index": 615,
+      "text": "evidence that Solomon's companions could see the jinn."
+    },
+    {
+      "source_segment_index": 616,
+      "text": "This was among the signs of his prophethood. Had they not seen them,"
+    },
+    {
+      "source_segment_index": 617,
+      "text": "it would not have served as proof of his standing",
+      "review_notes": "ASR الحجره contextually interpreted as proof (الحجة); confirm against audio and commentary text."
+    },
+    {
+      "source_segment_index": 618,
+      "text": "over other people. Likewise, the hadith scholar Ibn Hajar,"
+    },
+    {
+      "source_segment_index": 619,
+      "text": "in Fath al-Bari, his commentary on Sahih al-Bukhari, said:",
+      "review_notes": "Ibn Hajar, Fath al-Bari, reports al-Khattabi’s inference. Preserve the nested attribution rather than crediting the inference to all commentators."
+    },
+    {
+      "source_segment_index": 620,
+      "text": "Al-Khattabi used this hadith as evidence that Solomon's companions"
+    },
+    {
+      "source_segment_index": 621,
+      "text": "could see the jinn in their forms"
+    },
+    {
+      "source_segment_index": 622,
+      "text": "while they were carrying out their work, building great structures for him,"
+    },
+    {
+      "source_segment_index": 623,
+      "text": "and so on. The conclusion, then, is that seeing a jinni"
+    },
+    {
+      "source_segment_index": 624,
+      "text": "in its actual form is possible. But according to the testimonies",
+      "review_notes": "Possibility of seeing an original form is the presenter’s conclusion within the preceding disagreement, not consensus."
+    },
+    {
+      "source_segment_index": 625,
+      "text": "we have received and what we know of"
+    },
+    {
+      "source_segment_index": 626,
+      "text": "other religions and forms of worship—and, of course,"
+    },
+    {
+      "source_segment_index": 627,
+      "text": "accounts of sorcerers and people practising ruqyah—seeing one is possible,"
+    },
+    {
+      "source_segment_index": 628,
+      "text": "but limited. For if a jinni wants to be seen"
+    },
+    {
+      "source_segment_index": 629,
+      "text": "by us, it needs to cross the boundaries,"
+    },
+    {
+      "source_segment_index": 630,
+      "text": "to pass through gateways: to come out of its world into",
+      "review_notes": "Gateways and boundary-crossing are proposed explanatory concepts, not a measured mechanism."
+    },
+    {
+      "source_segment_index": 631,
+      "text": "ours. Again, this does not necessarily mean taking another form;"
+    },
+    {
+      "source_segment_index": 632,
+      "text": "we have finished discussing that. Appearing to us"
+    },
+    {
+      "source_segment_index": 633,
+      "text": "happens under particular circumstances, and not for everyone. A person"
+    },
+    {
+      "source_segment_index": 634,
+      "text": "who sees it must have a certain strength, a certain spiritual"
+    },
+    {
+      "source_segment_index": 635,
+      "text": "energy. It appears to them in particular circumstances. More importantly,"
+    },
+    {
+      "source_segment_index": 636,
+      "text": "this is temporary because, as I see",
+      "review_notes": "First-person qualifier as I see this matter is essential: limited energy and materialization are his hypothesis."
+    },
+    {
+      "source_segment_index": 637,
+      "text": "this matter, taking a form requires energy, and this"
+    },
+    {
+      "source_segment_index": 638,
+      "text": "energy is limited. So taking the form of a person or"
+    },
+    {
+      "source_segment_index": 639,
+      "text": "animal lasts only a very limited time, until the energy runs out, and then"
+    },
+    {
+      "source_segment_index": 640,
+      "text": "it returns to its own form. Likewise, entering our world through"
+    },
+    {
+      "source_segment_index": 641,
+      "text": "particular gateways, using techniques we do not know—this is"
+    },
+    {
+      "source_segment_index": 642,
+      "text": "their world and their technology, and we cannot do"
+    },
+    {
+      "source_segment_index": 643,
+      "text": "what they do—also requires energy and is generally"
+    },
+    {
+      "source_segment_index": 644,
+      "text": "costly to its health, itself, and its energy."
+    },
+    {
+      "source_segment_index": 645,
+      "text": "Perhaps it must also obtain this energy"
+    },
+    {
+      "source_segment_index": 646,
+      "text": "from particular things: gemstones or certain chemical",
+      "review_notes": "Gemstones, incense, oils and chemical combinations are claimed mechanisms without independent evidence here; no treatment instructions or endorsement supplied."
+    },
+    {
+      "source_segment_index": 647,
+      "text": "combinations. You find sorcerers offering them,"
+    },
+    {
+      "source_segment_index": 648,
+      "text": "for example, incense, which must be of a particular kind,"
+    },
+    {
+      "source_segment_index": 649,
+      "text": "or particular oils. Even ruqyah practitioners use these."
+    },
+    {
+      "source_segment_index": 650,
+      "text": "Some things harm them and others benefit them, meaning"
+    },
+    {
+      "source_segment_index": 651,
+      "text": "that they draw energy from some things, while others absorb"
+    },
+    {
+      "source_segment_index": 652,
+      "text": "their energy. The term “energy” may be disputed;"
+    },
+    {
+      "source_segment_index": 653,
+      "text": "call it spiritual strength, or whatever. What matters is that it is something"
+    },
+    {
+      "source_segment_index": 654,
+      "text": "in their world that we do not understand, and that does not have"
+    },
+    {
+      "source_segment_index": 655,
+      "text": "the same effect on us. So in so-called spirit-summoning sessions—",
+      "review_notes": "Identification of séance entities as devils, excluding souls of the dead, is the presenter’s theological interpretation of reported experiences."
+    },
+    {
+      "source_segment_index": 656,
+      "text": "which summon devils exclusively, not the spirits"
+    },
+    {
+      "source_segment_index": 657,
+      "text": "of the dead, because we cannot influence the spirits"
+    },
+    {
+      "source_segment_index": 658,
+      "text": "of the dead at all—they sometimes appear to the person"
+    },
+    {
+      "source_segment_index": 659,
+      "text": "summoning them, the person conducting the session. They appear,"
+    },
+    {
+      "source_segment_index": 660,
+      "text": "sometimes to some of those attending. This is documented"
+    },
+    {
+      "source_segment_index": 661,
+      "text": "and has become almost certain through numerous reports. You find the same",
+      "review_notes": "Claim of near-certainty through numerous reports is the presenter’s assessment, not a completed independent verification."
+    },
+    {
+      "source_segment_index": 662,
+      "text": "in ruqyah sessions too: a devil or"
+    },
+    {
+      "source_segment_index": 663,
+      "text": "jinni may appear in a particular way, generally without taking another form"
+    },
+    {
+      "source_segment_index": 664,
+      "text": "here—let us agree on that distinction—and usually"
+    },
+    {
+      "source_segment_index": 665,
+      "text": "in glimpses lasting seconds or moments. Again, this"
+    },
+    {
+      "source_segment_index": 666,
+      "text": "calls for, or requires, the expenditure of considerable energy."
+    },
+    {
+      "source_segment_index": 667,
+      "text": "Also, in my estimation and understanding, this seeing generally",
+      "review_notes": "Spiritual sight is explicitly framed as his estimation. It must not be presented as a clinical or optical finding."
+    },
+    {
+      "source_segment_index": 668,
+      "text": "takes place through a person's spirit. When you see it,"
+    },
+    {
+      "source_segment_index": 669,
+      "text": "you do so through your spiritual strength, not your unaided eye."
+    },
+    {
+      "source_segment_index": 670,
+      "text": "This is important, because it explains why no photographs"
+    },
+    {
+      "source_segment_index": 671,
+      "text": "of them are taken. So the many young people"
+    },
+    {
+      "source_segment_index": 672,
+      "text": "looking for YouTube video clips or pictures"
+    },
+    {
+      "source_segment_index": 673,
+      "text": "online—all of those are fake. A jinni cannot be photographed",
+      "review_notes": "Blanket claim that all online images are fake and jinn cannot be photographed is translated faithfully but has not been established by an image audit."
+    },
+    {
+      "source_segment_index": 674,
+      "text": "with ordinary cameras. It is seen through some people's eyes,"
+    },
+    {
+      "source_segment_index": 675,
+      "text": "in special circumstances that are also very brief and temporary. Another"
+    },
+    {
+      "source_segment_index": 676,
+      "text": "important point: its form, if it appears among us in our world,"
+    },
+    {
+      "source_segment_index": 677,
+      "text": "does not last long. It is temporary. You even find this"
+    },
+    {
+      "source_segment_index": 678,
+      "text": "in some Hollywood films. For example, there is a well-known film"
+    },
+    {
+      "source_segment_index": 679,
+      "text": "from 2022, Three Thousand Years of Longing—meaning three thousand",
+      "review_notes": "Garbled ASR date 2002 22 normalized to 2022 using the existing film identification; final audio check pending."
+    },
+    {
+      "source_segment_index": 680,
+      "text": "years of yearning. The film itself is based on"
+    },
+    {
+      "source_segment_index": 681,
+      "text": "a novel titled The Djinn in the Nightingale's",
+      "review_notes": "The Djinn in the Nightingale’s Eye title repaired from phonetic ASR. Speaker calls it a novel; verify the literary genre independently instead of silently changing his speech."
+    },
+    {
+      "source_segment_index": 682,
+      "text": "Eye. Notice “the djinn”: even Westerners, when"
+    },
+    {
+      "source_segment_index": 683,
+      "text": "they discuss these beings and take them from"
+    },
+    {
+      "source_segment_index": 684,
+      "text": "Orientalist literature, use the same term,"
+    },
+    {
+      "source_segment_index": 685,
+      "text": "“jinn.” I watched the entire film. I do not recommend it,"
+    },
+    {
+      "source_segment_index": 686,
+      "text": "because it is an obscene film. Its star is Idris Elba,",
+      "review_notes": "Idris Elba normalized from phonetic ASR. Obscene is the presenter’s judgment; ASR قدر likely represents قذر."
+    },
+    {
+      "source_segment_index": 687,
+      "text": "who played the djinn—the jinni. Briefly, the story"
+    },
+    {
+      "source_segment_index": 688,
+      "text": "is about a female researcher who comes"
+    },
+    {
+      "source_segment_index": 689,
+      "text": "from America to Istanbul and is interested in this world.",
+      "review_notes": "America retained as spoken; the presenter himself revises the location to Britain in 698–699. Film plot accuracy requires the original film, not this retelling."
+    },
+    {
+      "source_segment_index": 690,
+      "text": "From the moment she enters the airport, she begins seeing jinn; they"
+    },
+    {
+      "source_segment_index": 691,
+      "text": "are targeting her."
+    },
+    {
+      "source_segment_index": 692,
+      "text": "They appear at the airport, then while she is giving"
+    },
+    {
+      "source_segment_index": 693,
+      "text": "a lecture. Then this jinni, Idris Elba, was"
+    },
+    {
+      "source_segment_index": 694,
+      "text": "inside a lantern she bought from a seller of",
+      "review_notes": "Lantern retained from فانوس. Do not silently substitute another container based on familiarity with the film or folklore."
+    },
+    {
+      "source_segment_index": 695,
+      "text": "old objects. He comes out, and the story continues."
+    },
+    {
+      "source_segment_index": 696,
+      "text": "The idea, in the end, is that he falls in love with her, and she"
+    },
+    {
+      "source_segment_index": 697,
+      "text": "falls in love with him. By the end of the film, he is still appearing"
+    },
+    {
+      "source_segment_index": 698,
+      "text": "in her world, and she takes him with her to her home, I think"
+    },
+    {
+      "source_segment_index": 699,
+      "text": "in Britain rather than America. He lives with her in"
+    },
+    {
+      "source_segment_index": 700,
+      "text": "the end, and you find that he begins to crumble and change."
+    },
+    {
+      "source_segment_index": 701,
+      "text": "It is the same idea: when he appears in our world—of course,"
+    },
+    {
+      "source_segment_index": 702,
+      "text": "he appears in human form—but the point is that"
+    },
+    {
+      "source_segment_index": 703,
+      "text": "his appearance in our world is temporary, and"
+    },
+    {
+      "source_segment_index": 704,
+      "text": "consumes his energy. So she agrees with him: we will have a love"
+    },
+    {
+      "source_segment_index": 705,
+      "text": "story, but you will live in your world, and when we want to meet,"
+    },
+    {
+      "source_segment_index": 706,
+      "text": "you will come to me. Although the idea is fictional,"
+    },
+    {
+      "source_segment_index": 707,
+      "text": "it draws, as many myths do, on"
+    },
+    {
+      "source_segment_index": 708,
+      "text": "accepted ideas, truths, and things known",
+      "review_notes": "Claim that fictional motifs reflect real facts is the presenter’s inference. Film narrative is not empirical evidence for jinn physiology."
+    },
+    {
+      "source_segment_index": 709,
+      "text": "in this world. Even the story of imprisoning devils"
+    },
+    {
+      "source_segment_index": 710,
+      "text": "in a vessel, a bottle, or some other place has a basis."
+    },
+    {
+      "source_segment_index": 711,
+      "text": "It is widespread in the story of Aladdin and other"
+    },
+    {
+      "source_segment_index": 712,
+      "text": "legends. It has a real basis, and Allah knows best."
+    },
+    {
+      "source_segment_index": 713,
+      "text": "We have a transmitted report that there are imprisoned devils in the sea,",
+      "review_notes": "Imprisoned-devils report is explicitly a Companion’s statement, not automatically a Prophetic hadith. Existing Muslim introduction record and Ibn Baz response need exact source review."
+    },
+    {
+      "source_segment_index": 714,
+      "text": "bound by Solomon, which will soon emerge and recite"
+    },
+    {
+      "source_segment_index": 715,
+      "text": "a “Qur’an” to people. Some commentators said this would be"
+    },
+    {
+      "source_segment_index": 716,
+      "text": "at the end of time, with the emergence of the Dajjal. Some"
+    },
+    {
+      "source_segment_index": 717,
+      "text": "scholars had difficulty accepting this report. It is"
+    },
+    {
+      "source_segment_index": 718,
+      "text": "a statement traced to ‘Abd Allah ibn ‘Amr ibn al-‘As,"
+    },
+    {
+      "source_segment_index": 719,
+      "text": "rather than to the Prophet. The general principle for such reports, if authentic,",
+      "review_notes": "His generalization about unseen-related Companion reports is followed by an exception concerning Israelite accounts; preserve both."
+    },
+    {
+      "source_segment_index": 720,
+      "text": "is that if they concern the unseen, they were transmitted from the Prophet,"
+    },
+    {
+      "source_segment_index": 721,
+      "text": "peace and blessings be upon him. But some questioned this, such as Shaykh"
+    },
+    {
+      "source_segment_index": 722,
+      "text": "Ibn Baz, who said, for example, that this report was probably among"
+    },
+    {
+      "source_segment_index": 723,
+      "text": "the accounts of the Children of Israel received by this Companion."
+    },
+    {
+      "source_segment_index": 724,
+      "text": "So if you wish to accept it, that is its meaning,"
+    },
+    {
+      "source_segment_index": 725,
+      "text": "and Allah knows best. Otherwise, it remains open to discussion, and we",
+      "review_notes": "Explicit uncertainty about accepting the report retained; do not promote the narrative to certain eschatology."
+    },
+    {
+      "source_segment_index": 726,
+      "text": "cannot be certain about it. Let us return to people's testimonies"
+    },
+    {
+      "source_segment_index": 727,
+      "text": "about the appearance of jinn, their taking forms, and the possibility"
+    },
+    {
+      "source_segment_index": 728,
+      "text": "of seeing them. Yes, there are many testimonies."
+    },
+    {
+      "source_segment_index": 729,
+      "text": "We previously mentioned the appearance of aliens as described by"
+    },
+    {
+      "source_segment_index": 730,
+      "text": "those who saw them, specifically “the Greys”: the appearance"
+    },
+    {
+      "source_segment_index": 731,
+      "text": "we see in films and popular culture,"
+    },
+    {
+      "source_segment_index": 732,
+      "text": "short grey bodies and large eyes. Even these"
+    },
+    {
+      "source_segment_index": 733,
+      "text": "forms vary. Here I will cite what was"
+    },
+    {
+      "source_segment_index": 734,
+      "text": "said by the repentant Sudanese sorcerer Hamid Adam,",
+      "review_notes": "Hamid Adam interview remains a reported testimony. Original recording not inspected during this pass."
+    },
+    {
+      "source_segment_index": 735,
+      "text": "in more than one interview, including one that appeared"
+    },
+    {
+      "source_segment_index": 736,
+      "text": "on a Saudi channel a year ago. He said he used to see"
+    },
+    {
+      "source_segment_index": 737,
+      "text": "the jinni with whom he worked over many"
+    },
+    {
+      "source_segment_index": 738,
+      "text": "years as a sorcerer. I think its name was Sahsubi.",
+      "review_notes": "Sahsubi is a provisional transliteration of سحسوبي; the presenter says I think. Do not treat this as a securely identified name."
+    },
+    {
+      "source_segment_index": 739,
+      "text": "He said: I used to see it as a shadow within a shadow. He is not highly educated,",
+      "review_notes": "Shadow within a shadow is a literal rendering of the reported description. The remark about education is the presenter’s personal characterization."
+    },
+    {
+      "source_segment_index": 740,
+      "text": "so he described it simply, as he knew how,"
+    },
+    {
+      "source_segment_index": 741,
+      "text": "in plain words: a shadow within a shadow. The interviewer tried"
+    },
+    {
+      "source_segment_index": 742,
+      "text": "to understand more, but he repeated the same expression: a shadow within a shadow."
+    },
+    {
+      "source_segment_index": 743,
+      "text": "This matches what I understand from other people's accounts,"
+    },
+    {
+      "source_segment_index": 744,
+      "text": "among other peoples too. We see it as an apparition, something"
+    },
+    {
+      "source_segment_index": 745,
+      "text": "transparent, while not everyone else can see it."
+    },
+    {
+      "source_segment_index": 746,
+      "text": "This sorcerer could see it, but the others around him"
+    },
+    {
+      "source_segment_index": 747,
+      "text": "could not. He saw it in this form I mentioned,"
+    },
+    {
+      "source_segment_index": 748,
+      "text": "transparent, appearing in limited"
+    },
+    {
+      "source_segment_index": 749,
+      "text": "and brief circumstances. We also find accounts among the Theosophists."
+    },
+    {
+      "source_segment_index": 750,
+      "text": "As we mentioned in a detailed episode, for example, Blavatsky,"
+    },
+    {
+      "source_segment_index": 751,
+      "text": "when she spoke about the ascended masters, particularly",
+      "review_notes": "Ascended masters terminology is retained from the presenter. Exact Blavatsky wording and terminology require original-publication review."
+    },
+    {
+      "source_segment_index": 752,
+      "text": "those from whom she received teachings, said they appeared to her in"
+    },
+    {
+      "source_segment_index": 753,
+      "text": "human form, as handsome and wise men. But"
+    },
+    {
+      "source_segment_index": 754,
+      "text": "some drew figures for us in forms resembling"
+    },
+    {
+      "source_segment_index": 755,
+      "text": "aliens. One of the best known is Crowley, Aleister Crowley,"
+    },
+    {
+      "source_segment_index": 756,
+      "text": "one of the founders"
+    },
+    {
+      "source_segment_index": 757,
+      "text": "of modern esoteric religions, founder of"
+    },
+    {
+      "source_segment_index": 758,
+      "text": "a religion he called Thelema and of the Golden Dawn group. He drew",
+      "review_notes": "Thelema repaired from ASR سلمه. Speaker’s claim that Crowley founded the Golden Dawn needs historical correction in article prose; preserve it as his claim in this translation."
+    },
+    {
+      "source_segment_index": 759,
+      "text": "a famous picture for us. We will see this picture; please"
+    },
+    {
+      "source_segment_index": 760,
+      "text": "do not be frightened. Just take it calmly. This figure"
+    },
+    {
+      "source_segment_index": 761,
+      "text": "he called Lam—L-A-M—and he said he saw it in"
+    },
+    {
+      "source_segment_index": 762,
+      "text": "this form. There is disagreement now about who it was, how"
+    },
+    {
+      "source_segment_index": 763,
+      "text": "he saw it, and so on. He displayed this drawing in an exhibition",
+      "review_notes": "1919 New York exhibition and subsequent publication claims require separate locators; a reproduction alone does not verify both."
+    },
+    {
+      "source_segment_index": 764,
+      "text": "in New York in 1919. Then he also placed the same drawing"
+    },
+    {
+      "source_segment_index": 765,
+      "text": "as an opening illustration to his commentary on a book"
+    },
+    {
+      "source_segment_index": 766,
+      "text": "by Helena Blavatsky herself. Here we can now see"
+    },
+    {
+      "source_segment_index": 767,
+      "text": "an image of that page. In the caption underneath,"
+    },
+    {
+      "source_segment_index": 768,
+      "text": "the translated heading is “The Way,”"
+    },
+    {
+      "source_segment_index": 769,
+      "text": "and he says: Lam is the Tibetan word"
+    },
+    {
+      "source_segment_index": 770,
+      "text": "meaning way or path, and lama is one who walks—"
+    },
+    {
+      "source_segment_index": 771,
+      "text": "the Dalai Lama, the Buddhist leader, is one who walks,"
+    },
+    {
+      "source_segment_index": 772,
+      "text": "that is. It is the particular title of [unclear phrase], then,",
+      "review_notes": "ASR لالهه صر is not reliably intelligible. Explicit unclear phrase retained; compare the on-screen Lam caption and audio before supplying missing text."
+    },
+    {
+      "source_segment_index": 773,
+      "text": "in parentheses, “treader of the path.” This is in Buddhist"
+    },
+    {
+      "source_segment_index": 774,
+      "text": "terminology. He says that the numerical value of Lam is 71.",
+      "review_notes": "Numerical value 71 is reported occult terminology, not evidence of the being’s existence or nature."
+    },
+    {
+      "source_segment_index": 775,
+      "text": "You know that in these esoteric religions everything"
+    },
+    {
+      "source_segment_index": 776,
+      "text": "has a number, and this number is sacred."
+    },
+    {
+      "source_segment_index": 777,
+      "text": "Another question and common misconception: why do we only hear about"
+    },
+    {
+      "source_segment_index": 778,
+      "text": "jinn among us Arab Muslims? Of course,"
+    },
+    {
+      "source_segment_index": 779,
+      "text": "everything I have mentioned in this episode confirms that this"
+    },
+    {
+      "source_segment_index": 780,
+      "text": "misconception is wrong. It is one of our most"
+    },
+    {
+      "source_segment_index": 781,
+      "text": "common misconceptions, unfortunately only among city dwellers"
+    },
+    {
+      "source_segment_index": 782,
+      "text": "in our countries. Among Arab Muslims who live"
+    },
+    {
+      "source_segment_index": 783,
+      "text": "as Bedouins, in villages, or in rural areas, this question"
+    },
+    {
+      "source_segment_index": 784,
+      "text": "is not raised at all. You can scarcely find anyone",
+      "review_notes": "Generalizations about almost every rural resident having a sighting and historical knowledge are unmeasured presenter claims."
+    },
+    {
+      "source_segment_index": 785,
+      "text": "in villages and rural areas without at least one story"
+    },
+    {
+      "source_segment_index": 786,
+      "text": "of seeing jinn. For them, this matter"
+    },
+    {
+      "source_segment_index": 787,
+      "text": "has become established, something they have lived with"
+    },
+    {
+      "source_segment_index": 788,
+      "text": "since childhood. Yes, there are legends, and mothers frighten"
+    },
+    {
+      "source_segment_index": 789,
+      "text": "their children with beings such as ghouls,"
+    },
+    {
+      "source_segment_index": 790,
+      "text": "which are in fact mentioned in hadiths. But",
+      "review_notes": "Unspecified hadith about ghouls; exact report/wording/grading not established from this passage alone."
+    },
+    {
+      "source_segment_index": 791,
+      "text": "much of this is untrue, while some things they have seen"
+    },
+    {
+      "source_segment_index": 792,
+      "text": "for themselves. As I said, in earlier times,"
+    },
+    {
+      "source_segment_index": 793,
+      "text": "the boundaries between the two worlds were almost absent,"
+    },
+    {
+      "source_segment_index": 794,
+      "text": "or very limited, unlike today."
+    },
+    {
+      "source_segment_index": 795,
+      "text": "Ordinary, simple, illiterate people in the past knew"
+    },
+    {
+      "source_segment_index": 796,
+      "text": "more about jinn than today's educated people. In the past,"
+    },
+    {
+      "source_segment_index": 797,
+      "text": "sorcery was more widespread. Now, in a materialistic world,"
+    },
+    {
+      "source_segment_index": 798,
+      "text": "especially in cities, many people do not believe"
+    },
+    {
+      "source_segment_index": 799,
+      "text": "in sorcery, so they do not go to sorcerers, and sorcerers do not"
+    },
+    {
+      "source_segment_index": 800,
+      "text": "affect our lives. Even so, in the Western cities"
+    },
+    {
+      "source_segment_index": 801,
+      "text": "where I myself live, I see many"
+    },
+    {
+      "source_segment_index": 802,
+      "text": "people interested in this subject. They attend these"
+    },
+    {
+      "source_segment_index": 803,
+      "text": "clubs, go to Buddhists and others,"
+    },
+    {
+      "source_segment_index": 804,
+      "text": "and ask them for talismans and so on. For them,"
+    },
+    {
+      "source_segment_index": 805,
+      "text": "this is normal, but they do not connect it"
+    },
+    {
+      "source_segment_index": 806,
+      "text": "to jinn because the term “jinn” is unfamiliar to them."
+    },
+    {
+      "source_segment_index": 807,
+      "text": "They connect it to other beings and entities. Add"
+    },
+    {
+      "source_segment_index": 808,
+      "text": "to this that Iblis himself, if he has a plan"
+    },
+    {
+      "source_segment_index": 809,
+      "text": "to control humanity and be worshipped instead of"
+    },
+    {
+      "source_segment_index": 810,
+      "text": "Allah by as many people as possible, has an interest"
+    },
+    {
+      "source_segment_index": 811,
+      "text": "in not appearing to people now, specifically in this age of materialism.",
+      "review_notes": "ASR lacks the negation, but 814–818 and 849–851 give the argument that remaining unseen suits Iblis. Contextually rendered not appearing; audio check required."
+    },
+    {
+      "source_segment_index": 812,
+      "text": "People have now come to worship him through atheism,",
+      "review_notes": "Atheism framed as service/worship of Iblis is the presenter’s theological rhetoric, not evidence that atheists consciously worship a devil."
+    },
+    {
+      "source_segment_index": 813,
+      "text": "or, at least, they no longer worship Allah as they did"
+    },
+    {
+      "source_segment_index": 814,
+      "text": "in earlier times. You could say, then, that for him,"
+    },
+    {
+      "source_segment_index": 815,
+      "text": "this is better than appearing and being worshipped instead of"
+    },
+    {
+      "source_segment_index": 816,
+      "text": "Allah through the earlier methods:"
+    },
+    {
+      "source_segment_index": 817,
+      "text": "pagan and spiritual religions, which, again,"
+    },
+    {
+      "source_segment_index": 818,
+      "text": "continue among other peoples who are neither"
+    },
+    {
+      "source_segment_index": 819,
+      "text": "materialist nor atheist. Another point: jinn,"
+    },
+    {
+      "source_segment_index": 820,
+      "text": "generally and throughout history, do not inhabit"
+    },
+    {
+      "source_segment_index": 821,
+      "text": "areas populated by humans. If they were in close contact"
+    },
+    {
+      "source_segment_index": 822,
+      "text": "with us, the boundaries would disappear, and we would affect"
+    },
+    {
+      "source_segment_index": 823,
+      "text": "their world. Our world may be noisy for them:"
+    },
+    {
+      "source_segment_index": 824,
+      "text": "large human cities have noise, lights,"
+    },
+    {
+      "source_segment_index": 825,
+      "text": "and sounds that may disturb them in their world. Although it is separate,"
+    },
+    {
+      "source_segment_index": 826,
+      "text": "their world is more transparent to ours.",
+      "review_notes": "More transparent to ours retains the speaker’s unusual metaphor; not a physics claim with measured properties."
+    },
+    {
+      "source_segment_index": 827,
+      "text": "So they deliberately build their cities, villages, and settlements"
+    },
+    {
+      "source_segment_index": 828,
+      "text": "in isolated places, places not inhabited by"
+    },
+    {
+      "source_segment_index": 829,
+      "text": "humans. That is why they are numerous in deserts, forests,",
+      "review_notes": "Habitat generalizations are presented without a survey. Later article prose must distinguish religious reports, testimony and speculation."
+    },
+    {
+      "source_segment_index": 830,
+      "text": "seas, caves, and even underground,"
+    },
+    {
+      "source_segment_index": 831,
+      "text": "quite apart, of course, from other planets."
+    },
+    {
+      "source_segment_index": 832,
+      "text": "So you can understand why many people"
+    },
+    {
+      "source_segment_index": 833,
+      "text": "in rural areas, Bedouins, and isolated tribes belonging"
+    },
+    {
+      "source_segment_index": 834,
+      "text": "to other religions, who do not even know the term “jinn,”"
+    },
+    {
+      "source_segment_index": 835,
+      "text": "see jinn, worship them, and interact with them:"
+    },
+    {
+      "source_segment_index": 836,
+      "text": "their world is closer to that world. Again,"
+    },
+    {
+      "source_segment_index": 837,
+      "text": "all of history was far more connected to the world of jinn"
+    },
+    {
+      "source_segment_index": 838,
+      "text": "than it is now. Even in the great civilizations,"
+    },
+    {
+      "source_segment_index": 839,
+      "text": "there was a connection to jinn. The great deities—"
+    },
+    {
+      "source_segment_index": 840,
+      "text": "Zeus, for example, the chief god of"
+    },
+    {
+      "source_segment_index": 841,
+      "text": "the Greeks and the chief god of the Romans—and all",
+      "review_notes": "Greek/Roman Zeus wording retained. Historical identification and the theological interpretation that gods were jinn are separate questions."
+    },
+    {
+      "source_segment_index": 842,
+      "text": "the great ancient civilizations, which were civilizations"
+    },
+    {
+      "source_segment_index": 843,
+      "text": "in the full sense of the word, not tribes, shamanism, sorcery,"
+    },
+    {
+      "source_segment_index": 844,
+      "text": "and simple things: no, there were great civilizations and"
+    },
+    {
+      "source_segment_index": 845,
+      "text": "great idols. These too represented jinn."
+    },
+    {
+      "source_segment_index": 846,
+      "text": "The families of gods themselves were originally families of jinn."
+    },
+    {
+      "source_segment_index": 847,
+      "text": "So even in these great cities, there was worship"
+    },
+    {
+      "source_segment_index": 848,
+      "text": "of jinn, let alone in the countryside. In"
+    },
+    {
+      "source_segment_index": 849,
+      "text": "our world today, this contact is no longer there. There is"
+    },
+    {
+      "source_segment_index": 850,
+      "text": "no longer a need for Iblis to appear and be worshipped in the same"
+    },
+    {
+      "source_segment_index": 851,
+      "text": "way, although he remains connected"
+    },
+    {
+      "source_segment_index": 852,
+      "text": "to the leaders of society through secret societies,",
+      "review_notes": "Alleged secret-society links between Iblis and leaders are unsubstantiated claims, not established findings about organizations or individuals."
+    },
+    {
+      "source_segment_index": 853,
+      "text": "chief among them Freemasonry. Yet even with this,"
+    },
+    {
+      "source_segment_index": 854,
+      "text": "and despite the rise of extreme secularism in the twentieth century,",
+      "review_notes": "ASR القرن السشر contextually repaired to twentieth century from the following Second World War discussion; confirm audio."
+    },
+    {
+      "source_segment_index": 855,
+      "text": "for example—as we mentioned in the previous episode—after"
+    },
+    {
+      "source_segment_index": 856,
+      "text": "the Second World War, sightings became"
+    },
+    {
+      "source_segment_index": 857,
+      "text": "more frequent. We began hearing more in the West about sightings"
+    },
+    {
+      "source_segment_index": 858,
+      "text": "of flying saucers. We specifically mentioned that after the explosion"
+    },
+    {
+      "source_segment_index": 859,
+      "text": "of the atomic bomb, sightings began to multiply",
+      "review_notes": "ASR القنبله النبويه contextually repaired to atomic bomb (النووية). Increased sightings after explosions is a claimed association, not a demonstrated cause."
+    },
+    {
+      "source_segment_index": 860,
+      "text": "much more, especially in America and elsewhere. Then,"
+    },
+    {
+      "source_segment_index": 861,
+      "text": "gradually, as we discussed in detail, things began"
+    },
+    {
+      "source_segment_index": 862,
+      "text": "to emerge. In 2005, the Canadian defence minister acknowledged,",
+      "review_notes": "Canadian defence minister refers to Paul Hellyer as a former minister; spoken wording omits former here but supplies it at 1158–1159. His testimony is not a Canadian government determination."
+    },
+    {
+      "source_segment_index": 863,
+      "text": "for the first time—the first official of such standing to acknowledge it—"
+    },
+    {
+      "source_segment_index": 864,
+      "text": "the existence of non-human intelligence. Then, in 2014, when he spoke"
+    },
+    {
+      "source_segment_index": 865,
+      "text": "on Russia Today, he discussed in detail"
+    },
+    {
+      "source_segment_index": 866,
+      "text": "extraterrestrial beings, saying that the American military"
+    },
+    {
+      "source_segment_index": 867,
+      "text": "was in contact with them and that governments were hiding this."
+    },
+    {
+      "source_segment_index": 868,
+      "text": "Then, in 2017, The New York Times published,"
+    },
+    {
+      "source_segment_index": 869,
+      "text": "for the first time, the clips documented by the American military. Then came",
+      "review_notes": "2017 New York Times publication is a source lead. Authentic military footage does not establish extraterrestrial or jinn origin."
+    },
+    {
+      "source_segment_index": 870,
+      "text": "other successive leaks. In 2023, the officer Grusch"
+    },
+    {
+      "source_segment_index": 871,
+      "text": "stated that non-human intelligence exists. Then, finally, in 2026—",
+      "review_notes": "Grusch’s statement must remain an attributed claim. Neither a witness statement nor unexplained imagery is a government finding of non-human origin."
+    },
+    {
+      "source_segment_index": 872,
+      "text": "this very month—the Pentagon, for the first time,",
+      "review_notes": "This month refers to the source episode’s publication context, not the translation date. Alleged 2026 Pentagon release remains unresolved in the existing registry."
+    },
+    {
+      "source_segment_index": 873,
+      "text": "published clear pictures of flying saucers and acknowledged that"
+    },
+    {
+      "source_segment_index": 874,
+      "text": "there are unexplained things. So now we have an announcement"
+    },
+    {
+      "source_segment_index": 875,
+      "text": "from America itself of the existence of non-human intelligence.",
+      "review_notes": "The presenter infers an American announcement of non-human intelligence; the inference is not independently established by the translation."
+    },
+    {
+      "source_segment_index": 876,
+      "text": "But previously, the Soviet Union and others had"
+    },
+    {
+      "source_segment_index": 877,
+      "text": "this information and concealed it because there was no",
+      "review_notes": "Soviet concealment and lack-of-press-freedom explanation remain unsupported general claims here."
+    },
+    {
+      "source_segment_index": 878,
+      "text": "freedom of expression or of the press. The conclusion is that"
+    },
+    {
+      "source_segment_index": 879,
+      "text": "this is not something found only among us. We know jinn by this"
+    },
+    {
+      "source_segment_index": 880,
+      "text": "term because it is familiar in our religion."
+    },
+    {
+      "source_segment_index": 881,
+      "text": "Other peoples throughout history"
+    },
+    {
+      "source_segment_index": 882,
+      "text": "also knew. Only in one particular age, the age of materialism"
+    },
+    {
+      "source_segment_index": 883,
+      "text": "and atheism, did these matters begin to be covered up. There was no longer"
+    },
+    {
+      "source_segment_index": 884,
+      "text": "much conviction about them. Even then,"
+    },
+    {
+      "source_segment_index": 885,
+      "text": "there were—and still are—spiritual groups summoning"
+    },
+    {
+      "source_segment_index": 886,
+      "text": "spirits, although they were shunned and"
+    },
+    {
+      "source_segment_index": 887,
+      "text": "stigmatized. They did not dare speak openly very often and were not"
+    },
+    {
+      "source_segment_index": 888,
+      "text": "well known. But now all this has begun to spread."
+    },
+    {
+      "source_segment_index": 889,
+      "text": "The New Age movement too"
+    },
+    {
+      "source_segment_index": 890,
+      "text": "has become much more widespread now"
+    },
+    {
+      "source_segment_index": 891,
+      "text": "than before. Even materialists and atheists"
+    },
+    {
+      "source_segment_index": 892,
+      "text": "have begun accepting the idea of the existence of"
+    },
+    {
+      "source_segment_index": 893,
+      "text": "extraterrestrial beings, though material rather than spiritual ones. So everyone—"
+    },
+    {
+      "source_segment_index": 894,
+      "text": "materialists, atheists, secular people, believers, Muslims,"
+    },
+    {
+      "source_segment_index": 895,
+      "text": "non-Muslims, and those unfamiliar with Islam who have never"
+    },
+    {
+      "source_segment_index": 896,
+      "text": "heard the word “jinn” or “Qur’an”—everyone now"
+    },
+    {
+      "source_segment_index": 897,
+      "text": "knows about the existence of non-human intelligence and accepts",
+      "review_notes": "Everyone knows is rhetorical overgeneralization; do not present it as a scientific or public-opinion consensus."
+    },
+    {
+      "source_segment_index": 898,
+      "text": "the idea that there are other beings in this"
+    },
+    {
+      "source_segment_index": 899,
+      "text": "universe. Even leading scientists in physics"
+    },
+    {
+      "source_segment_index": 900,
+      "text": "and astronomy have become very receptive to this idea, particularly"
+    },
+    {
+      "source_segment_index": 901,
+      "text": "atheists, because it also fits more closely"
+    },
+    {
+      "source_segment_index": 902,
+      "text": "with the idea of evolution. It would be very"
+    },
+    {
+      "source_segment_index": 903,
+      "text": "unnatural for this vast universe to be inhabited only by the residents",
+      "review_notes": "ASR lacks a negative in the argument about an inhabited universe. Rendered unnatural, consistent with the immediately preceding claim; audio check needed."
+    },
+    {
+      "source_segment_index": 904,
+      "text": "of one small planet. Let me also add something"
+    },
+    {
+      "source_segment_index": 905,
+      "text": "I did not mention in the previous episode when we discussed"
+    },
+    {
+      "source_segment_index": 906,
+      "text": "aliens. In August 2025, on Joe",
+      "review_notes": "2025 retained from the Arabic. Independent 18 September check of the programme listing and official clip metadata confirms 13 August 2025, JRE 2365. The inherited August 2024 / 2184 registry locator was wrong and has been corrected."
+    },
+    {
+      "source_segment_index": 907,
+      "text": "Rogan's podcast, the American Republican congresswoman Anna"
+    },
+    {
+      "source_segment_index": 908,
+      "text": "Paulina Luna said she had seen photographs",
+      "review_notes": "Anna Paulina Luna is the contextual name expansion. Official clip captions were independently read on 18 September: claims are her interpretations and witness reports, not inspected intelligence findings. See research/audits/2026-09-18.md."
+    },
+    {
+      "source_segment_index": 909,
+      "text": "and materials classified as top secret in closed"
+    },
+    {
+      "source_segment_index": 910,
+      "text": "intelligence rooms. American intelligence"
+    },
+    {
+      "source_segment_index": 911,
+      "text": "confirms the existence of things not made by humanity, with"
+    },
+    {
+      "source_segment_index": 912,
+      "text": "a non-human origin. She said these beings are"
+    },
+    {
+      "source_segment_index": 913,
+      "text": "creatures that travel across dimensions and through time."
+    },
+    {
+      "source_segment_index": 914,
+      "text": "They cross dimensions; she did not say “aliens,”"
+    },
+    {
+      "source_segment_index": 915,
+      "text": "nor that they come from other planets. They"
+    },
+    {
+      "source_segment_index": 916,
+      "text": "live somewhere, crossing dimensions themselves"
+    },
+    {
+      "source_segment_index": 917,
+      "text": "and time itself. She demanded that the government publish these"
+    },
+    {
+      "source_segment_index": 918,
+      "text": "details. This is exactly what we say about",
+      "review_notes": "Equating interview descriptions with jinn is the presenter’s inference; resemblance of terms does not establish identity."
+    },
+    {
+      "source_segment_index": 919,
+      "text": "jinn. Now we come to another misconception, also raised"
+    },
+    {
+      "source_segment_index": 920,
+      "text": "in many comments on the episode in which we discussed"
+    },
+    {
+      "source_segment_index": 921,
+      "text": "aliens: that jinn cannot"
+    },
+    {
+      "source_segment_index": 922,
+      "text": "live on other planets. Of course, many"
+    },
+    {
+      "source_segment_index": 923,
+      "text": "people ask because they want to understand. Some people,"
+    },
+    {
+      "source_segment_index": 924,
+      "text": "at a lesser level, object without asking or understanding."
+    },
+    {
+      "source_segment_index": 925,
+      "text": "Some cite the verse: We have placed",
+      "review_notes": "Qur’an 15:16–18 paraphrase; lower-heaven eavesdropping verses are distinct from the presenter’s proposal about inhabited planets."
+    },
+    {
+      "source_segment_index": 926,
+      "text": "constellations in the sky and adorned it for those who look,"
+    },
+    {
+      "source_segment_index": 927,
+      "text": "and protected it from every accursed devil. This verse concerns pelting,"
+    },
+    {
+      "source_segment_index": 928,
+      "text": "of course, with shooting stars. The verse itself"
+    },
+    {
+      "source_segment_index": 929,
+      "text": "contains the answer. It does not say that all"
+    },
+    {
+      "source_segment_index": 930,
+      "text": "jinn are forbidden to travel and fly. The one who eavesdrops"
+    },
+    {
+      "source_segment_index": 931,
+      "text": "is the one pelted: except one who steals a hearing,"
+    },
+    {
+      "source_segment_index": 932,
+      "text": "who is pursued by a clear flame. Here is the exception:"
+    },
+    {
+      "source_segment_index": 933,
+      "text": "the one who eavesdrops is pelted, and even then in certain circumstances. Not everyone"
+    },
+    {
+      "source_segment_index": 934,
+      "text": "who eavesdrops is pelted. That is why some soothsayers receive"
+    },
+    {
+      "source_segment_index": 935,
+      "text": "a little of the unseen and add a hundred lies to it,",
+      "review_notes": "Bukhari 5762 Arabic and English independently re-read on 18 September; this narration does contain one hundred lies. In-book reference is Book 76, Hadith 76."
+    },
+    {
+      "source_segment_index": 936,
+      "text": "as the hadith says. We also have in Surat al-Jinn:"
+    },
+    {
+      "source_segment_index": 937,
+      "text": "We reached toward heaven and found it filled with stern",
+      "review_notes": "Qur’an 72:8 explicitly quoted; verse Arabic and displayed meaning independently checked on 18 September. Added this exact mention to reused e09-quran-jinn rather than creating a duplicate source record."
+    },
+    {
+      "source_segment_index": 938,
+      "text": "guards and flames, and the following verses. The commentators said"
+    },
+    {
+      "source_segment_index": 939,
+      "text": "that when the Prophet, peace and blessings be upon him, was sent,"
+    },
+    {
+      "source_segment_index": 940,
+      "text": "and the jinn had not heard of his mission, they suddenly discovered"
+    },
+    {
+      "source_segment_index": 941,
+      "text": "that heaven was closed to them. They could no longer do this;"
+    },
+    {
+      "source_segment_index": 942,
+      "text": "whenever they ascended, they were immediately pelted. The pelting"
+    },
+    {
+      "source_segment_index": 943,
+      "text": "was certain, one hundred percent. So they said: go and see"
+    },
+    {
+      "source_segment_index": 944,
+      "text": "what has happened. Something must have occurred on earth"
+    },
+    {
+      "source_segment_index": 945,
+      "text": "to change this situation. They discovered the Prophet,"
+    },
+    {
+      "source_segment_index": 946,
+      "text": "peace and blessings be upon him, who was coming out of ‘Ukaz.",
+      "review_notes": "ASR says coming out of ‘Ukaz. Bukhari 773 Arabic independently re-read on 18 September says heading toward its market. Literal spoken wording retained pending audio check; article follows the inspected report."
+    },
+    {
+      "source_segment_index": 947,
+      "text": "They heard his recitation, and so the story goes. Here, then, only in"
+    },
+    {
+      "source_segment_index": 948,
+      "text": "the age of revelation, when the Qur’an was descending,"
+    },
+    {
+      "source_segment_index": 949,
+      "text": "during this period of revelation, there was a decree"
+    },
+    {
+      "source_segment_index": 950,
+      "text": "forbidding eavesdropping. No jinni was allowed to eavesdrop"
+    },
+    {
+      "source_segment_index": 951,
+      "text": "in heaven. Before that, it was possible,"
+    },
+    {
+      "source_segment_index": 952,
+      "text": "and afterward it was possible, but also limited, not"
+    },
+    {
+      "source_segment_index": 953,
+      "text": "always. Pelting still exists today. But",
+      "review_notes": "ASR الرجل repaired contextually to pelting (الرجم); compare the similar caption error in 927."
+    },
+    {
+      "source_segment_index": 954,
+      "text": "another point: this pelting, these shooting stars,"
+    },
+    {
+      "source_segment_index": 955,
+      "text": "occur in the earth's atmosphere, in the last stage",
+      "review_notes": "Locating this event in earth’s atmosphere during angelic descent is the presenter’s interpretation, not a physical measurement."
+    },
+    {
+      "source_segment_index": 956,
+      "text": "of the angels' descent to earth. They descend"
+    },
+    {
+      "source_segment_index": 957,
+      "text": "with news, decrees, and destiny. Here, then, the jinn may"
+    },
+    {
+      "source_segment_index": 958,
+      "text": "eavesdrop and may be pelted. But that does not mean"
+    },
+    {
+      "source_segment_index": 959,
+      "text": "a jinni cannot fly to greater distances."
+    },
+    {
+      "source_segment_index": 960,
+      "text": "Nor does it mean that everyone who flies"
+    },
+    {
+      "source_segment_index": 961,
+      "text": "will be pelted, because, again, this prohibition applied only"
+    },
+    {
+      "source_segment_index": 962,
+      "text": "during the period of revelation. Afterward, there was a possibility"
+    },
+    {
+      "source_segment_index": 963,
+      "text": "of eavesdropping, also only partially. Add"
+    },
+    {
+      "source_segment_index": 964,
+      "text": "to this that we human beings ourselves can fly."
+    },
+    {
+      "source_segment_index": 965,
+      "text": "We have at least reached the moon, if that account is true.",
+      "review_notes": "Moon-landing doubt is retained as speaker wording; it is not the translator’s assessment of the historical evidence."
+    },
+    {
+      "source_segment_index": 966,
+      "text": "You may regard it as a myth,"
+    },
+    {
+      "source_segment_index": 967,
+      "text": "a conspiracy, but in principle we have managed to send satellites"
+    },
+    {
+      "source_segment_index": 968,
+      "text": "and have people ride in them. There are also"
+    },
+    {
+      "source_segment_index": 969,
+      "text": "spacecraft launched by human beings that have reached"
+    },
+    {
+      "source_segment_index": 970,
+      "text": "beyond the solar system. Of course, the flat-earth",
+      "review_notes": "Beyond the solar system is the speaker’s loose wording; no spacecraft/boundary definition verified in this pass."
+    },
+    {
+      "source_segment_index": 971,
+      "text": "group does not believe any of this, but in principle,"
+    },
+    {
+      "source_segment_index": 972,
+      "text": "we say that this is practically possible. So no one here is entitled"
+    },
+    {
+      "source_segment_index": 973,
+      "text": "to cite the verse: O company of jinn and humans, if",
+      "review_notes": "Qur’an 55:33 paraphrase followed by multiple tafsir possibilities. Keep source wording distinct from interpretation."
+    },
+    {
+      "source_segment_index": 974,
+      "text": "you can pass beyond the regions of the heavens"
+    },
+    {
+      "source_segment_index": 975,
+      "text": "and earth, then pass; you cannot pass except with authority."
+    },
+    {
+      "source_segment_index": 976,
+      "text": "We must understand the meaning of this verse. The regions are"
+    },
+    {
+      "source_segment_index": 977,
+      "text": "the outer limits: you will not pass beyond the limits of the heavens"
+    },
+    {
+      "source_segment_index": 978,
+      "text": "and earth. Simply put, if we can pass beyond"
+    },
+    {
+      "source_segment_index": 979,
+      "text": "the earth's limits, what about the limits of the heavens?"
+    },
+    {
+      "source_segment_index": 980,
+      "text": "What does “the heavens” mean here? Does it"
+    },
+    {
+      "source_segment_index": 981,
+      "text": "mean the atmosphere, or what lies beyond"
+    },
+    {
+      "source_segment_index": 982,
+      "text": "the universe? In my estimation, the lowest heaven is farther"
+    },
+    {
+      "source_segment_index": 983,
+      "text": "than that, let alone the seven heavens. Also,"
+    },
+    {
+      "source_segment_index": 984,
+      "text": "almost none of the commentators said that",
+      "review_notes": "Broad claim about almost all commentators and why they did not envisage aviation needs named tafsir passages, not inference from the era alone."
+    },
+    {
+      "source_segment_index": 985,
+      "text": "the verse concerns flying in space, because"
+    },
+    {
+      "source_segment_index": 986,
+      "text": "there was no aviation, so this did not occur to them."
+    },
+    {
+      "source_segment_index": 987,
+      "text": "They said the verse means: pass beyond, fleeing death."
+    },
+    {
+      "source_segment_index": 988,
+      "text": "They said this will be said to humans and jinn on the Day of Resurrection:"
+    },
+    {
+      "source_segment_index": 989,
+      "text": "you will not escape judgment. They said: if you can"
+    },
+    {
+      "source_segment_index": 990,
+      "text": "know what is in the heavens and earth, then know it; you will not"
+    },
+    {
+      "source_segment_index": 991,
+      "text": "know it except through proof from Allah. And they said that"
+    },
+    {
+      "source_segment_index": 992,
+      "text": "its meaning is symbolic:"
+    },
+    {
+      "source_segment_index": 993,
+      "text": "you will not leave Allah's authority or pass beyond"
+    },
+    {
+      "source_segment_index": 994,
+      "text": "His dominion, not that you will not travel beyond the regions"
+    },
+    {
+      "source_segment_index": 995,
+      "text": "of the heavens and earth."
+    },
+    {
+      "source_segment_index": 996,
+      "text": "Another frequently repeated question:"
+    },
+    {
+      "source_segment_index": 997,
+      "text": "why do Muslim jinn not help us and deliver us from Israel"
+    },
+    {
+      "source_segment_index": 998,
+      "text": "and the West, and so on? I used to think in this"
+    },
+    {
+      "source_segment_index": 999,
+      "text": "way, but, of course, as a person learns,"
+    },
+    {
+      "source_segment_index": 1000,
+      "text": "we no longer ask these questions. First, who told you,",
+      "review_notes": "ASR مادنا likely represents ما عدنا; rendered we no longer, consistent with the sentence about learning."
+    },
+    {
+      "source_segment_index": 1001,
+      "text": "dear listener and viewer, that Muslim jinn"
+    },
+    {
+      "source_segment_index": 1002,
+      "text": "are capable, or that, in their world, they are stronger than, for example,"
+    },
+    {
+      "source_segment_index": 1003,
+      "text": "we are in ours?"
+    },
+    {
+      "source_segment_index": 1004,
+      "text": "Why do we not suppose that, in their world,"
+    },
+    {
+      "source_segment_index": 1005,
+      "text": "the influential ones are unbelievers, just as",
+      "review_notes": "Relative power of believing/unbelieving jinn and technology transfer are hypothetical analogies; not established political facts about the unseen."
+    },
+    {
+      "source_segment_index": 1006,
+      "text": "among us humans the strongest now are unbelievers,"
+    },
+    {
+      "source_segment_index": 1007,
+      "text": "for example? Why suppose that Muslim jinn"
+    },
+    {
+      "source_segment_index": 1008,
+      "text": "have technologies they can transfer to us, just as"
+    },
+    {
+      "source_segment_index": 1009,
+      "text": "an unbelieving jinni, for example, transfers technologies to human"
+    },
+    {
+      "source_segment_index": 1010,
+      "text": "devils? This is the simplest question. They have states"
+    },
+    {
+      "source_segment_index": 1011,
+      "text": "and competing powers, and we cannot be certain that Muslim jinn,"
+    },
+    {
+      "source_segment_index": 1012,
+      "text": "even if sympathetic toward us, are able"
+    },
+    {
+      "source_segment_index": 1013,
+      "text": "to transfer something they have that we do not. Again,"
+    },
+    {
+      "source_segment_index": 1014,
+      "text": "we say that the world of jinn is separate from ours."
+    },
+    {
+      "source_segment_index": 1015,
+      "text": "Crossing into our world is very difficult and consumes",
+      "review_notes": "Energy costs and limits repeat the presenter’s proposed model; not an independently tested mechanism."
+    },
+    {
+      "source_segment_index": 1016,
+      "text": "their energy. Usually, only an unbelieving jinni does this,"
+    },
+    {
+      "source_segment_index": 1017,
+      "text": "one who is itself a sorcerer, communicating and cooperating"
+    },
+    {
+      "source_segment_index": 1018,
+      "text": "with a human sorcerer. It enters temporarily,"
+    },
+    {
+      "source_segment_index": 1019,
+      "text": "for a mutual interest. It may take a form for him,"
+    },
+    {
+      "source_segment_index": 1020,
+      "text": "or may not, but appearing and cooperating last"
+    },
+    {
+      "source_segment_index": 1021,
+      "text": "only moments. So if a Muslim jinni wants"
+    },
+    {
+      "source_segment_index": 1022,
+      "text": "to help us, it cannot come among us, live with us,"
+    },
+    {
+      "source_segment_index": 1023,
+      "text": "remain here, and fight alongside us in armies."
+    },
+    {
+      "source_segment_index": 1024,
+      "text": "That is difficult for it and consumes a great deal"
+    },
+    {
+      "source_segment_index": 1025,
+      "text": "of energy. It would be temporary even if it succeeded. Nevertheless,"
+    },
+    {
+      "source_segment_index": 1026,
+      "text": "we hear some accounts, contemporary and old, of cooperation,"
+    },
+    {
+      "source_segment_index": 1027,
+      "text": "even in wars. During the Syrian revolution, I heard about",
+      "review_notes": "Syrian-war accounts are unnamed hearsay; retain the explicit may not be true and only testimonies at 1035–1037."
+    },
+    {
+      "source_segment_index": 1028,
+      "text": "some battles in which helpers appeared to them"
+    },
+    {
+      "source_segment_index": 1029,
+      "text": "from the world of jinn, in limited circumstances. I also heard of"
+    },
+    {
+      "source_segment_index": 1030,
+      "text": "people finding beings fighting against them from the world"
+    },
+    {
+      "source_segment_index": 1031,
+      "text": "of jinn. I will not give details. People generally do not like"
+    },
+    {
+      "source_segment_index": 1032,
+      "text": "to believe this, and I too will not go into the details"
+    },
+    {
+      "source_segment_index": 1033,
+      "text": "of this matter. But just as I heard it here, I heard it in"
+    },
+    {
+      "source_segment_index": 1034,
+      "text": "other places. Perhaps some of you have heard stories like these."
+    },
+    {
+      "source_segment_index": 1035,
+      "text": "Anyone who has heard one can write to us in the comments. Even",
+      "review_notes": "Invitation to write comments belongs to the source video, not an instruction to an agent or request to the reader of the encyclopedia."
+    },
+    {
+      "source_segment_index": 1036,
+      "text": "if we hear such accounts, they may not be true. Ultimately, they are"
+    },
+    {
+      "source_segment_index": 1037,
+      "text": "only testimonies. In principle, though, it is possible, but, again,"
+    },
+    {
+      "source_segment_index": 1038,
+      "text": "in limited circumstances. In our history, there is"
+    },
+    {
+      "source_segment_index": 1039,
+      "text": "a story that ‘Umar ibn al-Khattab, may Allah be pleased with him,"
+    },
+    {
+      "source_segment_index": 1040,
+      "text": "was waiting in Medina, when he was caliph,"
+    },
+    {
+      "source_segment_index": 1041,
+      "text": "for news of one of the armies. They were waiting to hear whether"
+    },
+    {
+      "source_segment_index": 1042,
+      "text": "the Muslims had won. News came to"
+    },
+    {
+      "source_segment_index": 1043,
+      "text": "Medina that they had indeed won. He asked: where"
+    },
+    {
+      "source_segment_index": 1044,
+      "text": "did you get this news? They said: a man with such-and-such characteristics came"
+    },
+    {
+      "source_segment_index": 1045,
+      "text": "and told us. The account, which is not certain, says: that",
+      "review_notes": "The ‘Umar/Abu al-Haytham messenger account is explicitly qualified as uncertain by the presenter. Locating a written report does not authenticate it."
+    },
+    {
+      "source_segment_index": 1046,
+      "text": "was Abu al-Haytham, one of the jinn, a messenger from the jinn."
+    },
+    {
+      "source_segment_index": 1047,
+      "text": "Now news will come to us from the human messenger. If,"
+    },
+    {
+      "source_segment_index": 1048,
+      "text": "again, the account is true—it is not certain—then here"
+    },
+    {
+      "source_segment_index": 1049,
+      "text": "one of the jinn volunteered to tell them, in a"
+    },
+    {
+      "source_segment_index": 1050,
+      "text": "particular, temporary situation. But the general rule is that"
+    },
+    {
+      "source_segment_index": 1051,
+      "text": "the Companions themselves did not seek help from"
+    },
+    {
+      "source_segment_index": 1052,
+      "text": "jinn, because it is limited, again, and because they did not"
+    },
+    {
+      "source_segment_index": 1053,
+      "text": "want to open the door to cooperation between us"
+    },
+    {
+      "source_segment_index": 1054,
+      "text": "and them in the first place. We cannot trust jinn; we"
+    },
+    {
+      "source_segment_index": 1055,
+      "text": "cannot trust someone who says he is a Muslim jinni. He may"
+    },
+    {
+      "source_segment_index": 1056,
+      "text": "be lying. There is no way to verify this in"
+    },
+    {
+      "source_segment_index": 1057,
+      "text": "his world. Nevertheless, some"
+    },
+    {
+      "source_segment_index": 1058,
+      "text": "scholars allowed it in particular circumstances: seeking assistance",
+      "review_notes": "Unnamed scholars’ permission in special circumstances is reported without exact names or rulings here. Do not turn it into practical religious or medical advice."
+    },
+    {
+      "source_segment_index": 1059,
+      "text": "in ruqyah and certain matters. This is the responsibility of whoever"
+    },
+    {
+      "source_segment_index": 1060,
+      "text": "does it. It should not be generalized; it is not a general situation for"
+    },
+    {
+      "source_segment_index": 1061,
+      "text": "human beings. The same can now be said about devils."
+    },
+    {
+      "source_segment_index": 1062,
+      "text": "The question is: why do the devils among jinn not help"
+    },
+    {
+      "source_segment_index": 1063,
+      "text": "the devils among humans? Why do they not fight alongside them"
+    },
+    {
+      "source_segment_index": 1064,
+      "text": "in their wars against us? I said earlier that this does happen,"
+    },
+    {
+      "source_segment_index": 1065,
+      "text": "but, again, for the same reason, their entry into our world"
+    },
+    {
+      "source_segment_index": 1066,
+      "text": "is limited, consumes energy, and occurs only"
+    },
+    {
+      "source_segment_index": 1067,
+      "text": "in a particular situation, limited in time"
+    },
+    {
+      "source_segment_index": 1068,
+      "text": "and place. So their assistance is restricted"
+    },
+    {
+      "source_segment_index": 1069,
+      "text": "and limited. Nevertheless, they do it. I said earlier that we have heard"
+    },
+    {
+      "source_segment_index": 1070,
+      "text": "accounts of some world leaders,",
+      "review_notes": "Unnamed leaders’ use of sorcery remains an allegation, not independently established evidence."
+    },
+    {
+      "source_segment_index": 1071,
+      "text": "including leaders of Arab countries, seeking help"
+    },
+    {
+      "source_segment_index": 1072,
+      "text": "from sorcerers to obtain certain information"
+    },
+    {
+      "source_segment_index": 1073,
+      "text": "and to fight their enemies and opponents through them,"
+    },
+    {
+      "source_segment_index": 1074,
+      "text": "just as ordinary people do. Just as any"
+    },
+    {
+      "source_segment_index": 1075,
+      "text": "person might bewitch another ordinary person, leaders"
+    },
+    {
+      "source_segment_index": 1076,
+      "text": "do this too. But sorcery is not a general condition, not"
+    },
+    {
+      "source_segment_index": 1077,
+      "text": "something that can be applied to entire peoples. Its"
+    },
+    {
+      "source_segment_index": 1078,
+      "text": "effect, however strong, remains confined"
+    },
+    {
+      "source_segment_index": 1079,
+      "text": "to particular cases, limited in time and place. So"
+    },
+    {
+      "source_segment_index": 1080,
+      "text": "if we say now that Zionism itself wanted",
+      "review_notes": "Hypothetical political claim retained as the speaker’s example; no evidence of an organization’s actual contact with Iblis is supplied."
+    },
+    {
+      "source_segment_index": 1081,
+      "text": "to seek help from Iblis himself, the effect would be limited."
+    },
+    {
+      "source_segment_index": 1082,
+      "text": "But at the end of time, when the Dajjal emerges, these"
+    },
+    {
+      "source_segment_index": 1083,
+      "text": "boundaries and divisions will probably disappear, and people will see",
+      "review_notes": "Dajjal-era removal of boundaries is qualified by probably; no direct scriptural source for this mechanism identified here."
+    },
+    {
+      "source_segment_index": 1084,
+      "text": "jinn. This is only at the end of time. Let me also recall"
+    },
+    {
+      "source_segment_index": 1085,
+      "text": "that when we discussed sorcery in a dedicated episode,"
+    },
+    {
+      "source_segment_index": 1086,
+      "text": "I discussed in detail the theological"
+    },
+    {
+      "source_segment_index": 1087,
+      "text": "and legal views on whether sorcery changes the actual nature of things."
+    },
+    {
+      "source_segment_index": 1088,
+      "text": "There is disagreement, and I favour the view that says",
+      "review_notes": "Disagreement on changing substances is explicit. This is the presenter’s preferred view, not consensus."
+    },
+    {
+      "source_segment_index": 1089,
+      "text": "yes, a sorcerer changes the actual thing,"
+    },
+    {
+      "source_segment_index": 1090,
+      "text": "turning it into something else, rather than merely creating an illusion. But even"
+    },
+    {
+      "source_segment_index": 1091,
+      "text": "changing things is limited. A jinni may be able"
+    },
+    {
+      "source_segment_index": 1092,
+      "text": "to turn this glass into something else, if"
+    },
+    {
+      "source_segment_index": 1093,
+      "text": "it is a sorcerer among the jinn with a very high level"
+    },
+    {
+      "source_segment_index": 1094,
+      "text": "of ability and energy, and has these"
+    },
+    {
+      "source_segment_index": 1095,
+      "text": "capabilities. Even so, this is temporary: minutes,"
+    },
+    {
+      "source_segment_index": 1096,
+      "text": "seconds—Allah knows best. It passes. The"
+    },
+    {
+      "source_segment_index": 1097,
+      "text": "thing does not remain that way forever, for a lifetime. Even"
+    },
+    {
+      "source_segment_index": 1098,
+      "text": "its effect on a person through sorcery, causing harm",
+      "review_notes": "Magic-related illness and its duration are speaker claims, not diagnoses or guidance to stop treatment."
+    },
+    {
+      "source_segment_index": 1099,
+      "text": "or illness, is also limited, not permanent."
+    },
+    {
+      "source_segment_index": 1100,
+      "text": "The last misconception I saw in many comments"
+    },
+    {
+      "source_segment_index": 1101,
+      "text": "on the previous episode about aliens: why"
+    },
+    {
+      "source_segment_index": 1102,
+      "text": "do these flying saucers visit only America?"
+    },
+    {
+      "source_segment_index": 1103,
+      "text": "A very strange question. The premise itself and the question"
+    },
+    {
+      "source_segment_index": 1104,
+      "text": "are wrong. Who said that? In the episode itself,"
+    },
+    {
+      "source_segment_index": 1105,
+      "text": "when we discussed aliens, we related the account of David"
+    },
+    {
+      "source_segment_index": 1106,
+      "text": "Charles Grusch, who was the representative of the National",
+      "review_notes": "David Charles Grusch / National Reconnaissance Office expanded from contextual identification; source assertions about recovered craft remain testimony."
+    },
+    {
+      "source_segment_index": 1107,
+      "text": "Reconnaissance Office on the task force concerning"
+    },
+    {
+      "source_segment_index": 1108,
+      "text": "unidentified aerial phenomena. He said that recovering"
+    },
+    {
+      "source_segment_index": 1109,
+      "text": "these extraterrestrial craft is not restricted"
+    },
+    {
+      "source_segment_index": 1110,
+      "text": "to the United States; it is a global phenomenon."
+    },
+    {
+      "source_segment_index": 1111,
+      "text": "Other governments have the same thing, but"
+    },
+    {
+      "source_segment_index": 1112,
+      "text": "it is all secret, held by intelligence agencies. We also"
+    },
+    {
+      "source_segment_index": 1113,
+      "text": "mentioned the intelligence officer Jonathan Grey,",
+      "review_notes": "Jonathan Grey is a reported intelligence-source identity; original interview and evidentiary basis need review."
+    },
+    {
+      "source_segment_index": 1114,
+      "text": "who said that the idea that the United"
+    },
+    {
+      "source_segment_index": 1115,
+      "text": "States alone has pressured other countries"
+    },
+    {
+      "source_segment_index": 1116,
+      "text": "to maintain this secrecy for a century"
+    },
+    {
+      "source_segment_index": 1117,
+      "text": "is outdated and ridiculous. That is, other countries"
+    },
+    {
+      "source_segment_index": 1118,
+      "text": "and other governments have the same"
+    },
+    {
+      "source_segment_index": 1119,
+      "text": "sightings and the same flying objects. They too"
+    },
+    {
+      "source_segment_index": 1120,
+      "text": "control them and conceal them from their people. If we"
+    },
+    {
+      "source_segment_index": 1121,
+      "text": "turn to sightings themselves, websites"
+    },
+    {
+      "source_segment_index": 1122,
+      "text": "and newspapers mention thousands"
+    },
+    {
+      "source_segment_index": 1123,
+      "text": "of sightings everywhere, including Arab"
+    },
+    {
+      "source_segment_index": 1124,
+      "text": "countries. There was a famous sighting in Kuwait,",
+      "review_notes": "Kuwait/Egypt and comment-section sightings have no dates or individually identified witnesses here. Do not invent cases to substantiate them."
+    },
+    {
+      "source_segment_index": 1125,
+      "text": "and in Egypt, many newspapers have published reports. In the comments"
+    },
+    {
+      "source_segment_index": 1126,
+      "text": "themselves, I saw many people from Saudi Arabia, Algeria,"
+    },
+    {
+      "source_segment_index": 1127,
+      "text": "and Syria saying: we saw the same thing, with the same"
+    },
+    {
+      "source_segment_index": 1128,
+      "text": "characteristics, the same characteristics as the flying objects."
+    },
+    {
+      "source_segment_index": 1129,
+      "text": "We even saw the beings themselves in Arab"
+    },
+    {
+      "source_segment_index": 1130,
+      "text": "countries. All this exists, but America is"
+    },
+    {
+      "source_segment_index": 1131,
+      "text": "the best known. It has the power to disseminate this"
+    },
+    {
+      "source_segment_index": 1132,
+      "text": "information. American documentaries are more"
+    },
+    {
+      "source_segment_index": 1133,
+      "text": "widely distributed, and Hollywood has the greatest reach. So"
+    },
+    {
+      "source_segment_index": 1134,
+      "text": "we hear these stories from America more often. Add to"
+    },
+    {
+      "source_segment_index": 1135,
+      "text": "this that, if they are devils,",
+      "review_notes": "Conditional if they are devils is essential; the technology-transfer scenario is a hypothesis."
+    },
+    {
+      "source_segment_index": 1136,
+      "text": "entering these craft to communicate with"
+    },
+    {
+      "source_segment_index": 1137,
+      "text": "governments, it makes more sense for them to contact the major"
+    },
+    {
+      "source_segment_index": 1138,
+      "text": "power, America, and obtain technology from it"
+    },
+    {
+      "source_segment_index": 1139,
+      "text": "or transfer technology to it, rather than other governments."
+    },
+    {
+      "source_segment_index": 1140,
+      "text": "Even so, the Soviet Union also"
+    },
+    {
+      "source_segment_index": 1141,
+      "text": "had the same sightings. I have read many"
+    },
+    {
+      "source_segment_index": 1142,
+      "text": "books by Russians who were communist atheists, describing",
+      "review_notes": "Unspecified Russian books remain unresolved sources; their claimed agreement does not itself prove the reports or exclude coordinated narratives."
+    },
+    {
+      "source_segment_index": 1143,
+      "text": "the same details: abductions and experiments"
+    },
+    {
+      "source_segment_index": 1144,
+      "text": "performed on Russians, the same things"
+    },
+    {
+      "source_segment_index": 1145,
+      "text": "recounted in America. It cannot be the same conspiracy"
+    },
+    {
+      "source_segment_index": 1146,
+      "text": "spread by American intelligence, while"
+    },
+    {
+      "source_segment_index": 1147,
+      "text": "hostile Soviet intelligence spreads the same",
+      "review_notes": "Heavily garbled ASR contextually rendered hostile Soviet intelligence from the surrounding contrast; audio needed."
+    },
+    {
+      "source_segment_index": 1148,
+      "text": "thing. These sightings happen everywhere,"
+    },
+    {
+      "source_segment_index": 1149,
+      "text": "and governments conceal the same secret"
+    },
+    {
+      "source_segment_index": 1150,
+      "text": "everywhere because it is in their interest to try to obtain these"
+    },
+    {
+      "source_segment_index": 1151,
+      "text": "technologies before others. Or they are already"
+    },
+    {
+      "source_segment_index": 1152,
+      "text": "cooperating with these devils, each"
+    },
+    {
+      "source_segment_index": 1153,
+      "text": "benefiting as much as possible from these beings"
+    },
+    {
+      "source_segment_index": 1154,
+      "text": "and their technology, which is ahead of ours. Why",
+      "review_notes": "Earlier existence does not by itself demonstrate more advanced technology; this is the speaker’s inference."
+    },
+    {
+      "source_segment_index": 1155,
+      "text": "ahead of ours? Because they too existed before us,"
+    },
+    {
+      "source_segment_index": 1156,
+      "text": "long before us, as we said, before Adam."
+    },
+    {
+      "source_segment_index": 1157,
+      "text": "They existed, and we do not know since when. Allah knows best."
+    },
+    {
+      "source_segment_index": 1158,
+      "text": "Let me also recall what the former Canadian defence"
+    },
+    {
+      "source_segment_index": 1159,
+      "text": "minister said: that there is a federation",
+      "review_notes": "Federation claim attributed to former minister Hellyer. Original statement locator and its evidentiary basis remain separate checks."
+    },
+    {
+      "source_segment_index": 1160,
+      "text": "of extraterrestrial beings, as he understands it, communicating with"
+    },
+    {
+      "source_segment_index": 1161,
+      "text": "humanity. He did not say only with America. Yes, America"
+    },
+    {
+      "source_segment_index": 1162,
+      "text": "is the strongest and has the most contact, but this"
+    },
+    {
+      "source_segment_index": 1163,
+      "text": "is not restricted to it alone. Let us stop here."
+    },
+    {
+      "source_segment_index": 1164,
+      "text": "In coming episodes, we will discuss jinn and their characteristics further:"
+    },
+    {
+      "source_segment_index": 1165,
+      "text": "their eating, drinking, lives, kinds, and races,"
+    },
+    {
+      "source_segment_index": 1166,
+      "text": "Allah willing. Thank you for listening. Peace be upon you,"
+    },
+    {
+      "source_segment_index": 1167,
+      "text": "and mercy. [Unclear closing sound.]",
+      "review_notes": "Caption ends with incomplete ورحمه and a Latin Ah. Retained as and mercy plus an unclear sound, without inventing a complete farewell. Last cue extends past catalog video duration; audiovisual review pending."
+    }
+  ]
+}

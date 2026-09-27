@@ -1,0 +1,21 @@
+{
+  "video_id": "zyH4e-BOOks",
+  "normalized_at": "2026-09-08T15:42:01+00:00",
+  "raw_cues": 1145,
+  "segments": 573,
+  "word_count": 3927,
+  "first_cue_seconds": 0.0,
+  "last_cue_seconds": 1503.48,
+  "video_duration_seconds": 1502,
+  "tail_gap_seconds": -1.48,
+  "timed_caption_coverage_fraction": 1.00099,
+  "internal_gaps_over_20_seconds": [],
+  "sha256_srt": "c85e7c81fd6755e31e69312005f3fc81e807dabf9efecb16c7dc10441461f7c5",
+  "sha256_vtt": "6aeab5c1f23a81cc546a7993d6573f4088e712794718fcedf4c109fb654f543d",
+  "sha256_segments": "a51726877f9605cbb0bd0745a03e233053371ee934d05c2bb4d48e0290bd0312",
+  "caption_language": "ar-orig",
+  "caption_kind": "automatic",
+  "speech_recognition_review": "pending",
+  "content_review": "pending",
+  "normalization": "Adjacent rolling line carryover only; preserve raw files for audit."
+}

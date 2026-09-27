@@ -1,0 +1,1559 @@
+[
+  {
+    "id": "video-lbX5IegGFTY",
+    "type": "source-video",
+    "title": "Humans and jinn: abilities, authority, and prophethood",
+    "claim": "The episode's ordered arguments, including explicitly speculative proposals.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY",
+    "locator": "00:00–49:02; entire normalized Arabic transcript",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "notes": "Text inspected in five non-overlapping ranges. Original audio/video not checked. This verifies what the captions convey, not every underlying claim.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 0,
+        "end_seconds": 2942,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم هل الانس افضل من الجن ام العكس؟ سؤال اشكالي ومحل الخلاف وجدل كبير وقد لا يكون الجواب بنفسه مهما ولكن الاسئله التي قد تنتج عنه والتي سنطرحها",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Local complete normalized Arabic caption text, five bounded ranges; no audiovisual inspection."
+  },
+  {
+    "id": "e04-quran-6-38",
+    "type": "quran",
+    "title": "Qur'an 6:38",
+    "claim": "The Book leaves nothing out; context includes animal communities.",
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura6-aya38.html",
+    "locator": "6:38",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 292,
+        "end_seconds": 315,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "للاسف البعض يعترض بايه ما فرطنا في الكتاب من شيء والمفروض انه الانسان العادي حتى قبل العوده للمفسرين ان يفهم انه هذا لا يتعلق بكل شيء فالقران نفسه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-qurtubi-6-38",
+    "type": "tafsir",
+    "title": "Al-Qurtubi on the Book in Qur'an 6:38",
+    "claim": "Two interpretations: the Preserved Tablet, or religious guidance in the Qur'an.",
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura6-aya38.html",
+    "locator": "Commentary on 6:38, paragraphs beginning ma farratna and wa-qila",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Inspected both interpretations. This supports the limited interpretive claim, not the reliability of paranormal anecdotes.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 305,
+        "end_seconds": 331,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ولو عدنا للمفسرين نجد انهم قالوا الكتاب هنا لها معنيين اولهما انه اللوح المحفوظ او القران الكريم ولو اخذنا بالمعنى الثاني اللي هو القران الكريم روي عن ابن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Qurtubi"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-16-89",
+    "type": "quran",
+    "title": "Qur'an 16:89",
+    "claim": "Scripture explains all things in the relevant context.",
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura6-aya38.html",
+    "locator": "16:89 quoted within al-Qurtubi on 6:38",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Quotation inspected in commentary; independent verse-page check remains.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 321,
+        "end_seconds": 332,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الخاص كقوله تعالى ونزلنا عليك الكتاب تبيانا لكل شيء اي لكل شيء يحتاج اليه في امر الدين وليس طبعا في كل امور الدنيا اذا كما قلنا في البدايه القران والسنه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-medical-allusions",
+    "type": "scriptural-allusion",
+    "title": "Honey, black seed, cupping and ruqyah",
+    "claim": "Examples of treatments mentioned in religious texts.",
+    "url": null,
+    "locator": "No exact verses or hadith variants specified",
+    "verification_status": "extracted",
+    "support": "partial",
+    "notes": "Incidental list, not treatment advice. Identify each intended text if included in an expanded adaptation.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 372,
+        "end_seconds": 384,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا في الطب القران والسنه علمونا بعض العلاجات في العسل والحبه السوداء والحجامه والرقيه ولكن ما علمونا كيف نعالج تسوس الاسنان الفشل الكلوي امور",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-muslim-2611a",
+    "type": "hadith",
+    "title": "Sahih Muslim 2611a: Iblis and Adam",
+    "claim": "Iblis sees Adam's hollow body and recognizes a susceptibility to loss of self-control.",
+    "url": "https://sunnah.com/muslim:2611a",
+    "locator": "Book 45, hadith 146; Anas ibn Malik",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Arabic matn and English text inspected. Collection: Sahih Muslim. Does not specify forty years.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 418,
+        "end_seconds": 434,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ادم وابليس. لدينا الحديث في صحيح مسلم لما صور الله ادم في الجنه تركه ما شاء الله ان يتركه فجعل ابليس يطيف به ينظر ما هو فلما راه اجوف عرف انه خلق خلقا لا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-nawawi-2611",
+    "type": "hadith-commentary",
+    "title": "Al-Nawawi on human self-control",
+    "claim": "Explanations concern desire, whispering and anger.",
+    "url": "https://www.islamweb.org/ar/library/index.php?ID=7662&bk_no=53&flag=1&page=bookcontents",
+    "locator": "Sharh Sahih Muslim, vol. 16, p. 126, commentary on 2611",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Text explicitly gives these alternatives; citation verified in the digitized commentary, not an edition scan.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 433,
+        "end_seconds": 445,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يتمالك اي لا يملك نفسه ويحبسه عن الشهوات او لا يملك دفع الوسواس عنه او لا يملك نفسه عند الغضب ذكرنا سابقا ان ابليس كان من الجن كما تقول الايه في الارجح اذا جنس",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Yahya ibn Sharaf al-Nawawi"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-adam-forty-years",
+    "type": "historical-report",
+    "title": "Adam's clay body left for forty years",
+    "claim": "The presenter rejects an expanded creation story as weak or Israelite material.",
+    "url": "https://www.islamweb.net/ar/fatwa/print.php?id=129754",
+    "locator": "Lead: fatwa 129754; trace Ibn Kathir, al-Tabari and Ahmad Shakir",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Search located discussion but original editions and exact grading comments remain to inspect. Do not attach the forty-year detail to Muslim 2611.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 471,
+        "end_seconds": 493,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اضافه مهمه ولكن نقف عندها انه خلق وترك على هيئه الطين 40 سنه ففزع منه الملائكه وفزع منه ابليس فكان يضربه الى اخره روايه ضعيفه ضعفها ابن كثير ورجح انها من",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-38-75",
+    "type": "quran",
+    "title": "Qur'an 38:75",
+    "claim": "Allah singles out His creation of Adam with His hands.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura38-aya75.html",
+    "locator": "38:75",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 497,
+        "end_seconds": 512,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "خلقه بيده قال سبحانه قال يا ابليس ما منعك ان تسجد لما خلقت بيدي فالايه تنص على ان اصل الانس خلق بيد الله سبحانه وتعالى ولكن هل هذا يعني استثناء اثناء",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-created-three",
+    "type": "historical-report",
+    "title": "Reports of three things created by Allah's hand",
+    "claim": "Presenter distinguishes weak/mursal reports and a statement of Ka'b al-Ahbar.",
+    "url": "https://islamhouse.com/read/amp/ar/حادي-الأرواح-إلى-بلاد-الأفراح-2827807",
+    "locator": "Lead: Hadi al-Arwah; original al-Daraqutni al-Sifat report uninspected",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Search lead only; do not treat as a verified prophetic report.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 512,
+        "end_seconds": 530,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لدينا اثار تنص على ذلك منها ما هو ضعيف وصحيح المرسل الضعيف خلق الله عز وجل ثلاثه اشياء بيده اولها ادم هناك ايضا روايه اخرى لهذا الاثر طويله عند الدار",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-ibn-umar-four",
+    "type": "companion-report",
+    "title": "Ibn Umar's report of four things created by Allah's hand",
+    "claim": "Four named things: Throne, Eden, Pen and Adam.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura38-aya75.html",
+    "locator": "Al-Tabari on 38:75, isnad through Ubayd al-Muktib and Mujahid",
+    "verification_status": "verified",
+    "support": "partial",
+    "notes": "Primary tafsir text inspected: statement stops at Ibn Umar (mawquf). Al-Hakim/al-Dhahabi grading and al-Darimi edition not independently inspected; no new isnad judgment made.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 530,
+        "end_seconds": 560,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قال خلق الله اربعه اشياء بيده العرش وجنات عدن وادم والقلم رواه الدارمي والحاكم وغير غيرهم باسناد صحيح والذهبي صححه ايضا ووافق الحاكم عليه بعض العلماء",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Abd Allah ibn Umar",
+      "Muhammad ibn Jarir al-Tabari"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-angels-rank",
+    "type": "scholarly-opinion",
+    "title": "Angels and righteous humans: beginning and final state",
+    "claim": "Comparison attributed to Ibn Taymiyyah; righteous humans' final reward distinguished from angels' initial state.",
+    "url": "https://old.binothaimeen.net/content/14182",
+    "locator": "Lead: Ibn Uthaymin's official commentary; original Ibn Taymiyyah locator pending",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Search only. Specific claim that prophets outrank Jibril/Mikail needs its own primary passage.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 584,
+        "end_seconds": 617,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الذين سجدوا لادم وهذا السؤال ايضا مبحوث في التراث هل بنو ادم مقدمون على جنس الملائكه بعض العلماء يفضلون الملائكه مطلقا وبعضهم يتوقفون ولكن بعضهم يفصل",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-creation-prostration",
+    "type": "tafsir",
+    "title": "Prostration to Adam: honour and disputed implications",
+    "claim": "Presenter rejects treating the prostration alone as a complete ranking of species.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=617s",
+    "locator": "10:17–11:25",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "notes": "Unnamed tafsir opinions include Adam as qiblah; identify sources. Iblis's prior moral history is speculation.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 617,
+        "end_seconds": 685,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بعضهم السجود كان لله وليس لادم وادم كان قبله ولكن هذا راي مرجوح والاصح هو انه كان سجود تكريم لادم وليس سجود عباده اذا الخلاصه هنا لا نستطيع ان نقول ان امر",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Tabari"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-7-12",
+    "type": "quran",
+    "title": "Qur'an 7:12 and Ibn Kathir's commentary",
+    "claim": "Iblis claims superiority on the basis of fire versus clay.",
+    "url": "https://quran.ksu.edu.sa/tafseer/katheer/sura7-aya12.html",
+    "locator": "7:12; Ibn Kathir's contrast of clay and fire",
+    "verification_status": "verified",
+    "support": "partial",
+    "notes": "Ibn Kathir actually ascribes temperamental qualities to the elements. The presenter critiques that reasoning; do not present his critique as Ibn Kathir's own conclusion.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 685,
+        "end_seconds": 727,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نقطه اخرى في هذه القضيه ايضا هل تكبر ابليس بحد ذاته دليل على تفضيل اي طرف على الاخر؟ كما نعرف في الايات ابليس قال انا خير منه خلقتني من نار وخلقته من طيب ولكن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-27-38-40",
+    "type": "quran",
+    "title": "Qur'an 27:38–40: bringing the throne",
+    "claim": "An ifrit offers to bring the throne; someone with knowledge of the Book offers sooner.",
+    "url": "https://quran.com/an-naml/38-40",
+    "locator": "27:38–40",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Verse 40 does not name Asif, identify the precise knowledge, or give a speed in metres per second. No basis here for a speed-of-light calculation.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 893,
+        "end_seconds": 919,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "القصه المعروفه لما تعهد عفريت من الجن للنبي سليمان عليه السلام بان ينقل عرش بلقيس بسرعه هائله قبل ان تقوم من مقامك وحتى لو قيل هنا انه في رجل صالح كان",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-size-lifespan",
+    "type": "testimony",
+    "title": "Reports of large jinn and exceptionally long lives",
+    "claim": "Unnamed practitioners and occult sources describe large entities and lifespans of millennia.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=919s",
+    "locator": "15:19–15:58",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "Presenter himself cautions that lifespan stories may be Israelite traditions or deception. No named witness or record.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 919,
+        "end_seconds": 958,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الخامسه لدى بعضهم وليس كلهم ضخامه في الحجم وقدرات بدنيه هائله غير موجوده حتى لدى اقوى البشر فذكرنا المرده والعفاريت كما يقول بعض الرقاه وحتى السحره التائبون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-34-13",
+    "type": "quran",
+    "title": "Qur'an 34:13: works for Sulayman",
+    "claim": "Jinn make structures, images, large vessels and fixed cauldrons.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura34-aya13.html",
+    "locator": "34:13",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 998,
+        "end_seconds": 1010,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سليمان عليه السلام يعملون لهم ما يشاء من محاريب وتماثيل وجفان كالجواب وقدور الراسيات وايضا في سوره صاد والشياطين كل بناء وغواص قال المفسرون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-tabari-38-37",
+    "type": "tafsir",
+    "title": "Al-Tabari on builders and divers",
+    "claim": "Building, diving for ornaments and chained rebels.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura38-aya37.html",
+    "locator": "Commentary on 38:37",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Matches the episode's unnamed exegetical wording. Does not independently document modern technology.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1010,
+        "end_seconds": 1025,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "البناه منهم من الجن يصنعون محاريب وتماثيل والغواصه منهم يستخرجون لسليمان عليه السلام الحليه من البحار واخرون ينحتون له جفانا وقدورا والمرده منهم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Tabari"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-ibn-taymiyyah-glass",
+    "type": "scholarly-report",
+    "title": "Ibn Taymiyyah's account of a shining display",
+    "claim": "A shaykh reportedly described jinn showing information in something like water or glass.",
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Lead: Majmu al-Fatawa 11/309, quoted by Umar al-Ashqar under construction/manufacture",
+    "verification_status": "identified",
+    "support": "testimony-only",
+    "notes": "Al-Ashqar's quotation inspected. Original Ibn Taymiyyah context still needed. In the quoted speech, 'me' is the reporting shaykh; the caption/presenter gloss that it is Ibn Taymiyyah needs correction against original.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1059,
+        "end_seconds": 1106,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "منها مثلا ما ذكره ابن تيميه في مجموع الفتاوى قال ان بعض الشيوخ الذين كان لهم اتصال بالجن اخبروه وقال له ان الجن يرونه شيئا براق مثل الماء والزجاج ويمثلون له",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-healing-dream",
+    "type": "testimony",
+    "title": "Unnamed acquaintance's account of treatment during a dream",
+    "claim": "Presenter believes a trusted acquaintance was treated by jinn during a dream.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=1123s",
+    "locator": "18:43–19:05",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "No medical records, witness identity, procedure details or independent outcome evidence supplied. Preserve as a reported dream; no efficacy claim.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1123,
+        "end_seconds": 1145,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قصه جاءتني من شخص موثوق جدا انه كان مريضا مرضا شديدا وراى في المنام لما انتقل اليهم في عالم الارواح كيف اخذوه الى عالمهم وعالجوه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-muslim-2175a",
+    "type": "hadith",
+    "title": "Sahih Muslim 2175a: Satan and circulation",
+    "claim": "Satan's circulation through a human is invoked by the presenter.",
+    "url": "https://sunnah.com/muslim:2175a",
+    "locator": "Book 39, hadith 33; Safiyyah",
+    "verification_status": "verified",
+    "support": "partial",
+    "notes": "Arabic and English inspected. Context is averting suspicion when walking with his wife. The text mentions no acupuncture meridians or energy-healing mechanism.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1144,
+        "end_seconds": 1159,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الامور ولدينا الحديث انه الشيطان يجري من ابن ادم اجر الدم انا اؤوله كما يؤوله البعض انه قد يكون هذا معنى مسارات الطاقه كما نجدها في العلاج الصيني والعلاج",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-shamanism-background",
+    "type": "source-video",
+    "title": "Earlier al-Sabeel shamanism episode and unnamed healer",
+    "claim": "Presenter refers to an earlier demonstration of alleged energy healing.",
+    "url": null,
+    "locator": "19:24–19:38; earlier episode not identified",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "Locate earlier channel video and quoted shaman; no trial, intervention protocol or clinical evidence supplied.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1164,
+        "end_seconds": 1178,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فالعلاج بالطاقه والقدرات الروحيه هذه وذكرت بالتفصيل في حلقه الشامانيه واستشهدت باحد الشمانات المشهور كيف يعالج بالطاقه وكيف ينجح احيانا وقد يفشل",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Earlier al-Sabeel shamanism episode and unnamed healer"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Local complete normalized Arabic caption text, five bounded ranges; no audiovisual inspection."
+  },
+  {
+    "id": "e04-muslim-2236a",
+    "type": "hadith",
+    "title": "Sahih Muslim 2236a: Muslim jinn in Medina",
+    "claim": "Report associates household snakes in Medina with jinn who accepted Islam.",
+    "url": "https://sunnah.com/muslim:2236a",
+    "locator": "Book 39, hadith 190; Abu Said al-Khudri",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Full Arabic/English inspected. This variant says three days. Do not turn condensed reference into a blanket instruction to approach or kill snakes.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1198,
+        "end_seconds": 1211,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يكون بالحلال وليس للاذى والحديث المعروف ان بالمدينه نفر من الجن قد اسلموا فمن راى شيئا من هذه العوامر فليذنه ثلاثا هي اشكال الحيات التي قد تظهر في داخل البيوت",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-suraqah-badr",
+    "type": "historical-report",
+    "title": "Satan appearing as Suraqah at Badr",
+    "claim": "Presenter calls the Suraqah identification a sound report.",
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Lead: al-Ashqar, section on changing form; tafsir on 8:48",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Al-Ashqar repeats identification, but that is not independent authentication of an isnad. Distinguish Qur'an 8:48 from later identification. Original report/grade unresolved.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1211,
+        "end_seconds": 1223,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "للسحر او لمؤامره حتى كما ظهر ابليس في يوم بدر للمشرك مشركين في صوره سراقه بن مالك والقصه معروفه وفي حديث صحيح اذا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-muslim-2812a",
+    "type": "hadith",
+    "title": "Sahih Muslim 2812a: worship and discord",
+    "claim": "Satan despairs of worship by the worshippers in Arabia but seeks discord.",
+    "url": "https://sunnah.com/muslim:2812a",
+    "locator": "Book 52, hadith 57; Jabir",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1240,
+        "end_seconds": 1252,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الصحيح ان الشيطان قد ايس ان يعبده المصلون في جزيره العرب ولكن في التحريش بينهم فقبل قبل البعثه في ايام الجاهليه كان يعبد الشيطان وابليس شخصيا وجنوده",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-34-41",
+    "type": "quran",
+    "title": "Qur'an 34:41: angels disavow worship",
+    "claim": "Angels say the worshippers were worshipping jinn.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura34-aya41.html",
+    "locator": "34:41; episode also quotes 34:40",
+    "verification_status": "verified",
+    "support": "partial",
+    "notes": "Verse 41 inspected. Does not identify every named ancient deity with a specific jinn.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1260,
+        "end_seconds": 1290,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عند الشروق والغروب وايضا في سوره سبا ويوم يحشرهم جميعا ثم يقول للملائكه اهؤلاء اياكم كانوا يعبدون قالوا سبحانك يعني الملائكه قالوا سبحانك انت ولينا من",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-sun-worship",
+    "type": "hadith-allusion",
+    "title": "Sunrise and sunset worship",
+    "claim": "Brief allusion to prostration to Satan at sunrise and sunset.",
+    "url": null,
+    "locator": "20:52–21:01; hadith variant unspecified",
+    "verification_status": "extracted",
+    "support": "partial",
+    "notes": "Identify intended report; omitted from condensed draft.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1252,
+        "end_seconds": 1261,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "على هيئاتهم او على هيئه رجال صالحين ولكن يعبد بها الشيطان بشكل غير مباشر ويسجد له",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-guardian-spirits",
+    "type": "comparative-religion",
+    "title": "North American guardian-spirit traditions",
+    "claim": "Presenter generalizes initiation and guardian-spirit practices.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=1307s",
+    "locator": "21:47–22:33",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "No people, nation, ethnographic publication, interview or rite is identified. Do not generalize all Indigenous peoples or all individuals.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1307,
+        "end_seconds": 1353,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وصراع فيما بينهم كلهم كانوا جن ابليس وجنوده معبدوا على مر التاريخ حتى لا اقول الحضارات الكبرى حتى القبائل البسيطه اللي كان عندهم سحره وشمانات كما ندرسها الان",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-72-6",
+    "type": "quran",
+    "title": "Qur'an 72:6: humans seeking refuge with jinn",
+    "claim": "Human beings sought refuge with jinn, increasing rahaq.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura72-aya6.html",
+    "locator": "72:6; al-Tabari's reports about seeking protection in valleys",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Several readings of rahaq and pronoun reference are recorded. Text establishes the condemned practice; does not prove there has never been a reverse historical case.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1354,
+        "end_seconds": 1379,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نعود الى ما ذكره القران لنا ايضا عن عرب الجاهليه اللي كانوا مثل كل الشعوب الوثنيه وانه كان رجال من الانس يعوذون برجال من الجن فزادوهم رهقا قال المفسرون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-abduh-materialism",
+    "type": "historical-interpretation",
+    "title": "Muhammad Abduh, modernism and responses to superstition",
+    "claim": "Presenter describes a reaction against excessive supernatural explanations.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=1445s",
+    "locator": "24:05–27:29",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "No Abduh text, Mu'tazilite work or historical study cited. Attribute the broad historiography; do not assert consensus across Islamic schools.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1445,
+        "end_seconds": 1649,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كانوا يعرفون كل المزايا السابقه كانوا اكثر معرفه مما نقول اليوم ولكن للاسف نحن الان في عصر في لخبطه سابقا كان في مخالطه بين الجن والانس وحتى اليوم تاجدها ايضا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-future-fear",
+    "type": "book",
+    "title": "Mustaqbal al-khawf and claims about modern science",
+    "claim": "Presenter links advances associated with Leonardo da Vinci, Francis Bacon and Newton to unseen contacts.",
+    "url": null,
+    "locator": "28:33–29:19; title and edition need confirmation",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "Occult interests would not establish jinn caused scientific advances. No original notebooks or causal evidence inspected.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1713,
+        "end_seconds": 1759,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جزء من كتابي مستقبل خوف اني اكاد اجزم انه ما وصل الغرب لهذا التقدم العلمي اللي كان قفزه غير منطقيه ما كانت تراكميه خلال قرون جدا سريعه في",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-4-76",
+    "type": "quran",
+    "title": "Qur'an 4:76: Satan's weak plotting",
+    "claim": "Satan's plotting is weak; presenter returns to context at 29:19.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura4-aya76.html",
+    "locator": "4:76; context and al-Tabari's commentary",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Read in context of competing allegiances in battle. No inference that Satan has independent power comparable to Allah.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1669,
+        "end_seconds": 1682,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كيد الشيطاني كان ضعيفه ايه كريمه طبعا لا ننكرها وسناتي لتفسيرها الان انا هنا ايضا لا ادخل في اي نقاش ولا اخوض في هذه المواضيع حتى في الكتب التي نكتبها",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-before-sleep",
+    "type": "source-video",
+    "title": "Before Sleep podcast: why do we not think about the Hereafter?",
+    "claim": "Presenter refers to an earlier podcast to explain attention to absent realities.",
+    "url": null,
+    "locator": "30:22–30:42",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "Earlier episode ID/date not identified; do not invent a URL.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1822,
+        "end_seconds": 1842,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "التاريخ ذكرت سابقا في حلقه من بودكاست قبل النوم كانت بعنوان لماذا لا نفكر بالاخره مع اننا نحن المسلمين نعرف انها ستكون المصير المصير الذي سنخلد فيه ولا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Before Sleep podcast: why do we not think about the Hereafter?"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Local complete normalized Arabic caption text, five bounded ranges; no audiovisual inspection."
+  },
+  {
+    "id": "e04-quran-27-17",
+    "type": "quran",
+    "title": "Qur'an 27:17: Sulayman's assembled forces",
+    "claim": "Jinn, humans and birds assembled for Sulayman.",
+    "url": "https://quran.com/27/17",
+    "locator": "27:17",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Verse page access failed in this pass. Claims about everybody seeing jinn in original form go beyond the quoted wording.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1901,
+        "end_seconds": 1925,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وحشر لسليمان جنوده من الجن والانس والطير فهم يوزعون فكانوا يسيرون في مسير واحد فكان الجن يظهرون كما يقول المفسرون في بلاط سليمان لكل من هو موجود الانس يرون",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-qurtubi-15-42",
+    "type": "tafsir",
+    "title": "Al-Qurtubi on Satan's lack of authority",
+    "claim": "Explanation focuses on hearts and the seat of faith.",
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura15-aya42.html",
+    "locator": "Qur'an 15:42, first question",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Inspected treatment of repentance and protected faith; should not imply a suffering person lacks faith.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1933,
+        "end_seconds": 1947,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "البعض هذا اللبس ان عبادي ليس لك عليهم سلطان الا من اتبعك من الغاوين ناتي للتفسير في تفسير القرطبي قال العلماء يعني سلطان على قلوبهم وفي تفسير الطبري",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Qurtubi"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-tabari-15-42",
+    "type": "tafsir",
+    "title": "Al-Tabari on Satan's lack of authority",
+    "claim": "Sultan explained as hujjah, a claim or proof, with exception for followers.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura15-aya42.html",
+    "locator": "Qur'an 15:42, opening explanation",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 1944,
+        "end_seconds": 1954,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ان عبادي ليس لك عليهم حجه الا من اتبعك منهم فالايه اصلا لا تحتاج الى تفسير يعني المفروض يعني انه كل عامه يفهمها توقع",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Tabari"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-epstein-allegation",
+    "type": "presenter-opinion",
+    "title": "Unsubstantiated allegation about world elites",
+    "claim": "Presenter invokes Epstein and alleges ritual submission to Iblis.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=2007s",
+    "locator": "33:27–33:41",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "No document, named declarant or evidence for the ritual allegation provided. Research-only; omitted from factual article.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2007,
+        "end_seconds": 2021,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بقيه البشر تذكرون هنا قصه ابستين لما خرجت وعرفنا ان نخبه العالم الان خاضعين لابليس يقد يقدمون له القرابين فاذا خلاصه هذه الجزئيه لا نقول لابليس وجماعته اثر",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-bukhari-5765",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 5765: the Prophet affected by magic",
+    "claim": "Aishah reports an affliction affecting domestic perception and Allah's cure.",
+    "url": "https://sunnah.com/bukhari:5765",
+    "locator": "Sahih al-Bukhari 5765; report of Aishah in the Book of Medicine",
+    "verification_status": "verified",
+    "support": "partial",
+    "notes": "Arabic/English report inspected. Protection of revelation is an interpretive distinction stated by presenter; do not infer a universal explanation for symptoms.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2021,
+        "end_seconds": 2054,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النبي صلى الله عليه وسلم مع كل ما لديه من حصانه وحمايه وملائكه تحميه تاثر به ولكن بشكل محدود طبعا ولم يؤثر على الوحي نفسه لم يسحر النبي بطريقه يعني تغيب عقله",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-asif-knowledge",
+    "type": "tafsir",
+    "title": "Identity and knowledge of the figure in Qur'an 27:40",
+    "claim": "Presenter mentions Asif and interpretations involving Allah's greatest name.",
+    "url": null,
+    "locator": "35:11–35:47; tafsir on 27:40",
+    "verification_status": "extracted",
+    "support": "partial",
+    "notes": "Exact authorities and primary passages needed. Verse names neither Asif nor a speed-of-light mechanism.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2111,
+        "end_seconds": 2147,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هنا المقارنه بين قوه روحيه لدى احد الاولياء الصالحين وقالوا انه كان من الاولياء من بني اسرائيل واسمه اصف بغض النظر عن اسمه ولكن الايه تقول الذي عنده",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Tabari"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-33-40",
+    "type": "quran",
+    "title": "Qur'an 33:40: finality of prophethood",
+    "claim": "Muhammad is the final Prophet.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura33-aya40.html",
+    "locator": "33:40; al-Tabari explicitly explains finality",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2172,
+        "end_seconds": 2185,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لدينا ان محمد صلى الله عليه وسلم هو خاتم الانبياء وانه ارسل للانس والجن فما في بعده اي رسول للعالمين وهو نفسه كان رسولا لهذين العالمين ولكن السؤال هنا هل كان",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-ashqar-messengers",
+    "type": "scholarly-opinion",
+    "title": "Umar al-Ashqar on messengers to jinn",
+    "claim": "Qur'an 6:130 admits two readings; no decisive text or practical duty settles this question.",
+    "url": "https://arabic-keyboard.info/books/ar/read-book/عالم-الجن-والشياطين",
+    "locator": "Section Rusul Allah ila al-jinn, preceding Umum risalat Muhammad",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Primary authored discussion inspected in digital transcription, not edition scan. Records Ibn Hazm, Ibn al-Jawzi, al-Dahhak and Suyuti attributions; these originals still need independent checks. This is not a consensus finding.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2357,
+        "end_seconds": 2374,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الاشقر في كتابه عالم الجن يقول انه حتى هذه الايه لا تكون حاسمه وانا ايضا اقول لا نستطيع ان نجزم هنا نرجح فقط واذا اختلفنا فلا ينبغي ان نتشاجر في هذه",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Umar Sulayman al-Ashqar"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-ibn-kathir-messengers",
+    "type": "tafsir",
+    "title": "Ibn Kathir on Qur'an 6:130",
+    "claim": "Human messengers and jinn warners; al-Dahhak's contrary interpretation recorded.",
+    "url": "https://quran.com/al-anam/130/tafsirs/ar-tafsir-ibn-kathir",
+    "locator": "6:130, paragraphs 1–5",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Editorially located verification source, not named here by the presenter. It directly records the two positions and attributes the majority view to Ibn Abbas/Mujahid among others.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2194,
+        "end_seconds": 2242,
+        "mention_kind": "editorial-verification-source",
+        "raw_excerpt_ar": "باختصار الايه تقول نقلا عن الجن انا سمعنا كتابا انزل من بعد موسى فاستنتجوا اذا انه الجن كانوا يعرفون انه في رساله في ايام موسى",
+        "excerpt_note": "Episode discussion being checked. Ibn Kathir was independently located by the editor, not named in this episode segment."
+      }
+    ],
+    "creators": [
+      "Ibn Kathir"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-suyuti-messengers",
+    "type": "scholarly-opinion",
+    "title": "Al-Suyuti's majority attribution",
+    "claim": "No prophets or messengers from among jinn, only warners.",
+    "url": null,
+    "locator": "Lead: Laqt al-marjan p. 73, from al-Ashqar",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Al-Ashqar quotation inspected; Suyuti original not inspected. Do not call original source verified.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2185,
+        "end_seconds": 2197,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جمهور العلماء كما يقول السيوطي هو نسبه لجمهور العلماء ونسب الى ابن عباس ومجاهد انه ليس في الجن انبياء بل نذر الادله باختصار",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-minority-messengers",
+    "type": "scholarly-opinion",
+    "title": "Minority view: al-Dahhak, Ibn Hazm, al-Juwayni, Ibn al-Jawzi",
+    "claim": "Jinn had messengers from their own kind before Muhammad.",
+    "url": null,
+    "locator": "38:46–39:10; original works needed",
+    "verification_status": "identified",
+    "support": "partial",
+    "notes": "Al-Ashqar identifies first, second and fourth; al-Juwayni not found in inspected section. Ibn Kathir independently records al-Dahhak. Keep exact attributions open.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2326,
+        "end_seconds": 2350,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كواكب اخرى والله اعلم لذا الراي الاخر الذي ارجحه ان هناك رسل من الجن ولكن تحديدا قبل بعثه النبي صلى الله عليه وسلم هذا الراي قال به الضحاك وابن حزم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-46-29-30",
+    "type": "quran",
+    "title": "Qur'an 46:29–30: hearers become warners",
+    "claim": "Jinn return to their people as warners and mention a book after Moses.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura46-aya29.html",
+    "locator": "46:29 and 46:30",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Both verse pages inspected: /sura46-aya29.html and /sura46-aya30.html. No conclusion here about all earlier messengers.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2197,
+        "end_seconds": 2220,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الايه تقول نقلا عن الجن انا سمعنا كتابا انزل من بعد موسى فاستنتجوا اذا انه الجن كانوا يعرفون انه في رساله في ايام موسى وكانت في توراه انزلت اليه ثم الان في وحي",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-12-109",
+    "type": "quran",
+    "title": "Qur'an 12:109: men from settlements",
+    "claim": "Earlier messengers described as men from settlements.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura12-aya109.html",
+    "locator": "12:109",
+    "verification_status": "verified",
+    "support": "partial",
+    "notes": "Verse inspected. Presenter's use of jinn cities as counterargument remains speculative; 72:6 supplies the word rijal for jinn.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2233,
+        "end_seconds": 2257,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في ايه اخرى وما ارسلنا من قبلك الا رجالا نوح اليهم من اهل القرى فقالوا الرجال والقرى في عالم الانس ولكن هذا ايضا خطا فالايه تقول ايضا كان رجال من الانس",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-bukhari-335",
+    "type": "hadith",
+    "title": "Sahih al-Bukhari 335: universal mission",
+    "claim": "Earlier prophets sent to their own people; Muhammad sent generally.",
+    "url": "https://sunnah.com/bukhari:335",
+    "locator": "Book 7, hadith 2; final clause",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Read Arabic and English. This particular wording says al-nas; jinn included by Qur'an 46:29–30 and Muslim 450a. Do not invent a thaqalayn variant number.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2284,
+        "end_seconds": 2302,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الرساله في الجن توقفت بعد ادم فنحن نعلم ان كل نبي ارسل الى قومه كما يقول الحديث وكان النبي يبعث الى قومه خاصه وبعثت الى الناس كافه في احاديث اخرى انه بعث الى",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muhammad ibn Ismail al-Bukhari"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-6-130",
+    "type": "quran",
+    "title": "Qur'an 6:130: messengers from among you",
+    "claim": "Allah addresses both communities concerning messengers from among them.",
+    "url": "https://quran.com/al-anam/130/tafsirs/ar-tafsir-ibn-kathir",
+    "locator": "6:130",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Min-kum admits disagreement in the inspected commentaries.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2349,
+        "end_seconds": 2366,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "واستدل اصحاب هذا الراي بقوله تعالى يا معشر الجن والانس الم ياتكم رسل منكم فمنكم تعني من جنس كل منهم الشيخ عمر الاشقر في كتابه عالم الجن يقول انه حتى",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-6-9",
+    "type": "quran",
+    "title": "Qur'an 6:9: an angelic messenger appearing as a man",
+    "claim": "Presenter discusses why messengers can be encountered and followed.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura6-aya9.html",
+    "locator": "6:9",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2417,
+        "end_seconds": 2442,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عليه الصلاه والسلام ليعلمنا بسلوكه فحتى المشركين لما اعترضوا لماذا ارسل لهم شخص مثلهم وليس من الملائكه فجاءت الايه لتوضح ولو جعلناه ملكا لجعلناه رجلا وللبسنا",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-dream-teaching",
+    "type": "presenter-hypothesis",
+    "title": "Hypothesis of the Prophet teaching jinn during sleep",
+    "claim": "Presenter speculates that the Prophet's soul might teach jinn during sleep.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=2536s",
+    "locator": "42:16–43:13",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "notes": "Explicitly introduced as his theory. No hadith or historical evidence offered. Not part of established prophetic biography.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2536,
+        "end_seconds": 2593,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الثانيه بما انه الجن في عالم الارواح فهنا لدي نظريه قد لا يوافقني عليها الاخرون النبي عليه الصلاه والسلام لما كان ينام يمكن لروحه الكريمه الشريفه ان",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-cuba-mosque",
+    "type": "historical-allusion",
+    "title": "Claim of a premodern mosque in Cuba",
+    "claim": "Brief aside about earlier Muslim travel to the Americas.",
+    "url": null,
+    "locator": "41:49–42:04",
+    "verification_status": "unresolved",
+    "support": "partial",
+    "notes": "No place, source, excavation or text specified. Research-only; not needed for the article's theological argument.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2509,
+        "end_seconds": 2524,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سمي بالعالم القديم الامريكيتين واستراليا ما اكتشفناه الا في العصر الحديث وحتى لو قلنا انه كان في مسلمين وصلوا اليها وفي كوبا وجدوا في مسجد وكذا لكن كان اثر",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-quran-45-13",
+    "type": "quran",
+    "title": "Qur'an 45:13: creation made serviceable",
+    "claim": "Heavens and earth made serviceable as Allah's gift.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura45-aya13.html",
+    "locator": "45:13",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2601,
+        "end_seconds": 2606,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "عندنا عده ايات تتحدث عن التسخير منها وسخر لكم ما في السماوات وما في الارض جميعا منه الم تروا ان الله سخر لكم ما في",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-31-20",
+    "type": "quran",
+    "title": "Qur'an 31:20: gifts visible and hidden",
+    "claim": "Allah has made creation serviceable for the addressees.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura31-aya20.html",
+    "locator": "31:20",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2605,
+        "end_seconds": 2609,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جميعا منه الم تروا ان الله سخر لكم ما في السماوات وما في الارض في سوره ابراهيم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-45-12",
+    "type": "quran",
+    "title": "Qur'an 45:12: the sea",
+    "claim": "Allah made the sea serviceable.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura45-aya12.html",
+    "locator": "45:12",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Exact Arabic verse independently inspected. The sea quotation is 45:12, not a verse in Ibrahim; compare 14:32 about ships and rivers. Audio check still needed to separate speaker slip from captions.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2609,
+        "end_seconds": 2612,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الله الذي سخر لكم البحر ثم وسخر لكم",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Arabic text and opening commentary independently inspected at canonical verse locator."
+  },
+  {
+    "id": "e04-quran-14-33",
+    "type": "quran",
+    "title": "Qur'an 14:33: sun, moon, night and day",
+    "claim": "Sun, moon, night and day made serviceable.",
+    "url": "https://quran.ksu.edu.sa/tafseer/tabary/sura14-aya33.html",
+    "locator": "14:33",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2612,
+        "end_seconds": 2618,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الشمس والقمر وسخر لكم الليل والنهار الى اخرها من الايات الايات هذه لا تنص على استثناء الجن من التسخير ولكن الواضح",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-qurtubi-17-70",
+    "type": "tafsir",
+    "title": "Al-Qurtubi on human honour and jinn",
+    "claim": "Al-Qurtubi includes jinn among the many over whom humans are preferred.",
+    "url": "https://quran.ksu.edu.sa/tafseer/qortobi/sura17-aya70.html",
+    "locator": "17:70, second question",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Full relevant paragraph inspected. He leaves comparison with angels open. Presenter does not adopt a categorical overall ranking.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2634,
+        "end_seconds": 2661,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لهم هنا الايه التي يستشهد بها اكثر ولقد كرمنا بني ادم وحملناهم في البر والبحر ورزقناهم من الطيبات وفضلناهم على كثير ممن خلقنا تفضيلا معظم التفاسير تقول هو",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Al-Qurtubi"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-quran-4-32",
+    "type": "quran",
+    "title": "Qur'an 4:32: gifts and individual earnings",
+    "claim": "Do not covet others' gifts; each has a share in what they earn.",
+    "url": "https://quran.ksu.edu.sa/tafseer/saadi/sura4-aya32.html",
+    "locator": "4:32",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Prohibition of envy and each sex receiving the fruit of their efforts inspected in al-Sadi verse commentary. The analogy to species is the presenter's.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2755,
+        "end_seconds": 2765,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "للايه الكريمه ولا تتمنوا ما فضل فضل الله به بعضكم على بعض للرجال نصيب مما اكتسبوا وللنساء نصيب مما اكتسبن واسال الله من فضله فهنا الرجل مفضل في قوته وقومته",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Verse clauses inspected in al-Sadi; opening also checked in al-Tabari."
+  },
+  {
+    "id": "e04-arab-preference",
+    "type": "scholarly-opinion",
+    "title": "Competing opinions about collective Arab distinction",
+    "claim": "Presenter prefers accountability to inherited ethnic rank.",
+    "url": "https://www.youtube.com/watch?v=lbX5IegGFTY&t=2790s",
+    "locator": "46:30–47:52",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "notes": "Unnamed scholars; identify exact texts if expanding. Generalization that Arabic superiority is settled needs attribution.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2790,
+        "end_seconds": 2872,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سابقا لما بعض العرب يتكبرون او يرون انفسهم افضل فهذه ايضا موجوده حتى ليس من باب التكبر نجدها ايضا في كتبنا هل فضل الله العرب على غيرهم فقال بعض العلماء ان",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  },
+  {
+    "id": "e04-muslim-2699a",
+    "type": "hadith",
+    "title": "Sahih Muslim 2699a: deeds and ancestry",
+    "claim": "Lineage does not advance someone whose deeds hold them back.",
+    "url": "https://sunnah.com/muslim:2699a",
+    "locator": "Book 48, hadith 48; final clause",
+    "verification_status": "verified",
+    "support": "supports",
+    "notes": "Arabic final clause and English inspected; paraphrase only.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2813,
+        "end_seconds": 2821,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من بطا به عمله لم يسرع به نسبه ولكن اميل والله اعلم للراي الاخر عند بعض العلماء",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "checked_at": "2026-09-09",
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Independently inspected digital source text at the stated locator; Arabic compared with episode mention."
+  },
+  {
+    "id": "e04-arabs-one-bow",
+    "type": "historical-allusion",
+    "title": "Arabs shooting from a single bow",
+    "claim": "Presenter invokes a traditional expression for collective opposition.",
+    "url": null,
+    "locator": "47:20–47:30",
+    "verification_status": "extracted",
+    "support": "partial",
+    "notes": "Exact report/collection not supplied. Do not add a hadith number by guessing.",
+    "mentions": [
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2840,
+        "end_seconds": 2850,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وكانوا وثنيين مثل غيره من الشعوب والعرب رمته عن قوس واحده كما تقول الاثار فاذا حتى قريش نفسها كانت هي العدو الاول ثم بعد الفتح امنوا وصاروا هم اسياد العرب في",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "creators": [],
+    "checked_at": null,
+    "reviewed_at": "2026-09-09",
+    "verification_method": "Extraction and identification only; see notes for inspected secondary material or outstanding locator."
+  }
+]

@@ -1,0 +1,101 @@
+{
+  "episode_id": "LD9CCX7Y5uA",
+  "collected_at": "2026-09-23",
+  "tool": "yt-dlp auto English captions and info JSON; no audiovisual media",
+  "raw_location": "ignored data/raw/references/e14/",
+  "files": [
+    {
+      "name": "jp25P0CUftw.en-orig.vtt",
+      "bytes": 412153,
+      "sha256": "936e6095b199aa5bd0cbcc295625a333491e16e34dd08fabe27a950a079c8e33"
+    },
+    {
+      "name": "jp25P0CUftw.info.json",
+      "bytes": 957058,
+      "sha256": "3a16c3ea1185641aba0ce05fb8a798351b52a1d4718f4b3cd2873074b270efe4"
+    },
+    {
+      "name": "xcTpio5mQMg.en-orig.vtt",
+      "bytes": 554668,
+      "sha256": "f8f5815c4238588abc19a4ba94a12e6810fbe9a030d3c43cdba3793a82399fb6"
+    },
+    {
+      "name": "xcTpio5mQMg.info.json",
+      "bytes": 924826,
+      "sha256": "a9d94ccb641c094d472b0cc2e25acbe5127244223284a140a1aedd554ef79037"
+    },
+    {
+      "name": "Xs94KBeIiAo.en-orig.vtt",
+      "bytes": 1103101,
+      "sha256": "4448baef7c0773d18defdabcb620238ea4f0ee46a7044fe668f49b0238c0944a"
+    },
+    {
+      "name": "Xs94KBeIiAo.info.json",
+      "bytes": 1007596,
+      "sha256": "edcc78f6eae6a4491987d07360704149eb8fa21e84a68f92a0e088d9c13f4e2c"
+    },
+    {
+      "name": "ZmejzHXudq0.en-orig.vtt",
+      "bytes": 1534757,
+      "sha256": "92c7026fa926176172cb527d203f9301038efb6eec1ee41f0804fb5f0642e90c"
+    },
+    {
+      "name": "ZmejzHXudq0.info.json",
+      "bytes": 626736,
+      "sha256": "a6f2f63fb72c71c042ae5abf03276cf651c7690205cc640d830e2c804a9be3c4"
+    }
+  ],
+  "inspected_original_caption_seconds": {
+    "jp25P0CUftw": [
+      [
+        800,
+        1900
+      ]
+    ],
+    "ZmejzHXudq0": [
+      [
+        9360,
+        9640
+      ]
+    ],
+    "Xs94KBeIiAo": [
+      [
+        2300,
+        4500
+      ],
+      [
+        3840,
+        4260
+      ],
+      [
+        4780,
+        5050
+      ]
+    ],
+    "xcTpio5mQMg": [
+      [
+        0,
+        140
+      ],
+      [
+        740,
+        1650
+      ],
+      [
+        1770,
+        2250
+      ],
+      [
+        1855,
+        1946
+      ]
+    ]
+  },
+  "inspection_method": "selected sampled text fragments, not every cue or full originals",
+  "limits": [
+    "No audio/video inspection",
+    "No underlying soldier medical or chaplain record",
+    "Book text and full TEDx talk not inspected",
+    "Original convert interview read in selected, sampled stretches only; not complete"
+  ]
+}

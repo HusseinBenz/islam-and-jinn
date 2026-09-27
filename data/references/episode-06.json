@@ -1,0 +1,1978 @@
+[
+  {
+    "id": "video-nJv0h3zXbb0",
+    "type": "source-video",
+    "title": "Psychedelics and claims of encounters with jinn",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0",
+    "locator": "00:00–63:07; all 1,338 normalized Arabic segments",
+    "claim": "The episode sequence and its qualified and unqualified assertions.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 0,
+        "end_seconds": 3787,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم كلنا نسمع عن مشاكل المخدرات والادمان عند الكثير من الشباب المشهور في العالم كله هو مشاكل الحشيش والهروين والكوكاين ومخدرات قريبه من هذا النوع",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read completely in five contiguous ranges. No audiovisual review; verifies caption coverage and attribution, not the reality of alleged entities."
+  },
+  {
+    "id": "e06-spiritual-gateway",
+    "type": "presenter-interpretation",
+    "title": "Psychedelics as a proposed gateway to jinn",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=0s",
+    "locator": "Episode discussion 0–173 seconds; independent locator pending",
+    "claim": "Presenter argues that some encounters may involve jinn rather than spiritual advancement.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 0,
+        "end_seconds": 173,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم كلنا نسمع عن مشاكل المخدرات والادمان عند الكثير من الشباب المشهور في العالم كله هو مشاكل الحشيش والهروين والكوكاين ومخدرات قريبه من هذا النوع",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-shamanic-history",
+    "type": "historical-claim",
+    "title": "Ancient ritual use of psychoactive plants",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 55–173 seconds; independent locator pending",
+    "claim": "Presenter connects ancient shamanic rituals with contact with spirits.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 55,
+        "end_seconds": 173,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "العجيب ايضا ان دراسات الاكاديميه والتي سنعرضها في هذه الحلقه لما تتحدث عن هذه العقاقير لا تكتفي باثبات لقاءات مع كيانات اخرى بل تقول ايضا ليس لدينا تفسير",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Specific cultures, dates and primary historical/ethnographic passages remain unidentified. Broad survey omitted from article."
+  },
+  {
+    "id": "e06-taxonomy",
+    "type": "medical-claim",
+    "title": "Three categories of hallucinogens",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 173–300 seconds; independent locator pending",
+    "claim": "Classic psychedelics, dissociatives and deliriants are grouped together in the introduction.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 173,
+        "end_seconds": 300,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في البدايه نتعرف على ما هي المهلوسات هناك ثلاث مجموعات رئيس الرئيسيه في الكيمياء والطب المهلوسات الكلاسيكيه وهي التي تحدث تشويها وتعديلا في الحواس فيمكن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Preserve the spoken categories but do not imply identical pharmacology. Complete independent taxonomy check pending."
+  },
+  {
+    "id": "e06-psilocybin-alzheimer",
+    "type": "medical-claim",
+    "title": "Microdosing and Alzheimer disease",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 173–245 seconds; independent locator pending",
+    "claim": "Presenter describes very small psilocybin doses as a treatment for Alzheimer disease.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 173,
+        "end_seconds": 245,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في البدايه نتعرف على ما هي المهلوسات هناك ثلاث مجموعات رئيس الرئيسيه في الكيمياء والطب المهلوسات الكلاسيكيه وهي التي تحدث تشويها وتعديلا في الحواس فيمكن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No named trial, approval or clinical guideline supplied. Do not present an established treatment; NCCIH does not establish this claim."
+  },
+  {
+    "id": "e06-psilocybin-guidance",
+    "type": "health-guidance",
+    "title": "Psilocybin for Mental Health and Addiction: What You Need To Know",
+    "creators": [
+      "National Center for Complementary and Integrative Health"
+    ],
+    "url": "https://www.nccih.nih.gov/health/psilocybin-for-mental-health-and-addiction-what-you-need-to-know",
+    "locator": "Introductory explanation; microdosing discussion; psychotic conditions/severe bipolar caution",
+    "claim": "Chemical identity, variable effects, uncertainty around microdosing and cautions for some psychiatric conditions.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 173,
+        "end_seconds": 973,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "في البدايه نتعرف على ما هي المهلوسات هناك ثلاث مجموعات رئيس الرئيسيه في الكيمياء والطب المهلوسات الكلاسيكيه وهي التي تحدث تشويها وتعديلا في الحواس فيمكن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Official NCCIH patient information inspected at these passages, not a clinical assessment of any witness. Added check; not a named channel citation."
+  },
+  {
+    "id": "e06-dissociation-soul",
+    "type": "presenter-interpretation",
+    "title": "Dissociation and the soul",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=240s",
+    "locator": "Episode discussion 240–340 seconds; independent locator pending",
+    "claim": "Presenter interprets dissociation and apparent out-of-body experiences as separation of the soul.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 240,
+        "end_seconds": 340,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا غاز الضحك ولكن من يريد ان يتخدر بهذا النوع فيجب ان ياخذ جرعات عاليه النوع الثالث يسمى مسببات الهديان هذه هي المجموعه الاخطر من كل المهلوسات هنا يفقد",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-nitrous-deliriants",
+    "type": "medical-claim",
+    "title": "Nitrous oxide and unnamed deliriant plants",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 260–360 seconds; independent locator pending",
+    "claim": "Anesthesia and poisonous plants are used as examples of altered awareness.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 260,
+        "end_seconds": 360,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وغالبا ان لم يكن دائما يدخل في حاله مرعبه ويرى ما يشبه الكوابيس وما هو اسوا بكثير والامثل ايضا هي بعض الانواع من النباتات النادره والسامه اذا حتى نميز",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No primary pharmacological source named; do not transfer an intoxication ruling to prescribed anesthesia or invent the unnamed plants."
+  },
+  {
+    "id": "e06-ayahuasca-identity",
+    "type": "chemical-claim",
+    "title": "Ayahuasca, yage and DMT",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 310–460 seconds; independent locator pending",
+    "claim": "The episode uses names for a preparation and a chemical as if interchangeable.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 310,
+        "end_seconds": 460,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "امريكا الجنوبيه اجاهو وهو نفسه جزيء الروح هو دي ام تي الذي يستخرج الان من نفس النبات او من مصادر اخرى ايضا او يحضر كيم كيميائيا في المختبرات كان السكان",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Preparation and compound must be distinguished. Recipe, legal status and composition vary; no preparation instructions included in article."
+  },
+  {
+    "id": "e06-purging-detox",
+    "type": "medical-claim",
+    "title": "Purging described as cleansing",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 330–430 seconds; independent locator pending",
+    "claim": "Ritual vomiting is presented as removing toxins.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 330,
+        "end_seconds": 430,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "او القائد الروحي للقبيله لعلاج امراض جسديه احيانا بجرعات مخففه ولكن غالبا في طقوس معينه لاستحضار ما يسمى بالارواح يعتقدون ارواح الاموات من اجدادهم او",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Record as a ritual interpretation; no medical evidence for detoxification established."
+  },
+  {
+    "id": "e06-legal-ban",
+    "type": "legal-claim",
+    "title": "Blanket prohibition and indigenous exceptions",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 360–450 seconds; independent locator pending",
+    "claim": "Presenter generalizes legal prohibitions, exceptions and tourism in Brazil and Peru.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 360,
+        "end_seconds": 450,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الارتقاء روحيا وايضا يعتبرون انه ما يتعرض له الجسد من حالات اقياء وعذاب جسدي انه تطهير للجسد واستخراج للسموم وطبعا هذه العقاقير اليوم ممنوعه حتى في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No dated legislation or jurisdiction-specific check completed. Omit current legal advice; do not state a worldwide ban."
+  },
+  {
+    "id": "e06-toad-mushrooms",
+    "type": "chemical-claim",
+    "title": "Toad secretions and mushrooms",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 420–490 seconds; independent locator pending",
+    "claim": "Different psychoactive organisms and chemicals are conflated under DMT.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 420,
+        "end_seconds": 490,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ادرس تقنياتهم وعباداتهم اكاديميا ايضا لديهم نفس المخدر ونفسه دي ام تي ولكن يستخرجونه اما من الفطر السحري او من النباتات ومن جلود بعض الضفاضع طبعا تكون",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Primary chemical identification of the particular material shown requires audiovisual and source review. Avoid flattening psilocybin, N,N-DMT and 5-MeO-DMT into one compound."
+  },
+  {
+    "id": "e06-harmala-analysis",
+    "type": "experimental-study",
+    "title": "beta-Carboline alkaloids in Peganum harmala and inhibition of human monoamine oxidase (MAO)",
+    "creators": [
+      "Tomas Herraiz",
+      "D. Gonzalez",
+      "C. Ancin-Azpilicueta",
+      "V. J. Aran",
+      "H. Guillen"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20036304/",
+    "locator": "Food and Chemical Toxicology 48(3), 839–845 (2010); DOI 10.1016/j.fct.2009.12.019; abstract",
+    "claim": "The inspected laboratory abstract identifies beta-carbolines and MAO inhibition; it does not establish the episode claim that Syrian rue supplies DMT.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 440,
+        "end_seconds": 515,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "يحصلون على استثناء لاستخدامه ويناضلون بين قوسين قانونيا لتشريع والسماح باستخدامه على نطاق واسع ويعتبرونه انه هو غذاء الروح ويدخلهم في عوالم روحانيه والى",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Abstract-only verification of an in-vitro study. No extraction recipe or dose information reproduced."
+  },
+  {
+    "id": "e06-universal-poisoning",
+    "type": "medical-claim",
+    "title": "Frequency of poisoning and death",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 480–660 seconds; independent locator pending",
+    "claim": "Presenter suggests poisoning is usual or nearly inevitable outside controlled use.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 480,
+        "end_seconds": 660,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تي ولهذه الاستخدامات السحريه ايضا يستخدم البعض الفطر السحري ماجيك مشرومز وله عده اشكال يمضغونه او مع بعض الاطعمه او ايضا فيما يسمى شاي الفطر يعني محلول بالماء",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No denominator, surveillance study or rate supplied. Do not state this frequency as established."
+  },
+  {
+    "id": "e06-psychiatric-determinism",
+    "type": "medical-claim",
+    "title": "Permanent psychiatric illness after exposure",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 515–650 seconds; independent locator pending",
+    "claim": "Episode links inherited vulnerability to inevitable lasting psychosis or bipolar illness.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 515,
+        "end_seconds": 650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اجماع طبي في كل العالم على خطر كل هذه المهلوسات بلا استثناء الاستثناء الوحيد فقط ان تؤخذ تحت اشراف طبي بجرعات قليله جدا يعني جرعات مجهريه وبجرعات مدروسه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "NCCIH supports caution for particular conditions, not an inevitable diagnosis or outcome for each exposed person."
+  },
+  {
+    "id": "e06-adulteration",
+    "type": "medical-claim",
+    "title": "Unregulated purity and contamination",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 580–690 seconds; independent locator pending",
+    "claim": "Presenter warns that purchased substances may not have the stated purity or contents.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 580,
+        "end_seconds": 690,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "من الحالات انهم يصابون في النهايه ايضا بتسمم او ادمان لانهم لم ياخذوها باشراف طبي صحيح ايضا من الاخطار المعروفه صعوبه التحكم بما سيحدث هذا يسمى باد تريب يعني",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No named testing program or case series supplied; quantitative poisoning claims remain unresolved separately."
+  },
+  {
+    "id": "e06-bad-trip-assault",
+    "type": "testimony",
+    "title": "Frightening experiences and alleged assault by entities",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 640–760 seconds; independent locator pending",
+    "claim": "Presenter recounts frightening encounters and reports of assault.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 640,
+        "end_seconds": 760,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ينتظر ينتظر ما سيحدث له حتى يزول تاثير هذا العقاقير على جسمه وعلى عقله ويعاني حتى تنتهي هناك ما هو اسوا بكثير هناك من يدخل في حالات اكتئاب هناك من يدخل في هذه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No original participant account or exact study identified for this assertion. A reported assault experience does not establish an external attacker."
+  },
+  {
+    "id": "e06-distress-possession",
+    "type": "presenter-interpretation",
+    "title": "Lasting distress interpreted as possession",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=650s",
+    "locator": "Episode discussion 650–825 seconds; independent locator pending",
+    "claim": "Presenter interprets some subsequent fear or depression as spiritual intrusion.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 650,
+        "end_seconds": 825,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يدخل في حالات اكتئاب هناك من يدخل في هذه الحاله ولا يخرج منها ويبقى مدى حياته يعاني هناك اصلا من يتعرض للمس هذا ما لا تذكره الابحاث طبعا يستمر معه هذا المس",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-addiction",
+    "type": "medical-claim",
+    "title": "Addiction and repeated use",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 700–920 seconds; independent locator pending",
+    "claim": "The discussion shifts from addiction generally to repeated use without physical dependence.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 700,
+        "end_seconds": 920,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الهيروين مثلا هي لا تؤدي للادمان المعروف ولكن غالبا تؤدي للادمان النفسي يعني من يدخل في هذه العوالم الروحيه يصبح مدمنا عليها ليس بشكل جسدي ولكن نفسي",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Preserve the later qualification. Substance-specific dependence evidence and frequency not checked; do not state all users become addicted."
+  },
+  {
+    "id": "e06-matrix-arrogance",
+    "type": "presenter-interpretation",
+    "title": "Simulation beliefs and spiritual pride",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=735s",
+    "locator": "Episode discussion 735–865 seconds; independent locator pending",
+    "claim": "Presenter criticizes interpreting ordinary life as a Matrix-like illusion and seeing oneself as spiritually superior.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 735,
+        "end_seconds": 865,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "دخل في هذا العوالم من اطباء ومفكرين كبار صار عندهم رفض للواقع لدرجه الاعتقاد باننا نعيش في ما يسمى بالمصفوفه ذا متيتركس نفس المذكور بفيلم او سلسله بنفس",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-permanent-brain-damage",
+    "type": "medical-claim",
+    "title": "Universal cumulative brain damage",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 790–915 seconds; independent locator pending",
+    "claim": "Episode implies lasting damage or alteration after every exposure.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 790,
+        "end_seconds": 915,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يشعر انه هو الوحيد الذي يعرف الحقيقه والاخرون اقل وعيا منه فيعيش في عالم مزيف هذا عن انه طبعا اي مخدر اي عقاقير تؤدي لتاثير ولو جزئي او مؤقت على العقل لن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No cited longitudinal study establishes a universal permanent-damage claim. Omitted from article."
+  },
+  {
+    "id": "e06-food-gods",
+    "type": "book",
+    "title": "Food of the Gods",
+    "creators": [
+      "Terence McKenna"
+    ],
+    "url": "https://www.penguinrandomhouse.com/books/111941/food-of-the-gods-by-terrence-mckenna/",
+    "locator": "Official publisher description; 1993 paperback, ISBN 9780553371307",
+    "claim": "Terence McKenna is introduced through his book and public advocacy.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 855,
+        "end_seconds": 973,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قصته ولن يتباهى بفشله ايضا مره اخرى اذكر بالفروق الجينيه والطبيعيه ليس كل الناس مؤهلين جينيا للدخول هذا العالم بسلام وخروج بسلام ايضا من المغالطات الشائعه في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Book identity and publisher description only. Full book and biographical claims not checked."
+  },
+  {
+    "id": "e06-mckenna-retirement",
+    "type": "biographical-claim",
+    "title": "Dennis McKenna on Terence abandoning psychedelics",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 855–973 seconds; independent locator pending",
+    "claim": "Presenter says Dennis disclosed a severe late-1980s experience followed by years of private abstention despite public promotion.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 855,
+        "end_seconds": 973,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قصته ولن يتباهى بفشله ايضا مره اخرى اذكر بالفروق الجينيه والطبيعيه ليس كل الناس مؤهلين جينيا للدخول هذا العالم بسلام وخروج بسلام ايضا من المغالطات الشائعه في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No inspected original Dennis interview or memoir passage located. Searches found secondary repetition and an unrelated McKenna Academy interview lead; not adequate verification. Do not label Terence deceptive as established fact."
+  },
+  {
+    "id": "e06-alcohol-comparison",
+    "type": "medical-claim",
+    "title": "Alcohol versus psychedelic cognition",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 973–1120 seconds; independent locator pending",
+    "claim": "Presenter contrasts impaired reasoning with amplified senses, ego dissolution and intact memory.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 973,
+        "end_seconds": 1120,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الفرق بين هذه المهلوسات وبين الخمر والمسكرات تختصره باكبر قدر ممكن تاثير الخمر هو تثبيط وتضييق الوعي من يدخل في حاله سكر كما هو معروف لا يعي بالواقع",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Blanket perfect-memory and wholly-disabled-reason claims lack an identified supporting experiment. Article preserves conceptual contrast without physiological absolutes."
+  },
+  {
+    "id": "e06-more-real",
+    "type": "presenter-interpretation",
+    "title": "The feeling of heightened reality",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=1030s",
+    "locator": "Episode discussion 1030–1230 seconds; independent locator pending",
+    "claim": "Presenter treats vividness and apparent independence as reasons to consider encounters meaningful; subjective certainty does not verify an external being.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1030,
+        "end_seconds": 1230,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "البسيطه مثلا قد يسمعها على انها ضجيج كبير مؤذي او جميل وايضا الالوان من حولها تصبح متضخمه متفاعله زاهيه او صارخه وكل شيء من حوله يصبح ينبض حتى الجدران تتحرك",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-field-study",
+    "type": "observational-study",
+    "title": "An Encounter With the Other: A Thematic and Content Analysis of DMT Experiences From a Naturalistic Field Study",
+    "creators": [
+      "Pascal Michael",
+      "David Luke",
+      "Oliver Robinson"
+    ],
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.720717/full",
+    "locator": "Frontiers in Psychology 12 (2021), 720717; Methods and Table 2; DOI 10.3389/fpsyg.2021.720717",
+    "claim": "Naturalistic interviews describe perceived entities and their characteristics.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1100,
+        "end_seconds": 1270,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هذه الحاله لانه العقل هنا توقف تماما ما في محاكمه هنا حاله تلقي فقط فيصبح لديه حساسيه مرهفه ومستعده لتصديق اي شيء يحدث له او اي فكره تاتي اليه واللافت ايضا انه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Authors Pascal Michael, David Luke, Oliver Robinson. Convenience/snowball recruitment; experienced users supplied their own substance. Analysis of 36 sessions/interviews, not necessarily 36 different participants; risk-related exclusions limit generalization."
+  },
+  {
+    "id": "e06-field-percentages",
+    "type": "study-result",
+    "title": "Field-study entity categories",
+    "creators": [
+      "Pascal Michael",
+      "David Luke",
+      "Oliver Robinson"
+    ],
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.720717/full",
+    "locator": "Table 2: 20/36 charming/inviting; 5/36 mischievous/jestful; 3/36 fearsome/menacing",
+    "claim": "The spoken 56%, 14% and 8% labels need correction against Table 2.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1100,
+        "end_seconds": 1270,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هذه الحاله لانه العقل هنا توقف تماما ما في محاكمه هنا حاله تلقي فقط فيصبح لديه حساسيه مرهفه ومستعده لتصديق اي شيء يحدث له او اي فكره تاتي اليه واللافت ايضا انه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "The 14% category is not comforting. Categories can overlap; these are encounter descriptions in a selected set, not safety probabilities."
+  },
+  {
+    "id": "e06-negative-sixteen",
+    "type": "study-claim",
+    "title": "Maximum negative-experience percentage",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1180–1310 seconds; independent locator pending",
+    "claim": "Presenter gives 16% as a worst negative figure across studies.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1180,
+        "end_seconds": 1310,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "حالاتهم ان الكائنات تاتي بنسبه 56% على هيئه ساحره وجذابه 14% منهم كانوا مريحين ايضا المجمل في الغالب كانوا جيدين خيرين بنسبه 8% فقط كانوا مخيفين او مهددين بعض",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Exact study and outcome definition not identified; cannot compare a fear response, an entity label and a bad-trip prevalence as the same measure."
+  },
+  {
+    "id": "e06-aura-mechanism",
+    "type": "presenter-interpretation",
+    "title": "Auras and sensory access",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=1220s",
+    "locator": "Episode discussion 1220–1409 seconds; independent locator pending",
+    "claim": "Presenter proposes that altered awareness opens spiritual senses and that lights or auras attract entities.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1220,
+        "end_seconds": 1409,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الانا او الشعور بالذات عن العالم المحيط ولما تتوقف هذه الشبكه ايضا في الدماغ تتدفق المعلومات بين مناطق الدماغ بشكل غير مرشح فيترجم العقل الباطن الرموز",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-abandoned-house",
+    "type": "anonymous-testimony",
+    "title": "Man who reported seeing a jinn family",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1330–1420 seconds; independent locator pending",
+    "claim": "Presenter recounts a man seeing a family in an abandoned house after ordinary drug use, then stopping.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1330,
+        "end_seconds": 1420,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الروحيه مع الوعي الروحي المفرط هذا الزائد هو الذي يفتح له هذه العوالم حتى لو ما كان في شياطين يفتح له الدخول الى عوالم روحيه مفارقه هذه العوالم هي التي",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Unnamed witness, recording and substance unidentified. Do not treat this account as a controlled psychedelic experiment."
+  },
+  {
+    "id": "e06-luke-interview",
+    "type": "interview",
+    "title": "DMT Entities: Why Do People See Elves And Other Entities When They Smoke DMT?",
+    "creators": [
+      "Benjamin Taub",
+      "David Luke"
+    ],
+    "url": "https://www.iflscience.com/why-do-people-see-elves-and-other-entities-when-they-smoke-dmt-62234",
+    "locator": "Benjamin Taub, IFLScience, 14 January 2022; interview body",
+    "claim": "David Luke discusses encounter reports and competing explanations.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1409,
+        "end_seconds": 1630,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "للدكتور ديفيد لوك بروفيسور علم النفس بجامعه جرينتش في بريطانيا ومؤلف قضى سنوات طويله في دراسه هذه الحالات وسنتحدث عنه لاحقا ايضا مره اخرى في هذه الحلقه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Primary interview text inspected. Luke leaves ontological questions open; his remarks do not identify beings as jinn. Page calls him associate professor at the time."
+  },
+  {
+    "id": "e06-aphantasia",
+    "type": "interview",
+    "title": "Aphantasia and nonvisual encounters",
+    "creators": [
+      "Benjamin Taub",
+      "David Luke"
+    ],
+    "url": "https://www.iflscience.com/why-do-people-see-elves-and-other-entities-when-they-smoke-dmt-62234",
+    "locator": "Passage beginning with aphantasia and absence of visual imagery",
+    "claim": "Interview reports sensed encounters without visual imagery in some people with aphantasia.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1460,
+        "end_seconds": 1660,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يفسرها بانها شيء عشوائي يقول اكثر هذه الكيانات شيوعا الاقزام والجنيات هي فيرز والحشريين كما ذكرنا في حلقات سابقه الحشريين طبعا دائما ياتون على هيئه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Does not establish the episode claims of a damaged brain region, inability to dream, or the impossibility of neurological explanations."
+  },
+  {
+    "id": "e06-scientist-pressure",
+    "type": "presenter-interpretation",
+    "title": "Supposed pressure on researchers",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=1530s",
+    "locator": "Episode discussion 1530–1660 seconds; independent locator pending",
+    "claim": "Presenter speculates that researchers cannot openly express beliefs about spiritual beings.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1530,
+        "end_seconds": 1660,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الطاقه الايجابيه منهم يقول لك هذا لا يمكن تفسيره علميا ليست ليست مجرد مشاهده بصريه او من العقل الباطل لكائن انا تخيلته هنا في حاله شاعريه بمعنى في حاله",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-davis-survey",
+    "type": "observational-study",
+    "title": "Survey of entity encounter experiences occasioned by inhaled N,N-dimethyltryptamine: Phenomenology, interpretation, and enduring effects",
+    "creators": [
+      "Alan K. Davis",
+      "John M. Clifton",
+      "Eric G. Weaver",
+      "Ethan S. Hurwitz",
+      "Matthew W. Johnson",
+      "Roland R. Griffiths"
+    ],
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0269881120916143",
+    "locator": "Journal of Psychopharmacology (2020); DOI 10.1177/0269881120916143; Methods and Tables 3–4",
+    "claim": "A 2020 survey records selected respondents recollections of an entity encounter.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1590,
+        "end_seconds": 1930,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جونز هوبكنز هي تعتبر اول جامعه بحثيه في تاريخ الولايات المتحده جامعه عريقه مهمه في 2020 اجروا دراسه شملت 2561 فرد جربوا دي ام تي واخذوه طبعا من الايو وتعتبر هذه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Retrospective online self-selected sample, n=2,561, already reporting an encounter. Not random population sampling, ayahuasca administration or a new laboratory experiment. Methods/results inspected; complete discussion not read."
+  },
+  {
+    "id": "e06-davis-ratings",
+    "type": "study-result",
+    "title": "Entity ratings and changes in belief",
+    "creators": [
+      "Alan K. Davis et al."
+    ],
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0269881120916143",
+    "locator": "Tables 3–4 and results on beliefs",
+    "claim": "Respondents assign intelligence, benevolence and continued existence to reported entities.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1590,
+        "end_seconds": 1930,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جونز هوبكنز هي تعتبر اول جامعه بحثيه في تاريخ الولايات المتحده جامعه عريقه مهمه في 2020 اجروا دراسه شملت 2561 فرد جربوا دي ام تي واخذوه طبعا من الايو وتعتبر هذه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "96% intelligence/consciousness, 78% benevolence, 70% sacredness, 38% omniscience and 72% continued existence describe respondent judgments. Atheist identification 28% before versus 10% after is retrospective self-report."
+  },
+  {
+    "id": "e06-davis-fear",
+    "type": "study-result",
+    "title": "Fear and entity labels",
+    "creators": [
+      "Alan K. Davis et al."
+    ],
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0269881120916143",
+    "locator": "Table 3; fear 41%, demon label 6%, devil 2%, monster 3%",
+    "claim": "Fear is a different measure from assigning a frightening entity label.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1590,
+        "end_seconds": 1930,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "جونز هوبكنز هي تعتبر اول جامعه بحثيه في تاريخ الولايات المتحده جامعه عريقه مهمه في 2020 اجروا دراسه شملت 2561 فرد جربوا دي ام تي واخذوه طبعا من الايو وتعتبر هذه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No population risk estimate follows from this selected survey. Distinguish overlapping labels and experiences."
+  },
+  {
+    "id": "e06-messages-predictions",
+    "type": "study-claim",
+    "title": "Messages and predictions",
+    "creators": [],
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0269881120916143",
+    "locator": "Specific message/prediction passages and their interpretation pending",
+    "claim": "Presenter quotes alleged messages, NFL rules, demands for worship, and future replacement of humanity; gives 69% messages and 19% predictions.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1700,
+        "end_seconds": 1870,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "للتجربه كانت 28% من مجموع الذين خضعوا للتجربه انخفضت هذه النسبه الى 10% فقط اكثر من نصفهم امن بوجود شيء روحي",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Paper identified but these passages not independently inspected in this pass. No verification of a prediction coming true. Do not reproduce the translated quotations as checked primary text."
+  },
+  {
+    "id": "e06-eavesdropping",
+    "type": "scriptural-allusion",
+    "title": "Eavesdropping by devils",
+    "creators": [],
+    "url": "https://quran.com/72/8-9",
+    "locator": "Possible Qur an 72:8–9 allusion; no exact verse quotation identified",
+    "claim": "Presenter alludes to devils obtaining fragments of information from above.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1720,
+        "end_seconds": 1880,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النفسيه على من خاضوها مع اثار ايجابيه مستمره على الرضا بالحياه اقر 69% من المشاركين بالتجربه بتلقيهم رساله من الاشخاص او الكيانات التي ظهرت لهم اكرر",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Specific intended verse or hadith uncertain; this link is a research lead, not a newly checked citation. Do not attach an invented hadith locator."
+  },
+  {
+    "id": "e06-survey-conclusion",
+    "type": "study-claim",
+    "title": "Claim that the survey discounts hallucination",
+    "creators": [],
+    "url": "https://journals.sagepub.com/doi/full/10.1177/0269881120916143",
+    "locator": "Full discussion/conclusion requires review",
+    "claim": "Presenter reads the study as making a purely hallucinatory explanation unlikely.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1820,
+        "end_seconds": 1950,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ودمرنا كل شيء ايضا يقول احدهم انه هنا اقتبس سيحدث انقسام واضح واعاده هيكل للمجتمع البشري بمساعده وعي الكائنات الفضائيه سيتم يتم التخلص تدريجيا من",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Inspected methods and self-reports do not establish this ontological conclusion. Later attempts to retrieve the remaining text failed."
+  },
+  {
+    "id": "e06-gulf-shiva",
+    "type": "anonymous-testimony",
+    "title": "Earlier channel interview about an encounter identified as Shiva",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1870–2010 seconds; independent locator pending",
+    "claim": "Presenter recalls a Gulf woman describing energy-healing experiences and a blue figure.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1870,
+        "end_seconds": 2010,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هم رصدوا ما حدث وقدموا لنا الحقيقه ونحن نفهمها لذلك التفسيرات الماديه العلميه لا تفسر ما ساقوله الان في بضع نقاط مختصره جدا لماذا تظهر للناس في كل العالم نفس",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Original earlier recording and time code not located. No verification of the reported figure or its cause."
+  },
+  {
+    "id": "e06-puthoff-podcast",
+    "type": "interview-claim",
+    "title": "Hal Puthoff podcast allusion",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1940–2062 seconds; independent locator pending",
+    "claim": "Presenter connects claims about nonhuman beings with a recent Puthoff interview.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1940,
+        "end_seconds": 2062,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لنتامل لهذا ورات هيئه احد الالهه الهندوسيه الزرقاء واما شيفا او غيره وهو كما ذكرنا دائما هو احد شياطين الجن. السؤال الثالث ايضا لماذا هذه الكائنات",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Original recording and exact passage unresolved. Episode-3 reopened records are leads, not proof; do not inherit their earlier verification labels."
+  },
+  {
+    "id": "e06-eric-davis-nypost",
+    "type": "interview-claim",
+    "title": "Eric Davis and four alleged alien forms",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 1940–2062 seconds; independent locator pending",
+    "claim": "Presenter attributes a four-form account to an interview reported by the New York Post.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1940,
+        "end_seconds": 2062,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "لنتامل لهذا ورات هيئه احد الالهه الهندوسيه الزرقاء واما شيفا او غيره وهو كما ذكرنا دائما هو احد شياطين الجن. السؤال الثالث ايضا لماذا هذه الكائنات",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Exact original interview and evidential basis uninspected. Repeating an earlier episode does not independently verify recovered bodies."
+  },
+  {
+    "id": "e06-shared-forms",
+    "type": "presenter-interpretation",
+    "title": "Recurring forms across encounter traditions",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=1920s",
+    "locator": "Episode discussion 1920–2062 seconds; independent locator pending",
+    "claim": "Presenter compares alleged aliens, insects and folklore with psychedelic reports and interprets the similarities through jinn.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1920,
+        "end_seconds": 2062,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "اليوم الذي اصور فيه هذه الحلقه اليوم وتحدثت بالتفصيل عن تجربتها وكيف انه ما كانت تعرف اي شيء عن هذه العوالم وكانت تدخل فقط تتعلم العلاج بالطاقه فرات في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-huxley-biography",
+    "type": "biographical-claim",
+    "title": "Huxley family and institutions",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2062–2190 seconds; independent locator pending",
+    "claim": "Aldous, Julian and Andrew Huxley are discussed alongside atheism, UNESCO, a Nobel award and alleged Freemasonry.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2062,
+        "end_seconds": 2190,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سنستعرض الان سريعا نماذج لاهم الكتب والدراسات وتجارب المفكرين الكبار في خوض هذا الموضوع ابدا بالدوس هيكسلين روائي وفيلسوف انجليزي مشهور جدا صاحب الروايه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Separate biographical assertions need original institutional records; no evidence located for the Freemasonry attribution. Compressed out of article."
+  },
+  {
+    "id": "e06-huxley-brave-new-world",
+    "type": "book",
+    "title": "Brave New World",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2062–2180 seconds; independent locator pending",
+    "claim": "Presenter introduces Aldous Huxley through his dystopian novel.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2062,
+        "end_seconds": 2180,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "سنستعرض الان سريعا نماذج لاهم الكتب والدراسات وتجارب المفكرين الكبار في خوض هذا الموضوع ابدا بالدوس هيكسلين روائي وفيلسوف انجليزي مشهور جدا صاحب الروايه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Book identity recognizable; no cited passage independently read. Omitted from article."
+  },
+  {
+    "id": "e06-doors-perception",
+    "type": "book",
+    "title": "The Doors of Perception",
+    "creators": [
+      "Aldous Huxley"
+    ],
+    "url": "https://books.google.com/books/about/The_Doors_of_Perception.html?id=h5mMb-Jbxq4C",
+    "locator": "1954 essay; reducing-valve/Mind at Large passages need original-page review",
+    "claim": "Presenter discusses Huxley mescaline experience and a brain-filter interpretation.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2100,
+        "end_seconds": 2290,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في البدايه وثق هذه التجربه في كتاب فلسفي بعنوان ابواب الادراك نشر عام 1954 هذا الكتاب يعتبر هو اول كتاب ظاهره في الغرب لتاصيل استخدام المهلوسات لدخول عالم",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Modern publisher description corroborates a 1953 experience; original essay not read. Gutenberg Canada HTML access failed. Presenter explicitly says he used a summary rather than the entire book."
+  },
+  {
+    "id": "e06-heaven-hell",
+    "type": "book",
+    "title": "Heaven and Hell",
+    "creators": [
+      "Aldous Huxley"
+    ],
+    "url": "https://huxleyarchive.org/Non-fiction/BOOKS/Heaven%20and%20Hell.pdf",
+    "locator": "Original text located as a PDF but not opened or downloaded in this pass",
+    "claim": "Presenter connects the 1956 essay to frightening visionary experiences.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2190,
+        "end_seconds": 2320,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الانا والزمان والمكان شعر انه في هذه التجربه يعيش في حاضر ابدي لا ينتهي اللي هو حاله الخلود ما في زمان ولا مكان ولا حاضر الزمان نفسه يتلاشى والمكان ايضا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Whether a passage is personal recollection rather than general discussion remains unverified. Do not say the later essay proves Huxley personally recanted."
+  },
+  {
+    "id": "e06-van-gogh",
+    "type": "art-comparison",
+    "title": "Van Gogh as a visual analogy",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2170–2280 seconds; independent locator pending",
+    "claim": "Presenter compares visionary colors with Van Gogh while expressly acknowledging no evidence of his psychedelic use.",
+    "verification_status": "extracted",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2170,
+        "end_seconds": 2280,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "على انه كان يستخدم هذه الادوات لكن يقول انه الرسوم التي رسمها بهذه الطريقه الابداعيه الجميله تشبه تماما ما يراه كل من ياخذ هذه المواد انا رايت افلام",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Preserve the disclaimer. Visual analogy is not a biographical drug-use claim."
+  },
+  {
+    "id": "e06-huxley-microdose",
+    "type": "biographical-claim",
+    "title": "Huxley supervision and dose characterization",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2200–2330 seconds; independent locator pending",
+    "claim": "Presenter describes exceptionally small doses and medical supervision.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2200,
+        "end_seconds": 2330,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يتلاشى المهم هنا انه لما قرات انا ملخص كتاب ولم اقرا الكتاب كاملا شعرت انه يتحدث عن الجنه باختصار شديد ما في اجمل من هذا الشعور الذي خاضه الدوس هاكسلي",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Do not convert a historical observed experience into a verified microdosing protocol or claim every later use was supervised."
+  },
+  {
+    "id": "e06-inner-paths",
+    "type": "book",
+    "title": "Inner Paths to Outer Space: Journeys to Alien Worlds through Psychedelics and Other Spiritual Technologies",
+    "creators": [
+      "Rick Strassman",
+      "Slawek Wojtowicz",
+      "Luis Eduardo Luna",
+      "Ede Frecska"
+    ],
+    "url": "https://www.simonandschuster.com/books/Inner-Paths-to-Outer-Space/Rick-Strassman/9781594772245",
+    "locator": "Publisher About the Book, author biographies, chapter-12 excerpt and product details; 2008; ISBN 9781594772245",
+    "claim": "A multi-author book explores interpretations of encounters.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2290,
+        "end_seconds": 2415,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "استمرار التجارب التي كانت تحت اشراف طبي ليحمي نفسه من دخول هذا العالم ومع ذلك بعد سنتين اعترف بانه بالفعل عانى من هذه التجربه السيئه فما بالك اذا لو ما كان",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Publisher/excerpt scope only, not full book. Three listed authors have MD credentials and Luna has a PhD; combined research years are not a controlled longitudinal trial. The inspected excerpt entertains metaphysical possibilities, not a blanket dismissal as hallucination."
+  },
+  {
+    "id": "e06-entity-book",
+    "type": "edited-book",
+    "title": "DMT Entity Encounters: Dialogues on the Spirit Molecule",
+    "creators": [
+      "David Luke",
+      "Rory Spowers"
+    ],
+    "url": "https://www.simonandschuster.com/books/DMT-Entity-Encounters/David-Luke/9781644112335",
+    "locator": "Publisher metadata, description and chapter-4 excerpt; 2021; ISBN 9781644112335",
+    "claim": "Edited discussions from a symposium explore encounter interpretations.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2370,
+        "end_seconds": 2510,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الدماغ لمحاوله فهم كيف يؤثر دي ام تي على الدماغ خلاصه الكتاب ان العوالم الفضائيه التي تعكسها روايات الخيال العلمي هي انعكاس للواقع الداخلي يعني خلاصتهم انه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Edited by David Luke and Rory Spowers; introduction Anton Bilton. Describes a four-day 2017 symposium of twenty participants, not one experiment."
+  },
+  {
+    "id": "e06-entity-timing",
+    "type": "book-excerpt",
+    "title": "Chris Timmermann on timed experiences and brain measurement",
+    "creators": [
+      "Chris Timmermann"
+    ],
+    "url": "https://www.simonandschuster.com/books/DMT-Entity-Encounters/David-Luke/9781644112335",
+    "locator": "Excerpt from chapter 4, Subjective Experience and Sensed Presence Phenomena in Human Research with DMT",
+    "claim": "Minute-by-minute accounts of shadows, aliens, goblins and a figure identified as Kali are discussed alongside brain recordings.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2400,
+        "end_seconds": 2530,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يعني مع انهم انكروا وماديين ومع ذلك نحن نعيش في وهم واننا نحن كائنات متصله وشيء يشبه وحده الوجود يعني يقولون في النهايه يجب ان نكون مفتحين على كل الاحتمالات",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Excerpt says EEG phase completed and combined EEG-fMRI was planned at that time. It does not present fMRI proof of an external being; field-study interviews are a separate study."
+  },
+  {
+    "id": "e06-spirit-molecule",
+    "type": "book",
+    "title": "DMT: The Spirit Molecule",
+    "creators": [
+      "Rick Strassman"
+    ],
+    "url": "https://www.rickstrassman.com/publications/the-spirit-molecule/chapter-summaries/",
+    "locator": "Author chapter summaries: What DMT Is; The Psychedelic Pineal; 89-001; Being a Volunteer",
+    "claim": "Strassman describes clinical work and speculative interpretations of DMT.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2470,
+        "end_seconds": 2580,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الدراسات ترصد فقط ما يحصل للجسم البشري وللدماغ ولكن لا تفسر شيئا كتاب اخر ايضا صدر في اواخر عام 2000 بعنوان دي ام تي جزيء الروح وهو خلاصه لتجربه المؤلف ريكس",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Summaries only, not full book. Distinguish the research program from the explicitly speculative soul/pineal model. Original edition/date check still pending."
+  },
+  {
+    "id": "e06-plants-gods",
+    "type": "book",
+    "title": "Plants of the Gods: Their Sacred, Healing, and Hallucinogenic Powers",
+    "creators": [
+      "Richard Evans Schultes",
+      "Albert Hofmann",
+      "Christian Ratsch"
+    ],
+    "url": "https://www.innertraditions.com/books/plants-of-the-gods",
+    "locator": "Official publisher description, contents and details; second edition, 2001; ISBN 9780892819799",
+    "claim": "Book surveys psychoactive plants and associated traditions.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2500,
+        "end_seconds": 2630,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بشريه ذكيه وكائنات فضائيه وملائكه وارواح ولكن حاول ان يربط هذه التجربه بالغده الصنوبريه التي يعتبرها الهندوس انها هي موقع الشاكره السابعه حاول يقدم تفسير",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Publisher page scope only; full book not read. Contents include biochemistry, so the episode blanket description of no scientific explanations is not supported by this paratext."
+  },
+  {
+    "id": "e06-bache-universe",
+    "type": "book-memoir",
+    "title": "LSD and the Mind of the Universe: Diamonds from Heaven",
+    "creators": [
+      "Christopher M. Bache"
+    ],
+    "url": "https://www.simonandschuster.com/books/LSD-and-the-Mind-of-the-Universe/Christopher-M-Bache/9781620559703",
+    "locator": "Publisher description and chapter-6 excerpt; 2019; ISBN 9781620559703",
+    "claim": "Bache recounts a long personal series of LSD experiences and interprets them in terms of consciousness.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2540,
+        "end_seconds": 2662,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انفرس دايموند فروم ذا هيفن يعني ال اس دي وعقل الكون الماسات من السماء او من الجنه الكتاب جديد ولكن المؤلف هو استاذ في الدراسات الدينيه في الفلسفه هو بدا",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Publisher states 73 high-dose sessions over twenty years, beginning 1979. Personal experiential narrative, not a controlled clinical trial; no verification that each session had a doctor."
+  },
+  {
+    "id": "e06-unity-comparison",
+    "type": "presenter-interpretation",
+    "title": "Unity experiences and religious interpretation",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=2570s",
+    "locator": "Episode discussion 2570–2662 seconds; independent locator pending",
+    "claim": "Presenter compares cosmic-consciousness language with fana, union/indwelling, Kabbalah and New Age ideas; similarities do not establish identical doctrines.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2570,
+        "end_seconds": 2662,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "انه ال اس دي مختلف عن دي ام تي فيقول انه ما كان يرى كائنات فضائيه ولكن ما راه اشكال اسطوريه فالتقى بما يشبه ذا جريت ماذ الام الكبرى الهه السماء او ذا بلوف",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-muslim-intoxicants",
+    "type": "hadith",
+    "title": "Every intoxicant is khamr and every intoxicant is forbidden",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2003a",
+    "locator": "Sahih Muslim 2003a; Arabic and English report",
+    "claim": "Ibn Umar transmits the general prohibition of intoxicants.",
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2662,
+        "end_seconds": 2730,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ناتي الان للحكم الشرعي لاستخدام هذه المهلوسات قد يخطر على عقل بعض الشباب انه هذا ليس خمرا فليس حراما ما في خلاف ابدا على انه حرام بل من اكبر الكبائر كل مسكر",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Text inspected directly. Establishes the general principle; not a diagnosis or a complete ruling on a specified medical intervention."
+  },
+  {
+    "id": "e06-abudawud-mufattir",
+    "type": "hadith",
+    "title": "Prohibition of intoxicating and enervating substances",
+    "creators": [
+      "Abu Dawud",
+      "al-Albani (displayed grader)"
+    ],
+    "url": "https://sunnah.com/abudawud:3686",
+    "locator": "Sunan Abi Dawud 3686; Book 27, Hadith 18; displayed grade Da if (al-Albani)",
+    "claim": "Umm Salama report includes muskir and mufattir; presenter calls it sound.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2680,
+        "end_seconds": 2750,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تعطل العقل وايضا في الحديث الصحيح نهى رسول الله صلى الله عليه وسلم عن كل مسكر ومفتر فالمفتر هو كل ما يورث الفتور والخدر في الجسد ويثير الخيالات في الدماغ",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      },
+      {
+        "episode_id": "QXKDqDYCgdQ",
+        "start_seconds": 595,
+        "end_seconds": 650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المهلوسه وكيف تستخدم تاريخيا ومما قبل التاريخ للاتصال بالكيانات اللي هي في النهايه شياطين ويقدم نفسه ايضا للاخرين على انه دوره في الحياه وظيفته هي انه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in a broad discussion interval, not an exact source-quotation locator. Added editorial sources are explicitly labelled; the anchor is the related episode discussion, not a claim that the presenter named that source."
+      }
+    ],
+    "notes": "Arabic and displayed grading inspected directly. The sound grading attributed by the presenter is not supported by this edition; other graders not audited. Old English numbering Book 26, Hadith 3678."
+  },
+  {
+    "id": "e06-maqasid",
+    "type": "presenter-interpretation",
+    "title": "Protecting religion and reason",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=2700s",
+    "locator": "Episode discussion 2700–2783 seconds; independent locator pending",
+    "claim": "Presenter invokes protection of religion, life, honor, wealth and intellect in rejecting intoxication for spiritual access; no particular maqasid treatise cited.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2690,
+        "end_seconds": 2783,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ايضا الشريعه كما نعرف جاءت لحمايه الضروريات الاساسيه التي تسمى بمقاصد الشريعه وهي الدين والنفس والعرض والمال والعقل فكل ما يعطل العقل ولو بشكل مؤقت",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-unnamed-professional",
+    "type": "anonymous-testimony",
+    "title": "Older professional describing occult involvement",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2783–2990 seconds; independent locator pending",
+    "claim": "Presenter relates a professional man experiences with psychoactive substances, spiritual teachers and alleged intrusion.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2783,
+        "end_seconds": 2990,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نصل الان الى شهادات من مجربين وبعضهم اعرفه بنفسي وهذه مهمه لي على الاقل لاني عايشت بعضهم وعرفته وتاكدت من شخصيته ومن قصته بالحد الادنى على الاقل ولكن ان لم",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No original interview or independently verified medical or employment records. Self-described sensitivity, Buddhist mentors and unnamed occult books must remain attributed."
+  },
+  {
+    "id": "e06-iblis-identity",
+    "type": "anonymous-testimony",
+    "title": "Witness claimed to have met Iblis",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2810–3000 seconds; independent locator pending",
+    "claim": "Presenter explicitly doubts the witness identification of a perceived being as Iblis.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2810,
+        "end_seconds": 3000,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المجتمع شخص مهم كبير في السن له مركز اجتماعي في مجتمعه فيترجح عندي بنسبه كبيره انه صادق على الاقل في معظم كلامه قال لي من البدايه انه كان من طفولته لديه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Preserve the presenter disagreement; no verified entity identification."
+  },
+  {
+    "id": "e06-hollow-earth",
+    "type": "anonymous-testimony",
+    "title": "Reptilian creators and hollow-earth claims",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 2870–3020 seconds; independent locator pending",
+    "claim": "The account includes alleged creators, underground worlds and advanced vehicles.",
+    "verification_status": "unresolved",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2870,
+        "end_seconds": 3020,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "وصار يتعلم ايضا على يد بعض المدربين البوذيين وخصوصا انه يعيش في دوله غربيه في النهايه دخل في عالم العقاقير هو كان يعمل في شركه طبيه لديه خبره في عالم",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Claims are part of testimony, not established biology or geography. Original source absent."
+  },
+  {
+    "id": "e06-david-icke",
+    "type": "book-allusion",
+    "title": "Unspecified David Icke books",
+    "creators": [
+      "David Icke"
+    ],
+    "url": null,
+    "locator": "Episode discussion 2890–3030 seconds; independent locator pending",
+    "claim": "Presenter connects the witness cosmology with David Icke and ancient-astronaut ideas.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2890,
+        "end_seconds": 3030,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "بطريقه سليمه وصحيه حتى لا يضر نفسه او يقلل الضرر لانه لا يمكن ان تكون صحيه نهائيا وفي النهايه عاش لعده سنوات في خوض هذه التجارب التفاصيل لا تنتهي ودخل في",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No specific title/page identified; do not fabricate a citation. Omitted from article."
+  },
+  {
+    "id": "e06-kimberly-interview",
+    "type": "interview",
+    "title": "How I Became Part of a Cult-Kimberly",
+    "creators": [
+      "Soft White Underbelly",
+      "Kimberly"
+    ],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "0–3069 seconds; complete 1561-segment original English automatic caption track",
+    "claim": "Kimberly describes experiences associated with a group, substances and later distress.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2960,
+        "end_seconds": 3210,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تسمى الى العالم السفلي والتقى هناك بالكائنات التي تعيش تحديدا هناك وهي الزواحف نفس الكلام الذي تقراه في كل الكتب في كتب ديفيد ايك مثلا او كل من",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Current YouTube metadata gives 21 May 2026 and 51:09. Whole caption track inspected; original audiovisual check still pending. Verification limited to attribution/comparison, not supernatural causation. See research/sources/XtynXtx_g20-review.md for hashes, coverage and limitations.",
+    "verification_history": [
+      {
+        "recorded_at": "2026-09-15",
+        "previous_status": "identified",
+        "previous_locator": "Soft White Underbelly; original interview timestamps/date pending",
+        "previous_notes": "First-party YouTube oEmbed confirms title/channel; search page also retains older title How I Became Part of a Satanic Cult-Kimberly. Original interview content not inspected. Local evidence data/logs/e06-cited-video-oembed.json. A later Hard Knox Talks interview was found but is not this cited recording.",
+        "reason": "Original English interview captions became accessible and were read completely."
+      }
+    ]
+  },
+  {
+    "id": "e06-kimberly-mixture",
+    "type": "testimony-claim",
+    "title": "Substance described as blue lotus",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "20:00–21:00 and 31:30–33:00, original English automatic captions",
+    "claim": "Presenter describes a mixture involving DMT, LSD and lotus in the account.",
+    "verification_status": "verified",
+    "support": "does-not-support",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 2960,
+        "end_seconds": 3130,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "تسمى الى العالم السفلي والتقى هناك بالكائنات التي تعيش تحديدا هناك وهي الزواحف نفس الكلام الذي تقراه في كل الكتب في كتب ديفيد ايك مثلا او كل من",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Witness lists DMT, LSD or psilocybin as alternatives. Does not establish simultaneous DMT and LSD or actual chemical contents; no laboratory evidence. Verification limited to attribution/comparison, not supernatural causation. See research/sources/XtynXtx_g20-review.md for hashes, coverage and limitations.",
+    "verification_history": [
+      {
+        "recorded_at": "2026-09-15",
+        "previous_status": "unresolved",
+        "previous_locator": "Episode discussion 2960–3130 seconds; independent locator pending",
+        "previous_notes": "No laboratory analysis or inspected original testimony establishes its composition. Do not repeat the recipe or identify a known product.",
+        "reason": "Original English interview captions became accessible and were read completely."
+      }
+    ]
+  },
+  {
+    "id": "e06-kimberly-hypnosis",
+    "type": "testimony-claim",
+    "title": "Guided experiences, distress and reported relief",
+    "creators": [],
+    "url": "https://www.youtube.com/watch?v=XtynXtx_g20",
+    "locator": "21:00–25:30; 30:30–33:30; 36:00–45:30, original English automatic captions",
+    "claim": "Presenter recounts guided religious imagery, perceived intrusion, severe distress, a police complaint and eventual relief associated with church attendance.",
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-15",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3010,
+        "end_seconds": 3210,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مستغنين عن الاله فلذلك هو عاش بلا دين لعده سنوات حتى قاومهم واستخرج في النهايه نفسه من هذا العالم وموضوع طويل في النهايه قال لي انه يعني استغنى عن",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Guided imagery, distress, police complaints and claimed relief are present in the testimony. Acute symptoms described over weeks, followed by relief attributed to baptism and church support, not established years of psychiatric treatment failure. Verification limited to attribution/comparison, not supernatural causation. See research/sources/XtynXtx_g20-review.md for hashes, coverage and limitations.",
+    "verification_history": [
+      {
+        "recorded_at": "2026-09-15",
+        "previous_status": "unresolved",
+        "previous_locator": "Episode discussion 3010–3210 seconds; independent locator pending",
+        "previous_notes": "Original recording and exact statements pending. Avoid identifying alleged perpetrators, certifying causation or presenting church attendance as a proven medical treatment.",
+        "reason": "Original English interview captions became accessible and were read completely."
+      }
+    ]
+  },
+  {
+    "id": "e06-church-explanation",
+    "type": "presenter-interpretation",
+    "title": "Presenter explanation of relief in another religious setting",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=3130s",
+    "locator": "Episode discussion 3130–3260 seconds; independent locator pending",
+    "claim": "Presenter offers a spiritual interpretation of reported relief; neither efficacy nor mechanism independently established.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3130,
+        "end_seconds": 3260,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "قالت في هذه التجربه ان هناك كيانا دخل في جسدها وتنفس في اذنها وكان سائقه ضربتها فقفزت وهربت وظل مع هذا الكيان لعده سنوات تركت هي البيت الذي كانت فيه وتركت عالمها",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-facebook-page",
+    "type": "social-media",
+    "title": "Unidentified psychedelic meme page",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3200–3380 seconds; independent locator pending",
+    "claim": "Presenter presents a Facebook page and its comments as users recognition of shared imagery.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3200,
+        "end_seconds": 3380,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نفسيا وعاطفيا لانه حاله الدخول الى هذا العالم صعبه جدا وقد تكون مدمره فهي ايضا تشتكي انه لماذا اصلا دخلتني في هذا العالم قبل التحضير هي ما عندها مشكله",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Page identity, post URLs, creators, screenshots and dates not captured. Comments are neither a representative sample nor proof of common external entities."
+  },
+  {
+    "id": "e06-telescope-analogy",
+    "type": "presenter-interpretation",
+    "title": "Psychedelics compared with a telescope",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=3200s",
+    "locator": "Episode discussion 3200–3380 seconds; independent locator pending",
+    "claim": "Presenter discusses a meme analogy suggesting drugs reveal an existing hidden world.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3200,
+        "end_seconds": 3380,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "نفسيا وعاطفيا لانه حاله الدخول الى هذا العالم صعبه جدا وقد تكون مدمره فهي ايضا تشتكي انه لماذا اصلا دخلتني في هذا العالم قبل التحضير هي ما عندها مشكله",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-meme-entities",
+    "type": "artwork",
+    "title": "Entity and religious-image memes",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3260–3490 seconds; independent locator pending",
+    "claim": "Images interpreted as mantises, fairies, alleged aliens, Krishna, Buddha and Egyptian religious figures.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3260,
+        "end_seconds": 3490,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "المرائي الذي لا يراه الا اصحاب البصيره والحكمه الصوره التاليه نرى فيها بكل وضوح الشخصيات التي شرحناها وكل ما يذكره ايضا حتى كما ذكرنا في الدراسات الاكاديميه هذه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Original artwork/provenance not inspected. Image recognition and captions are presenter interpretations, not an independent identification."
+  },
+  {
+    "id": "e06-dragons",
+    "type": "presenter-interpretation",
+    "title": "Dragons, dinosaurs and mounts",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=3330s",
+    "locator": "Episode discussion 3330–3500 seconds; independent locator pending",
+    "claim": "Presenter speculates about dragons as jinn or mounts, with uncertainty about dinosaur comparisons.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3330,
+        "end_seconds": 3500,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يظهرون على هيئه اقزام ويرتدون قبعه الريد كاب كما تسمى وغالبا تكون باللون الاحمر احيانا اشرار واحيانا طيبين بسطاء بشرط انك ما تقترب منهم في غاباتهم او حتى لو",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-house-spirits-redcaps",
+    "type": "folklore",
+    "title": "European house spirits and redcaps",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3380–3530 seconds; independent locator pending",
+    "claim": "Presenter relates household/farm spirit lore and red-capped figures.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3380,
+        "end_seconds": 3530,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يعني لا تعامله على انه مهرج هيئه المهرج بهذه الهيئه تحديدا هي معروفه في القرون الوسطى في اوروبا لما يرتدي هذه القبعه التي لها ثلاثه رؤوس تسمى جستر هات لما",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No exact folklore collection or geographical tradition supplied. Do not collapse distinct traditions into one documented category."
+  },
+  {
+    "id": "e06-jester-puck",
+    "type": "historical-claim",
+    "title": "Puck, jesters and pointed caps",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3430–3580 seconds; independent locator pending",
+    "claim": "Presenter suggests human costume may imitate unseen beings.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3430,
+        "end_seconds": 3580,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الصوره نرى الجني الرمادي الفضائي يمتضي صهوه هذا الجواد وهو ما يسمى بوحيد القرن حصان عادي ولكن له هذا القرن يسمى يونيكورن ذكرت في اكثر من حلقه انه على",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Historical causal claim lacks identified evidence; ordinary visual resemblance is insufficient."
+  },
+  {
+    "id": "e06-al-shallal",
+    "type": "literary-allusion",
+    "title": "Al-Shallal, the presenter novel",
+    "creators": [
+      "Ahmad Dadoosh"
+    ],
+    "url": null,
+    "locator": "Episode discussion 3430–3600 seconds; independent locator pending",
+    "claim": "Presenter mentions his novel while discussing unicorn imagery.",
+    "verification_status": "identified",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3430,
+        "end_seconds": 3600,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الصوره نرى الجني الرمادي الفضائي يمتضي صهوه هذا الجواد وهو ما يسمى بوحيد القرن حصان عادي ولكن له هذا القرن يسمى يونيكورن ذكرت في اكثر من حلقه انه على",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Arabic title الشلال retained as a lead. Edition/page and artwork reference unverified."
+  },
+  {
+    "id": "e06-baphomet-idk",
+    "type": "artwork",
+    "title": "Baphomet image and ambiguous letters",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3480–3650 seconds; independent locator pending",
+    "claim": "Presenter reads occult symbolism in an image; ASR has an ambiguous English letter sequence.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3448,
+        "end_seconds": 3650,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في هذه الصوره نرى يقول انت لا تدخل عالمنا بل تغادر عالمك هذه الصوره هي تمام صوره سوره البافومت نفس القرون نفس الراس نفس الوضعيه نفس وضعيه اليدين يد الى",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read caption fragment as unresolved اي دي كي. It may be IDK in an image caption rather than a drug name. Must inspect video frame; do not silently normalize it."
+  },
+  {
+    "id": "e06-religious-memes",
+    "type": "artwork",
+    "title": "Mosque, eyes, Sanskrit and deity images",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3540–3730 seconds; independent locator pending",
+    "claim": "Presenter interprets a sequence of memes and romantic entity imagery.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3540,
+        "end_seconds": 3730,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في مكانك ولكن عالمك نفسه هذا يتغير من حولك فالغرفه نفسها تتحول فنرى غرفه نوم وتحولت الى ما يشبه المساجد وحتى في الخلفيه نرى قباب وماذن ولكن في طريق",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "No inspected originals. A depicted mosque or alleged entity romance does not authenticate religious revelation or a relationship."
+  },
+  {
+    "id": "e06-four-stage-cartoon",
+    "type": "artwork",
+    "title": "Four-stage trip cartoon",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3640–3750 seconds; independent locator pending",
+    "claim": "Cartoon ends with fatigue and is used as a cautionary illustration.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3640,
+        "end_seconds": 3750,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "ويعرفون انه عندها مشكله نفسيه عاطفيه او بحاجه يعني حتى لو لحاله يعني لجماع مثلا فقد يظهرون لها بهذه الهيئه بهيئه شاب وسيم هذه تظهر وذكرنا في الحلقه السابقه",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Cartoon is not a clinical outcome study. Original artist/post unlocated."
+  },
+  {
+    "id": "e06-prayer-collapse-story",
+    "type": "historical-report",
+    "title": "Unidentified worshipper and a collapsing mosque",
+    "creators": [],
+    "url": null,
+    "locator": "Episode discussion 3690–3787 seconds; independent locator pending",
+    "claim": "Closing comparison describes intense absorption in prayer despite surrounding disturbance.",
+    "verification_status": "unresolved",
+    "support": null,
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3690,
+        "end_seconds": 3787,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النهايه الرحله تكون متعبه حتى لمن من ادمن ولمن تعود وخلاص يعني من سنوات هو داخل في هذا الموضوع حتى مع ذلك في النهايه تكون متعبه لذلك اذا كنت تريد",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Person, original narration and chain not supplied or identified. Do not invent a Companion name or pass this off as authenticated hadith."
+  },
+  {
+    "id": "e06-closing-worship",
+    "type": "presenter-interpretation",
+    "title": "Worship and seeking spiritual experience",
+    "creators": [
+      "Ahmad Dadoosh / al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=nJv0h3zXbb0&t=3690s",
+    "locator": "Episode discussion 3690–3787 seconds; independent locator pending",
+    "claim": "Presenter recommends devotion to Allah rather than intoxication and occult experimentation; comments on yoga and ritual practices belong to this context.",
+    "verification_status": "extracted",
+    "support": "testimony-only",
+    "checked_at": null,
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 3690,
+        "end_seconds": 3787,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "النهايه الرحله تكون متعبه حتى لمن من ادمن ولمن تعود وخلاص يعني من سنوات هو داخل في هذا الموضوع حتى مع ذلك في النهايه تكون متعبه لذلك اذا كنت تريد",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Read in full episode captions. Attribution only; independent evidence for the proposed cause has not been established."
+  },
+  {
+    "id": "e06-brain-imaging",
+    "type": "experimental-study",
+    "title": "Human brain effects of DMT assessed via EEG-fMRI",
+    "creators": [
+      "Christopher Timmermann et al."
+    ],
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10068756/",
+    "locator": "PNAS 120(13), e2218949120 (2023); DOI 10.1073/pnas.2218949120; abstract and reported results",
+    "claim": "Placebo-controlled research measures changes in brain activity and network organization during DMT experiences.",
+    "verification_status": "verified",
+    "support": "partial",
+    "checked_at": "2026-09-10",
+    "mentions": [
+      {
+        "episode_id": "nJv0h3zXbb0",
+        "start_seconds": 1210,
+        "end_seconds": 1660,
+        "mention_kind": "editorial-context",
+        "raw_excerpt_ar": "تفسير ما يرى من لقاءات مع كيانات غريبه ان هذه المواد تعطل مؤقتا شبكه في الدماغ تسمى شبكه الوضع الافتراضي هي المسؤوله عن الشعور بالانا وبالواقع فلما تعطل ينفصل",
+        "excerpt_note": "Exact normalized ASR anchor: first up to four segments in the discussion interval. Broad discussion range, not an exact quotation locator. This is not corrected Arabic or text from the independent source."
+      }
+    ],
+    "notes": "Added editorial check, not a paper explicitly identified in this episode. Within-subject study of twenty healthy participants. Observed brain correlates do not settle metaphysical ontology."
+  }
+]

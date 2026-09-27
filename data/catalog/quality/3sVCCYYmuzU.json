@@ -1,0 +1,21 @@
+{
+  "video_id": "3sVCCYYmuzU",
+  "normalized_at": "2026-09-08T15:42:01+00:00",
+  "raw_cues": 2315,
+  "segments": 1158,
+  "word_count": 8404,
+  "first_cue_seconds": 0.24,
+  "last_cue_seconds": 3338.119,
+  "video_duration_seconds": 3336,
+  "tail_gap_seconds": -2.119,
+  "timed_caption_coverage_fraction": 1.00056,
+  "internal_gaps_over_20_seconds": [],
+  "sha256_srt": "0732cba2eb13a66a7b8182f11588cf922d1cb07a41b48f558fe2ee4a86204641",
+  "sha256_vtt": "f0fcb177ca90d897f5bc9ca0b9e1f863ddcbce86b69d995fb9a8f8ecdad8ac93",
+  "sha256_segments": "3196bdee19a6550cdf6db0fbe528bcd7e0d23ed434a5a65130bba2de88a2a0bb",
+  "caption_language": "ar-orig",
+  "caption_kind": "automatic",
+  "speech_recognition_review": "pending",
+  "content_review": "pending",
+  "normalization": "Adjacent rolling line carryover only; preserve raw files for audit."
+}

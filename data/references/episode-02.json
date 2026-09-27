@@ -1,0 +1,708 @@
+[
+  {
+    "id": "video-zyH4e-BOOks",
+    "type": "source-video",
+    "title": "The origin of jinn, moral responsibility, and the qarin",
+    "creators": [
+      "Ahmad Dadoosh",
+      "al-Sabeel"
+    ],
+    "url": "https://www.youtube.com/watch?v=zyH4e-BOOks",
+    "locator": "00:00–25:02; complete Arabic transcript read",
+    "claim": "Presents the origin of jinn from fire, debates over their progenitor, their moral agency and free will, and the nature of the qarin.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 0,
+        "end_seconds": 1502,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "السلام عليكم في هذه الحلقة نتابع الحديث عن أهم الأسئلة الجوهرية المتعلقة بعالم الجن نتحدث عن أصلهم من هو أبوهم لماذا خلقوا",
+        "excerpt_note": "Opening lines of the episode."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-08",
+    "notes": "Complete normalized Arabic transcript inspected. Video sets the thematic outline and sequence of topics."
+  },
+  {
+    "id": "hadith-seeking-knowledge",
+    "type": "hadith",
+    "title": "Hadith on seeking knowledge for display or contention",
+    "creators": [
+      "Al-Tirmidhi",
+      "Ibn Majah"
+    ],
+    "url": "https://sunnah.com/tirmidhi:2654",
+    "locator": "Jami al-Tirmidhi 2654 (Kitab al-Ilm); Sunan Ibn Majah 253, 254",
+    "claim": "Whoever seeks knowledge to compete with scholars, argue with the foolish, or attract people s attention, Allah will admit him to Hell.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 168,
+        "end_seconds": 177,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "من تعلم العلم ليباهي به العلماء أو يماري به السفهاء أو يصرف وجوه الناس إليه أدخله الله جهنم",
+        "excerpt_note": "Spoken by the presenter emphasizing sincere intentions in investigating the unseen."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Narrated from Ka b ibn Malik and Hudhayfah. Graded Hasan by al-Tirmidhi and Sahih lighayrihi by al-Albani."
+  },
+  {
+    "id": "quran-55-15",
+    "type": "quran",
+    "title": "Quran 55:15",
+    "creators": [],
+    "url": "https://quran.com/55/15",
+    "locator": "55:15",
+    "claim": "And He created the jinn from a smokeless flame of fire.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 187,
+        "end_seconds": 193,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "المتفق عليه أصلهم أنهم خلقوا من مارج من نار، كما جاء في الآية الكريمة.",
+        "excerpt_note": "Cited in discussion of the primordial substance from which jinn were created."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Primary Quranic text verified. Al-Rahman 55:15."
+  },
+  {
+    "id": "muslim-2996",
+    "type": "hadith",
+    "title": "Sahih Muslim 2996: Creation of angels, jinn, and Adam",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2996",
+    "locator": "Sahih Muslim 2996 (Kitab al-Zuhd wa al-Raqa iq, hadith 60)",
+    "claim": "Angels were created from light, jinn from a smokeless flame of fire, and Adam from that which has been described to you.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 193,
+        "end_seconds": 201,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "خلقت الملائكة من نور، وخلق الجان من مارج من نار، وخلق آدم مما وصف لكم",
+        "excerpt_note": "Report of A ishah directly quoted."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Sahih Muslim 2996 verified. Foundational textual evidence for the distinct elemental origins of angels, jinn, and humans."
+  },
+  {
+    "id": "e02-ibn-abi-dunya-hawatif",
+    "type": "book",
+    "title": "Hawatif al-Jinan by Ibn Abi al-Dunya",
+    "creators": [
+      "Ibn Abi al-Dunya"
+    ],
+    "url": "https://shamela.ws/book/755",
+    "locator": "Hawatif al-Jinan, narratives on voices and funerals of jinn",
+    "claim": "Compilation of historical anecdotes describing voices and funerals of jinn heard by humans.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 260,
+        "end_seconds": 275,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "كتاب الهواتف لابن أبي الدنيا الذي جمع كثيرًا من الروايات منها مثلًا أنهم كانوا يسمعون الجن يشيعون موتاهم ليذهبوا إلى دفنهم",
+        "excerpt_note": "Cited regarding the dispute over whether jinn corpses are buried or vanish."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-08",
+    "notes": "Verified work by Ibn Abi al-Dunya (d. 281 AH). Presenter notes these are anecdotal transmissions that do not establish normative fiqh or theological certainty."
+  },
+  {
+    "id": "quran-18-50-e02",
+    "type": "quran",
+    "title": "Quran 18:50",
+    "creators": [],
+    "url": "https://quran.com/18/50",
+    "locator": "18:50",
+    "claim": "Iblis was of the jinn and he rebelled against the command of his Lord; will you then take him and his progeny as allies besides Me?",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 366,
+        "end_seconds": 455,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الدليل افتتخذونه وذريته أولياء من دوني... كان من الجن ففسق عن أمر ربه",
+        "excerpt_note": "Central verse in discussing the lineage of jinn and Iblis."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Quran 18:50 text and classical commentary verified."
+  },
+  {
+    "id": "e02-scholars-iblis-father",
+    "type": "scholarly-opinion",
+    "title": "Scholarly debate on whether Iblis is the progenitor of all jinn",
+    "creators": [
+      "Ibn Abbas",
+      "Al-Hasan al-Basri",
+      "Ibn Taymiyyah"
+    ],
+    "url": "https://shamela.ws/book/12290/190",
+    "locator": "Majmu al-Fatawa 4/235; Tafsir al-Tabari 18:50; Tafsir Ibn Kathir 18:50",
+    "claim": "Widely held classical opinion that Iblis is the father of all jinn, analogous to Adam for humanity.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 359,
+        "end_seconds": 370,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الرأي الأكثر انتشارًا بين علمائنا أن الجن أولاد إبليس وهو مثل آدم. نقل هذا عن ابن عباس والحسن البصري ومجاهد وقتادة واختاره شيخ الإسلام",
+        "excerpt_note": "Presenter cites this major classical position before presenting counterarguments and alternatives."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Documented in classical tafsir and fatwa literature. The presenter argues for an alternative view that Iblis was an individual from a pre-existing species."
+  },
+  {
+    "id": "e02-hinn-binn",
+    "type": "historical-report",
+    "title": "Traditions concerning the Hinn and Binn",
+    "creators": [
+      "Al-Tabari",
+      "Ibn Kathir"
+    ],
+    "url": "https://shamela.ws/book/21711/82",
+    "locator": "Al-Bidayah wa al-Nihayah 1/82; Tarikh al-Tabari 1/89",
+    "claim": "Folklore concerning pre-Adamic creatures who allegedly inhabited earth before being expelled by jinn.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 587,
+        "end_seconds": 600,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "فقال بعض علماء التفسير خلقت الجن قبل آدم عليه السلام وكان قبلهم في الأرض الحن والبن فسلط الله الجن عليهم فقاتلوهم",
+        "excerpt_note": "Presenter explicitly notes these stories lack authentic chain of transmission."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "testimony-only",
+    "checked_at": "2026-09-08",
+    "notes": "Recorded in classical chronicles and tafsir works as unauthenticated historical reports (Isra iliyyat)."
+  },
+  {
+    "id": "e02-dahhak-ibn-abbas",
+    "type": "historical-report",
+    "title": "Narration of al-Dahhak from Ibn Abbas on the progeny of Iblis",
+    "creators": [
+      "Al-Dahhak ibn Muzahim",
+      "Ibn Abbas"
+    ],
+    "url": "https://shamela.ws/book/43/10255",
+    "locator": "Tafsir al-Tabari (Jami al-Bayan), Surah al-Kahf 18:50, narration #23772",
+    "claim": "Report stating that devils are the children of Iblis who do not die except with Iblis.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 646,
+        "end_seconds": 652,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وقد روى الضحاك عن ابن عباس قال الشياطين ولدان إبليس لا يموتون إلا مع إبليس",
+        "excerpt_note": "Cited to examine competing narrations attributed to early authorities."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Tafsir al-Tabari 18:50 records this via al-Dahhak from Ibn Abbas. The transmission chain has well-known breaks (inqita )."
+  },
+  {
+    "id": "e02-sumya-father",
+    "type": "historical-report",
+    "title": "Traditions naming Sumya or al-Jann as the forefather of jinn",
+    "creators": [
+      "Ibn Abbas",
+      "Ibn Kathir",
+      "Al-Baghawi"
+    ],
+    "url": "https://shamela.ws/book/21711/84",
+    "locator": "Al-Bidayah wa al-Nihayah 1/84; Tafsir al-Baghawi 1/76",
+    "claim": "Early narrations identifying the ancestor of jinn as an entity named Sumya or al-Jann rather than Iblis.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 677,
+        "end_seconds": 685,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "الرأي الثاني وحتى روي أيضاً عن ابن عباس أن أبو الجن ليس إبليس بل شخص آخر اسمه سوما أو سوميا",
+        "excerpt_note": "Discussed as a secondary opinion found in early commentaries."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Recorded in early tafsir literature (al-Tabari, al-Baghawi, Ibn Kathir). Largely based on transmissions from Ibn Abbas influenced by pre-Islamic/Israelite narratives."
+  },
+  {
+    "id": "e02-three-classes-jinn",
+    "type": "hadith",
+    "title": "Hadith on the three classes of jinn",
+    "creators": [
+      "Al-Hakim",
+      "Al-Tabarani",
+      "Al-Bayhaqi"
+    ],
+    "url": "https://dorar.net/h/pB33g1hS",
+    "locator": "Al-Mustadrak ala al-Sahihayn 2/456 (#3702); al-Mu jam al-Kabir 22/214; Sahih al-Jami 3114",
+    "claim": "Jinn are of three classes: one with wings flying in the air, one of serpents and dogs, and one that alights and travels.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 721,
+        "end_seconds": 731,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الجن ثلاثة أصناف صنف لهم أجنحة يطيرون في الهواء وصنف حيات وكلاب وصنف يحلون ويظعنون",
+        "excerpt_note": "Authentic prophetic description of diversity among jinn."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Narrated from Abu Tha labah al-Khushani. Graded Sahih by al-Hakim, al-Dhahabi, and al-Albani (Sahih al-Jami 3114)."
+  },
+  {
+    "id": "quran-51-56",
+    "type": "quran",
+    "title": "Quran 51:56",
+    "creators": [],
+    "url": "https://quran.com/51/56",
+    "locator": "51:56",
+    "claim": "And I did not create the jinn and mankind except to worship Me.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 774,
+        "end_seconds": 777,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "الغاية الأساسية من خلقهم هي العبادة وما خلقت الجن والإنس إلا ليعبدون",
+        "excerpt_note": "Primary proof of moral accountability and free will in jinn."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 192,
+        "end_seconds": 210,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "يبحث فيها الا بمصادر الوحيده وهذا فصلناه في حلقه سابقه ارجو العوده اليها وقلنا انه يمكن ان تكون هناك مصادر معرفه ماخوذه حتى من غير المؤمنين ونكرر ايضا ان الجن",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      },
+      {
+        "episode_id": "lbX5IegGFTY",
+        "start_seconds": 2702,
+        "end_seconds": 2713,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "مع كل ما سبق الجنسان متساويان في التكليف ولو قلنا ايضا انه بعض الحيوانات ربما تكون مفضله على الانس في بعض المزايا كما قلنا عن الجن مثلا فلدينا مثلا قدرات عند",
+        "excerpt_note": "Exact normalized ASR anchor, first up to four segments of the stated discussion range; not corrected Arabic or a quotation from the independent source."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Quran 51:56 verified. The definitive theological basis for taklif across humans and jinn."
+  },
+  {
+    "id": "quran-72-11-14",
+    "type": "quran",
+    "title": "Quran 72:11–14",
+    "creators": [],
+    "url": "https://quran.com/72/11",
+    "locator": "72:11–14",
+    "claim": "And among us are the righteous, and among us are others; we were of divided ways... and among us are Muslims and among us are the unjust.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 778,
+        "end_seconds": 786,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وأن منا الصالحون ومنا دون ذلك كنا طرائق قددا... وأن منا المسلمون ومنا القاسطون",
+        "excerpt_note": "Direct testimony of the believing jinn recorded in revelation."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-Jinn 72:11, 14 verified."
+  },
+  {
+    "id": "e02-ibn-al-qayyim-categories",
+    "type": "scholarly-opinion",
+    "title": "Ibn al-Qayyim on the moral tiers of jinn",
+    "creators": [
+      "Ibn al-Qayyim"
+    ],
+    "url": "https://shamela.ws/book/11559/382",
+    "locator": "Tariq al-Hijratayn wa Bab al-Sa adatayn, pp. 382–383",
+    "claim": "Ibn al-Qayyim states that jinn are divided into three ranks just like humans: righteous, intermediate, and disbelievers.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 787,
+        "end_seconds": 797,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "فلذلك قال ابن القيم: هم ثلاث درجات مثل الإنس صالحين ودون الصالحين وكفار",
+        "excerpt_note": "Paraphrased from Tariq al-Hijratayn."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Primary locator verified in Tariq al-Hijratayn. Corroborates the parity of accountability between humans and jinn."
+  },
+  {
+    "id": "e02-tantawi-book",
+    "type": "book",
+    "title": "Ta rif Amm bi Din al-Islam by Ali al-Tantawi",
+    "creators": [
+      "Ali al-Tantawi"
+    ],
+    "url": "https://shamela.ws/book/8542/35",
+    "locator": "Ta rif Amm bi Din al-Islam, section on the unseen and angels/jinn, pp. 35–37",
+    "claim": "Sheikh Ali al-Tantawi s introductory book suggesting devils may have been created without choice, which the presenter critiques as anomalous.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 821,
+        "end_seconds": 833,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "هذا الرأي الشاذ نجده في كتاب مثلاً عند الشيخ علي الطنطاوي رحمه الله, كتاب اسمه تعريف عام بدين الإسلام",
+        "excerpt_note": "Critiqued for conflicting with Quran 51:56."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified locator in Tantawi s work. The presenter respectfully identifies this point as an isolated error derived from non-Islamic theological concepts."
+  },
+  {
+    "id": "e02-little-nicky",
+    "type": "film",
+    "title": "Little Nicky (2000 film)",
+    "creators": [
+      "Steven Brill",
+      "Adam Sandler"
+    ],
+    "url": "https://www.imdb.com/title/tt0185431/",
+    "locator": "New Line Cinema, 2000",
+    "claim": "Hollywood fantasy film portraying the devil and his progeny as rulers of the underworld interacting with humanity.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 907,
+        "end_seconds": 945,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في فيلم اسمه ليتل نيكي, فيلم صدر في هوليود في عام 2000, من بطولة آدم ساندلر... الشيطان يدخل في صراع مع أولاده",
+        "excerpt_note": "Cultural example of Western conception of devils as rulers of hell rather than prisoners in torment."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Film details and plot summary verified. Used to illustrate cultural misconceptions."
+  },
+  {
+    "id": "e02-hellboy",
+    "type": "film",
+    "title": "Hellboy (character and film)",
+    "creators": [
+      "Mike Mignola",
+      "Guillermo del Toro"
+    ],
+    "url": "https://www.imdb.com/title/tt0167190/",
+    "locator": "Columbia Pictures, 2004",
+    "claim": "Western fantasy depiction of a demon who fights on the side of good.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 958,
+        "end_seconds": 965,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "في شخصية أخرى مشهورة اسمها هيل بوي",
+        "excerpt_note": "Contrasting Western fallen angel lore with Islamic theology of voluntary moral agency."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Cultural reference verified."
+  },
+  {
+    "id": "e02-weak-hadith-jinn-species",
+    "type": "hadith",
+    "title": "Weak report claiming a third of jinn were created as devils subject to punishment",
+    "creators": [
+      "Muhammad Nasir al-Din al-Albani"
+    ],
+    "url": "https://dorar.net/h/j42kUvd5",
+    "locator": "Silsilat al-Ahadith al-Da ifah wa al-Mawdu ah #2921",
+    "claim": "Report claiming that one-third of jinn were created as devils upon whom punishment is inevitable.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1033,
+        "end_seconds": 1042,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "فلذلك هذا الحديث صنفه الألباني في سلسلة الأحاديث الضعيفة والموضوعة. ويتعارض مع الحديث الصحيح",
+        "excerpt_note": "Presenter cites al-Albani s grading to demonstrate that devils were not predestined to evil without choice."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Al-Albani designates this narration as Da if jiddan (very weak) in al-Da ifah #2921, noting it conflicts with authenticated reports and the Qur an."
+  },
+  {
+    "id": "quran-38-85",
+    "type": "quran",
+    "title": "Quran 38:84–85",
+    "creators": [],
+    "url": "https://quran.com/38/85",
+    "locator": "38:84–85",
+    "claim": "I will surely fill Hell with you and with those among them that follow you all together.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1054,
+        "end_seconds": 1061,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "قال فالحق والحق أقول لأملأن جهنم منك وممن تبعك منهم أجمعين",
+        "excerpt_note": "Proof that Iblis and his followers will be punished in the Fire."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah Sad 38:84–85 verified."
+  },
+  {
+    "id": "quran-14-22",
+    "type": "quran",
+    "title": "Quran 14:22",
+    "creators": [],
+    "url": "https://quran.com/14/22",
+    "locator": "14:22",
+    "claim": "Satan will say when the matter has been concluded: Indeed, Allah promised you the promise of truth... I had no authority over you except that I invited you, and you responded to me.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1062,
+        "end_seconds": 1082,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وقال الشيطان لما قضي الأمر إن الله وعدكم وعد الحق ووعدتكم فأخلفتكم وما كان لي عليكم من سلطان",
+        "excerpt_note": "Decisive proof that Iblis possesses no coercive power and is himself tormented."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah Ibrahim 14:22 verified."
+  },
+  {
+    "id": "quran-6-112",
+    "type": "quran",
+    "title": "Quran 6:112",
+    "creators": [],
+    "url": "https://quran.com/6/112",
+    "locator": "6:112",
+    "claim": "And thus We have made for every prophet an enemy—devils from mankind and jinn.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1095,
+        "end_seconds": 1102,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وكذلك جعلنا لكل نبي عدوًا شياطين الإنس والجن. فالشيطان وصف وهو لقب",
+        "excerpt_note": "Linguistic and theological explanation that shaytan is a functional descriptor of rebel transgressors."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-An am 6:112 verified."
+  },
+  {
+    "id": "e02-aqaad-iblis",
+    "type": "book",
+    "title": "Iblis by Abbas Mahmud al-Aqqad",
+    "creators": [
+      "Abbas Mahmud al-Aqqad"
+    ],
+    "url": "https://shamela.ws/book/7054",
+    "locator": "Iblis, Dar al-Ma arif, introductory linguistic studies",
+    "claim": "Al-Aqqad argues that Iblis is an ancient proper name found across multiple languages, rather than merely an Arabic derivation from ablasa.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1120,
+        "end_seconds": 1135,
+        "mention_kind": "spoken-or-alluded",
+        "raw_excerpt_ar": "العقاد في كتابه إبليس قال إنه وجد كلمة إبليس موجودة في كل أو في الكثير من اللغات والأديان السابقة",
+        "excerpt_note": "Presenter cites al-Aqqad in rejecting far-fetched Arabic etymologies for the proper noun Iblis."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Verified monograph by Egyptian literary scholar Abbas Mahmud al-Aqqad (published 1958)."
+  },
+  {
+    "id": "quran-50-23-27",
+    "type": "quran",
+    "title": "Quran 50:23, 27",
+    "creators": [],
+    "url": "https://quran.com/50/23",
+    "locator": "50:23, 27",
+    "claim": "And his companion will say: This is what is with me ready... His companion will say: Our Lord, I did not make him transgress, but he was in extreme error.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1224,
+        "end_seconds": 1230,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "وقال قرينه هذا ما لدي عتيد. قال قرينه ربنا ما أطغيته ولكن كان في ضلال بعيد",
+        "excerpt_note": "Scriptural foundation for the qarin."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah Qaf 50:23, 27 verified."
+  },
+  {
+    "id": "quran-43-36",
+    "type": "quran",
+    "title": "Quran 43:36",
+    "creators": [],
+    "url": "https://quran.com/43/36",
+    "locator": "43:36",
+    "claim": "And whoever turns away from the remembrance of the Most Merciful—We appoint for him a devil, so he becomes for him an intimate companion.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1230,
+        "end_seconds": 1235,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "ومن يعش عن ذكر الرحمن نقيض له شيطانًا فهو له قرين",
+        "excerpt_note": "Shows appointment of a devil companion as consequence of spiritual heedlessness."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-Zukhruf 43:36 verified."
+  },
+  {
+    "id": "muslim-2814a",
+    "type": "hadith",
+    "title": "Sahih Muslim 2814a: The appointment of the qarin",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2814a",
+    "locator": "Sahih Muslim 2814a (Kitab Sifat al-Qiyamah, hadith 69)",
+    "claim": "There is none among you but has been assigned his companion from among the jinn. They said: And you, O Messenger of Allah? He said: And me, but Allah helped me against him so he submitted (or: I am safe from him), and he commands me only to do good.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1324,
+        "end_seconds": 1332,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "ما منكم من أحد إلا وقد وكل به قرينه من الجن. قالوا وإياك يا رسول الله قال وإياي",
+        "excerpt_note": "Report of Ibn Mas ud directly cited."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Sahih Muslim 2814a verified. Demonstrates that the assignment of a companion does not compel a person nor does it mean the companion was created without choice."
+  },
+  {
+    "id": "muslim-2815",
+    "type": "hadith",
+    "title": "Sahih Muslim 2815: A ishah s question regarding the shaytan companion",
+    "creators": [
+      "Muslim ibn al-Hajjaj"
+    ],
+    "url": "https://sunnah.com/muslim:2815",
+    "locator": "Sahih Muslim 2815 (Kitab Sifat al-Qiyamah, hadith 70)",
+    "claim": "A ishah reports that when the Prophet asked if her shaytan had come to her, she inquired whether every person has a shaytan, and he confirmed it.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1332,
+        "end_seconds": 1342,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "حديث عائشة لما غارت عليه قال أقد جاءك شيطانك قالت يا رسول الله أو معي شيطان؟ قال نعم. قالت ومع كل إنسان؟ قال نعم.",
+        "excerpt_note": "Corroborates the universality of the trial."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Sahih Muslim 2815 verified."
+  },
+  {
+    "id": "quran-4-90",
+    "type": "quran",
+    "title": "Quran 4:90",
+    "creators": [],
+    "url": "https://quran.com/4/90",
+    "locator": "4:90",
+    "claim": "And if Allah had willed, He could have given them power over you, and they would have fought you.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1370,
+        "end_seconds": 1376,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "ولو شاء الله لسلطهم عليكم فلقاتلوكم",
+        "excerpt_note": "Explaining that divine enablement of adversaries is a testing framework, not an endorsement of evil."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah al-Nisa 4:90 verified."
+  },
+  {
+    "id": "quran-47-4",
+    "type": "quran",
+    "title": "Quran 47:4",
+    "creators": [],
+    "url": "https://quran.com/47/4",
+    "locator": "47:4",
+    "claim": "And if Allah had willed, He could have taken vengeance upon them, but [He intended] to test some of you by means of others.",
+    "mentions": [
+      {
+        "episode_id": "zyH4e-BOOks",
+        "start_seconds": 1379,
+        "end_seconds": 1385,
+        "mention_kind": "spoken",
+        "raw_excerpt_ar": "ولو يشاء الله لانتصر منهم ولكن ليبلو بعضكم ببعض",
+        "excerpt_note": "Divine wisdom behind allowing devils and opponents to test believers."
+      }
+    ],
+    "verification_status": "verified",
+    "support": "supports",
+    "checked_at": "2026-09-08",
+    "notes": "Surah Muhammad 47:4 verified."
+  }
+]

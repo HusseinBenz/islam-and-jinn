@@ -1,0 +1,28 @@
+{
+  "selected_videos": 23,
+  "core_videos": 21,
+  "total_duration_seconds": 74228,
+  "total_arabic_words": 187909,
+  "total_cues": 52661,
+  "captions_downloaded": 23,
+  "transcripts_normalized": 23,
+  "english_machine_drafts": 1,
+  "article_status_counts": {
+    "reference-review": 13,
+    "pending": 10
+  },
+  "description_source_links": 16,
+  "transcripts_with_reading_logged": 13,
+  "reference_records": 786,
+  "reference_status_counts": {
+    "verified": 285,
+    "extracted": 218,
+    "identified": 97,
+    "unresolved": 186
+  },
+  "references_flagged_for_recheck": 7,
+  "authored_english_translation_files": 4,
+  "authored_english_segments": 3598,
+  "complete_english_translation_drafts": 4,
+  "complete_reviewed_english_translations": 0
+}

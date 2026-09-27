@@ -1,0 +1,23 @@
+{
+  "channel_id": "UCyvk_lo0codsbB8oWL6xUBA",
+  "channel_url": "https://www.youtube.com/@al-sabeel",
+  "first_video": "GZRckyIXMBc",
+  "last_video": "Gv8vBol0EAU",
+  "captured_at": "2026-09-08T15:29:11+00:00",
+  "inventory_count": 250,
+  "window_count": 30,
+  "method": "Inclusive upload-position window in the channel Videos tab, oldest first. Metadata dates checked separately.",
+  "limits": "Videos-tab snapshot only; deleted/private uploads and live-only recordings cannot be inferred. Shorts are not enumerated.",
+  "date_from": "2026-05-26",
+  "date_to": "2026-08-24",
+  "playlist_url": "https://www.youtube.com/playlist?list=PLO7nbsS9Q8mGIU1XaSZXjaD5rBOn9OEma",
+  "playlist_title_ar": "عالم الجن",
+  "core_count": 21,
+  "selection_counts": {
+    "core": 21,
+    "companion": 1,
+    "excerpt": 1,
+    "excluded": 7
+  },
+  "playlist_warning": "yt-dlp reported incomplete playlist data after retries; 35 entries visible, including both boundaries and 21 in-window core entries. One unavailable older entry appears outside the boundary. Window selection corroborated against channel uploads."
+}

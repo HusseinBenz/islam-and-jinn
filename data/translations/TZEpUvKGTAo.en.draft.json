@@ -1,0 +1,2947 @@
+{
+  "schema_version": 1,
+  "episode_id": "TZEpUvKGTAo",
+  "language": "en",
+  "status": "complete-machine-assisted-draft",
+  "method": "Direct English translation of each normalized Arabic auto-caption by the editing assistant. Presenter claims retained as speech; research corrections recorded separately. No external translation service or audiovisual review.",
+  "created_at": "2026-09-16",
+  "source_segments_file": "data/transcripts/TZEpUvKGTAo/segments.ar.json",
+  "source_segments_sha256": "5eb9f67c375441d1469c28fbcd996f2b9e8d8ee8f7e07f951cc23195051ac9b1",
+  "source_srt_sha256": "0edd241b1df609b6182b1f7a683574f06bf20dbce763d22c67cc804e35ae2ded",
+  "complete": true,
+  "reviewed_at": null,
+  "segments": [
+    {
+      "source_segment_index": 0,
+      "text": "Peace be upon you. Planets and stars have"
+    },
+    {
+      "source_segment_index": 1,
+      "text": "historically been associated with astrology. Devils have been able",
+      "review_notes": "ASR التنجيد contextually repaired to astrology (التنجيم); check audio."
+    },
+    {
+      "source_segment_index": 2,
+      "text": "to mislead many people by linking their beliefs"
+    },
+    {
+      "source_segment_index": 3,
+      "text": "to stars and planets, drawing worship to themselves"
+    },
+    {
+      "source_segment_index": 4,
+      "text": "through astrology. But even meteors and meteorites,"
+    },
+    {
+      "source_segment_index": 5,
+      "text": "as well as comets, have acquired spiritual and religious associations,"
+    },
+    {
+      "source_segment_index": 6,
+      "text": "although meteors and meteorites have no fixed place",
+      "review_notes": "Presenter’s claim about fixed positions; not a technical astronomical definition."
+    },
+    {
+      "source_segment_index": 7,
+      "text": "to begin with. They are stones that fall to Earth"
+    },
+    {
+      "source_segment_index": 8,
+      "text": "or perhaps burn up in the sky, so they are not part of"
+    },
+    {
+      "source_segment_index": 9,
+      "text": "astrology. Nevertheless, they too have had"
+    },
+    {
+      "source_segment_index": 10,
+      "text": "many spiritual meanings throughout history. Indeed,"
+    },
+    {
+      "source_segment_index": 11,
+      "text": "what is remarkable is that many of these"
+    },
+    {
+      "source_segment_index": 12,
+      "text": "spiritual meanings are almost identical among different peoples,",
+      "review_notes": "Cross-cultural uniformity and lack of contact asserted without a comparative dataset."
+    },
+    {
+      "source_segment_index": 13,
+      "text": "even peoples living far apart who had"
+    },
+    {
+      "source_segment_index": 14,
+      "text": "no contact with one another. The prophets always"
+    },
+    {
+      "source_segment_index": 15,
+      "text": "sought to bring people back to the truth and"
+    },
+    {
+      "source_segment_index": 16,
+      "text": "to strip natural phenomena of the spiritual"
+    },
+    {
+      "source_segment_index": 17,
+      "text": "associations that came from devils."
+    },
+    {
+      "source_segment_index": 18,
+      "text": "Thus, in Islam too, the final form of"
+    },
+    {
+      "source_segment_index": 19,
+      "text": "infallible revelation, which remains preserved"
+    },
+    {
+      "source_segment_index": 20,
+      "text": "to this day, we find these beliefs corrected. In this"
+    },
+    {
+      "source_segment_index": 21,
+      "text": "episode, we will discuss the subject of"
+    },
+    {
+      "source_segment_index": 22,
+      "text": "meteorites and meteors, and the Islamic perspective:"
+    },
+    {
+      "source_segment_index": 23,
+      "text": "the correct view given by revelation. We will also examine"
+    },
+    {
+      "source_segment_index": 24,
+      "text": "these myths and spiritual associations"
+    },
+    {
+      "source_segment_index": 25,
+      "text": "among ancient peoples, by"
+    },
+    {
+      "source_segment_index": 26,
+      "text": "presenting and reviewing a documentary called"
+    },
+    {
+      "source_segment_index": 27,
+      "text": "Fireball: Visitors From Darker Worlds,",
+      "review_notes": "Film title repaired against Apple’s publisher record: Fireball: Visitors From Darker Worlds."
+    },
+    {
+      "source_segment_index": 28,
+      "text": "meaning fireballs and visitors arriving from dark worlds."
+    },
+    {
+      "source_segment_index": 29,
+      "text": "First, let us distinguish comets, meteors"
+    },
+    {
+      "source_segment_index": 30,
+      "text": "and meteorites. A comet is a large celestial body,"
+    },
+    {
+      "source_segment_index": 31,
+      "text": "smaller than an asteroid, of course, but larger than",
+      "review_notes": "Retains speaker’s universal size comparison; not accepted as a scientific classification."
+    },
+    {
+      "source_segment_index": 32,
+      "text": "a meteorite. It follows a fixed orbit, like a planet,"
+    },
+    {
+      "source_segment_index": 33,
+      "text": "around the Sun, or another star outside"
+    },
+    {
+      "source_segment_index": 34,
+      "text": "our solar system. The best-known comet is"
+    },
+    {
+      "source_segment_index": 35,
+      "text": "Halley. It has a fixed orbit and is a large mass"
+    },
+    {
+      "source_segment_index": 36,
+      "text": "of ice, rock and minerals. It approaches"
+    },
+    {
+      "source_segment_index": 37,
+      "text": "Earth approximately every eight years. Its distinguishing feature is that",
+      "review_notes": "Literal ASR reads eight years. NASA gives an average of 76 years for Halley; audio needed before correcting the speech translation."
+    },
+    {
+      "source_segment_index": 38,
+      "text": "it travels at tremendous speed, unlike ordinary",
+      "review_notes": "Rocket-like speed/tail explanation retained as speech; scientific mechanism not verified."
+    },
+    {
+      "source_segment_index": 39,
+      "text": "planets, and therefore has a long tail behind it,"
+    },
+    {
+      "source_segment_index": 40,
+      "text": "which makes it distinctive. There are also"
+    },
+    {
+      "source_segment_index": 41,
+      "text": "meteoroid fragments moving through outer space"
+    },
+    {
+      "source_segment_index": 42,
+      "text": "everywhere, in a range of sizes."
+    },
+    {
+      "source_segment_index": 43,
+      "text": "These have no fixed orbit. They are debris,",
+      "review_notes": "Retains no-fixed-orbit assertion; article avoids this inaccurate definition."
+    },
+    {
+      "source_segment_index": 44,
+      "text": "stones or rocks moving randomly. Of course,"
+    },
+    {
+      "source_segment_index": 45,
+      "text": "everything is within Allah's will and decree. They may approach"
+    },
+    {
+      "source_segment_index": 46,
+      "text": "Earth, and these are what concern us. As they approach"
+    },
+    {
+      "source_segment_index": 47,
+      "text": "the atmosphere and begin to penetrate it,"
+    },
+    {
+      "source_segment_index": 48,
+      "text": "they become visible and begin to burn as they",
+      "review_notes": "Repeated/garbled atmosphere syllable omitted; no substantive content added."
+    },
+    {
+      "source_segment_index": 49,
+      "text": "fall towards Earth under gravity. If"
+    },
+    {
+      "source_segment_index": 50,
+      "text": "most or all of the object burns up in space, it becomes a meteor:",
+      "review_notes": "Speaker’s space/atmosphere and complete-burnup terminology retained; article uses checked definitions."
+    },
+    {
+      "source_segment_index": 51,
+      "text": "a meteor that does not reach Earth. If it falls"
+    },
+    {
+      "source_segment_index": 52,
+      "text": "to Earth, however, it is called a meteorite."
+    },
+    {
+      "source_segment_index": 53,
+      "text": "The material that reaches Earth from these meteors,"
+    },
+    {
+      "source_segment_index": 54,
+      "text": "which we call meteorites, also varies in size. Much"
+    },
+    {
+      "source_segment_index": 55,
+      "text": "may burn away, leaving only a stone to fall."
+    },
+    {
+      "source_segment_index": 56,
+      "text": "It might be too small to see, like cosmic dust,"
+    },
+    {
+      "source_segment_index": 57,
+      "text": "or it might be a large rock. Historically, these have caused"
+    },
+    {
+      "source_segment_index": 58,
+      "text": "some disasters, but they are limited and very rare. Scientists"
+    },
+    {
+      "source_segment_index": 59,
+      "text": "also say that Earth receives"
+    },
+    {
+      "source_segment_index": 60,
+      "text": "between fourteen and one hundred tonnes each day of dust",
+      "review_notes": "14–100-tonne range retained; source for full range unknown. NASA page gives 44 metric tonnes."
+    },
+    {
+      "source_segment_index": 61,
+      "text": "from planets and comets. If you"
+    },
+    {
+      "source_segment_index": 62,
+      "text": "search online, you will find scientists looking for it,"
+    },
+    {
+      "source_segment_index": 63,
+      "text": "sometimes with simple tools such as magnets."
+    },
+    {
+      "source_segment_index": 64,
+      "text": "They discover this dust, and when it is examined"
+    },
+    {
+      "source_segment_index": 65,
+      "text": "under microscopes, they establish that it is not terrestrial,",
+      "review_notes": "Identification by microscopy/magnet claim unverified; no named experiment."
+    },
+    {
+      "source_segment_index": 66,
+      "text": "because the conditions under which it formed differ"
+    },
+    {
+      "source_segment_index": 67,
+      "text": "from those on Earth. Before recounting"
+    },
+    {
+      "source_segment_index": 68,
+      "text": "the history of different peoples and their spiritual interpretations"
+    },
+    {
+      "source_segment_index": 69,
+      "text": "of meteors and meteorites, let us begin by correcting"
+    },
+    {
+      "source_segment_index": 70,
+      "text": "the concept. How does Islam, through preserved revelation,"
+    },
+    {
+      "source_segment_index": 71,
+      "text": "view meteors and meteorites? There is indeed a spiritual function."
+    },
+    {
+      "source_segment_index": 72,
+      "text": "We do not say they are merely stones moving"
+    },
+    {
+      "source_segment_index": 73,
+      "text": "spontaneously, even within Allah's decree. There are"
+    },
+    {
+      "source_segment_index": 74,
+      "text": "spiritual functions: a direction from Allah,"
+    },
+    {
+      "source_segment_index": 75,
+      "text": "glorified and exalted, who created everything in"
+    },
+    {
+      "source_segment_index": 76,
+      "text": "this universe, for these meteors to fulfil an unseen function:"
+    },
+    {
+      "source_segment_index": 77,
+      "text": "striking devils that try to steal a hearing"
+    },
+    {
+      "source_segment_index": 78,
+      "text": "from heaven. We have clear verses in"
+    },
+    {
+      "source_segment_index": 79,
+      "text": "the Noble Qur'an affirming this function, including in"
+    },
+    {
+      "source_segment_index": 80,
+      "text": "Surah al-Saffat: We adorned the lowest heaven",
+      "review_notes": "Original English rendering of Quran 37:6–10, interwoven with presenter’s commentary through index 87; not a copied published translation."
+    },
+    {
+      "source_segment_index": 81,
+      "text": "with the adornment of the stars. The lowest heaven:"
+    },
+    {
+      "source_segment_index": 82,
+      "text": "there are seven heavens, and in some"
+    },
+    {
+      "source_segment_index": 83,
+      "text": "interpretations the lowest is Earth's atmosphere. And as protection from",
+      "review_notes": "Atmosphere interpretation is speaker’s unnamed view, not a gloss supplied by Quran 37:6."
+    },
+    {
+      "source_segment_index": 84,
+      "text": "every rebellious devil. Thus it is both adornment and protection. They cannot"
+    },
+    {
+      "source_segment_index": 85,
+      "text": "listen to the highest assembly, and are pelted from every"
+    },
+    {
+      "source_segment_index": 86,
+      "text": "side, driven away, with lasting punishment awaiting them; except one who snatches"
+    },
+    {
+      "source_segment_index": 87,
+      "text": "a hearing and is pursued by a piercing flame. The scholars all"
+    },
+    {
+      "source_segment_index": 88,
+      "text": "agree that this explains the hadiths",
+      "review_notes": "Universal agreement claim belongs to presenter; separate original scholarly sources pending."
+    },
+    {
+      "source_segment_index": 89,
+      "text": "that address the matter in detail. We will come"
+    },
+    {
+      "source_segment_index": 90,
+      "text": "to those hadiths. Ibn Abbas, may Allah be pleased with him, said"
+    },
+    {
+      "source_segment_index": 91,
+      "text": "that a meteor may not kill the devil. It may"
+    },
+    {
+      "source_segment_index": 92,
+      "text": "burn, derange or injure him without killing him.",
+      "review_notes": "تخبل / تخدج provisionally rendered derange/injure. Exact Ibn Abbas source, chain and vocalisation not inspected."
+    },
+    {
+      "source_segment_index": 93,
+      "text": "It may drive the devil mad, or"
+    },
+    {
+      "source_segment_index": 94,
+      "text": "at least wound and seriously injure him, without"
+    },
+    {
+      "source_segment_index": 95,
+      "text": "necessarily killing him. This may explain why they"
+    },
+    {
+      "source_segment_index": 96,
+      "text": "dare to try to steal a hearing: he may"
+    },
+    {
+      "source_segment_index": 97,
+      "text": "think he will probably escape, and that even if"
+    },
+    {
+      "source_segment_index": 98,
+      "text": "he is struck, the injury will not be fatal. In Surah"
+    },
+    {
+      "source_segment_index": 99,
+      "text": "al-Jinn too, when the jinn discovered that something"
+    },
+    {
+      "source_segment_index": 100,
+      "text": "new had happened in heaven, they began searching until they learned"
+    },
+    {
+      "source_segment_index": 101,
+      "text": "that the Prophet, peace and blessings be upon him, had been sent. They said:"
+    },
+    {
+      "source_segment_index": 102,
+      "text": "We reached towards heaven and found it filled with stern",
+      "review_notes": "Original rendering of Quran 72:8–9; preserve boundaries between quotation and commentary."
+    },
+    {
+      "source_segment_index": 103,
+      "text": "guards and flames. The commentators said that previously"
+    },
+    {
+      "source_segment_index": 104,
+      "text": "many jinn could ascend and steal a hearing"
+    },
+    {
+      "source_segment_index": 105,
+      "text": "from heaven. Then suddenly that news was cut off: whoever ascended",
+      "review_notes": "ASR السماء in steal-hearing context repaired semantically; audio needed."
+    },
+    {
+      "source_segment_index": 106,
+      "text": "was struck by a flame. They knew something had changed."
+    },
+    {
+      "source_segment_index": 107,
+      "text": "Therefore, when revelation began descending to the Prophet,",
+      "review_notes": "البحي contextually repaired to الوحي (revelation), also index 108."
+    },
+    {
+      "source_segment_index": 108,
+      "text": "peace and blessings be upon him, throughout the period of revelation until"
+    },
+    {
+      "source_segment_index": 109,
+      "text": "his death, heaven was closely guarded. There was",
+      "review_notes": "Duration and absolute exclusion until death retained as speaker’s interpretation, not established solely by the verse."
+    },
+    {
+      "source_segment_index": 110,
+      "text": "no longer any possibility for a devil to steal"
+    },
+    {
+      "source_segment_index": 111,
+      "text": "a hearing. This applied throughout the world, not only in"
+    },
+    {
+      "source_segment_index": 112,
+      "text": "Medina, or before that in"
+    },
+    {
+      "source_segment_index": 113,
+      "text": "Mecca. This ensured that revelation could not be"
+    },
+    {
+      "source_segment_index": 114,
+      "text": "penetrated or influenced, at least"
+    },
+    {
+      "source_segment_index": 115,
+      "text": "during that period, the period when the Noble Qur'an"
+    },
+    {
+      "source_segment_index": 116,
+      "text": "was being revealed. In Surah al-Hijr too: except one who steals",
+      "review_notes": "Quran 15:18 rendered independently across indices 116–117."
+    },
+    {
+      "source_segment_index": 117,
+      "text": "a hearing and is pursued by a clear flame. So these meteors have"
+    },
+    {
+      "source_segment_index": 118,
+      "text": "a function: preventing devils from stealing a hearing."
+    },
+    {
+      "source_segment_index": 119,
+      "text": "But not every meteor we observe with the naked",
+      "review_notes": "Important qualification: not every observed meteor is assigned a devil as target."
+    },
+    {
+      "source_segment_index": 120,
+      "text": "eye, or even through telescopes, must"
+    },
+    {
+      "source_segment_index": 121,
+      "text": "be striking an accursed devil. There are, for example,"
+    },
+    {
+      "source_segment_index": 122,
+      "text": "what are called meteor showers, a known"
+    },
+    {
+      "source_segment_index": 123,
+      "text": "phenomenon whose dates are known. Enthusiasts"
+    },
+    {
+      "source_segment_index": 124,
+      "text": "observe them and can see, on some nights,"
+    },
+    {
+      "source_segment_index": 125,
+      "text": "dozens of meteors falling. Some burn up"
+    },
+    {
+      "source_segment_index": 126,
+      "text": "in the sky, as meteors do, while others reach"
+    },
+    {
+      "source_segment_index": 127,
+      "text": "Earth and fall as meteorite stones. What is striking"
+    },
+    {
+      "source_segment_index": 128,
+      "text": "is that meteors have carried spiritual meanings throughout history,"
+    },
+    {
+      "source_segment_index": 129,
+      "text": "as we will see in this episode. Devils"
+    },
+    {
+      "source_segment_index": 130,
+      "text": "exploited this strange, frightening phenomenon"
+    },
+    {
+      "source_segment_index": 131,
+      "text": "to enslave human beings. We find this even among"
+    },
+    {
+      "source_segment_index": 132,
+      "text": "Arab peoples, when idolatry spread among them"
+    },
+    {
+      "source_segment_index": 133,
+      "text": "in the pre-Islamic age, before revelation returned"
+    },
+    {
+      "source_segment_index": 134,
+      "text": "through the Prophet, peace and blessings be upon him. He corrected"
+    },
+    {
+      "source_segment_index": 135,
+      "text": "this understanding, as all the prophets before"
+    },
+    {
+      "source_segment_index": 136,
+      "text": "him had done. In an authentic report in Sahih Muslim,"
+    },
+    {
+      "source_segment_index": 137,
+      "text": "the Prophet, peace and blessings be upon him, was sitting with some of"
+    },
+    {
+      "source_segment_index": 138,
+      "text": "the Ansar when a shooting star lit up the sky. The Messenger,"
+    },
+    {
+      "source_segment_index": 139,
+      "text": "peace and blessings be upon him, asked: What did you say"
+    },
+    {
+      "source_segment_index": 140,
+      "text": "in the pre-Islamic days when something like this was cast? They replied: We used to say,",
+      "review_notes": "Hadith retelling across 140–155; original Muslim 2229a inspected. The interviewee’s cultural comparison at 142–145 is presenter commentary."
+    },
+    {
+      "source_segment_index": 141,
+      "text": "a great man was born tonight, or a great man died tonight."
+    },
+    {
+      "source_segment_index": 142,
+      "text": "We will find precisely the same idea among peoples living"
+    },
+    {
+      "source_segment_index": 143,
+      "text": "very far away, in Australia and in North"
+    },
+    {
+      "source_segment_index": 144,
+      "text": "and Central America. Devils teach their followers the same"
+    },
+    {
+      "source_segment_index": 145,
+      "text": "myths with slight variations. The Messenger of Allah,"
+    },
+    {
+      "source_segment_index": 146,
+      "text": "peace and blessings be upon him, said: They are not"
+    },
+    {
+      "source_segment_index": 147,
+      "text": "cast because of anyone's death or life. Rather, when our Lord, blessed"
+    },
+    {
+      "source_segment_index": 148,
+      "text": "and exalted, decrees a matter, the bearers of the Throne glorify Him, then"
+    },
+    {
+      "source_segment_index": 149,
+      "text": "those near them glorify Him,",
+      "review_notes": "Garbled سبحونهم reconstructed from context and Muslim 2229a; requires audio check."
+    },
+    {
+      "source_segment_index": 150,
+      "text": "until that glorification reaches the inhabitants of the lowest heaven. Those"
+    },
+    {
+      "source_segment_index": 151,
+      "text": "nearest the bearers of the Throne ask: What has your Lord said?"
+    },
+    {
+      "source_segment_index": 152,
+      "text": "They tell them, and the inhabitants of the heavens tell one another,"
+    },
+    {
+      "source_segment_index": 153,
+      "text": "until the news reaches the lowest heaven. The jinn snatch it"
+    },
+    {
+      "source_segment_index": 154,
+      "text": "and convey it to their allies, meaning those",
+      "review_notes": "ASR split allies repaired; explanatory meaning those below is presenter’s gloss."
+    },
+    {
+      "source_segment_index": 155,
+      "text": "below them, and are pelted. What they bring accurately"
+    },
+    {
+      "source_segment_index": 156,
+      "text": "is true, but they—the human soothsayers—",
+      "review_notes": "Human-soothsayer identification is presenter commentary, not silently attributed to every word of Muslim 2229a."
+    },
+    {
+      "source_segment_index": 157,
+      "text": "mix it with falsehood and add to it. That is, these"
+    },
+    {
+      "source_segment_index": 158,
+      "text": "soothsayers lie about it, inserting falsehood into"
+    },
+    {
+      "source_segment_index": 159,
+      "text": "the true words they heard. They mix it up and generally do not leave it"
+    },
+    {
+      "source_segment_index": 160,
+      "text": "as it was, continually adding further lies"
+    },
+    {
+      "source_segment_index": 161,
+      "text": "to it. Consult al-Nawawi's commentary for the explanation. So",
+      "review_notes": "ASR صحيح النووي repaired to al-Nawawi’s commentary; exact commentary passage remains uninspected."
+    },
+    {
+      "source_segment_index": 162,
+      "text": "they generally add lies and alter the account."
+    },
+    {
+      "source_segment_index": 163,
+      "text": "Why, when they already have news from heaven?"
+    },
+    {
+      "source_segment_index": 164,
+      "text": "Because what the jinn is usually able to overhear"
+    },
+    {
+      "source_segment_index": 165,
+      "text": "is a small piece of information, a single word about"
+    },
+    {
+      "source_segment_index": 166,
+      "text": "the fate of something, before the flame is cast at him. To"
+    },
+    {
+      "source_segment_index": 167,
+      "text": "turn it into a complete story, the soothsayer adds"
+    },
+    {
+      "source_segment_index": 168,
+      "text": "details of his own."
+    },
+    {
+      "source_segment_index": 169,
+      "text": "Let us now begin our review of the documentary"
+    },
+    {
+      "source_segment_index": 170,
+      "text": "Fireball, produced in 2020. It is an excellent documentary"
+    },
+    {
+      "source_segment_index": 171,
+      "text": "whose makers travelled to several places around the world"
+    },
+    {
+      "source_segment_index": 172,
+      "text": "to record people's accounts and myths, as well as"
+    },
+    {
+      "source_segment_index": 173,
+      "text": "the scientific perspective. Strikingly, they began"
+    },
+    {
+      "source_segment_index": 174,
+      "text": "immediately with Islam, but from a distorted Orientalist"
+    },
+    {
+      "source_segment_index": 175,
+      "text": "perspective. They said at the outset that meteorites changed"
+    },
+    {
+      "source_segment_index": 176,
+      "text": "the cultures of peoples, including Islamic culture. To"
+    },
+    {
+      "source_segment_index": 177,
+      "text": "quote their account in the film: God sent a stone",
+      "review_notes": "Embedded documentary wording translated through Arabic retelling; original film transcript not inspected, so not an authenticated English quotation."
+    },
+    {
+      "source_segment_index": 178,
+      "text": "from heaven to show Adam and Eve where to build"
+    },
+    {
+      "source_segment_index": 179,
+      "text": "an altar. It fell at the place where Mecca was subsequently built,"
+    },
+    {
+      "source_segment_index": 180,
+      "text": "where this meteorite landed. I searched for any story"
+    },
+    {
+      "source_segment_index": 181,
+      "text": "of this kind, even among the Israelite traditions,"
+    },
+    {
+      "source_segment_index": 182,
+      "text": "in books of the Islamic heritage,"
+    },
+    {
+      "source_segment_index": 183,
+      "text": "and found no trace of it. Some commentators mention just one account:",
+      "review_notes": "Preserves presenter’s claim of unsuccessful search, not an exhaustive literature audit by the editor."
+    },
+    {
+      "source_segment_index": 184,
+      "text": "when Adam felt lonely because there was no one else"
+    },
+    {
+      "source_segment_index": 185,
+      "text": "on Earth, Allah sent him the Black"
+    },
+    {
+      "source_segment_index": 186,
+      "text": "Stone, so that he could build the Kaaba with it and find comfort in it."
+    },
+    {
+      "source_segment_index": 187,
+      "text": "The Black Stone is a stone from Paradise, as we will discuss"
+    },
+    {
+      "source_segment_index": 188,
+      "text": "later; that is certain. But there is no indication"
+    },
+    {
+      "source_segment_index": 189,
+      "text": "that it fell from the sky in the sense of"
+    },
+    {
+      "source_segment_index": 190,
+      "text": "a meteorite. Then the filmmaker says they do not allow"
+    },
+    {
+      "source_segment_index": 191,
+      "text": "this stone—the Black Stone—to be analysed."
+    },
+    {
+      "source_segment_index": 192,
+      "text": "He is referring to the Saudi authorities. Yet it is almost"
+    },
+    {
+      "source_segment_index": 193,
+      "text": "certainly a meteorite, he says. Again, if you search"
+    },
+    {
+      "source_segment_index": 194,
+      "text": "the scientific literature, you will find nothing confirming that."
+    },
+    {
+      "source_segment_index": 195,
+      "text": "We will return to this. Our answer comes from revelation."
+    },
+    {
+      "source_segment_index": 196,
+      "text": "Abu Dharr, may Allah be pleased with him, asked: Messenger of Allah, which"
+    },
+    {
+      "source_segment_index": 197,
+      "text": "mosque was established first on Earth? He replied: al-Masjid"
+    },
+    {
+      "source_segment_index": 198,
+      "text": "al-Haram. Then he asked which came next: al-Masjid"
+    },
+    {
+      "source_segment_index": 199,
+      "text": "al-Aqsa, and so on. This is in Sahih al-Bukhari"
+    },
+    {
+      "source_segment_index": 200,
+      "text": "and Muslim. We also have in the Noble Qur'an: the"
+    },
+    {
+      "source_segment_index": 201,
+      "text": "first House established for humanity is the one at Bakkah. Here too,",
+      "review_notes": "Caption مكة normalised to Bakkah when rendering identified Quran 3:96; check the spoken recitation."
+    },
+    {
+      "source_segment_index": 202,
+      "text": "the commentators transmitted accounts, although these may not"
+    },
+    {
+      "source_segment_index": 203,
+      "text": "be authentic or established. Among them is an account that Allah,",
+      "review_notes": "Important uncertainty: presenter explicitly says these historical reports may not be sound."
+    },
+    {
+      "source_segment_index": 204,
+      "text": "glorified and exalted, created the first House, the Kaaba,"
+    },
+    {
+      "source_segment_index": 205,
+      "text": "two thousand years before creating Earth. Earth was then spread out"
+    },
+    {
+      "source_segment_index": 206,
+      "text": "from it: it was the first thing to appear on Earth."
+    },
+    {
+      "source_segment_index": 207,
+      "text": "There is also an account from Ali ibn al-Husayn that Allah"
+    },
+    {
+      "source_segment_index": 208,
+      "text": "placed a House beneath the Throne, the Frequented"
+    },
+    {
+      "source_segment_index": 209,
+      "text": "House, and commanded the angels to circle it. He then"
+    },
+    {
+      "source_segment_index": 210,
+      "text": "commanded that a counterpart be made on Earth: the Kaaba."
+    },
+    {
+      "source_segment_index": 211,
+      "text": "He commanded them to circle it too, before creating"
+    },
+    {
+      "source_segment_index": 212,
+      "text": "Adam, peace be upon him. Now to the most important question:"
+    },
+    {
+      "source_segment_index": 213,
+      "text": "is the Black Stone a meteorite that fell to Earth?"
+    },
+    {
+      "source_segment_index": 214,
+      "text": "The answer is certainly and unequivocally no. It is a stone from Paradise.",
+      "review_notes": "Categorical rejection retained as speaker’s theological conclusion; not an independently established mineralogical test."
+    },
+    {
+      "source_segment_index": 215,
+      "text": "Among the established hadiths we have is, for example,"
+    },
+    {
+      "source_segment_index": 216,
+      "text": "al-Tirmidhi's report from Ibn Abbas that the Prophet,"
+    },
+    {
+      "source_segment_index": 217,
+      "text": "peace and blessings be upon him, said: The Black Stone descended from",
+      "review_notes": "Hadith rendering across 217–222; Tirmidhi 877 checked, snow variant and additional collection references remain separate tasks."
+    },
+    {
+      "source_segment_index": 218,
+      "text": "Paradise, whiter than milk, and was darkened by"
+    },
+    {
+      "source_segment_index": 219,
+      "text": "the sins of Adam's children. Another version says: The Black"
+    },
+    {
+      "source_segment_index": 220,
+      "text": "Stone is from Paradise and was whiter than snow,"
+    },
+    {
+      "source_segment_index": 221,
+      "text": "until the sins of the polytheists darkened it. It was transmitted by al-Tirmidhi,"
+    },
+    {
+      "source_segment_index": 222,
+      "text": "al-Nasai, Ahmad and Ibn Khuzayma, and authenticated by al-Albani.",
+      "review_notes": "Collection and al-Albani grading attribution not all independently checked."
+    },
+    {
+      "source_segment_index": 223,
+      "text": "There is also a report in al-Tabarani and al-Bayhaqi: The Black"
+    },
+    {
+      "source_segment_index": 224,
+      "text": "Stone is one of the stones of Paradise. This was also authenticated by"
+    },
+    {
+      "source_segment_index": 225,
+      "text": "al-Albani. Another hadith says: The Corner and the Maqam"
+    },
+    {
+      "source_segment_index": 226,
+      "text": "are two jewels from the jewels of Paradise. The Corner means the Black"
+    },
+    {
+      "source_segment_index": 227,
+      "text": "Stone, and the Maqam is the station of Ibrahim,"
+    },
+    {
+      "source_segment_index": 228,
+      "text": "peace be upon him: the stone on which he stood to build"
+    },
+    {
+      "source_segment_index": 229,
+      "text": "the Kaaba. It is still preserved and bears the marks of the Prophet"
+    },
+    {
+      "source_segment_index": 230,
+      "text": "Ibrahim, peace and blessings be upon him. This hadith was transmitted by"
+    },
+    {
+      "source_segment_index": 231,
+      "text": "al-Hakim in al-Mustadrak, Ibn Hibban in his Sahih,"
+    },
+    {
+      "source_segment_index": 232,
+      "text": "and al-Bayhaqi. Another hadith also says: The Corner and the Maqam"
+    },
+    {
+      "source_segment_index": 233,
+      "text": "are two jewels of Paradise. Allah extinguished their light,",
+      "review_notes": "تمص repaired to طمس from Tirmidhi 878. That edition displays weak grading and notes a companion-level transmission."
+    },
+    {
+      "source_segment_index": 234,
+      "text": "and had He not extinguished it, they would have illuminated everything between east"
+    },
+    {
+      "source_segment_index": 235,
+      "text": "and west. Ahmad, al-Tirmidhi and Ibn Khuzayma transmitted it in"
+    },
+    {
+      "source_segment_index": 236,
+      "text": "his Sahih, and al-Albani authenticated a similar",
+      "review_notes": "Retains presenter’s authentication claims; do not replace displayed weak grade in separate article/source record."
+    },
+    {
+      "source_segment_index": 237,
+      "text": "version. Al-Bayhaqi also transmitted it, and its chain was authenticated by"
+    },
+    {
+      "source_segment_index": 238,
+      "text": "al-Nawawi and al-Albani. There is also a report from"
+    },
+    {
+      "source_segment_index": 239,
+      "text": "Ibn Umar: Jibril, peace be upon him, brought the stone down from",
+      "review_notes": "ASR Ibn Umar retained; matching secondary/Tabarani leads name Abdullah ibn Amr. Narrator and wording need original-source/audio review."
+    },
+    {
+      "source_segment_index": 240,
+      "text": "Paradise and placed it where you see it. You will remain"
+    },
+    {
+      "source_segment_index": 241,
+      "text": "well as long as it remains among you, so benefit from it"
+    },
+    {
+      "source_segment_index": 242,
+      "text": "as much as you can, for he—meaning Jibril—may soon come"
+    },
+    {
+      "source_segment_index": 243,
+      "text": "and take it back to where he brought it from. The chain of this report",
+      "review_notes": "Corrupt ending contextually rendered take it back to where he brought it from; source wording and chain still pending."
+    },
+    {
+      "source_segment_index": 244,
+      "text": "is graded hasan. Its significance is that, if established from a companion,",
+      "review_notes": "حسن rendered hasan as a grading term. Companion-level report is not automatically a verbatim prophetic statement; preserve presenter’s reasoning."
+    },
+    {
+      "source_segment_index": 245,
+      "text": "it carries the force of a prophetic report, because he would not invent it himself,"
+    },
+    {
+      "source_segment_index": 246,
+      "text": "may Allah be pleased with him. Who said it was a meteorite? The first"
+    },
+    {
+      "source_segment_index": 247,
+      "text": "to propose this was Paul Partsch, one of the scholars",
+      "review_notes": "Paul Partsch is a provisional repair of بول باتريتش from bibliographic leads; original 1857 paper not read."
+    },
+    {
+      "source_segment_index": 248,
+      "text": "of the Austro-Hungarian Empire,",
+      "review_notes": "Austro-Hungarian political label retained from apparent ASR; historical chronology needs checking."
+    },
+    {
+      "source_segment_index": 249,
+      "text": "who wrote a report to that effect in"
+    },
+    {
+      "source_segment_index": 250,
+      "text": "1857."
+    },
+    {
+      "source_segment_index": 251,
+      "text": "Several subsequent studies attempted to analyse"
+    },
+    {
+      "source_segment_index": 252,
+      "text": "the evidence they had concerning this stone, but there is"
+    },
+    {
+      "source_segment_index": 253,
+      "text": "no conclusive proof. One of the later examples, in 1980,"
+    },
+    {
+      "source_segment_index": 254,
+      "text": "was a study suggesting it might be",
+      "review_notes": "1980 claim retained as speech. Thomsen abstract actually proposes impactite glass; full paper not inspected."
+    },
+    {
+      "source_segment_index": 255,
+      "text": "a meteorite from stones found in the Empty Quarter,"
+    },
+    {
+      "source_segment_index": 256,
+      "text": "thought to have fallen there around six thousand years"
+    },
+    {
+      "source_segment_index": 257,
+      "text": "ago. Some linked these remains, or these"
+    },
+    {
+      "source_segment_index": 258,
+      "text": "meteorites, with the people of Ad. We do not actually know where",
+      "review_notes": "Corrupted قوم عاد contextually repaired to people of Ad. Not a verified Wabar association."
+    },
+    {
+      "source_segment_index": 259,
+      "text": "they lived, even if some consider it likely"
+    },
+    {
+      "source_segment_index": 260,
+      "text": "that they lived in the Empty Quarter. There is no connection"
+    },
+    {
+      "source_segment_index": 261,
+      "text": "established between the two. We know that the Kaaba has existed"
+    },
+    {
+      "source_segment_index": 262,
+      "text": "since Adam's time, peace be upon him. Thus there is no",
+      "review_notes": "Kaaba/Adam chronology and exhaustive absence-of-evidence claim retained as speaker’s assertions."
+    },
+    {
+      "source_segment_index": 263,
+      "text": "archaeological evidence, or even any geological"
+    },
+    {
+      "source_segment_index": 264,
+      "text": "study, establishing that this stone is a meteorite."
+    },
+    {
+      "source_segment_index": 265,
+      "text": "Even if a similarity between the composition of this"
+    },
+    {
+      "source_segment_index": 266,
+      "text": "stone and other meteorites were demonstrated, that would in no way"
+    },
+    {
+      "source_segment_index": 267,
+      "text": "prove it was a meteorite. We believe revelation, and we see"
+    },
+    {
+      "source_segment_index": 268,
+      "text": "no rational obstacle to its having descended"
+    },
+    {
+      "source_segment_index": 269,
+      "text": "from Paradise."
+    },
+    {
+      "source_segment_index": 270,
+      "text": "Returning to the documentary, it next travels"
+    },
+    {
+      "source_segment_index": 271,
+      "text": "to Australia to present important places"
+    },
+    {
+      "source_segment_index": 272,
+      "text": "where meteorites fell and were worshipped or associated"
+    },
+    {
+      "source_segment_index": 273,
+      "text": "with spiritual ideas. In Australia there is a place called"
+    },
+    {
+      "source_segment_index": 274,
+      "text": "Wolfe Creek Crater. It is a large hole or",
+      "review_notes": "Wolfe Creek Crater name repaired; stray trailing ASR syllable omitted."
+    },
+    {
+      "source_segment_index": 275,
+      "text": "depression thought to have been struck by a huge meteorite"
+    },
+    {
+      "source_segment_index": 276,
+      "text": "about 150,000 years ago. The site was discovered by chance",
+      "review_notes": "150,000-year figure retained as speech; research team’s 2019 account gives about 120,000."
+    },
+    {
+      "source_segment_index": 277,
+      "text": "from aircraft in 1947. The important point is that the Indigenous people",
+      "review_notes": "1947 outsider discovery claim does not mean first human knowledge; date itself not independently checked."
+    },
+    {
+      "source_segment_index": 278,
+      "text": "of the region connected this event"
+    },
+    {
+      "source_segment_index": 279,
+      "text": "with myths. Strikingly, their descendants, who live in"
+    },
+    {
+      "source_segment_index": 280,
+      "text": "the surrounding desert area, now earn their living"
+    },
+    {
+      "source_segment_index": 281,
+      "text": "from just one activity: painting pictures",
+      "review_notes": "Only source of livelihood generalisation is unverified, omitted from article."
+    },
+    {
+      "source_segment_index": 282,
+      "text": "that evoke these myths about the crater."
+    },
+    {
+      "source_segment_index": 283,
+      "text": "The filmmaker interviewed one of the women artists"
+    },
+    {
+      "source_segment_index": 284,
+      "text": "and asked for her account. She said: The white people"
+    },
+    {
+      "source_segment_index": 285,
+      "text": "who came from Britain to occupy Australia have"
+    },
+    {
+      "source_segment_index": 286,
+      "text": "an account in which a star fell from the sky. But"
+    },
+    {
+      "source_segment_index": 287,
+      "text": "our ancestors said it was the Rainbow Serpent that",
+      "review_notes": "Reported artist wording through presenter only. DBCA records several stories, including a snake emerging from ground and a falling star."
+    },
+    {
+      "source_segment_index": 288,
+      "text": "fell into this crater and left this mark."
+    },
+    {
+      "source_segment_index": 289,
+      "text": "She said: We take our children to visit this place"
+    },
+    {
+      "source_segment_index": 290,
+      "text": "at seasonal festivals and feel our ancestors' spirits"
+    },
+    {
+      "source_segment_index": 291,
+      "text": "there. This brings us back to what we discussed in"
+    },
+    {
+      "source_segment_index": 292,
+      "text": "previous episodes about jinn, and specifically the devils among them,"
+    },
+    {
+      "source_segment_index": 293,
+      "text": "who present themselves"
+    },
+    {
+      "source_segment_index": 294,
+      "text": "to these peoples as the spirits of gods or"
+    },
+    {
+      "source_segment_index": 295,
+      "text": "of deceased ancestors. The film then travels"
+    },
+    {
+      "source_segment_index": 296,
+      "text": "to France, specifically to the town of"
+    },
+    {
+      "source_segment_index": 297,
+      "text": "Ensisheim. In this town, on 7 November",
+      "review_notes": "Ensisheim name repaired using independently checked museum source."
+    },
+    {
+      "source_segment_index": 298,
+      "text": "1492,"
+    },
+    {
+      "source_segment_index": 299,
+      "text": "during the period considered the transition"
+    },
+    {
+      "source_segment_index": 300,
+      "text": "between the Middle Ages and the modern era,"
+    },
+    {
+      "source_segment_index": 301,
+      "text": "when Christianity prevailed, a huge fireball"
+    },
+    {
+      "source_segment_index": 302,
+      "text": "fell in the fields, witnessed by the people."
+    },
+    {
+      "source_segment_index": 303,
+      "text": "What is striking is that this was only a few days",
+      "review_notes": "Before-Columbus chronology retained as speech; historical ordering needs review, not used in article."
+    },
+    {
+      "source_segment_index": 304,
+      "text": "before Columbus reached the new land,"
+    },
+    {
+      "source_segment_index": 305,
+      "text": "later regarded as a promised land. Also,"
+    },
+    {
+      "source_segment_index": 306,
+      "text": "and more importantly, it fell near the headquarters"
+    },
+    {
+      "source_segment_index": 307,
+      "text": "of the Austrian forces, and two weeks before",
+      "review_notes": "Two-week interval retained; museum gives 7 November fall and 26 November visit."
+    },
+    {
+      "source_segment_index": 308,
+      "text": "their commander arrived to impose"
+    },
+    {
+      "source_segment_index": 309,
+      "text": "his authority there. This area, part"
+    },
+    {
+      "source_segment_index": 310,
+      "text": "of Alsace, belonged to the territories of the"
+    },
+    {
+      "source_segment_index": 311,
+      "text": "Austrian Habsburg family at the time and had been"
+    },
+    {
+      "source_segment_index": 312,
+      "text": "taken from France. The meteorite's fall was"
+    },
+    {
+      "source_segment_index": 313,
+      "text": "a tremendous gift to the Austrian army, allowing it to construct"
+    },
+    {
+      "source_segment_index": 314,
+      "text": "a Christian religious legend around it. It is said that"
+    },
+    {
+      "source_segment_index": 315,
+      "text": "the Austrian king, Maximilian I, gathered his advisers,",
+      "review_notes": "Title and extent of political claims not all checked; museum supports pamphlet use and church preservation order."
+    },
+    {
+      "source_segment_index": 316,
+      "text": "and they issued an official decision declaring that this"
+    },
+    {
+      "source_segment_index": 317,
+      "text": "stone was a divine message from heaven, heralding"
+    },
+    {
+      "source_segment_index": 318,
+      "text": "success in his wars against his enemies in France"
+    },
+    {
+      "source_segment_index": 319,
+      "text": "and later the Ottoman state. This Maximilian"
+    },
+    {
+      "source_segment_index": 320,
+      "text": "subsequently became ruler of the"
+    },
+    {
+      "source_segment_index": 321,
+      "text": "Holy Roman Empire. People accepted"
+    },
+    {
+      "source_segment_index": 322,
+      "text": "the legend. After printed leaflets were distributed,"
+    },
+    {
+      "source_segment_index": 323,
+      "text": "they became convinced it really was a message"
+    },
+    {
+      "source_segment_index": 324,
+      "text": "from heaven telling them that whoever resisted"
+    },
+    {
+      "source_segment_index": 325,
+      "text": "the Austrian army would be punished by further"
+    },
+    {
+      "source_segment_index": 326,
+      "text": "huge meteorites that would burn them. They"
+    },
+    {
+      "source_segment_index": 327,
+      "text": "[Clears throat] distributed poems alongside these leaflets,",
+      "review_notes": "Keeps explicit throat-clearing cue while repairing leaflet ASR spelling."
+    },
+    {
+      "source_segment_index": 328,
+      "text": "which ordinary people could also"
+    },
+    {
+      "source_segment_index": 329,
+      "text": "understand. Maximilian did not stop there: he"
+    },
+    {
+      "source_segment_index": 330,
+      "text": "placed pieces of the stone that survived"
+    },
+    {
+      "source_segment_index": 331,
+      "text": "in the town's church and forbade residents"
+    },
+    {
+      "source_segment_index": 332,
+      "text": "from taking any fragments they might find"
+    },
+    {
+      "source_segment_index": 333,
+      "text": "at the meteorite's landing site, because he had invested it"
+    },
+    {
+      "source_segment_index": 334,
+      "text": "with sacred meaning. This legend is said"
+    },
+    {
+      "source_segment_index": 335,
+      "text": "to have persuaded Christians successfully. Strikingly,"
+    },
+    {
+      "source_segment_index": 336,
+      "text": "Christianity itself has no texts linking",
+      "review_notes": "Sweeping absence-of-Christian-text assertion unverified and omitted from article."
+    },
+    {
+      "source_segment_index": 337,
+      "text": "these meteorites and meteors with any such meaning."
+    },
+    {
+      "source_segment_index": 338,
+      "text": "But when this comes through orders from a church"
+    },
+    {
+      "source_segment_index": 339,
+      "text": "controlled by an emperor who considers himself"
+    },
+    {
+      "source_segment_index": 340,
+      "text": "sacred, myths can spread and"
+    },
+    {
+      "source_segment_index": 341,
+      "text": "dominate people's minds. Even"
+    },
+    {
+      "source_segment_index": 342,
+      "text": "his army's morale rose considerably. They regarded it"
+    },
+    {
+      "source_segment_index": 343,
+      "text": "as a message from Christ, whom they regarded as"
+    },
+    {
+      "source_segment_index": 344,
+      "text": "God, promising protection and victory. Thus"
+    },
+    {
+      "source_segment_index": 345,
+      "text": "this meteorite is still considered one of the things"
+    },
+    {
+      "source_segment_index": 346,
+      "text": "that changed the course of history. The film next moves"
+    },
+    {
+      "source_segment_index": 347,
+      "text": "to India, where we see a temple built at"
+    },
+    {
+      "source_segment_index": 348,
+      "text": "a meteorite crater in the tenth century CE. The temple"
+    },
+    {
+      "source_segment_index": 349,
+      "text": "is called Bhand Devra Temple, and it was built specifically",
+      "review_notes": "Bhand Devra name repaired from official Rajasthan entry."
+    },
+    {
+      "source_segment_index": 350,
+      "text": "for the worship of their deity Shiva and his wife,"
+    },
+    {
+      "source_segment_index": 351,
+      "text": "Parvati. It is a temple of the tradition"
+    },
+    {
+      "source_segment_index": 352,
+      "text": "called Tantra. Interestingly, when the filmmaker interviewed",
+      "review_notes": "Tantra classification and interview speaker’s identity not independently checked."
+    },
+    {
+      "source_segment_index": 353,
+      "text": "a woman scientist, she said there was a symbolism"
+    },
+    {
+      "source_segment_index": 354,
+      "text": "of the universe's cycles of creation and destruction in the choice"
+    },
+    {
+      "source_segment_index": 355,
+      "text": "of this place. Tantra is based on the idea"
+    },
+    {
+      "source_segment_index": 356,
+      "text": "of renewed creation through life's cycles, and Shiva,"
+    },
+    {
+      "source_segment_index": 357,
+      "text": "for them, is the god of death and destruction."
+    },
+    {
+      "source_segment_index": 358,
+      "text": "Choosing this place means they believe"
+    },
+    {
+      "source_segment_index": 359,
+      "text": "that a meteorite carries the cycle of life"
+    },
+    {
+      "source_segment_index": 360,
+      "text": "and death. She says that, through analysing the"
+    },
+    {
+      "source_segment_index": 361,
+      "text": "impact site, meteorites always carry",
+      "review_notes": "Always carrying organic molecules and subsequent-life claim unverified; organic material is not itself living organisms."
+    },
+    {
+      "source_segment_index": 362,
+      "text": "organic molecules that later play a role"
+    },
+    {
+      "source_segment_index": 363,
+      "text": "in renewing the cycle of life. When a meteorite"
+    },
+    {
+      "source_segment_index": 364,
+      "text": "falls, it destroys life at that place and causes an immense"
+    },
+    {
+      "source_segment_index": 365,
+      "text": "explosion. At the same time, however, it carries"
+    },
+    {
+      "source_segment_index": 366,
+      "text": "organic molecules through which life can later spread"
+    },
+    {
+      "source_segment_index": 367,
+      "text": "again. This is striking even among"
+    },
+    {
+      "source_segment_index": 368,
+      "text": "ancient peoples who understood none"
+    },
+    {
+      "source_segment_index": 369,
+      "text": "of these sciences. Through devils, who had"
+    },
+    {
+      "source_segment_index": 370,
+      "text": "more knowledge than they did, they were able to spread"
+    },
+    {
+      "source_segment_index": 371,
+      "text": "this idea. The temple was built on that philosophy,"
+    },
+    {
+      "source_segment_index": 372,
+      "text": "in that very place: death and destruction, followed by the return"
+    },
+    {
+      "source_segment_index": 373,
+      "text": "of life, could occur there. But this"
+    },
+    {
+      "source_segment_index": 374,
+      "text": "first requires you to worship Shiva, one of",
+      "review_notes": "Deity-as-devil identification is presenter’s theological interpretation, not an empirical identification or a claim about adherents’ humanity."
+    },
+    {
+      "source_segment_index": 375,
+      "text": "the devils, and his wife, also a devil, so that"
+    },
+    {
+      "source_segment_index": 376,
+      "text": "you become more attached to them and they restore your life."
+    },
+    {
+      "source_segment_index": 377,
+      "text": "Even if the devil himself represents destruction, there is"
+    },
+    {
+      "source_segment_index": 378,
+      "text": "his wife, who will restore life to you. In the film,"
+    },
+    {
+      "source_segment_index": 379,
+      "text": "we also see a Hindu priest"
+    },
+    {
+      "source_segment_index": 380,
+      "text": "bowing to spirits at the lake"
+    },
+    {
+      "source_segment_index": 381,
+      "text": "formed where the meteorite fell. We have explained"
+    },
+    {
+      "source_segment_index": 382,
+      "text": "in several earlier episodes that all these spirits"
+    },
+    {
+      "source_segment_index": 383,
+      "text": "worshipped at these peoples' sacred places"
+    },
+    {
+      "source_segment_index": 384,
+      "text": "are devils. The film then travels"
+    },
+    {
+      "source_segment_index": 385,
+      "text": "to Mexico, where there is"
+    },
+    {
+      "source_segment_index": 386,
+      "text": "a large, internationally famous crater that played"
+    },
+    {
+      "source_segment_index": 387,
+      "text": "a major role in changing the course of the whole planet,"
+    },
+    {
+      "source_segment_index": 388,
+      "text": "according to some scientists: Chicxulub Crater.",
+      "review_notes": "Chicxulub name repaired against geological source."
+    },
+    {
+      "source_segment_index": 389,
+      "text": "It is an enormous crater whose centre lies in the sea, but"
+    },
+    {
+      "source_segment_index": 390,
+      "text": "the depression, or its surrounding circular traces,"
+    },
+    {
+      "source_segment_index": 391,
+      "text": "is about 180 metres across. It is thought that 66",
+      "review_notes": "Caption says 180 metres; retained literally in draft. Checked article uses ~180 kilometres. Audio review essential."
+    },
+    {
+      "source_segment_index": 392,
+      "text": "million years ago, an enormous meteorite, around ten metres across,",
+      "review_notes": "Caption says 10 metres; retained literally. Kilometre-scale impactor expected from independent account; audio review essential."
+    },
+    {
+      "source_segment_index": 393,
+      "text": "struck this place. The result was a huge tsunami"
+    },
+    {
+      "source_segment_index": 394,
+      "text": "and massive earthquakes that killed many"
+    },
+    {
+      "source_segment_index": 395,
+      "text": "living creatures. This was before humans were present"
+    },
+    {
+      "source_segment_index": 396,
+      "text": "there. There were also numerous meteor"
+    },
+    {
+      "source_segment_index": 397,
+      "text": "showers continuing for months afterwards,",
+      "review_notes": "Months-long meteor shower claim unverified; impact ejecta and later incoming meteors must not be conflated."
+    },
+    {
+      "source_segment_index": 398,
+      "text": "which, according to this theory, caused"
+    },
+    {
+      "source_segment_index": 399,
+      "text": "the mass extinction of half the ancient forms of life",
+      "review_notes": "Half-of-life figure retained as speech; independent NASA account gives about 75%."
+    },
+    {
+      "source_segment_index": 400,
+      "text": "across the planet, as many"
+    },
+    {
+      "source_segment_index": 401,
+      "text": "studies say. Some studies also say it was not"
+    },
+    {
+      "source_segment_index": 402,
+      "text": "the only cause: during the same period,"
+    },
+    {
+      "source_segment_index": 403,
+      "text": "other enormous, though smaller, meteorites fell and led to"
+    },
+    {
+      "source_segment_index": 404,
+      "text": "the same outcome: the extinction of dinosaurs"
+    },
+    {
+      "source_segment_index": 405,
+      "text": "and many living creatures. This"
+    },
+    {
+      "source_segment_index": 406,
+      "text": "theory is not our subject. The important point is that a large circle"
+    },
+    {
+      "source_segment_index": 407,
+      "text": "formed around the crater created by"
+    },
+    {
+      "source_segment_index": 408,
+      "text": "the meteorite. Part of that circle lies on"
+    },
+    {
+      "source_segment_index": 409,
+      "text": "a peninsula in Mexico. Within the circular area"
+    },
+    {
+      "source_segment_index": 410,
+      "text": "there formed some enormous depressions,",
+      "review_notes": "Broken syntax smoothed without adding a separate impact for each cenote; article explains later limestone dissolution."
+    },
+    {
+      "source_segment_index": 411,
+      "text": "on the scale of"
+    },
+    {
+      "source_segment_index": 412,
+      "text": "vast caves. Over subsequent"
+    },
+    {
+      "source_segment_index": 413,
+      "text": "millions or thousands of years,"
+    },
+    {
+      "source_segment_index": 414,
+      "text": "freshwater collected in them. Since the region also has"
+    },
+    {
+      "source_segment_index": 415,
+      "text": "no lakes or rivers, this encouraged"
+    },
+    {
+      "source_segment_index": 416,
+      "text": "many people, specifically the Maya,"
+    },
+    {
+      "source_segment_index": 417,
+      "text": "to gather and settle there. Over"
+    },
+    {
+      "source_segment_index": 418,
+      "text": "time, an ancient culture developed, with many"
+    },
+    {
+      "source_segment_index": 419,
+      "text": "sciences, foremost among them astronomy and the engineering"
+    },
+    {
+      "source_segment_index": 420,
+      "text": "used to construct the enormous pyramids"
+    },
+    {
+      "source_segment_index": 421,
+      "text": "that still stand today. The filmmaker says"
+    },
+    {
+      "source_segment_index": 422,
+      "text": "that the Maya astronomical calendar was"
+    },
+    {
+      "source_segment_index": 423,
+      "text": "remarkably accurate. In our interpretation, this is because",
+      "review_notes": "Supernatural origin of Maya astronomy remains presenter interpretation."
+    },
+    {
+      "source_segment_index": 424,
+      "text": "it was connected to astrology brought by devils,"
+    },
+    {
+      "source_segment_index": 425,
+      "text": "rather than being a human invention. The filmmaker"
+    },
+    {
+      "source_segment_index": 426,
+      "text": "also speaks admiringly of their interest in the afterlife. They believed"
+    },
+    {
+      "source_segment_index": 427,
+      "text": "in nine underworlds, meaning hell, and thirteen",
+      "review_notes": "Nine/13 cosmological scheme requires tradition-specific source; not independently checked."
+    },
+    {
+      "source_segment_index": 428,
+      "text": "heavens. Of course, this too is a distorted religion,"
+    },
+    {
+      "source_segment_index": 429,
+      "text": "invented by jinn, even if there had been prophets among them,"
+    },
+    {
+      "source_segment_index": 430,
+      "text": "which is more likely: there is no nation to which",
+      "review_notes": "Allusion to every nation receiving warning; Quran 35:24 checked separately. Does not identify a particular Maya prophet."
+    },
+    {
+      "source_segment_index": 431,
+      "text": "prophets and messengers were not sent."
+    },
+    {
+      "source_segment_index": 432,
+      "text": "But devils always hastened to distort"
+    },
+    {
+      "source_segment_index": 433,
+      "text": "these principles and beliefs. Pyramids were built"
+    },
+    {
+      "source_segment_index": 434,
+      "text": "to worship these devils, with the top of a pyramid"
+    },
+    {
+      "source_segment_index": 435,
+      "text": "serving as the place where people were slaughtered and offered"
+    },
+    {
+      "source_segment_index": 436,
+      "text": "as sacrifices to them. The filmmaker descended into"
+    },
+    {
+      "source_segment_index": 437,
+      "text": "the caves formed by the meteorite and said that"
+    },
+    {
+      "source_segment_index": 438,
+      "text": "the Maya considered them sacred places:"
+    },
+    {
+      "source_segment_index": 439,
+      "text": "an entrance to the underworld, the hell"
+    },
+    {
+      "source_segment_index": 440,
+      "text": "inhabited by devils. These depressions still"
+    },
+    {
+      "source_segment_index": 441,
+      "text": "contain human bones. We do not know"
+    },
+    {
+      "source_segment_index": 442,
+      "text": "whether these were sacrifices or places where they buried",
+      "review_notes": "يظفرون contextually repaired to bury (يدفنون); preserves sacrifice-versus-burial uncertainty."
+    },
+    {
+      "source_segment_index": 443,
+      "text": "some of their dead. What is also striking is that devils"
+    },
+    {
+      "source_segment_index": 444,
+      "text": "convinced these people that the place was home"
+    },
+    {
+      "source_segment_index": 445,
+      "text": "to evil gods. Why? Because among"
+    },
+    {
+      "source_segment_index": 446,
+      "text": "some peoples, devils presented themselves"
+    },
+    {
+      "source_segment_index": 447,
+      "text": "as divided into two groups: evil devils living in"
+    },
+    {
+      "source_segment_index": 448,
+      "text": "the underworld, and good gods or spirits, demigods,"
+    },
+    {
+      "source_segment_index": 449,
+      "text": "sacred gods or ancestral spirits,"
+    },
+    {
+      "source_segment_index": 450,
+      "text": "taking many different forms. The latter belonged to the good"
+    },
+    {
+      "source_segment_index": 451,
+      "text": "world in heaven."
+    },
+    {
+      "source_segment_index": 452,
+      "text": "Ultimately, all of them are devils, playing with"
+    },
+    {
+      "source_segment_index": 453,
+      "text": "these people by giving them these myths"
+    },
+    {
+      "source_segment_index": 454,
+      "text": "and this mythological system. People"
+    },
+    {
+      "source_segment_index": 455,
+      "text": "worshipped both groups of jinn, out of hope and fear."
+    },
+    {
+      "source_segment_index": 456,
+      "text": "They even sought to appease the evil devils so they would not"
+    },
+    {
+      "source_segment_index": 457,
+      "text": "harm or injure them. The film also says"
+    },
+    {
+      "source_segment_index": 458,
+      "text": "the Maya were obsessed with death and filled the temple"
+    },
+    {
+      "source_segment_index": 459,
+      "text": "walls with skulls. The same is said of"
+    },
+    {
+      "source_segment_index": 460,
+      "text": "the ancient Egyptians: as soon as a pharaoh"
+    },
+    {
+      "source_segment_index": 461,
+      "text": "came to power, he would immediately"
+    },
+    {
+      "source_segment_index": 462,
+      "text": "begin building an enormous pyramid, perhaps taking thirty"
+    },
+    {
+      "source_segment_index": 463,
+      "text": "years, roughly his entire reign, and mobilise all"
+    },
+    {
+      "source_segment_index": 464,
+      "text": "his people to build a pyramid whose sole"
+    },
+    {
+      "source_segment_index": 465,
+      "text": "purpose was to contain his burial. As we discussed"
+    },
+    {
+      "source_segment_index": 466,
+      "text": "previously, this is not believable. It is more likely that",
+      "review_notes": "Predynastic pyramid/conventional tomb challenge retained as opinion, omitted from factual article without archaeological support."
+    },
+    {
+      "source_segment_index": 467,
+      "text": "these pyramids were built before"
+    },
+    {
+      "source_segment_index": 468,
+      "text": "the Egyptian civilisation we know. Even if they were built"
+    },
+    {
+      "source_segment_index": 469,
+      "text": "in that period, they were probably not intended merely as"
+    },
+    {
+      "source_segment_index": 470,
+      "text": "royal tombs. In any case, that is not our topic."
+    },
+    {
+      "source_segment_index": 471,
+      "text": "But it is not as though the pharaoh's entire obsession"
+    },
+    {
+      "source_segment_index": 472,
+      "text": "in life was to build himself a tomb"
+    },
+    {
+      "source_segment_index": 473,
+      "text": "and be mummified out of concern for the afterlife. People"
+    },
+    {
+      "source_segment_index": 474,
+      "text": "generally, especially kings, think more about this world"
+    },
+    {
+      "source_segment_index": 475,
+      "text": "than the next. Even when they think"
+    },
+    {
+      "source_segment_index": 476,
+      "text": "about the afterlife and their fate after death, these"
+    },
+    {
+      "source_segment_index": 477,
+      "text": "idolaters connect it with the myths devils"
+    },
+    {
+      "source_segment_index": 478,
+      "text": "give them. They worship them in this world"
+    },
+    {
+      "source_segment_index": 479,
+      "text": "and believe they will save them in the next. The important point,"
+    },
+    {
+      "source_segment_index": 480,
+      "text": "however, is that this is not an obsession with death. People"
+    },
+    {
+      "source_segment_index": 481,
+      "text": "generally think more about this world than the next, especially"
+    },
+    {
+      "source_segment_index": 482,
+      "text": "if they are idolaters. These are all commands from devils"
+    },
+    {
+      "source_segment_index": 483,
+      "text": "to secure their worship. The filmmaker also says"
+    },
+    {
+      "source_segment_index": 484,
+      "text": "they visited this Maya site on the day of"
+    },
+    {
+      "source_segment_index": 485,
+      "text": "the Mexican Day of the Dead, a festival still"
+    },
+    {
+      "source_segment_index": 486,
+      "text": "celebrated today that has existed for approximately three thousand",
+      "review_notes": "Three-thousand-year continuous festival history unverified; preserved as speaker’s claim."
+    },
+    {
+      "source_segment_index": 487,
+      "text": "years, since Maya times. Another striking point is that"
+    },
+    {
+      "source_segment_index": 488,
+      "text": "it is still celebrated on the same day as",
+      "review_notes": "Calendar conflation retained, not silently corrected. Huastec comparative source describes several days and a distinct community."
+    },
+    {
+      "source_segment_index": 489,
+      "text": "Halloween. We explained in an earlier episode that Halloween"
+    },
+    {
+      "source_segment_index": 490,
+      "text": "originally belonged to a pagan religion: the Irish"
+    },
+    {
+      "source_segment_index": 491,
+      "text": "and Scots sought to draw close to spirits"
+    },
+    {
+      "source_segment_index": 492,
+      "text": "on that day. In the eighth century"
+    },
+    {
+      "source_segment_index": 493,
+      "text": "CE, however, the pope decided to move"
+    },
+    {
+      "source_segment_index": 494,
+      "text": "All Saints' Day to that pagan festival,"
+    },
+    {
+      "source_segment_index": 495,
+      "text": "on 1 November. Thus a pagan and a Christian festival were celebrated",
+      "review_notes": "November 1 statement retained; exact papal/Samhain chronology unresolved."
+    },
+    {
+      "source_segment_index": 496,
+      "text": "on the same day, also directed towards the spirits of the dead. Then,"
+    },
+    {
+      "source_segment_index": 497,
+      "text": "when the Spanish came to occupy Mexico,"
+    },
+    {
+      "source_segment_index": 498,
+      "text": "they combined these festivals into one day. Even"
+    },
+    {
+      "source_segment_index": 499,
+      "text": "now, Mexicans celebrate on that same day,"
+    },
+    {
+      "source_segment_index": 500,
+      "text": "1 November. We also find descendants of"
+    },
+    {
+      "source_segment_index": 501,
+      "text": "the Maya sometimes keeping their dead ancestors'",
+      "review_notes": "Community-specific skull practices are unverified in original film; do not generalise to all Maya descendants."
+    },
+    {
+      "source_segment_index": 502,
+      "text": "skulls. They may retrieve the skulls after"
+    },
+    {
+      "source_segment_index": 503,
+      "text": "the bodies have decomposed, and uncover"
+    },
+    {
+      "source_segment_index": 504,
+      "text": "or display them only on that day, during"
+    },
+    {
+      "source_segment_index": 505,
+      "text": "the celebration, so that their ancestors' spirits may rest."
+    },
+    {
+      "source_segment_index": 506,
+      "text": "Throughout the year they prepare"
+    },
+    {
+      "source_segment_index": 507,
+      "text": "by gathering offerings for the festival,"
+    },
+    {
+      "source_segment_index": 508,
+      "text": "drying certain foods, specifically"
+    },
+    {
+      "source_segment_index": 509,
+      "text": "foods their ancestors enjoyed before they"
+    },
+    {
+      "source_segment_index": 510,
+      "text": "died. They then go to the graves, taking"
+    },
+    {
+      "source_segment_index": 511,
+      "text": "the skulls and offerings, and present them to"
+    },
+    {
+      "source_segment_index": 512,
+      "text": "the dead, whose presence they say they feel. Then,"
+    },
+    {
+      "source_segment_index": 513,
+      "text": "after the celebrations and dances, they eat"
+    },
+    {
+      "source_segment_index": 514,
+      "text": "the food. They believe that when the spirits"
+    },
+    {
+      "source_segment_index": 515,
+      "text": "come, they consume the spiritual aspect or spiritual covering"
+    },
+    {
+      "source_segment_index": 516,
+      "text": "of the food, while the physical food itself"
+    },
+    {
+      "source_segment_index": 517,
+      "text": "remains. They eat it, but obtain no nourishment:"
+    },
+    {
+      "source_segment_index": 518,
+      "text": "it supposedly has no nutritional value left, yet it must",
+      "review_notes": "Loss of nutritional value is a belief reported by presenter, not a finding supported by Muslim 450a."
+    },
+    {
+      "source_segment_index": 519,
+      "text": "be eaten. This reminds us exactly of the prophetic report"
+    },
+    {
+      "source_segment_index": 520,
+      "text": "in which a delegation of jinn asked him for provisions. He said:",
+      "review_notes": "الزائد repaired to الزاد (provisions); Muslim 450a wording checked; translation is an original rendering."
+    },
+    {
+      "source_segment_index": 521,
+      "text": "Every bone over which Allah's name has been mentioned is yours; when it reaches"
+    },
+    {
+      "source_segment_index": 522,
+      "text": "your hands, it will be fully covered with meat. The point here is that"
+    },
+    {
+      "source_segment_index": 523,
+      "text": "jinn ate before the mission of the Prophet,"
+    },
+    {
+      "source_segment_index": 524,
+      "text": "peace and blessings be upon him. They would find on the bone"
+    },
+    {
+      "source_segment_index": 525,
+      "text": "that we ourselves eat from, finding meat even when"
+    },
+    {
+      "source_segment_index": 526,
+      "text": "we have stripped it bare. In the other dimension"
+    },
+    {
+      "source_segment_index": 527,
+      "text": "where they live, that bone has",
+      "review_notes": "Other-dimension mechanism is commentary, not the hadith’s explicit formulation."
+    },
+    {
+      "source_segment_index": 528,
+      "text": "nutritional value. We find the same idea when someone wishes"
+    },
+    {
+      "source_segment_index": 529,
+      "text": "to make an offering to devils, even if"
+    },
+    {
+      "source_segment_index": 530,
+      "text": "he regards them as the spirits of the dead. We find this in"
+    },
+    {
+      "source_segment_index": 531,
+      "text": "Hinduism and Buddhism to this day. Visitors to those"
+    },
+    {
+      "source_segment_index": 532,
+      "text": "countries—or even to Buddhist restaurants, such as"
+    },
+    {
+      "source_segment_index": 533,
+      "text": "Chinese restaurants in the West—will find offerings,"
+    },
+    {
+      "source_segment_index": 534,
+      "text": "fruit or a plate of the food"
+    },
+    {
+      "source_segment_index": 535,
+      "text": "served to customers, placed on a small"
+    },
+    {
+      "source_segment_index": 536,
+      "text": "temple-like shrine at the restaurant's entrance. This",
+      "review_notes": "First-person restaurant observation retained as testimony, not a general ethnographic survey."
+    },
+    {
+      "source_segment_index": 537,
+      "text": "I have seen myself. They leave it there all day. Afterwards,"
+    },
+    {
+      "source_segment_index": 538,
+      "text": "the food may be eaten rather than thrown away, but they believe"
+    },
+    {
+      "source_segment_index": 539,
+      "text": "the ancestral spirits they worship will come and feed"
+    },
+    {
+      "source_segment_index": 540,
+      "text": "on its spiritual value. Since"
+    },
+    {
+      "source_segment_index": 541,
+      "text": "the filmmaker did not visit other Indigenous"
+    },
+    {
+      "source_segment_index": 542,
+      "text": "peoples of the Americas, limiting himself"
+    },
+    {
+      "source_segment_index": 543,
+      "text": "to Mexico in Central America, I will add,",
+      "review_notes": "Mexico/Central America geographic wording retained as speech; not used as a technical regional classification."
+    },
+    {
+      "source_segment_index": 544,
+      "text": "from my study of these peoples, that they too"
+    },
+    {
+      "source_segment_index": 545,
+      "text": "held similar beliefs. Many"
+    },
+    {
+      "source_segment_index": 546,
+      "text": "Indigenous North American peoples believed"
+    },
+    {
+      "source_segment_index": 547,
+      "text": "that any meteor or meteorite they saw either carried"
+    },
+    {
+      "source_segment_index": 548,
+      "text": "a heavenly message from gods and spirits,"
+    },
+    {
+      "source_segment_index": 549,
+      "text": "which they could connect with omens and astrology, or represented"
+    },
+    {
+      "source_segment_index": 550,
+      "text": "ancestral spirits, which they might greet."
+    },
+    {
+      "source_segment_index": 551,
+      "text": "If meteorites fell to Earth and they found"
+    },
+    {
+      "source_segment_index": 552,
+      "text": "the stones, they regarded them"
+    },
+    {
+      "source_segment_index": 553,
+      "text": "as messages or gifts from heaven. They also used"
+    },
+    {
+      "source_segment_index": 554,
+      "text": "the metals in everyday life, considering"
+    },
+    {
+      "source_segment_index": 555,
+      "text": "these to be sacred medicinal stones,",
+      "review_notes": "Medicinal/sacred power is an attributed belief, not medical advice; no named North American source supplied."
+    },
+    {
+      "source_segment_index": 556,
+      "text": "used for healing and possessing spiritual power. Water"
+    },
+    {
+      "source_segment_index": 557,
+      "text": "collecting in a depression formed by a meteorite"
+    },
+    {
+      "source_segment_index": 558,
+      "text": "was likewise considered sacred."
+    },
+    {
+      "source_segment_index": 559,
+      "text": "Warriors dipped their weapons in it"
+    },
+    {
+      "source_segment_index": 560,
+      "text": "to draw strength, enabling them to kill"
+    },
+    {
+      "source_segment_index": 561,
+      "text": "their enemies. The documentary's final example is"
+    },
+    {
+      "source_segment_index": 562,
+      "text": "in Australia again. They visit an island called"
+    },
+    {
+      "source_segment_index": 563,
+      "text": "Mer, a very small island with four hundred inhabitants,",
+      "review_notes": "Mer place identified through independent Meriam study; population figure remains unchecked."
+    },
+    {
+      "source_segment_index": 564,
+      "text": "all Indigenous. They too believe that meteors"
+    },
+    {
+      "source_segment_index": 565,
+      "text": "and meteorites carry ancestral spirits. What caught"
+    },
+    {
+      "source_segment_index": 566,
+      "text": "my attention was an elder from this community"
+    },
+    {
+      "source_segment_index": 567,
+      "text": "telling them: A member of my family travelled",
+      "review_notes": "Interrupted انتقل قل smoothed; original elder interview not inspected. All following embedded speech remains a retelling."
+    },
+    {
+      "source_segment_index": 568,
+      "text": "with the ghosts on this island to heaven,"
+    },
+    {
+      "source_segment_index": 569,
+      "text": "through a meteorite I saw with my own eyes. He regards"
+    },
+    {
+      "source_segment_index": 570,
+      "text": "this as an unquestionable fact. He then says: When we see meteorites"
+    },
+    {
+      "source_segment_index": 571,
+      "text": "or meteors falling towards us, we know that these"
+    },
+    {
+      "source_segment_index": 572,
+      "text": "ancestors' spirits have returned to us once more,"
+    },
+    {
+      "source_segment_index": 573,
+      "text": "renewing the cycle of life. He says even more explicitly: We see these"
+    },
+    {
+      "source_segment_index": 574,
+      "text": "spirits sometimes taking the form of animals,"
+    },
+    {
+      "source_segment_index": 575,
+      "text": "a bird, a dog, a person, or a shadow on"
+    },
+    {
+      "source_segment_index": 576,
+      "text": "the walls. These are the same forms jinn-devils take when"
+    },
+    {
+      "source_segment_index": 577,
+      "text": "appearing to people, or the shadow form in which one appears",
+      "review_notes": "Apparitions/shadows are interpreted by presenter as jinn; no audiovisual or independent causal verification."
+    },
+    {
+      "source_segment_index": 578,
+      "text": "in its true shape to some people who"
+    },
+    {
+      "source_segment_index": 579,
+      "text": "worship them, especially when they make offerings."
+    },
+    {
+      "source_segment_index": 580,
+      "text": "In this scene we also see a recreation of a dance"
+    },
+    {
+      "source_segment_index": 581,
+      "text": "they performed for the devils—that is, for the meteors—when"
+    },
+    {
+      "source_segment_index": 582,
+      "text": "they lit torches and danced, specifically",
+      "review_notes": "يقصون repaired to dance (يرقصون) from context."
+    },
+    {
+      "source_segment_index": 583,
+      "text": "at sunset, the same period when the devil is worshipped",
+      "review_notes": "Universal sunset-worship claim unverified and omitted from article."
+    },
+    {
+      "source_segment_index": 584,
+      "text": "among all peoples. During the dance,"
+    },
+    {
+      "source_segment_index": 585,
+      "text": "they try to spot a meteor in"
+    },
+    {
+      "source_segment_index": 586,
+      "text": "the sky. When they see one, they consider"
+    },
+    {
+      "source_segment_index": 587,
+      "text": "it a message that their prayers have indeed been accepted"
+    },
+    {
+      "source_segment_index": 588,
+      "text": "and have reached heaven."
+    },
+    {
+      "source_segment_index": 589,
+      "text": "After presenting these ideas, the film"
+    },
+    {
+      "source_segment_index": 590,
+      "text": "goes to the Vatican Observatory, an old observatory"
+    },
+    {
+      "source_segment_index": 591,
+      "text": "that also serves as a scientific museum belonging to the Vatican, with"
+    },
+    {
+      "source_segment_index": 592,
+      "text": "some old meteorites. The filmmaker"
+    },
+    {
+      "source_segment_index": 593,
+      "text": "interviews a Christian astronomer, a Jesuit,",
+      "review_notes": "الجزبيت normalised to Jesuit; filmmaker Q&A identifies Guy Consolmagno."
+    },
+    {
+      "source_segment_index": 594,
+      "text": "one of those considered scholars affiliated"
+    },
+    {
+      "source_segment_index": 595,
+      "text": "with the church. The discussion was genuinely beautiful. This scientist,"
+    },
+    {
+      "source_segment_index": 596,
+      "text": "who is also a priest, spoke about",
+      "review_notes": "Priest retained as the presenter’s label, but independently identified Consolmagno is a Jesuit lay brother; article corrected."
+    },
+    {
+      "source_segment_index": 597,
+      "text": "contemplating the stars and how this can bring you closer to"
+    },
+    {
+      "source_segment_index": 598,
+      "text": "Allah, glorified and exalted. Of course, we know that he"
+    },
+    {
+      "source_segment_index": 599,
+      "text": "worships Allah while associating Jesus,"
+    },
+    {
+      "source_segment_index": 600,
+      "text": "peace be upon him, with Him. But faith is present, even where",
+      "review_notes": "Retains speaker’s theological distinction and positive appraisal of wonder at creation."
+    },
+    {
+      "source_segment_index": 601,
+      "text": "there is association rather than pure monotheism. Here,"
+    },
+    {
+      "source_segment_index": 602,
+      "text": "contemplation of Allah's creation is right"
+    },
+    {
+      "source_segment_index": 603,
+      "text": "and sound. It is what we call for and reflect"
+    },
+    {
+      "source_segment_index": 604,
+      "text": "upon. Everything he said about understanding that Allah is"
+    },
+    {
+      "source_segment_index": 605,
+      "text": "the Creator, and that all the astronomical signs we see"
+    },
+    {
+      "source_segment_index": 606,
+      "text": "increase our faith in Allah, is indeed what"
+    },
+    {
+      "source_segment_index": 607,
+      "text": "we understand, while stripping meteors and meteorites"
+    },
+    {
+      "source_segment_index": 608,
+      "text": "of associations involving shirk. The film then discusses"
+    },
+    {
+      "source_segment_index": 609,
+      "text": "the anticipated dangers of enormous meteorites"
+    },
+    {
+      "source_segment_index": 610,
+      "text": "colliding with Earth, repeating the catastrophe"
+    },
+    {
+      "source_segment_index": 611,
+      "text": "which, as we said, according to the theory occurred 66"
+    },
+    {
+      "source_segment_index": 612,
+      "text": "million years ago when a huge meteorite fell in"
+    },
+    {
+      "source_segment_index": 613,
+      "text": "Mexico, leading to humanity's extinction, or that of a large portion of it."
+    },
+    {
+      "source_segment_index": 614,
+      "text": "It cites, for example, Deep Impact, a dramatic film"
+    },
+    {
+      "source_segment_index": 615,
+      "text": "made in Hollywood in 1998. We see",
+      "review_notes": "Film title/year retained; actual film scene not inspected."
+    },
+    {
+      "source_segment_index": 616,
+      "text": "an enormous tsunami following the fall of a huge meteorite,"
+    },
+    {
+      "source_segment_index": 617,
+      "text": "with a wave taller even than"
+    },
+    {
+      "source_segment_index": 618,
+      "text": "New York's skyscrapers. We watch buildings and enormous towers"
+    },
+    {
+      "source_segment_index": 619,
+      "text": "topple like dominoes. Of course, this is"
+    },
+    {
+      "source_segment_index": 620,
+      "text": "very imaginative. Even if a meteorite that large fell,",
+      "review_notes": "Categorical wave-size dismissal unsupported by a checked model; not used as scientific fact in article."
+    },
+    {
+      "source_segment_index": 621,
+      "text": "the waves would not be so large. The filmmaker then"
+    },
+    {
+      "source_segment_index": 622,
+      "text": "visits an observatory in Hawaii, one of the largest astronomical",
+      "review_notes": "هوائي interpreted as Hawaii from context, not aerial; observatory and speaker unconfirmed."
+    },
+    {
+      "source_segment_index": 623,
+      "text": "observatories in the world. The scientist"
+    },
+    {
+      "source_segment_index": 624,
+      "text": "watching for meteorites there says there is a very small"
+    },
+    {
+      "source_segment_index": 625,
+      "text": "chance of an enormous comet falling to Earth. We are talking about"
+    },
+    {
+      "source_segment_index": 626,
+      "text": "a comet, not just a meteorite. But, he says, sooner or"
+    },
+    {
+      "source_segment_index": 627,
+      "text": "later a very large comet or meteorite will strike"
+    },
+    {
+      "source_segment_index": 628,
+      "text": "Earth, though not as once imagined or in the form"
+    },
+    {
+      "source_segment_index": 629,
+      "text": "Hollywood has presented. The best-known example"
+    },
+    {
+      "source_segment_index": 630,
+      "text": "of an enormous explosion in modern times is the huge meteorite"
+    },
+    {
+      "source_segment_index": 631,
+      "text": "thought to have struck Siberia,"
+    },
+    {
+      "source_segment_index": 632,
+      "text": "Russia, in uninhabited forests. This occurred in"
+    },
+    {
+      "source_segment_index": 633,
+      "text": "1908. Even now, however, some question this"
+    },
+    {
+      "source_segment_index": 634,
+      "text": "and suggest it may have been the massive explosion of a flying"
+    },
+    {
+      "source_segment_index": 635,
+      "text": "saucer that fell there. Two stones were recovered"
+    },
+    {
+      "source_segment_index": 636,
+      "text": "which apparently were neither meteorites nor"
+    },
+    {
+      "source_segment_index": 637,
+      "text": "human-made. There is no confirmed study indicating",
+      "review_notes": "Important qualification: presenter says no confirmed study supports the spacecraft/stones claim."
+    },
+    {
+      "source_segment_index": 638,
+      "text": "that. My point is that there is still no confirmation"
+    },
+    {
+      "source_segment_index": 639,
+      "text": "that the event was caused by a huge meteorite striking",
+      "review_notes": "Retains presenter’s uncertainty; NASA account supports a stony-body airburst, not equal evidence for spacecraft."
+    },
+    {
+      "source_segment_index": 640,
+      "text": "the area. The question is: could such a thing happen"
+    },
+    {
+      "source_segment_index": 641,
+      "text": "according to Islam? Does Islam allow for a huge"
+    },
+    {
+      "source_segment_index": 642,
+      "text": "meteorite to strike Earth and extinguish humanity? What we know"
+    },
+    {
+      "source_segment_index": 643,
+      "text": "with certainty is that we will not die this way.",
+      "review_notes": "Speaker’s categorical theological assertion, not a current hazard assessment or reader safety guarantee."
+    },
+    {
+      "source_segment_index": 644,
+      "text": "The signs of the Hour that we know must occur,"
+    },
+    {
+      "source_segment_index": 645,
+      "text": "including great conflicts and trials. Afterwards, following Jesus'"
+    },
+    {
+      "source_segment_index": 646,
+      "text": "descent, peace be upon him, and the end of the Dajjal's trial, disbelief will return"
+    },
+    {
+      "source_segment_index": 647,
+      "text": "to Earth. The Muslims who followed"
+    },
+    {
+      "source_segment_index": 648,
+      "text": "Jesus, peace be upon him, will pass away. Humanity's final generation"
+    },
+    {
+      "source_segment_index": 649,
+      "text": "will be a disbelieving generation. How many will there be?"
+    },
+    {
+      "source_segment_index": 650,
+      "text": "We do not know. But they will be the final generation,"
+    },
+    {
+      "source_segment_index": 651,
+      "text": "upon whom the Hour comes. Before that, of course, their souls will be taken.",
+      "review_notes": "End-time sequence and souls-before-Hour wording need scriptural and audio review; do not silently reconcile with a different hadith."
+    },
+    {
+      "source_segment_index": 652,
+      "text": "Could they be taken through a huge meteorite causing"
+    },
+    {
+      "source_segment_index": 653,
+      "text": "extinction? In principle, perhaps, but there is no evidence"
+    },
+    {
+      "source_segment_index": 654,
+      "text": "for that. What matters to us is that this will not happen"
+    },
+    {
+      "source_segment_index": 655,
+      "text": "now. All these stages must precede it:"
+    },
+    {
+      "source_segment_index": 656,
+      "text": "the signs of the Hour, trials, great conflicts, major"
+    },
+    {
+      "source_segment_index": 657,
+      "text": "disasters, the Dajjal, and devils emerging so that we see them,",
+      "review_notes": "Visible devils/end-time claim lacks a checked specific source in this episode."
+    },
+    {
+      "source_segment_index": 658,
+      "text": "and the rest of those terrible calamities. We hope"
+    },
+    {
+      "source_segment_index": 659,
+      "text": "not to witness them, and that our souls are taken before all these"
+    },
+    {
+      "source_segment_index": 660,
+      "text": "trials. So we should not preoccupy ourselves now with the idea"
+    },
+    {
+      "source_segment_index": 661,
+      "text": "of sudden extinction. Thus all"
+    },
+    {
+      "source_segment_index": 662,
+      "text": "the scientists' research and monitoring for a meteorite of that size",
+      "review_notes": "Retains dismissal of hazard research as speech; article does not endorse it or advise abandoning research."
+    },
+    {
+      "source_segment_index": 663,
+      "text": "is not useful. Could a smaller one strike"
+    },
+    {
+      "source_segment_index": 664,
+      "text": "and cause disasters? Yes. But not the extinction"
+    },
+    {
+      "source_segment_index": 665,
+      "text": "of humanity or every form of life"
+    },
+    {
+      "source_segment_index": 666,
+      "text": "that this scenario envisages."
+    },
+    {
+      "source_segment_index": 667,
+      "text": "Finally, one observation: why did the filmmaker"
+    },
+    {
+      "source_segment_index": 668,
+      "text": "present Islam only in the form"
+    },
+    {
+      "source_segment_index": 669,
+      "text": "mentioned at the beginning, linking it with that legend about"
+    },
+    {
+      "source_segment_index": 670,
+      "text": "Adam, peace be upon him, then saying the Black Stone"
+    },
+    {
+      "source_segment_index": 671,
+      "text": "was a meteorite, and leaving it there? Why did they not meet"
+    },
+    {
+      "source_segment_index": 672,
+      "text": "a Muslim scholar, as they met"
+    },
+    {
+      "source_segment_index": 673,
+      "text": "a Christian scholar at the Vatican Observatory?"
+    },
+    {
+      "source_segment_index": 674,
+      "text": "Why did they not listen to the Islamic perspective,"
+    },
+    {
+      "source_segment_index": 675,
+      "text": "which explains our understanding of meteorites, our view"
+    },
+    {
+      "source_segment_index": 676,
+      "text": "of meteors, and Islam's outlook on"
+    },
+    {
+      "source_segment_index": 677,
+      "text": "astronomy generally? What is our understanding of"
+    },
+    {
+      "source_segment_index": 678,
+      "text": "the end times, and of whether",
+      "review_notes": "اخذ الزمان contextually repaired to آخر الزمان (end times)."
+    },
+    {
+      "source_segment_index": 679,
+      "text": "a meteorite might strike and cause extinction? Unfortunately,"
+    },
+    {
+      "source_segment_index": 680,
+      "text": "this is their view of Islam: a mythological one. They do not"
+    },
+    {
+      "source_segment_index": 681,
+      "text": "even want to give themselves the opportunity"
+    },
+    {
+      "source_segment_index": 682,
+      "text": "to hear Islam's position, its account of history"
+    },
+    {
+      "source_segment_index": 683,
+      "text": "and myths, its correction of those myths, and its understanding"
+    },
+    {
+      "source_segment_index": 684,
+      "text": "of the end times. All of this is refused a hearing. They do not",
+      "review_notes": "Claim about filmmakers’ intentions retained as opinion; full film and response uninspected."
+    },
+    {
+      "source_segment_index": 685,
+      "text": "even want to ask and learn what we say."
+    },
+    {
+      "source_segment_index": 686,
+      "text": "I therefore hope our young people will not be influenced by this"
+    },
+    {
+      "source_segment_index": 687,
+      "text": "publicity or propaganda, and that we will not be overcome"
+    },
+    {
+      "source_segment_index": 688,
+      "text": "by a sense of inferiority before Western science,"
+    },
+    {
+      "source_segment_index": 689,
+      "text": "retreating and becoming embarrassed by accounts of"
+    },
+    {
+      "source_segment_index": 690,
+      "text": "meteors striking devils. As we discussed in earlier"
+    },
+    {
+      "source_segment_index": 691,
+      "text": "episodes, the West itself, its scientific and academic"
+    },
+    {
+      "source_segment_index": 692,
+      "text": "community, and members of Congress themselves have now begun"
+    },
+    {
+      "source_segment_index": 693,
+      "text": "investigating alien sightings and the"
+    },
+    {
+      "source_segment_index": 694,
+      "text": "possibility of beings in other dimensions, not"
+    },
+    {
+      "source_segment_index": 695,
+      "text": "merely on other planets: beings here on Earth"
+    },
+    {
+      "source_segment_index": 696,
+      "text": "whom we do not see. These beings are the jinn. Thank you",
+      "review_notes": "UFO/dimensional beings equated with jinn by presenter; not established by official investigations."
+    },
+    {
+      "source_segment_index": 697,
+      "text": "for listening. Until another episode,"
+    },
+    {
+      "source_segment_index": 698,
+      "text": "peace be upon you, and Allah's mercy. [Unclear closing fragment]",
+      "review_notes": "Final Arabic is corrupt/truncated: والسلام عليكم ورحمه صح. Standard greeting only partly recoverable; uncertainty retained, not invented completed farewell. Ends 2.2 seconds beyond video metadata."
+    }
+  ],
+  "translation_batches": [
+    {
+      "start_source_segment_index": 0,
+      "end_source_segment_index": 174,
+      "start_seconds": 0.24,
+      "end_seconds": 516.7090000000001,
+      "drafted_at": "2026-09-16",
+      "method": "Direct English drafting against every source segment in this interval. Independent editorial and audiovisual review pending."
+    },
+    {
+      "start_source_segment_index": 175,
+      "end_source_segment_index": 349,
+      "start_seconds": 516.719,
+      "end_seconds": 1021.509,
+      "drafted_at": "2026-09-16",
+      "method": "Direct English drafting against every source segment in this interval. Independent editorial and audiovisual review pending."
+    },
+    {
+      "start_source_segment_index": 350,
+      "end_source_segment_index": 524,
+      "start_seconds": 1021.519,
+      "end_seconds": 1520.789,
+      "drafted_at": "2026-09-16",
+      "method": "Direct English drafting against every source segment in this interval. Independent editorial and audiovisual review pending."
+    },
+    {
+      "start_source_segment_index": 525,
+      "end_source_segment_index": 698,
+      "start_seconds": 1520.799,
+      "end_seconds": 2018.2,
+      "drafted_at": "2026-09-16",
+      "method": "Direct English drafting against every source segment in this interval. Independent editorial and audiovisual review pending."
+    }
+  ],
+  "updated_at": "2026-09-16"
+}

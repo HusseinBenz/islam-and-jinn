@@ -1,0 +1,41 @@
+{
+  "video_id": "Vh0tVYpfTDU",
+  "url": "https://www.youtube.com/watch?v=Vh0tVYpfTDU",
+  "title": "الجن تكلم معي مباشرةً : عالم الجن وكيف نتحصن من الشياطين والمس والعين | الشيخ وحيد عبد السلام بالي",
+  "channel": "د. هيثم طلعت Dr. Haitham Talaat",
+  "upload_date": "20260619",
+  "duration_seconds": 4244,
+  "accessed_at": "2026-09-21",
+  "read_scope": "Selected Arabic automatic-caption passages only; not the full interview or audiovisual content.",
+  "read_ranges": [
+    [
+      "00:01:55.320",
+      "00:03:48.560"
+    ],
+    [
+      "00:27:45.399",
+      "00:29:16.960"
+    ],
+    [
+      "00:35:36.839",
+      "00:37:22.760"
+    ],
+    [
+      "00:45:31.760",
+      "00:46:51.000"
+    ],
+    [
+      "00:48:13.880",
+      "00:52:19.760"
+    ],
+    [
+      "01:07:01.640",
+      "01:08:54.400"
+    ]
+  ],
+  "files": {
+    "data/raw/references/bali/Vh0tVYpfTDU.ar-orig.vtt": "2c4390e33b4fdd6f358f4c655db83f7ebb65516975c01abc86b57f17028dc7df",
+    "data/raw/references/bali/Vh0tVYpfTDU.info.json": "5b4faf091da734462ace4212e42ffdb8376137e08ffe9df10f002cd45fc20cf7"
+  },
+  "notes": "Metadata/caption download succeeded despite optional JS-runtime and impersonation warnings. Original upload 19 June; 21 June search results are reuploads. No English subtitle translation created."
+}
