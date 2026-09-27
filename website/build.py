@@ -50,10 +50,11 @@ def render(body):
 STAR='M11 0L7.78 3.22L7.78 7.78L3.22 7.78L0 11L-3.22 7.78L-7.78 7.78L-7.78 3.22L-11 0L-7.78 -3.22L-7.78 -7.78L-3.22 -7.78L0 -11L3.22 -7.78L7.78 -7.78L7.78 -3.22Z'
 BOOK='<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 4h6a4 4 0 0 1 4 4v13a3 3 0 0 0-3-3H2z"/><path d="M22 4h-6a4 4 0 0 0-4 4v13a3 3 0 0 1 3-3h7z"/></svg>'
 ARROW='<svg class="sk-arrow" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m13 6 6 6-6 6"/></svg>'
-FONTS='https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Figtree:ital,wght@0,400;0,500;0,600;0,700;0,800;1,500&family=Instrument+Serif:ital@0;1&family=Reem+Kufi:wght@400;500;600;700&display=swap'
+FONTS='https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&family=Figtree:ital,wght@0,400;0,500;0,600;0,700;0,800;1,500&family=Instrument+Serif:ital@0;1&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&family=Noto+Naskh+Arabic:wght@400;500;600;700&display=swap'
 THEME_INIT="(function(){var t;try{t=localStorage.getItem('sakina-theme')}catch(e){}if(t!=='light'&&t!=='dark'){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)})();"
 # Links are relative, so the site works at a domain root and under a project path (GitHub Pages).
 ASSETS=['sakina.css','site.css','sakina.js','reading.js']
+ASSET_V='sk2'  # bump when a stylesheet or script changes, so browsers fetch the new file
 
 def href(article, root=''):
     return f'{root}articles/{article["slug"]}/'
@@ -73,7 +74,7 @@ def shell(title, description, main, articles, preview, current=None, root=''):
 <link rel="icon" type="image/svg+xml" href="{FAVICON}">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="{FONTS}">
-<link rel="stylesheet" href="{root}assets/sakina.css"><link rel="stylesheet" href="{root}assets/site.css"></head>
+<link rel="stylesheet" href="{root}assets/sakina.css?v={ASSET_V}"><link rel="stylesheet" href="{root}assets/site.css?v={ASSET_V}"></head>
 <body class="sk-project-jinn"><a class="sk-skip" href="#main">Skip to content</a>
 <div class="sk-pattern" aria-hidden="true"></div>
 <div class="reading-progress" aria-hidden="true"><span></span></div>
@@ -88,7 +89,7 @@ def shell(title, description, main, articles, preview, current=None, root=''):
 {main}
 <footer class="sk-footer"><div class="sk-container sk-footer__inner"><p>An independent encyclopedia based on al-Sabeel. {'Drafts under editorial and reference review.' if preview else 'English edition.'} <a class="sk-link" href="{root}about/">Our approach to sources</a></p>
 <a class="sk-footer__home" href="https://husseinbenz.github.io/islamic-projects/"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path style="fill:var(--primary)" d="M23 12L19.78 15.22L19.78 19.78L15.22 19.78L12 23L8.78 19.78L4.22 19.78L4.22 15.22L1 12L4.22 8.78L4.22 4.22L8.78 4.22L12 1L15.22 4.22L19.78 4.22L19.78 8.78Z"/><circle cx="12" cy="12" r="4.4" style="fill:var(--bg)"/></svg>Part of Islamic Projects</a></div></footer>
-<script src="{root}assets/sakina.js"></script><script src="{root}assets/reading.js"></script>
+<script src="{root}assets/sakina.js?v={ASSET_V}"></script><script src="{root}assets/reading.js?v={ASSET_V}"></script>
 </body></html>"""
 
 class Links(HTMLParser):
