@@ -54,7 +54,12 @@ FONTS='https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,40
 THEME_INIT="(function(){var t;try{t=localStorage.getItem('sakina-theme')}catch(e){}if(t!=='light'&&t!=='dark'){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)})();"
 # Links are relative, so the site works at a domain root and under a project path (GitHub Pages).
 ASSETS=['sakina.css','site.css','sakina.js','reading.js']
-ASSET_V='sk2'  # bump when a stylesheet or script changes, so browsers fetch the new file
+ASSET_V='sk3'  # bump when a stylesheet or script changes, so browsers fetch the new file
+
+def relink(html_text, root):
+    # Markdown may link chapters as /articles/<slug>/ — make them relative so they
+    # also work when the site is served under a project path (GitHub Pages).
+    return re.sub(r'(href|src)="/(?!/)', lambda m: f'{m[1]}="{root or "./"}', html_text)
 
 def href(article, root=''):
     return f'{root}articles/{article["slug"]}/'
@@ -116,6 +121,7 @@ def validate(output):
         for link in parser.links:
             u=urlsplit(link)
             if u.scheme or u.netloc: continue
+            if u.path.startswith('/'): raise ValueError(f'Root-relative link {link} in {p}: it breaks under a project path; use a relative link')
             target=(output/unquote(u.path.lstrip('/'))) if u.path.startswith('/') else (p.parent/unquote(u.path)) if u.path else p
             if target.is_dir(): target/= 'index.html'
             target=target.resolve()
@@ -149,7 +155,7 @@ def build(output, preview):
 <section class="portal-body"><aside class="collection-note"><span class="sk-eyebrow">The collection</span><p class="large-number">{len(articles):02}<span>chapters available</span></p><p>Read in the order of the source series, from foundations to the questions that follow.</p>{'<p class="draft-note"><strong>A work in progress.</strong> These are condensed drafts. Source checks and editorial review continue.</p>' if preview else ''}<a class="sk-link" href="about/">About the project</a></aside><div class="chapter-list"><div class="list-title"><h2 class="sk-display">Explore the chapters</h2><span>English edition</span></div><ol>{items}</ol>{'<p>Reviewed articles are being prepared.</p>' if not articles else ''}</div></section></main>"""
     write('index.html',shell(home_meta['title'],home_meta['description'],main,articles,preview,'home'))
     for i,a in enumerate(articles):
-        body,toc=render(a['body'])
+        body,toc=render(a['body']); body=relink(body,'../../')
         words=len(a['body'].split('\n## References')[0].split()); minutes=max(1,round(words/220))
         R='../../'
         prev=f'<a class="sk-card sk-lift" href="{href(articles[i-1],R)}"><span>Previous chapter</span>{esc(articles[i-1]["title"])}</a>' if i else f'<a class="sk-card sk-lift" href="{R}"><span>Return to</span>The encyclopedia</a>'
@@ -160,7 +166,7 @@ def build(output, preview):
 <article class="article" data-slug="{a['slug']}" data-title="{esc(a['title'],quote=True)}" data-minutes="{minutes}"><header class="article-header"><div class="article-meta"><span class="sk-tag sk-tag--accent">Chapter {a['order']:02}</span><span>{minutes} min read</span></div><h1 class="sk-display">{esc(a['title'])}</h1><p class="article-deck">{esc(a['description'])}</p><div class="tags">{''.join('<span class="sk-tag">'+esc(t.replace('-',' '))+'</span>' for t in a['tags'])}</div>{'<p class="review-notice"><strong>Draft for reading.</strong> Editorial and reference review is still in progress.</p>' if a['status']!='ready' else ''}</header><details class="mobile-toc"><summary>In this chapter</summary>{toc}</details><div class="prose">{body}</div><nav class="chapter-pagination" aria-label="Adjacent chapters">{prev}{nxt}</nav></article>
 <aside class="reading-sidebar"><a class="back-link" href="{R}"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>All chapters</a><p class="sk-eyebrow">In this chapter</p>{toc}<div class="progress-card sk-card" hidden><span class="progress-ring"><span>0%</span></span><span class="progress-card__text"><strong>{minutes} min read</strong><small>We'll keep your place</small></span></div>{next_card}</aside></main>"""
         write(f'articles/{a["slug"]}/index.html',shell(a['title'],a['description'],main,articles,preview,a['slug'],'../../'))
-    meta,body=read_md(ROOT/'content/pages/about.md'); rendered,toc=render(body)
+    meta,body=read_md(ROOT/'content/pages/about.md'); rendered,toc=render(body); rendered=relink(rendered,'../')
     main=f'<main id="main" class="sk-container about-page"><span class="sk-eyebrow">The project</span><h1 class="sk-display">{esc(meta["title"])}</h1><div class="prose">{rendered}</div></main>'
     write('about/index.html',shell(meta['title'],meta['description'],main,articles,preview,'about','../'))
     for asset in ASSETS:
