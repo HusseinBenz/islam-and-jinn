@@ -20,7 +20,7 @@ def export(destination):
     from website.build import read_md
     files += [p for p in (ROOT/'content/articles').glob('*.md') if read_md(p)[0]['slug'] in eligible]
     files += list((ROOT/'content/pages').glob('*.md'))
-    files += [ROOT/'website'/p for p in ['build.py','site.css','requirements.txt']]
+    files += [ROOT/'website'/p for p in ['build.py','site.css','sakina.css','sakina.js','reading.js','requirements.txt']]
     allowed={'.openai/hosting.json','.gitignore','README.md'}|{p.relative_to(ROOT).as_posix() for p in files}
     for p in destination.rglob('*'):
         relative=p.relative_to(destination)

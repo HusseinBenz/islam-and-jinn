@@ -9,7 +9,9 @@ The user requested a primitive website while research continues on 11 September 
 - `content/articles/*.md`: canonical episode articles, unchanged by site rendering.
 - `content/pages/*.md`: canonical portal introduction and project/method page.
 - `website/build.py`: static generator with a reviewed-only default and explicit `--preview` draft mode.
-- `website/site.css`: responsive typography and layout; no client JavaScript, remote fonts, tracking, media or runtime service dependencies.
+- `website/site.css`: responsive reading layout in the shared Sakīna design of the Islamic Projects (`website/sakina.css`, copied unchanged from the other projects). Loads Google Fonts; no tracking, media or runtime service dependencies.
+- `website/sakina.js` and `website/reading.js`: optional progressive enhancement only — day/night theme remembered across the Islamic Projects, a reading-progress thread, the active section in the contents, and a local "pick up where you left off" marker. Every page reads fully without JavaScript.
+- All internal links and assets are relative, so the same output works at a domain root and under a project path such as `https://husseinbenz.github.io/islam-and-jinn-preview/`.
 - `dist/`: ignored generated site. Index, about page, fifteen article pages, stylesheet, robots file and build manifest.
 - Numbered footnotes appear in first-use order, including inside tables. Every occurrence has a return link. Native contents/collection disclosures work without JavaScript.
 
