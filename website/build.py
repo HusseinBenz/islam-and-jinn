@@ -54,7 +54,7 @@ FONTS='https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,40
 THEME_INIT="(function(){var t;try{t=localStorage.getItem('sakina-theme')}catch(e){}if(t!=='light'&&t!=='dark'){t=window.matchMedia&&matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'}document.documentElement.setAttribute('data-theme',t)})();"
 # Links are relative, so the site works at a domain root and under a project path (GitHub Pages).
 ASSETS=['sakina.css','site.css','sakina.js','reading.js']
-ASSET_V='sk3'  # bump when a stylesheet or script changes, so browsers fetch the new file
+ASSET_V = 'sk4'  # bump when a stylesheet or script changes, so browsers fetch the new file
 
 def relink(html_text, root):
     # Markdown may link chapters as /articles/<slug>/ — make them relative so they
@@ -87,7 +87,7 @@ def shell(title, description, main, articles, preview, current=None, root=''):
 <div class="masthead"><a class="sk-brand" href="{home}"><span class="sk-tile sk-tile--sm">{BOOK}</span><span class="sk-brand__text"><span class="sk-brand__name">Jinn in Islam</span><span class="sk-brand__sub" lang="ar">الجن في الإسلام</span></span></a>
 <nav class="site-nav" aria-label="Main navigation"><a class="sk-btn sk-btn--ghost sk-btn--sm" href="{home}"{' aria-current="page"' if current=='home' else ''}>Encyclopedia</a><a class="sk-btn sk-btn--ghost sk-btn--sm" href="{root}about/"{' aria-current="page"' if current=='about' else ''}>About &amp; sources</a></nav></div>
 <div class="sk-header__nav">{'<span class="sk-tag sk-tag--gold edition">Reading preview</span>' if preview else '<span class="sk-tag edition">English edition</span>'}
-<a class="sk-btn sk-btn--line sk-btn--sm sk-projects" href="https://husseinbenz.github.io/islamic-projects/" aria-label="All Islamic projects"><span class="sk-constellation" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="sk-hide-sm">All projects</span></a>
+<a class="sk-btn sk-btn--line sk-btn--sm sk-projects" href="https://husseinbenz.github.io/islamic-projects/" aria-label="All Islamic projects"><span class="sk-constellation" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></span><span class="sk-hide-sm">All projects</span></a>
 <button class="sk-icon-btn sk-theme-btn" type="button" data-sk-theme-toggle aria-label="Switch to night theme"><svg class="sk-i-moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg><svg class="sk-i-sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg></button></div>
 </div></header>
 {'' if current in ('home','about') else f'<details class="mobile-chapters sk-container"><summary>Browse the chapters</summary><nav aria-label="Chapters">{chapter_nav(articles,current,root)}</nav></details>'}
